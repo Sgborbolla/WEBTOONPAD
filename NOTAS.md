@@ -71,13 +71,14 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 
 | Cap | Novela (`capNN.txt`) | Guion (`capNN.md`) | Notas |
 |---|---|---|---|
-| 1 | ✅ + batalla aérea | ✅ + batalla (Bloque A2, S29A-E) | ❌ A corregir: portada usa "Ren Ishida"/"Yui Kurosawa" -> nombrar Ren Hayashi/Yui Nakamura |
+| 1 | ✅ + batalla aérea | ✅ + batalla (Bloque A2, S29A-E) | ✅ portada Ren Hayashi/Yui Nakamura, rifle con mira telescópica |
 | 2 | ✅ | ⚠️ guion corto (327 l) | ampliar a la par |
 | 3 | ✅ (imagen `cap03_calle`) | ⚠️ | ampliar |
 | 4 | ✅ | ⚠️ | ampliar |
 | 5 | ✅ (imagen `cap05_descarga`) | ⚠️ | ampliar |
-| 6 | ✅ prosa escrita (Día 3, catorce puertas) | ✅ guion 36 viñetas | ⚠️ ampliar cap06.md con lo extra de la novela (hombre del tejado, civiles contando, tanque con soldados dormidos, chincheta de Futaki) |
-| 7-10 | ❌ pendiente (nacerá del .md) | cap07 detallado (1444 l) / 8-10 resumen (~120 l) | ampliar 8-10 a la par |
+| 6 | ✅ prosa escrita (Día 3, catorce puertas) | ✅ guion 40 viñetas (ampliado: tejado, civiles contando, tanque, chincheta) | ✅ novela terminó con quemaduras sin explicar (semilla cap18) |
+| 7 | ✅ prosa escrita (`cap07.txt`, "Lo que quemó") | ✅ guion detallado (1444 l) | novela termina con quemaduras sin explicar (semilla cap18) ✅ |
+| 8-10 | ❌ pendiente | cap08-10 resumen (~120 l) | ampliar 8-10 a la par |
 | 11-200 | ❌ | ❌ | a la par |
 
 ## Pendientes / próximos pasos

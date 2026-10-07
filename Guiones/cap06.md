@@ -10,11 +10,11 @@
 |---|---|
 | Día | 3 |
 | Lugar | Base NSF, costa de Kanto. Y el cielo |
-| Qué pasa | Se abren todas las puertas del mundo. Quince minutos y se cierran |
-| Viñetas | 36 |
+| Qué pasa | Se abren todas las puertas del mundo. Catorce minutos y se cierran |
+| Viñetas | 40 |
 | Globos | 38 |
-| Cajas de narración | 12 |
-| Sonidos descritos | 18 |
+| Cajas de narración | 22 |
+| Sonidos descritos | 20 |
 | Personajes | Watanabe, Kurose, Futaki, los cuatro, omega |
 
 **Este es el cierre del piloto.** Los cuatro tienen su poder base, están quemados
@@ -23,7 +23,7 @@ hasta el cap 7.
 
 ---
 
-## Las 36 viñetas
+## Las 40 viñetas
 
 ### Bloque A — La madrugada (1-6)
 
@@ -56,44 +56,60 @@ vuelto un rectángulo negro.
 
 ---
 
-### Bloque B — La ciudad (7-13)
+### Bloque B — La ciudad (7-16)
 
 **7.** Plano general. La ciudad costera, de noche, vista desde un tejado. **Seis
 huecos** en seis edificios, a la vez, todos con luz de otro lado.
 > **Caja:** 05:01.
 
-**8.** Silueta. **Un kaiyu negro**, enorme, contra el cielo abierto. No se ve
+**8.** Plano entero. **Un hombre en el tejado**, detrás de la barandilla, viendo
+la calle de abajo. No grita. Cuenta con los dedos.
+> **Caja:** Los gritos se le gastaron en los otros dos días.
+> **Sonido:** Nada. El hombre, contando en silencio.
+
+**9.** Silueta. **Un kaiyu negro**, enorme, contra el cielo abierto. No se ve
 bien. Solo la silueta y el borde.
 > **Sonido:** Desde aquí no se oye nada.
 
-**9.** Plano entero. Una calle. **Doce** kaiyu, de todos los colores, caminando
+**10.** Plano entero. Una calle. **Doce** kaiyu, de todos los colores, caminando
 todos en la misma dirección. Nadie grita. Un civil en un portal, quieto.
 > **Caja:** Los civiles no huyen. Todavía no.
 
-**10.** Primer plano de un civil en un portal. Ve pasar la columna. No se mueve.
+**11.** Primer plano de un civil en un portal. Ve pasar la columna. No se mueve.
 Se detiene a mirar.
 > **Caja:** Un rojo se detiene a mirar a un niño todavía recuerda.
 > **Caja:** Este es humano. El que se detiene, aquí, es humano.
 
-**11.** Plano de bocas. Un kaiyu **amarillo**, de los de línea, pasa junto al
+**12.** Plano de bocas. Un kaiyu **amarillo**, de los de línea, pasa junto al
 portal. No mira. Sigue.
 > **Civil:** (susurro) No me ve.
 
-**12.** Viñeta de silencio. El portal. El civil, dentro. Afuera, la cola de la
+**13.** Viñeta de silencio. El portal. El civil, dentro. Afuera, la cola de la
 columna.
 
-**13.** Viñeta a sangre. El cielo abierto. **Más** rectángulos, más lejos, en la
+**14.** Plano entero. **Los civiles en los portales**, contando la columna con
+la boca. Unos siguen, otros dejan de contar. Todos llegan al mismo número y
+levantan la cabeza.
+> **Caja:** Los que contaban, dejaron de contar. Todos llegaron al mismo número.
+
+**15.** Viñeta a sangre. El cielo abierto. **Más** rectángulos, más lejos, en la
 horquilla. Se van abriendo.
+
+**16.** Plano entero. La acera del hospital. **Un tanque** vacío de la mañana
+del día uno, la torreta apuntando al cielo abierto. **Dos soldados dormidos** a
+la sombra de las cadenas, los fusiles colgados del cuello.
+> **Caja:** La columna tiene una dirección. La dirección es siempre el mar.
+> **Sonido:** El viento. Nada más.
 
 ---
 
-### Bloque C — La sala (14-19)
+### Bloque C — La sala (17-22)
 
-**14.** Plano general. La sala de reunion. Las mismas siete personas. La ventana
+**17.** Plano general. La sala de reunion. Las mismas siete personas. La ventana
 con el cielo negro detrás de ellos.
 > **Caja:** 05:04.
 
-**15.** Plano entero. **Watanabe**, de pie, sin mapaear el mapa. La carpeta de
+**18.** Plano entero. **Watanabe**, de pie, sin mapaear el mapa. La carpeta de
 Kurose, sobre la mesa, abierta.
 > **Watanabe:** ¿Cuántas.
 > **Oficial:** No se sabe. Hay comunicacion con nueve provincias. Ninguna con
@@ -101,109 +117,119 @@ Kurose, sobre la mesa, abierta.
 > **Watanabe:** Y Tokio.
 > **Oficial:** Tokio no responde, general.
 
-**16.** Primer plano de **Kurose**, de pie, la cara cambiada.
+**19.** Primer plano de **Kurose**, de pie, la cara cambiada.
 > **Kurose:** (primera vez que habla) Yo tengo el número.
 > **Watanabe:** ¿Que número?
 > **Kurose:** De las que se abren. (pausa) Todas a la vez.
 
-**17.** Plano de bocas. La sala, todos mirándolo. Kurose, temblando.
+**20.** Plano de bocas. La sala, todos mirándolo. Kurose, temblando.
 > **Kurose:** Catorce.
 > **Oficial:** (murmura) Catorce puertas.
 > **Watanabe:** Catorce puertas en el mundo, y el pais entero en silencio.
 
-**18.** Primer plano de Watanabe. Por primera vez, **no sabe qué decir.**
+**21.** Primer plano de Watanabe. Por primera vez, **no sabe qué decir.**
 > **Watanabe:** (nada)
 > **Caja:** El general no tiene una orden para esto.
 
-**19.** Viñeta de silencio. La sala. Nadie se sienta. Nadie habla. El mapa, con
+**22.** Viñeta de silencio. La sala. Nadie se sienta. Nadie habla. El mapa, con
 catorce puntos, todos encendidos.
 
 ---
 
-### Bloque D — Omega (20-26)
+### Bloque D — Omega (23-29)
 
-**20.** Plano general. La calle, otra calle, cinco minutos después. Un **hueco**
+**23.** Plano general. La calle, otra calle, cinco minutos después. Un **hueco**
 grande en una guardería. Y, saliendo de él, **no** un kaiyu.
 > **Caja:** 05:09. La guardería de la calle de Rika.
 
-**21.** Silueta. Una **chica joven**, 19 años, yukata gris, pelo rojo. Sale del
+**24.** Silueta. Una **chica joven**, 19 años, yukata gris, pelo rojo. Sale del
 hueco andando. Los otros cuatro kaiyu del fondo siguen andando. Ella se detiene.
 > **Sonido:** Nada. Los otros no hacen ruido. Ella tampoco.
 
-**22.** Plano entero. La chica, sola en la calle. Mira un coche volcado. Se detiene
+**25.** Plano entero. La chica, sola en la calle. Mira un coche volcado. Se detiene
 a mirarlo. Vuelve a mirar al frente.
 > **Caja:** Se detiene a mirar cosas. Los kaiyu no hacen eso.
 
-**23.** Primer plano de **Rika**, 15, haori color hueso, corriendo por la calle.
+**26.** Primer plano de **Rika**, 15, haori color hueso, corriendo por la calle.
 Ve a la chica. Se detiene en seco.
 > **Rika:** (susurro) Mio.
 
-**24.** Plano de bocas. Rika, a tres pasos de ella. La chica, de espaldas.
+**27.** Plano de bocas. Rika, a tres pasos de ella. La chica, de espaldas.
 > **Rika:** Mio. Soy yo.
 > **Mio:** (no se gira) Rika.
 
-**25.** Primer plano de Mio. **No se gira.** La cara de Rika, detrás, rompiéndose.
+**28.** Primer plano de Mio. **No se gira.** La cara de Rika, detrás, rompiéndose.
 > **Caja:** Rika tiene quince años. Su hermana tiene diecinueve.
 > **Caja:** Debería ser mayor.
 
-**26.** Viñeta a sangre. Mio, de espaldas, caminando hacia el hueco. Rika, detrás,
+**29.** Viñeta a sangre. Mio, de espaldas, caminando hacia el hueco. Rika, detrás,
 sin moverse. La brasa del cap 5 no aparece aquí. Aquí no hay poder todavía.
 
 ---
 
-### Bloque E — Los cuatro, juntos (27-31)
+### Bloque E — Los cuatro, juntos (30-34)
 
-**27.** Plano general. La misma calle. **Goro**, sin guante, escudo en la mano.
+**30.** Plano general. La misma calle. **Goro**, sin guante, escudo en la mano.
 **Ren**, amarillo. **Yui**, gris azulado. Llegan por la esquina. Ven a Rika sola.
 > **Caja:** 05:12.
 
-**28.** Plano de bocas. Yui, ver a Rika, ver a Mio.
+**31.** Plano de bocas. Yui, ver a Rika, ver a Mio.
 > **Yui:** Rika. ¿Es ella?
 > **Rika:** (no contesta)
 > **Yui:** Rika. ¿Es tu hermana?
 > **Rika:** Si.
 
-**29.** Primer plano de Yui. La cara. No cambia. Se levanta la mano, despacio, y
+**32.** Primer plano de Yui. La cara. No cambia. Se levanta la mano, despacio, y
 señala el hueco.
 > **Yui:** Ese rectángulo negro. ¿Lo ves?
 > **Rika:** Si.
 > **Yui:** Es una puerta.
 > **Rika:** Lo se.
 
-**30.** Plano entero. Goro, detrás. Mira el hueco. Mira el guante que ya no
+**33.** Plano entero. Goro, detrás. Mira el hueco. Mira el guante que ya no
 tiene. Mira a Rika.
 > **Goro:** Yo crucé una de esas.
 > **Rika:** (sin volverse) No. Tu saliste de ella.
 
-**31.** Viñeta de silencio. Los cuatro, en la calle, en fila, frente al hueco.
+**34.** Viñeta de silencio. Los cuatro, en la calle, en fila, frente al hueco.
 Ninguno se acerca. Ninguno se va.
 
 ---
 
-### Bloque F — El cielo se cierra (32-36)
+### Bloque F — El cielo se cierra (35-39)
 
-**32.** Viñeta a sangre. El cielo. Empieza a **cerrarse**, como una tapa. El negro
+**35.** Viñeta a sangre. El cielo. Empieza a **cerrarse**, como una tapa. El negro
 baja desde los bordes. Las catorce puertas empiezan a reducirse.
 > **Caja:** 05:13.
 
-**33.** Plano general. La calle, de nuevo. Los huecos se achican. Los kaiyu, en
+**36.** Plano general. La calle, de nuevo. Los huecos se achican. Los kaiyu, en
 la calle, **se detienen**. Todos a la vez. Como una orden.
 > **Caja:** Se detienen. Todos. A la vez.
 
-**34.** Primer plano de **Ren**. Mirando. Las manos quietas por segunda vez en el
+**37.** Primer plano de **Ren**. Mirando. Las manos quietas por segunda vez en el
 día.
 > **Ren:** Se van.
 > **Yui:** ¿Que?
 > **Ren:** Se van. (pausa) Todos se van.
 
-**35.** Plano entero. El hueco de la guardería, ya pequeño. **Mio** está dentro,
+**38.** Plano entero. El hueco de la guardería, ya pequeño. **Mio** está dentro,
 de espaldas, en el borde. **No sale.** Rika, en la calle, sin poder moverse: su
 cuerpo no la deja, y no se explica por qué hasta el cap 7.
 > **Caja:** Rika no puede cruzar. Todavía no.
 
-**36.** Viñeta a sangre, la última. El cielo, cerrándose. **Cuatro minutos.** El
+**39.** Viñeta a sangre, la última. El cielo, cerrándose. **Cuatro minutos.** El
 hueco de la guardería, ya una línea. Rika, una mano en el aire. Los otros tres,
 quietos detrás de ella.
+
+---
+
+### Bloque G — La chincheta (40)
+
+**40.** Plano entero. La sala de radio, un kilómetro de allí. **Futaki**, de
+vuelta al cuadro, le pone al octavo punto una **chincheta de más andar, sin
+número**, con un papelito en blanco.
+> **Caja:** Esa mañana, un kilómetro de allí.
+> **Caja:** Con la letra pequeña de los auxiliares: no está en el plano.
 
 ---
 
@@ -215,35 +241,35 @@ quietos detrás de ella.
 |---|---|---|
 | 3 | Voz | Ninguna estructura inferior en la provincia de Kanto. Repetimos. |
 | 3 | Futaki | Ni en Tokio. |
-| 11 | Civil | No me ve. |
-| 15 | Watanabe | ¿Cuántas. |
-| 15 | Oficial | No se sabe. Hay comunicacion con nueve provincias. Ninguna con claridad. |
-| 15 | Watanabe | Y Tokio. |
-| 15 | Oficial | Tokio no responde, general. |
-| 16 | Kurose | Yo tengo el número. |
-| 16 | Watanabe | ¿Que número? |
-| 16 | Kurose | De las que se abren. Todas a la vez. |
-| 17 | Kurose | Catorce. |
-| 17 | Oficial | Catorce puertas. |
-| 17 | Watanabe | Catorce puertas en el mundo, y el pais entero en silencio. |
-| 23 | Rika | Mio. |
-| 24 | Rika | Mio. Soy yo. |
-| 24 | Mio | Rika. |
-| 28 | Yui | Rika. ¿Es ella? |
-| 28 | Rika | (no contesta) |
-| 28 | Yui | Rika. ¿Es tu hermana? |
-| 28 | Rika | Si. |
-| 29 | Yui | Ese rectángulo negro. ¿Lo ves? |
-| 29 | Rika | Si. |
-| 29 | Yui | Es una puerta. |
-| 29 | Rika | Lo se. |
-| 30 | Goro | Yo crucé una de esas. |
-| 30 | Rika | No. Tu saliste de ella. |
-| 34 | Ren | Se van. |
-| 34 | Yui | ¿Que? |
-| 34 | Ren | Se van. Todos se van. |
+| 12 | Civil | No me ve. |
+| 18 | Watanabe | ¿Cuántas. |
+| 18 | Oficial | No se sabe. Hay comunicacion con nueve provincias. Ninguna con claridad. |
+| 18 | Watanabe | Y Tokio. |
+| 18 | Oficial | Tokio no responde, general. |
+| 19 | Kurose | Yo tengo el número. |
+| 19 | Watanabe | ¿Que número? |
+| 19 | Kurose | De las que se abren. Todas a la vez. |
+| 20 | Kurose | Catorce. |
+| 20 | Oficial | Catorce puertas. |
+| 20 | Watanabe | Catorce puertas en el mundo, y el pais entero en silencio. |
+| 26 | Rika | Mio. |
+| 27 | Rika | Mio. Soy yo. |
+| 27 | Mio | Rika. |
+| 31 | Yui | Rika. ¿Es ella? |
+| 31 | Rika | (no contesta) |
+| 31 | Yui | Rika. ¿Es tu hermana? |
+| 31 | Rika | Si. |
+| 32 | Yui | Ese rectángulo negro. ¿Lo ves? |
+| 32 | Rika | Si. |
+| 32 | Yui | Es una puerta. |
+| 32 | Rika | Lo se. |
+| 33 | Goro | Yo crucé una de esas. |
+| 33 | Rika | No. Tu saliste de ella. |
+| 37 | Ren | Se van. |
+| 37 | Yui | ¿Que? |
+| 37 | Ren | Se van. Todos se van. |
 
-### Cajas de narración (12)
+### Cajas de narración (22)
 
 | Viñeta | Texto |
 |---|---|
@@ -252,41 +278,48 @@ quietos detrás de ella.
 | 2 | En el mundo hay más. |
 | 6 | 04:58. |
 | 7 | 05:01. |
-| 9 | Los civiles no huyen. Todavía no. |
-| 10 | Un rojo se detiene a mirar a un niño todavía recuerda. |
-| 10 | Este es humano. El que se detiene, aquí, es humano. |
-| 14 | 05:04. |
-| 18 | El general no tiene una orden para esto. |
-| 20 | 05:09. La guardería de la calle de Rika. |
-| 22 | Se detiene a mirar cosas. Los kaiyu no hacen eso. |
-| 25 | Rika tiene quince años. Su hermana tiene diecinueve. |
-| 25 | Debería ser mayor. |
-| 27 | 05:12. |
-| 32 | 05:13. |
-| 35 | Rika no puede cruzar. Todavía no. |
+| 8 | Los gritos se le gastaron en los otros dos días. |
+| 10 | Los civiles no huyen. Todavía no. |
+| 11 | Un rojo se detiene a mirar a un niño todavía recuerda. |
+| 11 | Este es humano. El que se detiene, aquí, es humano. |
+| 14 | Los que contaban, dejaron de contar. Todos llegaron al mismo número. |
+| 16 | La columna tiene una dirección. La dirección es siempre el mar. |
+| 17 | 05:04. |
+| 21 | El general no tiene una orden para esto. |
+| 23 | 05:09. La guardería de la calle de Rika. |
+| 25 | Se detiene a mirar cosas. Los kaiyu no hacen eso. |
+| 28 | Rika tiene quince años. Su hermana tiene diecinueve. |
+| 28 | Debería ser mayor. |
+| 30 | 05:12. |
+| 35 | 05:13. |
+| 38 | Rika no puede cruzar. Todavía no. |
+| 40 | Esa mañana, un kilómetro de allí. |
+| 40 | Con la letra pequeña de los auxiliares: no está en el plano. |
 
-### Sonidos descritos (18)
+### Sonidos descritos (20)
 
 | Viñeta | |
 |---|---|
 | 1 | El mar, a lo lejos |
 | 4 | Un tono por cada punto que se apaga |
 | 6 | El cielo, sin sonido, que es lo raro |
-| 8 | Nada. Desde aquí no se oye nada |
-| 9 | Pasos, todos a la vez, en la calle |
-| 12 | Un motor, en alguna parte, que se para |
-| 13 | Un tono, distinto, para cada punto nuevo |
-| 15 | La radio, crepitando |
-| 19 | El zumbido de la sala, que ya no es nada |
-| 21 | Nada. Los otros no hacen ruido. Ella tampoco |
-| 24 | La respiracion de Rika, muy fuerte |
-| 26 | El hueco. Un zumbido grave |
-| 29 | El rifle de Yui, que roza el chaleco |
-| 31 | Nada. Los cuatro, quietos |
-| 32 | El cielo cerrándose. Un golpe grave, largo |
-| 33 | Todos los kaiyu, quietos, a la vez |
-| 35 | Un tono, bajando |
-| 36 | El viento, cuando vuelve |
+| 8 | Nada. El hombre, contando en silencio |
+| 9 | Nada. Desde aquí no se oye nada |
+| 10 | Pasos, todos a la vez, en la calle |
+| 13 | Un motor, en alguna parte, que se para |
+| 15 | Un tono, distinto, para cada punto nuevo |
+| 16 | El viento. Nada más |
+| 18 | La radio, crepitando |
+| 22 | El zumbido de la sala, que ya no es nada |
+| 24 | Nada. Los otros no hacen ruido. Ella tampoco |
+| 27 | La respiracion de Rika, muy fuerte |
+| 29 | El hueco. Un zumbido grave |
+| 32 | El rifle de Yui, que roza el chaleco |
+| 34 | Nada. Los cuatro, quietos |
+| 35 | El cielo cerrándose. Un golpe grave, largo |
+| 36 | Todos los kaiyu, quietos, a la vez |
+| 38 | Un tono, bajando |
+| 39 | El viento, cuando vuelve |
 
 ---
 
@@ -303,6 +336,9 @@ quietos detrás de ella.
 5. **Los cuatro, en fila, sin hacer nada.** Todavía no tienen técnica. Solo
   power. Es el final del piloto
 6. **El cielo se cierra.** Nadie sabe por qué. El cap 7 explicará
+7. **El octavo punto.** La tabla de Futaki dice siete; se apagan siete y se
+   enciende un octavo que no está en el plano. La chincheta final lo deja
+   marcado para siempre
 
 ---
 
@@ -312,8 +348,8 @@ quietos detrás de ella.
 |---|---|
 | El cielo abierto se ve como un rectángulo negro enorme | Regenerar |
 | Los 14 huecos no se ven todos en la misma viñeta salvo la general | Ajustar |
-| Watanabe no habla en la viñeta 18 | Regenerar |
-| Kurose habla por primera vez en la viñeta 16 | Regenerar |
+| Watanabe no habla en la viñeta 21 | Regenerar |
+| Kurose habla por primera vez en la viñeta 19 | Regenerar |
 | Mio es reconocible como hermana de Rika: mismo pelo rojo, mismo yukata | Regenerar |
 | Mio **no** se gira en ninguna viñeta | Regenerar |
 | Rika no cruza el hueco en ninguna viñeta | Regenerar |
@@ -321,9 +357,10 @@ quietos detrás de ella.
 | Goro no tiene guante | Regenerar |
 | Ningún kaiyu se detiene a mirar a un niño | Regenerar |
 | El civil del portal es el único humano que se detiene | Regenerar |
-| Los kaiyu se detienen a la vez en la viñeta 33 | Regenerar |
+| Los kaiyu se detienen a la vez en la viñeta 36 | Regenerar |
 | No hay omega con classificacion en pantalla | Regenerar |
 | El cap cierra con Rika sola con la mano en el aire | Regenerar |
+| La chincheta del octavo punto solo aparece al final, viñeta 40 | Regenerar |
 
 ---
 
@@ -331,7 +368,7 @@ quietos detrás de ella.
 
 Este es el capítulo que más riesgo tiene: **catorce puertas en el mundo** puede
 confundir a Stitch y llenar la página de rectangulos negros. Si lo hace, hay que
-dividirlo en **cap 6A (el cielo, 1-19)** y **cap 6B (omega, 20-36)**, y ajustar
+dividirlo en **cap 6A (el cielo, 1-22)** y **cap 6B (omega, 23-40)**, y ajustar
 los números de la ficha.
 
 Es el único capítulo del piloto donde el lector sabe lo que la página no:
