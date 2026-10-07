@@ -1,0 +1,328 @@
+# CAP 02 — Día 1, tarde. La primera puerta
+
+**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+
+---
+
+## Ficha rápida
+
+| | |
+|---|---|
+| Día | 1, tarde |
+| Lugar | Ward, Sector 6, bloque de trabajadores |
+| Qué pasa | Se abre una puerta. Sale el primer kaiyu |
+| Viñetas | 36 |
+| Globos | 47 |
+| Cajas de narración | 12 |
+| Sonidos descritos | 9 |
+| Personajes | Goro, Kosuke, Nomura, Kiryu |
+
+**Lo que cambia respecto al cap 1:** el mundo sigue igual y se rompe en una sola
+calle. Los civilianos no saben qué es un kaiyu. Ni Goro.
+
+---
+
+## Las 36 viñetas
+
+### Bloque A — El turno de la tarde (1-7)
+
+**1.** Plano general. El bloque de trabajadores del Ward, un edificio de
+concreto de cuatro pisos, ventanas con malla, un pasillo exterior con
+iluminación de tubo. Sol de la tarde, bajo y naranja sucio.
+> **Caja:** Sector 6. Turno de tarde.
+
+**2.** Plano entero. Goro, 32, armadura reensamblada, casco sin visor, el escudo
+atado a la espalda. Se apoya contra el marco de una puerta metálica, la puerta
+de servicio del Sector 6. Cruzado de brazos.
+> **Goro:** Cuatro y veinte. Cuatro y media abre el otro.
+> **Goro:** Seis y ahi se van todos. Menudo turno.
+
+**3.** Plano de bocas. Goro, sin moverse. Del otro lado, se oye a alguien
+barriendo.
+> **Goro:** Oye. ¿Esta el de arriba?
+> **Voz:** Todavia no, Arashi-san.
+
+**4.** Plano medio. Pasillo. Un hombre joven se acerca con un cuaderno:
+Kiryu, 30, mono de trabajo, cinta métrica colgando.
+> **Kiryu:** Arashi-san. La puerta del cuatro hace un ruido raro.
+> **Goro:** Raro como.
+> **Kiryu:** Como un... soplido. Cada certain minutos.
+> **Goro:** Cada cuanto.
+> **Kiryu:** No se. Dos, tres minutos.
+
+**5.** Primer plano de Goro. Por primera vez, mira a alguien.
+> **Goro:** Hay un parte. Si algo no encaja, se escribe.
+> **Kiryu:** Si. Claro.
+> **Kiryu:** ¿Y si encaja?
+> **Goro:** Entonces no se escribe. No se molesta.
+
+**6.** Plano de bocas. Kiryu, un poco rígido. Anotando.
+> **Kiryu:** Lo escribo entonces.
+> **Goro:** Bien.
+> **Kiryu:** ¿Y usted lo ha visto alguna vez, Arashi-san? ¿Un soplido?
+> **Goro:** No.
+
+**7.** Viñeta de silencio. La puerta metálica del Sector 6, cerrada. Una mancha
+oscura en la base, del ancho de una mano.
+> **Sonido:** El zumbido electrico, muy bajo. Cada dos minutos, otra vez.
+
+---
+
+### Bloque B — El vecino (8-14)
+
+**8.** Plano general. Interior del pasillo de servicio. Puertas numeradas, una
+bombilla, un extintor. Kosuke, 63, con el delantal, sacando la basura.
+> **Kosuke:** Llegas tarde.
+> **Goro:** Llego a mi hora.
+> **Kosuke:** Todos llegas a tu hora.
+> **Goro:** ¿Eso es un elogio?
+
+**9.** Plano medio. Kosuke deja una bolsa de basura en el umbral.
+> **Kosuke:** Bajar eso al contenedor.
+> **Goro:** Esta pesado.
+> **Kosuke:** Por eso lo bajamos.
+> **Kosuke:** Aparte, hay un bicho raro en el dos.
+> **Goro:** ¿Un bicho?
+> **Kosuke:** Grande. Amarillo. No es perro.
+
+**10.** Plano de bocas. Goro mira la bolsa. Luego mira a Kosuke.
+> **Goro:** Subo yo.
+> **Kosuke:** Y yo hago de comer.
+> **Goro:** Grande, ¿eh?
+> **Kosuke:** Grande grande. En el pasillo. O no estaba.
+> **Goro:** (pausa) ¿En el pasillo?
+> **Kosuke:** Eso he dicho.
+
+**11.** Primer plano de Kosuke. Sonríe. Es un gesto de rutina.
+> **Kosuke:** Y guiso bien hoy.
+> **Goro:** Guisas bien todos los días.
+> **Kosuke:** Guiso bien todos los días y nunca te lo comes.
+
+**12.** Plano entero. Goro baja las escaleras con la bolsa. El sello de la puerta
+del Sector 6 se ve arriba, en la pared.
+> **Caja:** El Sector 6 se sella a las seis.
+> **Caja:** A las cuatro y veinte, abria.
+
+**13.** Plano detalle. La bolsa en el contenedor. El sol, más bajo. Todo igual.
+
+**14.** Viñeta a sangre. El cielo naranja sobre los edificios de hormigón. Nada
+pasa.
+
+---
+
+### Bloque C — El hueco en la pared (15-21)
+
+**15.** Plano general. Pasillo del primer piso. La puerta del Sector 6, al fondo.
+Una franja de luz negra sale por debajo.
+> **Caja:** 17:20. Turno de Goro Arashi.
+
+**16.** Plano detalle. El suelo del pasillo. La franja negra, quieta.
+
+**17.** Plano medio. Goro, de pie en el pasillo, viendo la franja. No se acerca.
+> **Goro:** (nada)
+
+**18.** Primer plano de Goro. La cara quieta. Los ojos, sí, move.
+> **Caja:** El no se llamo a si mismo. Nadie lo llamo.
+> **Caja:** Koryo habia escrito el parte.
+
+**19.** Plano de bocas. Kiryu, detrás de Goro, con el cuaderno abierto.
+> **Kiryu:** Yo no veo nada.
+> **Goro:** Espera.
+> **Kiryu:** Arashi-san, no se ve nada.
+
+**20.** Plano entero. Kiryu, retrocediendo. Goro, quieto.
+> **Kiryu:** Bueno. Voy a... voy a avisar.
+> **Goro:** Corre.
+
+**21.** Viñeta a sangre. Goro, solo, de espaldas, la puerta al fondo.
+
+---
+
+### Bloque D — La apertura (22-29)
+
+**22.** Primer plano de Goro. Detrás de él, la pared. Un rectángulo **abierto**: no
+una puerta girada, un hueco plano, sin marco, sin bisagras. Negro dentro.
+> **Caja:** 17:24. El Sector 6.
+
+**23.** Silueta. Goro contra el hueco. Es el único contorno humano recortado
+contra el negro.
+> **Caja:** Una puerta no se abre asi.
+> **Caja:** Se coloca.
+
+**24.** Plano medio. Goro retrocede un paso. El hueco no cambia.
+> **Goro:** (murmura) Cosas raras.
+
+**25.** Contrapicado. Desde abajo: el hueco, enorme, y el techo del pasillo.
+
+**26.** Plano entero. Del hueco sale un brazo. Digitos largos, más finos que los
+de Goro. Amarillo palido en el codo.
+> **Sonido:** Un soplido largo.
+
+**27.** Plano de bocas. Goro.
+> **Goro:** Hey. (pausa) Hey, ¿estas bien?
+
+**28.** Plano general. Un kaiyu sale del hueco: **amarillo**, el tamaño de un
+caballo, hombro grande y cabeza hundida. El siluete de un **Embestidor**.
+> **Caja:** Categoría verde. Exploracion.
+> **Caja:** El primero.
+
+**29.** Plano de bocas. Goro, a dos pasos.
+> **Goro:** No vengas. Te digo que no vengas.
+> **Sonido:** La brasa del guante, un latido antes de la carga.
+
+---
+
+### Bloque E — La carga (30-33)
+
+**30.** Viñeta partida. Izquierda: el Embestidor, hombro arriba, bajando.
+Derecha: Goro, de costado, el brazo atrás.
+> **Caja:** Los pies se mueven antes que el cuerpo.
+
+**31.** Viñeta a sangre, horizontal. Una franjade **brasa naranja** cruza el
+pasillo. El suelo, la pared, todo naranja al rojo.
+> **Sonido:** El guante. Un golpe seco.
+
+**32.** Plano general. El Embestidor, detenido contra la pared del fondo. El
+hueco, detrás. La mancha negra de la base, ahora partida en dos.
+> **Caja:** 17:24. Tres segundos.
+
+**33.** Viñeta de silencio. Goro, de pie, mirando su guante. La brasa se
+apaga. Un pelo de quemadura sube.
+
+---
+
+### Bloque F — Kosuke vuelve (34-36)
+
+**34.** Plano entero. El pasillo desde arriba. Al fondo, el hueco negro. En
+primer plano, los pies de Goro, y detrás de él, el sonido de una
+puerta de cocina.
+> **Kosuke:** Arashi. ¿Comes ahora o...
+
+**35.** Primer plano de Kosuke en la puerta del pasillo. Mira el pasillo. Mira a
+Goro. La bolsa de basura, todavía en el suelo.
+> **Kosuke:** ¿Que paso ahi.
+> **Goro:** Nada.
+
+**36.** Viñeta a sangre, la última. El pasillo, el hueco al fondo, un hombre
+grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
+
+---
+
+## Los textos
+
+### Globos (47)
+
+| Viñeta | Quien | Dice |
+|---|---|---|
+| 2 | Goro | Cuatro y veinte. Cuatro y media abre el otro. |
+| 2 | Goro | Seis y ahi se van todos. Menudo turno. |
+| 3 | Goro | Oye. ¿Esta el de arriba? |
+| 3 | Voz | Todavia no, Arashi-san. |
+| 4 | Kiryu | Arashi-san. La puerta del cuatro hace un ruido raro. |
+| 4 | Goro | Raro como. |
+| 4 | Kiryu | Como un... soplido. Cada cierto minutos. |
+| 4 | Goro | Cada cuanto. |
+| 4 | Kiryu | No se. Dos, tres minutos. |
+| 5 | Goro | Hay un parte. Si algo no encaja, se escribe. |
+| 5 | Kiryu | Si. Claro. |
+| 5 | Kiryu | ¿Y si encaja? |
+| 5 | Goro | Entonces no se escribe. No se molesta. |
+| 6 | Kiryu | Lo escribo entonces. |
+| 6 | Goro | Bien. |
+| 6 | Kiryu | ¿Y usted lo ha visto alguna vez, Arashi-san? ¿Un soplido? |
+| 6 | Goro | No. |
+| 8 | Kosuke | Llegas tarde. |
+| 8 | Goro | Llego a mi hora. |
+| 8 | Kosuke | Todos llegas a tu hora. |
+| 8 | Goro | ¿Eso es un elogio? |
+| 9 | Kosuke | Bajar eso al contenedor. |
+| 9 | Goro | Esta pesado. |
+| 9 | Kosuke | Por eso lo bajamos. |
+| 9 | Kosuke | Aparte, hay un bicho raro en el dos. |
+| 9 | Goro | ¿Un bicho? |
+| 9 | Kosuke | Grande. Amarillo. No es perro. |
+| 10 | Goro | Subo yo. |
+| 10 | Kosuke | Y yo hago de comer. |
+| 10 | Goro | Grande, ¿eh? |
+| 10 | Kosuke | Grande grande. En el pasillo. O no estaba. |
+| 10 | Goro | ¿En el pasillo? |
+| 10 | Kosuke | Eso he dicho. |
+| 11 | Kosuke | Y guiso bien hoy. |
+| 11 | Goro | Guisas bien todos los días. |
+| 11 | Kosuke | Guiso bien todos los días y nunca te lo comes. |
+| 19 | Kiryu | Yo no veo nada. |
+| 19 | Goro | Espera. |
+| 19 | Kiryu | Arashi-san, no se ve nada. |
+| 20 | Kiryu | Bueno. Voy a... voy a avisar. |
+| 20 | Goro | Corre. |
+| 27 | Goro | Hey. |
+| 27 | Goro | Hey, ¿estas bien? |
+| 29 | Goro | No vengas. Te digo que no vengas. |
+| 34 | Kosuke | Arashi. ¿Comes ahora o... |
+| 35 | Kosuke | ¿Que paso ahi. |
+| 35 | Goro | Nada. |
+
+### Cajas de narración (12)
+
+| Viñeta | Texto |
+|---|---|
+| 1 | Sector 6. Turno de tarde. |
+| 12 | El Sector 6 se sella a las seis. |
+| 12 | A las cuatro y veinte, abria. |
+| 15 | 17:20. Turno de Goro Arashi. |
+| 18 | El no se llamo a si mismo. Nadie lo llamo. |
+| 18 | Kiryu habia escrito el parte. |
+| 22 | 17:24. El Sector 6. |
+| 23 | Una puerta no se abre asi. |
+| 23 | Se coloca. |
+| 28 | Categoría verde. Exploracion. |
+| 28 | El primero. |
+| 32 | 17:24. Tres segundos. |
+
+### Sonidos descritos (9)
+
+| Viñeta | |
+|---|---|
+| 7 | Un zumbido electrico muy bajo |
+| 14 | Un camion lejano, dos calles |
+| 16 | Un soplido que se repite cada pocos segundos |
+| 20 |unos pasos que se alejan corriendo |
+| 26 | El soplido, ahora cerca |
+| 29 | Un gruñido sin garganta |
+| 31 | El guante: un golpe seco |
+| 32 | Polvo cayendo del techo |
+| 36 | Una radio de cocina, todavia encendida |
+
+---
+
+## Lo que este capítulo tiene que lograr
+
+1. **Abre el género.** Un rectángulo negro en una pared. No hay explicación
+2. Goro intenta ser humano con un monstruo: le pregunta si está bien
+3. **El primer poder se ve por accidente**, no porque alguien lo eligiera
+4. **El vecino vuelve y no pasa nada todavia.** Eso guarda la matanza para el cap 3
+5. Kiryu **dice que no ve nada** y se va a avisar. Va a morir en el cap 3
+
+---
+
+## Checklist para validar
+
+| Se comprueba | Si falla |
+|---|---|
+| El hueco se ve como un rectángulo negro, sin marco | Regenerar |
+| El kaiyu es amarillo, tamaño caballo, hombro grande | Regenerar |
+| El kaiyu no habla y no tiene cara humana | Regenerar |
+| Goro usa el guante por reflejo, no con técnica | Regenerar |
+| Kiryu no sale del pasillo en ninguna viñeta | Regenerar |
+| El brillo naranja sale del guante, no del kaiyu | Regenerar |
+| No hay ventanas de sistema ni números | Regenerar |
+| Nadie grita todavia | Regenerar |
+| Kosuke no ve el kaiyu en ninguna viñeta | Regenerar |
+
+---
+
+## Nota de produccion
+
+Este es el capítulo que prueba si Stitch mantiene dos cosas distintas en la
+misma página: **un monstruo** y **una conversacion domestica**. Si las mezcla,
+hay que bajar a 30 viñetas por capítulo y subir el número de capítulos.

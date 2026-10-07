@@ -1,0 +1,122 @@
+# CAPÍTULO 10 — "La jauría"
+
+> **Retícula:** 800×1280. **Espec:** 60–74 pantallas.
+> **Fecha ficción:** noche (tras cap09), lunes 15 mayo 2017. Presente 2026.
+> **Total:** 70 pantallas · 120 viñetas · 89.600 px
+> **Estructura:** 3 actos (gancho 1-10, desarrollo 11-55, cierre 56-70)
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Acción, terror urbano |
+| Fondo | Gris oscuro `#2a2a2e`. Sin HUD. |
+| Personajes con nombre | Goro (protagonista), Ren Hayashi — El Relámpago, Yui Nakamura — La Distancia, Rika Tsukimi |
+| Viñetas | 120 |
+| Pantallas | 70 |
+| Cajas narración | 4 |
+| Diálogo | 9 |
+| SFX | español dibujados |
+| Transiciones | `CORTE A:` / `FUNDIDO A:` |
+
+> **Segundo gancho:** pantalla 21 (30,0%) — marcado explícitamente.
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+> **Corrección canon:** turno nocturno (no tarde).
+
+---
+
+## 1. MAPA DE PANTALLAS
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S01 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Apertura. Goro solo, Sector 6, turno nocturno. |
+| S02 | T3R | 2 | 570/570 | 40/60/40 | americano/medio | CORTE A: calle | Silencio. |
+| S03 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/detalle | CORTE A: calle | Escudo atado espalda, casco obra, sin pelo. |
+| S04 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Espera. |
+| S05 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Calle vacía. |
+| S06 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/detalle | CORTE A: calle | Respiración. |
+| S07 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Presencia. |
+| S08 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Se tensan. |
+| S09 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | Aparecen **5 amarillos**. |
+| S10 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Jauría. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S11 | T3R | 2 | 570/570 | 40/60/40 | medio/contrapicado | CORTE A: calle | Necesita escudo. |
+| S12 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primer plano | CORTE A: calle | Carga larga (3 veces). Coste. |
+| S13 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Bloquea. |
+| S14 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Impacto. |
+| S15 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Retrocede. |
+| S16 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Se abre espacio. |
+| S17 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Aguanta. |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | Fatiga. |
+| S19 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No retrocede mucho. |
+| S20 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: calle | **> SEGUNDO GANCHO (viñeta 2, 30,0%)** — brasa guante empieza a salir sin pedirla. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S21 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primerísimo/medio | CORTE A: calle | Descubre. |
+| S22 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Pausa. |
+| S23 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Usa nuevo ritmo. |
+| S24 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | Aprovecha huecos. |
+| S25 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Divide. |
+| S26 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Coste en brazos. |
+| S27 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Respira corto. |
+| S28 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S29 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Aguanta. |
+| S30 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | No se rinde. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S31 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Cambia ángulo. |
+| S32 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Escudo cubre. |
+| S33 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primerísimo | CORTE A: calle | Brasa estabiliza. |
+| S34 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Tres caen. |
+| S35 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Dos restantes. |
+| S36 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primer plano | CORTE A: calle | Cuidado. |
+| S37 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle rota. |
+| S38 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Pausa. |
+| S39 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Juntos en mente. |
+| S40 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Aguanta. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S41 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Últimos dos. |
+| S42 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | Gasto. |
+| S43 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S44 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: calle | Escudo desliza. |
+| S45 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/primerísimo | CORTE A: calle | Se sostiene. |
+| S46 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Remata. |
+| S47 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Calle en silencio. |
+| S48 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: calle | Jadea. |
+| S49 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S50 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Alguien filmó final. Móvil, mal, lejos. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S51 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primer plano/medio | CORTE A: calle | Lo ve de reojo. |
+| S52 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No reacciona. |
+| S53 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Se agacha, respira. |
+| S54 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: calle | Guante quema leve. |
+| S55 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S56 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Llegan los otros. |
+| S57 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Ren, Yui, Rika corren. |
+| S58 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: calle | **Viñeta de silencio T5**. |
+| S59 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No hablan. |
+| S60 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Se juntan. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S61 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primer plano | CORTE A: calle | Mirada. |
+| S62 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle vacía. |
+| S63 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Goro asiente. |
+| S64 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Escudo descansa. |
+| S65 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Silencio. |
+| S66 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Se alejan juntos. |
+| S67 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Silencio cómodo. |
+| S68 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle vacía. |
+| S69 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Eco. |
+| S70 | T6 | 0 | — | — | silencio | FUNDIDO A: negro | Cierre (T). |
+
+**SFX español dibujados:** *[paso]*, *[golpe contenido]*, *[respiración entrecortada]*, *[silencio]*, *[eco lejano]*. Cero inglés/kana/HUD.
+**Cierre:** trama (T).

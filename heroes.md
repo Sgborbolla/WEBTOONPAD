@@ -1,0 +1,305 @@
+# HEROES — "Los Catorce"
+
+Los cuatro. Todos son gente normal con un poder que no eligieron. Ninguno viste
+armadura moderna. Todos visten lo que se ponian para trabajar.
+
+---
+
+## Los cuatro en una línea
+
+| | Quien | Poder | Lo que busca |
+|---|---|---|---|
+| **Rika** | 24 (15 en el día 1) | Corta. Su dash atraviesa y daña | A su hermana Mio, nueve años desaparecida |
+| **Goro** | 41 (32 en el día 1) | Aguanta. Su carga es tres veces más larga | Una respuesta del hombre que le dio la orden |
+| **Ren** | 25 cronologico, 19 aparentes | Velocidad. Tres cargas que nunca se agotan | Recordar lo que paso dentro |
+| **Yui** | 31 (22 en el día 1) | Distancia. Se teletransporta y dispara | Saber si hizo bien en no dejar pasar a alguien |
+
+---
+
+## RIKA TSUKIMI — La Hoja
+
+### Fisico
+24 años. Baja, 158 cm, hombros estrechos. Ojos hundidos y muy abiertos. Una
+cicatriz vieja en la ceja izquierda, de cuando se corto entrenando sola.
+
+### Ropa
+Yukata gris oscuro. Haori corto color hueso: **es la prenda más clara de la
+página**. Pelo rojo largo en coleta alta. Vendas blancas en los antebrazos.
+Sandalias de rejilla.
+
+### Marca única
+El **haori**, que ondea detrás de ella. Es lo primero que detecta el ojo cuando
+se mueve, antes que la silueta. Se lee como una vela.
+
+### Trabajo en el día 1
+15 años. Esta entrenando sola en un solar de-arrow junto a una guarderia. Busca
+a su hermana desde 9 años atras. Entra y sale cada día a la misma hora.
+
+### Casa
+Con su madre, Shino, y Mio, antes de que Mio entrara. Después, con su madre
+sola. Un departamento pequeño. Las dos no hablan mucho y las dos escuchan.
+
+### Poder
+El dash **atraviesa a los enemigos y los daña**. Cada enemigo atravesado le
+devuelve carga. Se alimenta de la actividad: cuantas más bajas hace, más
+móvil es.
+
+### Lo que gana durante la trama
+**Anticipación.** El cuerpo se mueve antes que la cabeza. Ya le pasa sin
+entenderlo: cuando un enemigo ataca, ya está desenvainada cuando el golpe
+llega.
+
+### Debilidad
+Solo funciona si se alimenta. En una sala vacía es la más debil de los cuatro.
+
+### Ruptura
+**Corte de Un Destello.** Corte horizontal en cruz, area amplia, empuja. Es
+la que corta lo que se repite.
+
+### Ancla
+**Su madre.** Si Shino deja de estar en su vida, deja de anticipar y empieza a
+ver tarde otra vez.
+
+### Su arco
+Nueve años entrenando para un corte. Y el corte es contra su hermana, que quiere
+salvar, no matar.
+
+---
+
+## GORO ARASHI — El Yunque
+
+### Fisico
+41 años. Muy alto, 195 cm, espalda ancha, manos grandes, cabeza hundida entre
+los hombros. Mandibula cuadrada. Una quemadura vieja en medio del cuello.
+
+### Ropa
+Armadura de guardia reensamblada con placas oxidadas. Escudo industrial atado a
+la espalda. Casco de obra sin visor. Todo en tierra, gris y acero viejo.
+**Es el único de los cuatro que no lleva pelo.**
+
+### Marca única
+El **escudo atado a la espalda**. Cuando esté de espaldas o en plano medio, se
+ve una mancha detrás de el que nadie más tiene.
+
+### Trabajo en el día 1
+32 años. Custodia la puerta de servicio del Sector 6 del Ward. Es su turno
+nocturno. Lleva 14 meses en ese puesto.
+
+### Casa
+Una habitacion en el bloque de trabajadores del Ward. Una sola habitacion. Y al
+lado, la de **Tsumita Kosuke**, que cocina y no sabe.
+
+### Poder
+Una carga de dash, **tres veces más larga** que los demas. Atraviesa una repisa
+entera de un movimiento y empuja a los enemigos que toca. El escudo le aguanta
+golpes que a los otros los matan.
+
+### Lo que gana durante la trama
+**La brasa del guante.** Vapor radioactivo que sale solo cuando pierde el
+control. Le quema a un civil en el día 2. A partir de ahi entrena para no
+volver a hacerlo.
+
+Después: **Dansō.** La onda deja de ser onda y se hunde por capas. Abre grietas
+de doscientos metros.
+
+### Debilidad
+Es lento comparado con los otros. En campo abierto, el más lento.
+
+### Ruptura
+**Golpe de Yunque.** Golpe descendente con maza en area circular grande.
+Genera knockdown. Su versión más larga: 14 frames de onda.
+
+### Ancla
+**Tsumita Kosuke, el vecino.** Si Kosuke deja de estar, el vapor vuelve a salir
+solo. Ya paso una vez.
+
+### Su arco
+Cumplio una orden que sabia que era mentira. Nueve anos con la última cara que
+vio por la mirilla. Y esa orden la firmo el hombre que hoy le paga.
+
+---
+
+## REN HAYASHI — El Relampago
+
+### Fisico
+25 años cronologico, 19 aparentes. Delgado, nervioso, manos que no paran quietas.
+Ojos muy grandes, expresión de sorpresa permanente. Proporción de nino de
+caricatura: la cabeza es el 25% de su altura.
+
+### Ropa
+Agujero de escuela en una manga. Cinta blanca. Vendas atadas en las munecas.
+Zapatillas de running gastadas. **Amarillo chillon sobre negro: el personaje más
+saturado de la página.**
+
+### Marca única
+Las **vendas** y el **amarillo**. Es el punto de referencia: cuando hay que
+encontrarlo en una página llena, se busca el amarillo.
+
+### Trabajo en el día 1
+16 años. Estudiante. Camina por la calle de vuelta a casa con los auriculares
+puestos. No sabe nada.
+
+### Casa
+Una habitacion pequeña. Comparte piso. Hay alguien que lo espera ahi y que el
+todavia no ha decidido si es su amigo o su familia.
+
+### Poder
+Tres cargas de dash, y **el dash no gasta carga**: se recarga solo, más lento.
+**Ren nunca se queda sin dash.** En una horda apretada es el único que no toca
+el suelo.
+
+### Lo que gana durante la trama
+**Moverse entre huecos.** No entre espacios: entre *momentos*. El segundo entre
+un golpe y el siguiente. El más dificil de los cuatro: necesita silencio y no
+puede hablar.
+
+### Debilidad
+Su arma es la más debil. Si lo separan del grupo, es el primero que cae.
+
+### Ruptura
+**Carga Relampago.** Avance en rafagas, zigzag, atraviesa la horda.
+
+### Ancla
+**Quien lo espera en casa.** Si deja de estar, se queda dentro del hueco y no
+vuelve.
+
+### Su arco
+Entro con 16. Caminó por la fractura durante años. Volvio con 19 y **no lo
+recuerda**. Y hay otra persona que entro y nunca salio.
+
+---
+
+## YUI NAKAMURA — La Distancia
+
+### Fisico
+31 años. 172 cm, hombros rectos de quien carga equipo pesado. Se mantiene muy
+erguida, casi rigida. Es la única que cambia de expresión.
+
+### Ropa
+Uniforme militar de guardia gris azulado con chaleco portaplacas. Guantes
+claros. Pelo en **mono alto, el más alto de los cuatro**.
+
+### Marca única
+El **mono alto**, cinco píxeles por encima de la cabeza. Y el rifle de cerrojo
+de 34 píxeles que siempre lleva a la espalda.
+
+### Trabajo en el día 1
+22 años. Medica en el hospital de la frontera. Decide a quien deja pasar al Ward
+a buscar a su familia y a quien se le niega la entrada porque no queda sitio.
+
+### Casa
+Una habitacion en la base. Ordenada. La única que tiene una foto y no la mira.
+
+### Poder
+Su dash es un **teletransporte corto**, dos o tres pasos, en vez de un
+desplazamiento. Y es la única con **alcance** en el arma: rifle de cerrojo.
+
+Se teletransporta, dispara lejos, y la horda nunca la toca.
+
+### Lo que gana durante la trama
+**Oye el silencio tres segundos antes.** Empieza a oir lo que viene antes de que
+llegue. Y cuando llega, ya no puede estar en un sitio sin oirlo.
+
+Después: **amplificacion.** Ondas que empujan y apartan.
+
+### Debilidad
+Con un cerrojo tiene que **pararse a apuntar**. No puede disparar mientras
+huye. Es la más fragil en movimiento y la que más peso carga.
+
+### Ruptura
+**Reverberacion.** Ondas concentricas que empujan hacia fuera. Y lo que importa:
+**corta lo que se repite.** Está escrita para matar lo que está en un bucle.
+
+### Ancla
+**Su cuaderno**, donde escribio a quien dejo fuera. Si deja de existir, deja de
+oir.
+
+### Su arco
+Llego tarde. 9 años pensando en el hombre al que le dijo que no. Nunca supo si
+tuvo razón.
+
+### La historia de amor
+Con **Amano Rei**, de limpieza, 22 años. La que reparte el cafe.
+
+| | |
+|---|---|
+| Por que | Los dos con más que perder son los que más dependen de gente |
+| Como | Los dos callados. No hay declaracion |
+| La escena | Un día el cafe se acaba antes de que le toque a Yui, y Ren le da su vaso sin mirar. Ella se lo bebe. Nunca se lo thank. El lo cuenta |
+| El momento | En el cap 25, cuando Yui le corta la repetición a Mio, **Rei está detrás del cristal mirando.** Porque es la que la vio entrar |
+
+---
+
+## Los otros
+
+### Watanabe Raishiro — El general
+54 años. Gobernador de la base. **No tiene poder.** Manda por oficio.
+
+Los cuatro pueden tumbarlo y no lo hacen. Esa es la razón por la que sigue ahi.
+
+**Sabe de las trece páginas.** Kurose las firmo, pero fue el Estado Mayor quien
+aprobo la orden de no avisar. Y el general recibio esa orden.
+
+Cada vez que uno le pregunta por que no evacuaron Yokohama, cambia de tema.
+No es un malo: es un jefe que no puede contestar.
+
+### Kurose Ken — El doctor
+52 años. Director de contencion. **Redacto y firmo la orden de no avisar.**
+
+Cada noche lee las trece páginas del expediente. Pide que el equipo salga a
+Yokohama y después guarda el documento otra vez.
+
+Sabe de omega desde el día 3. No dice nada.
+
+### Tsumita Kosuke — El vecino
+63 años. Cocina. Le lleva comida a Goro al Sector 6. **Cocina mal y no deja de
+hacerlo.**
+
+Es el ancla de Goro. Vive al lado, en el bloque de trabajadores del Ward.
+
+### Los extra nombrados
+
+| | | |
+|---|---|---|
+| Aoki Ryuichi | 58 | Tendero. Comenta el clima y el precio del pescado |
+| Tsukimi Shino | 47 | Madre de Rika |
+| Mio Tsukimi | 19 | Hermana de Rika. Entro y no salio. **Es omega** |
+| Takanashi Tokuzo | 71 | El de siempre en la esquina. No habla, solo está |
+| Nomura Tatsuo | 49 |Trabajador de Tokukan. Custodiaba puertas con Goro. **Lo quema Goro en el cap 5** |
+| Mitamura Setsuko | 74 | Vende verdura. **La primera que muere, en el cap 3** |
+| Kawano Shinichi | 38 | Sale del metro. **Es al que los cuatro no pueden salvar** |
+| Oda Sara | 26 | Chica con un nino pequeño. Se separan |
+| Miura Daigo | 35 | Capitan. 3a Compania de Tanques. No sabe que son los kaiyu |
+| Shinozuka Ryo | 29 | Sergeant de comunicaciones. Es el que dice "no se ve nada" |
+| Hayakawa Saya | 31 | Piloto de helicoptero. Vuela tres veces ese día |
+| Tokura Jun | 41 | Jefe de limpieza. El primero que entra, el último que sale |
+| Jūmoji Tsuyoshi | 36 | Enfermero. Le cose a Rika el antebrazo |
+| Kiryu Ryo | 30 | Operador de puerta. Trabaja con Goro |
+| Futaki Saeri | 24 | Auxiliar de archivo. La que escribe |
+| Amano Rei | 22 | Limpieza. Reparte el cafe |
+| Kobayashi Kotaro | 27 | Operador de puerta. El primero que intenta cerrar una y no puede |
+
+### Los que no tienen nombre
+Los civiles del cap 3, los soldados de a pie, el resto del equipo de limpieza y
+enfermeria, los operadores de puerta del fondo. Se agrupan: "los de limpieza",
+"un soldado", "civil". Nadie los registra y nadie los echa de menos.
+
+**Regla:** se nombra a alguien solo si habla más de 5 líneas o si muere.
+
+---
+
+## El narrador
+
+Las cajas de narracion son **letra de documento del Sistema**. Tercera persona
+seca, sintaxis de formulario llenado por alguien que no cuenta bien lo que vio.
+
+El narrador **miente por estructura**, sin querer, porque un archivo solo dice lo
+que cabe en la casilla.
+
+El lector sabe por que. Los personajes no.
+
+## Revision de ortografia pendiente
+
+En `biblion.md` hay caracteres corruptos de una pasada anterior que hay que
+limpiar al final de la sesion. Ya sequitaron varios: quedan pendientes de
+revisar las líneas de la tabla de arquetipos y el bloque de ruptura.

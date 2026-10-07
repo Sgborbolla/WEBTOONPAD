@@ -1,0 +1,13 @@
+Para que el resultado sea idéntico a lo que tienes en tu mente, traduce tu proyecto en "bloques" que la IA entienda:
+
+1. La "Hoja de Modelo" de tu personaje: Junta de 3 a 5 imágenes (pueden ser bocetos tuyos, referencias de Pinterest o de otros animes) que muestren la cara, el peinado y la ropa que quieres. Eso se lo darás a la IA como tu personaje base.
+
+2. Prompts con estructura fija: Al redactar las escenas, usa siempre la misma descripción base. Ejemplo: [Nombre del personaje], chico de 18 años con cabello azul alborotado, chaqueta de cuero negra, expresión de sorpresa, en un callejón oscuro estilo manga.
+
+3. Guion dividido por viñetas: Separa tu texto por páginas y enumera las viñetas (Viñeta 1, Viñeta 2, etc.), describiendo la acción de fondo y el plano (plano americano, primer plano, plano detalle) para indicarle la cámara a la IA.
+
+¿En qué formato tienes tus diseños actuales? Si quieres, puedes describirme a tu personaje principal o copiarme el texto de tu primera viñeta y te ayudo a transformarlo en el prompt técnico perfecto para que Dashtoon te lo dibuje tal y como lo imaginaste.
+
+Para ayudarte a arrancar, cuéntame:
+• ¿Cómo es la descripción física y ropa de tu personaje?
+• ¿Qué está pasando en la primera escena de tu historieta?

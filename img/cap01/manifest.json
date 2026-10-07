@@ -1,0 +1,383 @@
+{
+ "cap": 1,
+ "titulo": "El día que no avisaron",
+ "pantallas": 22,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    980
+   ],
+   "gaps": [
+    0,
+    300
+   ],
+   "bg": "blanco",
+   "bg_img": "bg01_ciudad_amanecer.png",
+   "narracion": {
+    "texto": "Mayo de 2017.\nYokohama.\n07:42.",
+    "x": 40,
+    "y": 40,
+    "w": 300,
+    "pt": 26,
+    "negro": false
+   },
+   "h_txt": null
+  },
+  {
+   "n": 2,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 3,
+   "paneles": [
+    580,
+    580
+   ],
+   "gaps": [
+    40,
+    40,
+    40
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 4,
+   "paneles": [
+    1280
+   ],
+   "gaps": [
+    0,
+    0
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 5,
+   "paneles": [
+    580,
+    580
+   ],
+   "gaps": [
+    40,
+    40,
+    40
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 6,
+   "paneles": [
+    580,
+    580
+   ],
+   "gaps": [
+    40,
+    40,
+    40
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 7,
+   "paneles": [
+    387,
+    387,
+    386
+   ],
+   "gaps": [
+    30,
+    30,
+    30,
+    30
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 8,
+   "paneles": [
+    700
+   ],
+   "gaps": [
+    0,
+    580
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 9,
+   "paneles": [
+    520
+   ],
+   "gaps": [
+    200,
+    560
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 10,
+   "paneles": [],
+   "gaps": [
+    0
+   ],
+   "bg": "negro de corte",
+   "narracion": {
+    "texto": "Ese día duró catorce minutos.",
+    "centro": true,
+    "y": 600,
+    "w": 700,
+    "pt": 40
+   }
+  },
+  {
+   "n": 11,
+   "paneles": [],
+   "gaps": [
+    0
+   ],
+   "bg": "gris pasado",
+   "narracion": {
+    "texto": "TRES DÍAS ANTES\n12 de mayo de 2017",
+    "x": 0,
+    "y": 520,
+    "w": 620,
+    "pt": 42,
+    "centro": true,
+    "h": 260,
+    "negro": false
+   }
+  },
+  {
+   "n": 12,
+   "paneles": [
+    1000
+   ],
+   "gaps": [
+    200,
+    80
+   ],
+   "bg": "blanco",
+   "bg_img": "bg03_azotea_guarperia.png"
+  },
+  {
+   "n": 13,
+   "paneles": [
+    355,
+    355
+   ],
+   "gaps": [
+    190,
+    190,
+    190
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 14,
+   "paneles": [
+    355,
+    355
+   ],
+   "gaps": [
+    190,
+    190,
+    190
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 15,
+   "paneles": [
+    355,
+    355
+   ],
+   "gaps": [
+    190,
+    190,
+    190
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 16,
+   "paneles": [
+    760
+   ],
+   "gaps": [
+    340,
+    180
+   ],
+   "bg": "blanco",
+   "bg_img": "bg04_pasillo_guarperia.png",
+   "narracion": {
+    "texto": "Nueve años después, esa cara\nfue el primer aviso.\nNadie lo leyó.",
+    "x": 40,
+    "y": 1125,
+    "w": 520,
+    "pt": 26,
+    "negro": false
+   }
+  },
+  {
+   "n": 17,
+   "paneles": [
+    355,
+    355
+   ],
+   "gaps": [
+    190,
+    190,
+    190
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 18,
+   "paneles": [
+    1000
+   ],
+   "gaps": [
+    190,
+    90
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 19,
+   "paneles": [
+    355,
+    355
+   ],
+   "gaps": [
+    190,
+    190,
+    190
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 20,
+   "paneles": [
+    1080
+   ],
+   "gaps": [
+    190,
+    10
+   ],
+   "bg": "blanco",
+   "bg_img": "bg02_calle_temprano.png",
+   "narracion": {
+    "texto": "Tres días. Eso fue todo\nel aviso que tuvo.",
+    "x": 36,
+    "y": 1065,
+    "w": 470,
+    "pt": 26,
+    "negro": false,
+    "fondo": "#ffffffe6"
+   }
+  },
+  {
+   "n": 21,
+   "paneles": [
+    900
+   ],
+   "gaps": [
+    250,
+    130
+   ],
+   "bg": "blanco"
+  },
+  {
+   "n": 22,
+   "paneles": [],
+   "gaps": [
+    0
+   ],
+   "bg": "gris pasado"
+  }
+ ],
+ "fondos": [
+  "bg01_ciudad_amanecer.png",
+  "bg02_calle_temprano.png",
+  "bg03_azotea_guarperia.png",
+  "bg04_pasillo_guarperia.png"
+ ],
+ "salidas": 33,
+ "scroll": 28160,
+ "dialogos": [
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "Rika",
+   "texto": "Uno, dos, tres…",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "Niña",
+   "texto": "¡Mine, mira!",
+   "globo": "arriba-dcha",
+   "cola": "abajo-izq"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "Rika",
+   "texto": "Sí. Muy bien. Estás manchada entera.",
+   "globo": "abajo-izq",
+   "cola": "arriba-dcha"
+  },
+  {
+   "pantalla": 17,
+   "panel": 2,
+   "quien": "Niña (fuera de cuadro)",
+   "texto": "¡Mine!",
+   "globo": "arriba-dcha",
+   "cola": "sal-dcha"
+  },
+  {
+   "pantalla": 18,
+   "panel": 1,
+   "quien": "Mio",
+   "texto": "Otra vez sin desayunar. Tienes la misma cara de siempre.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 18,
+   "panel": 1,
+   "quien": "Rika",
+   "texto": "Tengo hambre. Que es distinto.",
+   "globo": "centro-dcha",
+   "cola": "izq"
+  },
+  {
+   "pantalla": 18,
+   "panel": 1,
+   "quien": "Mio",
+   "texto": "Es peor.",
+   "globo": "abajo-izq",
+   "cola": "arriba-dcha"
+  },
+  {
+   "pantalla": 19,
+   "panel": 1,
+   "quien": "Rika",
+   "texto": "Mañana traigo los termos. No se te olvida.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

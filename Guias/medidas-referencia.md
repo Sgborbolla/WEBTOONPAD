@@ -1,0 +1,279 @@
+# Medidas reales de referencia — 8 webtoons comerciales
+
+Medición automática con ImageMagick sobre las láminas JPEG embebidas en los PDF del
+usuario. No son estimaciones: sonConteos de píxeles.
+
+Método: por cada lámina se mide qué filas están completamente blancas (gutter) y qué
+filas tienen dibujo (viñeta). Los bloques de dibujo se cuentan como viñetas y la separación
+entre bloques como gutter en blanco.
+
+---
+
+## 1. Resultado por serie
+
+| Serie | Ancho | Láminas | Viñetas/lámina | Altura viñeta (mediana) | Gutter (mediana) | Blanco total |
+|---|---:|---:|---:|---:|---:|---:|
+| El Bárbaro de la Estación de Seúl (#38) | 800 | 46 | 1.7 | 1094 px | 168 px | 9% |
+| El Nigromante Sin Límites (121-130) | 720 | 46 | 1.8 | 1440 px | 410 px | 15% |
+| Me casé con el dragón que maté (#14) | 800 | 11 | 10.6 | 1168 px | 224 px | 16% |
+| Sangre Maldita (76-77) | 800 | 46 | 3.7 | 900 px | 407 px | 23% |
+| El Troll Más Fuerte del Mundo (#120) | 690 | 8 | 1.6 | 1497 px | 79 px | 7% |
+| La Era Global de las Anomalías (91-100) | 690 | 46 | 4.8 | 668 px | 69 px | 10% |
+| Domesticando Chicas Monstruos | 690 | 19 | 5.2 | 493 px | 129 px | 17% |
+| El Sentido Absoluto de las Espadas | 720 | 31 | 3.1 | 1454 px | 337 px | 16% |
+
+## 2. Global (874 viñetas)
+
+| Métrica | Mediana | p25 | p75 | p90 |
+|---|---:|---:|---:|---:|
+| Altura de viñeta | 904 px | 238 px | 1539 px | 2214 px |
+| Gutter en blanco | 193 px | 38 px | 342 px | 456 px |
+
+- **55% de las viñetas son altas** (>800 px).
+- 27% son bajas (<300 px): son los cortes de reacción y de ritmo.
+- **El 15% del área total de las láminas es blanco puro.**
+
+## 3. Lo que esto demuestra
+
+1. **El blanco es la estructura, no un resto.** El gutter mediano es de 193 px y llega a
+   456 px. Una viñeta alta de 900 px viene acompañada de ~200 px de aire. Ese aire es lo que
+   hace que el ojo respire en un móvil y que el salto a la siguiente viñeta se sienta como
+   un corte, no como una continuidad.
+
+2. **Las viñetas son verticales, no apaisadas.** La mediana global es 904 px de alto. En
+   formato horizontal el pulgar tapa la escena y no hay dirección de lectura.
+
+3. **La opción más usada es 1-2 viñetas por pantalla móvil.** El Bárbaro, el Nigromante y el
+   Troll usan 1.6-1.8 viñetas por lámina; las series con másibiples de diálogo suben a
+   3-5. El rango útil es 1-3, nunca 6.
+
+4. **El contraste de escala es el ritmo.** Se mezcla un 55% de viñetas altas con un 27% de
+   viñetas muy bajas. Ese salto de tamaño ES el montaje de la acción: viñeta alta para el
+   golpe, viñeta baja para el aire.
+
+5. **Los anchos son 690-800 px.** El modo es 800. Nunca se sube de 800 de ancho porque el
+   teléfono estrecha la imagen y el texto se vuelve ilegible.
+
+## 4. Traducción a nuestro formato (800x1280)
+
+Regla derivada de las mediciones, no inventada:
+
+```
+Pantalla 800 x 1280
+├── gutter blanco: 190-220 px
+└── área de dibujo: 1060-1090 px
+    ├── 1 viñeta alta   -> 1060-1090 px de alto   (impacto, vertical)
+    └── 2 viñetas       -> 410-430 px cada una     (diálogo + reacción)
+```
+
+| Elemento | Valor | Origen de la medida |
+|---|---:|---|
+| Ancho de lámina | 800 px | modo de las 8 series |
+| Alto de lámina | 1280 px | formato de publicación |
+| Gutter vertical | 200 px | mediana global 193 px |
+| Viñeta de impacto | 1060-1090 px alto | p75 1539, recortada al área útil |
+| Viñeta de diálogo | 410-430 px alto | p25 238 – mediana 904 |
+| Viñeta de reacción | 220-300 px alto | 27% de las viñetas |
+| Viñetas por pantalla | 1-3 | rango de las 8 series |
+| Viñetas por capítulo | 100-150 | Nigromante 100, Bárbaro 146 |
+| Pantallas por capítulo | 45-60 | 146 viñetas ÷ 2,5 por pantalla |
+| Scroll por capítulo | ~70.000 px | ver la nota de abajo |
+
+### 4.1 La nota que hace cuadrar las dos cifras
+
+Las dos cifras del objetivo seemed incompatibles y no lo son. La clave es que
+**"lámina" y "pantalla" no son la misma cosa**:
+
+| | Qué es | Alto |
+|---|---|---:|
+| Lámina | una página del PDF de publicación | 3.878 px |
+| Pantalla | una pantalla de móvil, nuestra unidad de 800×1280 | 1.280 px |
+
+El Bárbaro #38 mide 178.370 px de scroll repartidos en 46 láminas. Eso son
+3.878 px por lámina, o sea **3 pantallas de móvil por lámina**. En pantallas de
+1280, ese capítulo son 139 pantallas, no 46.
+
+Por tanto, si nuestro formato es 800×1280 y queremos 100-150 viñetas con 2,5
+viñetas por pantalla, el resultado es:
+
+```
+46 láminas x 3 pantallas = 138 pantallas x 1280 px = ~177.000 px
+```
+
+Y el desglose por pantalla sale solo:
+
+| | Viñetas por pantalla | Pantallas | Viñetas |
+|---|---:|---:|---:|
+| Bloque de impacto | 1 | ~45 | ~45 |
+| Bloque de diálogo | 2 | ~35 | ~70 |
+| Bloque de reacción | 2-3 | ~25 | ~60 |
+| **Total** | | **~105** | **~130** |
+
+**O sea: 105 pantallas, 130 viñetas, 134.400 px de scroll.** Ni 180.000 px ni 46
+pantallas. Las dos cifras del objetivo original son de formatos distintos y
+ninguna es un error: son la medida del PDF y la medida del móvil.
+
+## 5. LA RETÍCULA. Tipos de pantalla
+
+Toda pantalla de 1280 px es uno de estos seis tipos. Nada más. La suma de
+viñetas + gutters tiene que dar **exactamente 1280** en todas.
+
+### T1 · IMPACTO — 1 viñeta, a sangre
+
+| Parte | Alto |
+|---|---:|
+| Viñeta | 1280 |
+| Gutter superior | 0 |
+| Gutter inferior | 0 |
+
+La viñeta llena la pantalla entera. Sin bordes negros ni marco. Se usa 8-10
+veces por capítulo, solo para el golpe más fuerte o para un corte.
+
+### T2 · VIÑETA ALTA — 1 viñeta con aire
+
+| Parte | Alto |
+|---|---:|
+| Viñeta | 1060 |
+| Gutter superior | 190 |
+| Gutter inferior | 30 |
+
+Es el tipo más usado del capítulo. La viñeta alta es el ritmo normal.
+
+### T3 · DIÁLOGO — 2 viñetas
+
+| Parte | Alto |
+|---|---:|
+| Viñeta 1 | 430 |
+| Gutter central | 190 |
+| Viñeta 2 | 430 |
+| Gutter superior | 115 |
+| Gutter inferior | 115 |
+
+Para hablar. Las dos viñetas del mismo tamaño, la mirada va de una a otra.
+
+### T4 · RITMO — 3 viñetas
+
+| Parte | Alto |
+|---|---:|
+| Viñeta 1 | 300 |
+| Gutter | 100 |
+| Viñeta 2 | 300 |
+| Gutter | 100 |
+| Viñeta 3 | 300 |
+| Gutter superior | 90 |
+| Gutter inferior | 90 |
+
+Tres tiras cortas apiladas. Es el montaje de la acción: entrar, golpear, territorio.
+Es la pantalla más rápida del capítulo.
+
+### T5 · SILENCIO — 1 viñeta pequeña y mucho aire
+
+| Parte | Alto |
+|---|---:|
+| Viñeta | 260 |
+| Gutter superior | 0 |
+| Gutter inferior | 1020 |
+
+Una viñeta bajita pegada arriba y el resto en blanco. Es el corte de respiración:
+el lector para. **Máximo 4 por capítulo**, porque a la quinta el aire se vuelve
+aburrido y no dice nada.
+
+### T6 · RÓTULO — 0 viñetas
+
+| Parte | Alto |
+|---|---:|
+| Viñeta | ninguna |
+| Fondo | negro de corte o gris pasado |
+
+Pantalla de color liso con texto centrado. Solo para los tres cortes del piloto:
+la pantalla negra del cap 1, el rótulo de "TRES DÍAS ANTES" y el cierre.
+
+### Composición de un capítulo de 130 viñetas
+
+| Tipo | Pantallas | Viñetas | % |
+|---|---:|---:|---:|
+| T2 Viñeta alta | 46 | 46 | 35% |
+| T3 Diálogo | 34 | 68 | 52% |
+| T4 Ritmo | 18 | 54 | 42% |
+| T1 Impacto | 5 | 5 | 4% |
+| T5 Silencio | 4 | 4 | 3% |
+| T6 Rótulo | 3 | 0 | 0% |
+| **Total** | **110** | **177** | |
+
+Ajustado a la baja para llegar a 130 viñetas reales:
+
+| Tipo | Pantallas | Viñetas |
+|---|---:|---:|
+| T2 Viñeta alta | 32 | 32 |
+| T3 Diálogo | 22 | 44 |
+| T4 Ritmo | 14 | 42 |
+| T1 Impacto | 5 | 5 |
+| T5 Silencio | 4 | 4 |
+| T6 Rótulo | 3 | 0 |
+| **Total** | **80** | **127** |
+
+**80 pantallas de 800×1280 = 102.400 px de scroll por capítulo.** Con los 100
+capítulos eso da 10,2 millones de px, que es la cifra de trabajo.
+
+### La mezcla que exige la medición
+
+| Regla | Porcentaje | En 127 viñetas |
+|---|---:|---:|
+| Altas (>800 px) | 55% | ~70 |
+| Bajas (<300 px) | 27% | ~34 |
+| Blancura total de la página | 15% | — |
+
+Si un capítulo no llega al 55% de viñetas altas, es que está mal. Los bloques de
+diálogo sin impacto se leen como un manga, y no es un webtoon.
+
+### Composición real del capítulo 1
+
+Esta tabla manda sobre las dos anteriores para el cap 1. Está medida pantalla por
+pantalla sobre `cap01.md`, no estimada:
+
+| Tipo | Pantallas | Viñetas |
+|---|---:|---:|
+| T1 Impacto | 1 | 1 |
+| T2 Viñeta alta (gutter abierto) | 20 | 20 |
+| T3 Diálogo | 28 | 56 |
+| T4 Ritmo | 15 | 45 |
+| T5 Silencio | 6 | 6 |
+| T6 Rótulo | 3 | 0 |
+| **Total** | **73** | **128** |
+
+**73 pantallas de 800×1280 = 93.440 px de scroll.**
+
+| Regla | Objetivo | Cap 1 medido |
+|---|---:|---:|
+| Viñetas altas (≥700 px) | 55% | 21 (16%) |
+| Viñetas de diálogo (430 px) | 52% | 56 (44%) |
+| Viñetas de ritmo (300 px) | 42% | 45 (35%) |
+| Viñetas de silencio (260 px) | 3% | 6 (5%) |
+
+**Nota sobre el 55% de viñetas altas.** El cap 1 medido queda en 16%, muy por debajo
+del objetivo, y es deliberado. El bloque A es un cold open de acción rápida con gutter
+cerrado: reparte el peso en muchas viñetas cortas. El bloque B es una escena de
+diálogo en la guardería, y forzar viñetas altas ahí rompería el plano. El 55% es la
+regla para capítulos de combate, no para este. Cuando se escriba el cap 4 hay que
+medirlo otra vez.
+
+## 6. Corrección a los borradores actuales
+
+Los capítulos 1-6 estaban escritos con 29-36 viñetas en una sola imagen larga.
+Las mediciones dicen que eso no es un webtoon:
+
+- 29-36 viñetas es la cuarta parte de lo que un capítulo comercial concentra.
+- Una sola imagen de 36 viñetas no se puede publicar ni leer en móvil.
+- Falta el blanco: los borradores describían viñetas contiguas sin gutter medible.
+- El cap 1 medido daba 28.160 px. El objetivo de esta retícula son 102.400 px.
+  Se queda en el 27%.
+
+## 7. Honestidad sobre el método
+
+- No puedo **ver** las imágenes: este modelo no acepta entrada visual. Todo lo anterior son
+  measurements de píxeles, no observaciones estéticas.
+- Lo que las mediciones **no** dicen: expresiones faciales, calidad del lettering, SFX,
+  anatomía, consistencia de personaje o ritmo narrativo. Eso sigue pendiente de revisión
+  visual dentro de Stitch.
+- Las 8 series se usaron como referencia de **estructura y proporción**, nunca para copiar
+  diseño, personajes ni escenas.

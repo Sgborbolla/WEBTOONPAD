@@ -1,0 +1,121 @@
+# CAPÍTULO 9 — "Nadie hace nada"
+
+> **Retícula:** 800×1280. **Espec:** 60–74 pantallas.
+> **Fecha ficción:** 3 días después cap08, 15 mayo 2017 contexto. Presente 2026.
+> **Total:** 70 pantallas · 120 viñetas · 89.600 px
+> **Estructura:** 3 actos (gancho 1-10, desarrollo 11-55, cierre 56-70)
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Terror urbano, tensión |
+| Fondo | Gris oscuro `#2a2a2e`. Sin HUD. |
+| Personajes con nombre | Ren Hayashi — El Relámpago, Yui Nakamura — La Distancia, Goro, Rika Tsukimi |
+| Viñetas | 120 |
+| Pantallas | 70 |
+| Cajas narración | 5 |
+| Diálogo | 10 |
+| SFX | español dibujados |
+| Transiciones | `CORTE A:` / `FUNDIDO A:` |
+
+> **Segundo gancho:** pantalla 21 (30,0%) — marcado explícitamente.
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+
+---
+
+## 1. MAPA DE PANTALLAS
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S01 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Apertura. Ciudad 3 días después. Repara, pinta, cinta. |
+| S02 | T3R | 2 | 570/570 | 40/60/40 | americano/medio | CORTE A: calle | Normalidad falsa. |
+| S03 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/detalle | CORTE A: calle | Gente finge no ver. |
+| S04 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Silencio. |
+| S05 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Cuatro juntos. |
+| S06 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primer plano | CORTE A: calle | Miradas. |
+| S07 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Mismo informe distinto. |
+| S08 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Tensión. |
+| S09 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Nadie dice nada. |
+| S10 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Silencio. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S11 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Goro enseña a usar escudo a nadie. |
+| S12 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | Gestos inútiles. |
+| S13 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Vacío. |
+| S14 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Yui observa lejos. |
+| S15 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: calle | Silencio. |
+| S16 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Ren callado. |
+| S17 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Rika mira. |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Nadie hace nada. |
+| S19 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Pausa larga. |
+| S20 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: calle | Presencia. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S21 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primer plano/medio | CORTE A: calle | **> SEGUNDO GANCHO (viñeta 1, 30,0%)** — kaiyu amarillo quieto, **mirando**. Nadie lo señala. |
+| S22 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S23 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Mirada cruzada. |
+| S24 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | No reaccionan. |
+| S25 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Vergüenza muda. |
+| S26 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Se alejan. |
+| S27 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/detalle | CORTE A: calle | Kaiyu no avanza. |
+| S28 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Espera. |
+| S29 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Calle vacía. |
+| S30 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/primerísimo | CORTE A: calle | Silencio. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S31 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Separación. |
+| S32 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Ren solo. |
+| S33 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primer plano | CORTE A: calle | Se quita auriculares. |
+| S34 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Descubre lleva horas sin música. |
+| S35 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | **Cierre beat emocional (E)** parcial. |
+| S36 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Silencio real. |
+| S37 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle vacía. |
+| S38 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Mira alrededor. |
+| S39 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Los otros lejos. |
+| S40 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No los llama. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S41 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Goro vuelve. |
+| S42 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | Escudo a espalda. |
+| S43 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S44 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Entiende. |
+| S45 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/espaldas/grupo | CORTE A: calle | Se quedan un rato. |
+| S46 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Sin hacer nada. |
+| S47 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Yui se une. |
+| S48 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Silencio compartido. |
+| S49 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Kaiyu se va. |
+| S50 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Nadie lo sigue. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S51 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primer plano | CORTE A: calle | Alivio culpable. |
+| S52 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle vacía. |
+| S53 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Silencio. |
+| S54 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | Rika aprieta puño. |
+| S55 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Lo suelta. |
+| S56 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Caminan. |
+| S57 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primer plano | CORTE A: calle | Lento. |
+| S58 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: calle | **Viñeta de silencio T5**. |
+| S59 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S60 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Ren guarda silencio. |
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---:|---|---|---|
+| S61 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primer plano | CORTE A: calle | Piensa. |
+| S62 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Auriculares en mano. |
+| S63 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | No se los pone. |
+| S64 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Juntos. |
+| S65 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle vacía. |
+| S66 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Silencio. |
+| S67 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/espaldas/primerísimo | CORTE A: calle | Se alejan. |
+| S68 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Calle vacía. |
+| S69 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Eco. |
+| S70 | T6 | 0 | — | — | silencio | FUNDIDO A: negro | Cierre (E). |
+
+**SFX español dibujados:** *[paso]*, *[silencio]*, *[respiración contenida]*, *[eco lejano]*. Cero inglés/kana/HUD.
+**Cierre:** emocional (E). 2/3 emocionales.

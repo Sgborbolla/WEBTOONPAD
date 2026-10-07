@@ -1,0 +1,289 @@
+# ACCIONES — manual de combate visual
+
+Cómo se dibuja una pelea para que el lector la vea como un video, no como una
+tira de dibujos. Este archivo es la referencia técnica. `pelea-modelo.md` la
+aplica entera a una pelea concreta.
+
+Fuentes de las que sale esto:Multipart y Clip Studio sobre *speed lines*, *impact
+frames* y *panelling* de webtoon; los estudios de lettering de sonido sobre
+tipografía display (*Serifs Up*, Matt Durand, y el trabajo de semiótica visual de
+Cohn sobre onomatopeyas); y las guías de encuadre de Scott McCloud.
+
+---
+
+## 1. La regla de oro
+
+**El peso no lo dan los personajes diciendo "¡golpe fuerte!".** Lo dan cinco
+cosas, todas en el mismo cuadro:
+
+1. El **tamaño del panel**: el golpe importante se lleva un panel grande
+2. Las **líneas de velocidad** convergiendo en el punto de impacto
+3. La **deformación del entorno**: el fondo se rompe hacia afuera
+4. El **efecto de sonido** dibujado encima, no al lado
+5. El **silencio después**: la viñeta quieta que sigue al impacto
+
+Si quitás las cinco, es una pelea de dibujo. Con las cinco, se siente un video.
+
+---
+
+## 2. La anatomía de un golpe
+
+Cinco tiempos. Nunca dos seguidos iguales.
+
+| # | Tiempo | Qué hace la viñeta | Tamaño |
+|---|---|---|---|
+| 1 | **Anticipación** | El cuerpo carga, la cara dice lo que va a pasar | Chico, mucho aire |
+| 2 | **Ataque en movimiento** | Líneas paralelas, el objeto ya está en camino | Chico, vertical |
+| 3 | **Impacto** | El contacto. Todo convergiendo | **A sangre, el más grande** |
+| 4 | **Reacción** | La cara de quien recibe | Chico, primerísimo primer plano |
+| 5 | **Consecuencia** | El entorno destruido, el cuerpo en el suelo | Medio o grande |
+
+El tiempo 3 es el que hace el trabajo. Si el impacto es del tamaño de una viñeta
+normal, no pega.
+
+### La regla de los 180 grados
+
+Si A ataca de izquierda a derecha, sigue atacar así toda la secuencia. Si volteás
+el eje, el lector no entiende qué pasó. Se puede romper **una vez**, y solo con un
+plano entero entre medias.
+
+### El golpe falso
+
+A veces funciona mejor cortar **antes** del impacto y mostrar el después. El
+lector completa el golpe solo, y pesa más. Se usa una vez cada diez, no siempre.
+
+---
+
+## 3. Las líneas: tres tipos y cuándo
+
+| Tipo | Para qué | Dónde converge |
+|---|---|---|
+| **Paralelas** | Velocidad lateral o diagonal | No convergen. Siguen el movimiento |
+| **Radiales / focus** | Impacto, o algo saliendo de la página | En un punto: el golpe, o un enemigo |
+| **Guionadas / dashes** | Potencia, rotura, velocidad extrema | Sobre el cuerpo, no en el fondo |
+
+Tres reglas de las guías de speed lines que hay que respetar:
+
+- **Nunca en todas las viñetas.** Si todo tiene líneas, nada tiene líneas. Se
+  reservan para 3 o 4 viñetas por pelea.
+- **Siempre apuntan a algo importante.** Una línea que lleva la vista hacia el
+  fondo equivocado arruina el golpe.
+- **La densidad codifica el estado**: ralo = controlado, denso = extremo,
+  caótico = pérdida de control.
+
+### Blur lines y smear frames
+
+El fondo se estira en líneas y el personaje se queda detallado. Eso es lo que
+hace que parezca movimiento real. Para movimiento repetido se dibujan **varios
+contornos superpuestos** del mismo cuerpo (el Flash tecleando, una espada
+cortando tres veces).
+
+El smear frame es un cuadro con una sola raya larga en la dirección del
+movimiento, sin detalle. Se usa en la transición, no en el impacto.
+
+---
+
+## 4. El panel: cómo se rompe la retícula
+
+Las peleas son donde la retícula cuadrada se destruye.
+
+| Técnica | Cuándo | Efecto |
+|---|---|---|
+| **Corte diagonal** | Casi siempre en movimiento | Energía, inestabilidad |
+| **Panel solapado** | El golpe rompe el marco | El personaje se libra de la viñeta |
+| **Marco roto** | Solo en el golpe clave | El borde se astilla al impacto |
+| **Viñeta fragmentada** | Poder que overwhelma | La imagen se parte como vidrio |
+| **A sangre** | El impacto, una vez por pelea | Sin marco, se pierde la frontera |
+| **Renglones staccato** | Combate rápido | 3-4 tiras verticales finas seguidas |
+| **Viñeta de pausa** | Después del impacto | Quieta, un detalle, mucho vacío |
+
+### El gutter es tiempo
+
+En webtoon vertical el espacio entre viñetas no es decorativo, es duración.
+
+| Gutter | Sensación | Cuándo |
+|---|---|---|
+| 100-150 px | Rapidísimo | Puñetazos, persecuciones |
+| 200-300 px | Latido | Reacción, una frase que tiene que caer |
+| 400-600 px | Cambio de escena | Exterior a interior, día a noche |
+| 600-800 px | Cliffhanger | El vacío antes de la revelación |
+
+Un capítulo donde todos los gutters miden lo mismo se siente como una
+presentación de diapositivas. Se varyan a propósito.
+
+---
+
+## 5. Los efectos de sonido son tipografía
+
+No son decoración. **Son la única parte de la viñeta que es palabra, imagen y
+evento a la vez.** Por eso hay que tratarlos como tipografía display.
+
+| Propiedad | Codifica | Cómo |
+|---|---|---|
+| **Peso y tamaño** | Volumen | Más grande y más grueso = más fuerte. Ojo: doblar el tamaño se lee como mucho más fuerte, no el doble |
+| **Contorno** | Textura | Recto y anguloso = impacto, metal, hueso. Curvo y afilado = líquido. Roto y rasgado = destrucción |
+| **Dirección e inclinación** | Velocidad | En la línea de viaje = se mueve con la cosa. En diagonal fuerte = más rápido que en horizontal |
+| **Perspectiva** | Profundidad | Hundido hacia un punto de fuga: el sonido viene de lejos |
+| **Contorno negro** | Legibilidad | Permite ponerlo sobre fondos ruidosos |
+| **Extrusión** | Masa | Los golpes pesados casi siempre llevan una |
+| **Baseline irregular** | Vibración | Letras giradas y desalineadas: nada suena recto |
+| **Arte encima** | Integración | El efecto pisa el dibujo en vez de flotar al lado |
+
+La última regla importa más de lo que parece: **un efecto flotando en espacio
+limpio al lado de la acción se vuelve un subtítulo**. Tiene que tocar, solaparse
+o salir de la cosa que hizo el ruido.
+
+### El efecto sin marco
+
+En la página: spiked/jagged = volumen alto; rectangular = documento o sistema;
+wavy = algo que fluye; liso redondeado = voz suave. Y el estándar de las
+estadísticas de lettering: **lo más común es no.globular nada**, el sonido escrito
+directo sobre la viñeta.
+
+### Cuándo no poner efecto
+
+Una viñeta que ya muestra una puerta cerrándose de golpe no necesita "BAM".
+Y la regla más importante de todas: **el uso tiene que ser desigual**. Varias
+viñetas sin efecto y una que domina. Si todas lo tienen, ninguna significa nada.
+
+### Onomatopeyas en español
+
+Lo que funciona en inglés no siempre funciona en español. Este es el
+repertorio, clasificado por lo que codifican:
+
+| Tipo | Palabras | Contorno |
+|---|---|---|
+| Golpe seco | PUM, PLAM, CLAC, TAC | Recto, anguloso |
+| Impacto grande | BANG, BÓM, KABOOM, ¡PUM! | Grueso, extruido, astillado |
+| Rotura | CRAAACK, ESCAAA, KLING, TRON | Roto, rasgado |
+| Arrastre / roce | ZAS, ZZZT, SHIIII | Ondulado, alargado |
+| Metal | CLANG, CHIRR, TINC | Duro, corto, brillante |
+| Fuego | FSSSH, WHOOM, UFFF | Curvo, afilado, con cadenas de letras |
+| Vapor / presión | PSHHH, FSHHH, SSSHH | Ondulado, con puntos |
+| Electricidad | TRRZZZT, BZZZT, CHAK | Zigzag, letters muy juntas |
+| Explosión | BÓOOM, PUMMM, BAAA | Enorme, ocupa el panel, partly fuera de marco |
+| Caída / golpe seco en el suelo | PAF, PLON, TOC | Redondeado, con ondas |
+| Silencio | — | Sin efecto. Viñeta vacía |
+| Mirada fija | — | Sin efecto. Solo la cara |
+
+Regla de idioma: **cero kana, cero ideogramas.** Los efectos van en español o en
+romaji. Los efectos japoneses no aparecen en esta historieta.
+
+---
+
+## 6. Los kits de efecto de cada poder
+
+Cada poder tiene un color, una forma y un tipo de línea. Si el lector reconoce el
+efecto antes de ver de quién es, funciona.
+
+### Rika — el dash que atraviesa
+
+| | |
+|---|---|
+| Color | Blanco y hueso. Su color |
+| Forma | Una estela horizontal larga, de 3 a 4 veces su altura, con los bordes deshilachados |
+| Líneas | Paralelas diagonales, muy juntas, en la dirección del corte. Cortadas en seco, nunca curvas |
+| Impacto | **Corte limpio.** Una línea recta que parte el cuerpo y dos líneas finas de sangrado |
+| Sonido | ZAS, CRAAACK. Corto, seco, sin cola |
+| Detalle | Un fotograma en el que el haori todavía está en el sitio viejo y el cuerpo ya está en el nuevo |
+
+### Goro — la carga larga y la brasa
+
+| | |
+|---|---|
+| Color | Naranja brasa sobre gris. Lo único cálido de la página |
+| Forma | Un cono. El cono es la brasa, y ocupa la dirección entera de la carga |
+| Líneas | Radiales desde el puño, porque el empuje sale hacia afuera |
+| Impacto | **Onda plana**, de baja altura, muy ancha. El suelo se agrieta en unFans straight line, no en un círculo perfecto |
+| Sonido | WHOOM, PUMMM. El más largo de los cuatro |
+| Detalle | Polvo que arranca en el momento de la carga y sigue 3 viñetas |
+
+### Ren — la carga que no se recarga
+
+| | |
+|---|---|
+| Color | Amarillo chillon. Es su marca y aquí también |
+| Forma | **Tres estelas superpuestas**, en paralelo, de la misma figura |
+| Líneas | Guionadas, densas, sobre el cuerpo. Las tres borradas |
+| Impacto | Atravesado, sin cráneo ni detalle: solo el hueco y las tres rayas |
+| Sonido | ZZZT, TRRZT. Electrical |
+| Detalle | El único personaje que se dibuja **desenfocado** en la viñeta del impacto |
+
+### Yui — el salto corto y el rifle
+
+| | |
+|---|---|
+| Color | Gris azulado y blanco de onda |
+| Forma | **Ondas concéntricas**, planas, que se expanden. Al hablar de la brasa, lo contrario |
+| Líneas | Ninguna línea de velocidad en el disparo: solo el anillo |
+| Impacto | El punto de impacto primero se ve en la onda, no en el enemigo |
+| Sonido | TINC (disparo), PAF (el anillo contra algo), ZAS (corte de la brasa) |
+| Detalle | El anillo corta la línea de repetición: los duplicados de un enemigo salen de la viñeta |
+
+### Los kaiyu — cuando muerden
+
+| | |
+|---|---|
+| Color | El color de peligro, solo en una parte del cuerpo |
+| Forma | Boca abierta,Cuernos, todas las aristas hacia el lector |
+| Líneas | Radiales, pero en negativo: líneas blancas sobre el cuerpo |
+| Impacto | **Nada de fuego, nada de Illustración perfecta.** Espinazo, no explícito |
+| Sonido | GRRAAAH, KRAK, HNM |
+| Detalle | El doble contorno que lo separa de los humanos |
+
+---
+
+## 7. Cómo se le pide esto a Stitch
+
+Un bloque por beat de pelea. Se pega después del ancla, antes del prompt del
+capítulo.
+
+```
+ACCION. [Golpe 1: nombre del golpe]
+Anticipación: <plano, tamaño, dónde está el cuerpo, que dice la cara>
+Ataque: <plano, líneas paralelas en que direccion, cuanto ocupa la franja>
+Impacto: <panel a sangre, tamaño de la página, líneas radiales convergiendo en
+<que punto>, entorno deformado en que direccion, efecto de sonido dibujado
+encima de la cosa que lo hizo, en que idioma, con que contorno>
+Reacción: <plano, cara, que muscle se tensa>
+Consecuencia: <plano, que queda roto, donde está la polvareda>
+SFX: <palabra en español> <contorno: recto/curvo/rasgado> <tamaño relativo>
+Gutter: <100 / 250 / 500 px>
+```
+
+Y al final del capítulo:
+
+```
+SONIDOS DE ESTE Capítulo. Dibujados, no descrito. Ningun caracter japonés.
+<lista de los de arriba, uno por línea, con su contorno>
+```
+
+---
+
+## 8. Checklist de una pelea
+
+| Se comprueba | Si falla |
+|---|---|
+| El impacto es el panel más grande de la secuencia | Regenerar |
+| Las líneas de velocidad apuntan al punto del golpe | Regenerar |
+| No todas las viñetas tienen líneas | Regenerar |
+| El efecto de sonido toca o pisa la cosa que hizo el ruido | Regenerar |
+| Los efectos de sonido están en español, sin kana | Regenerar |
+| Hay al menos un sonido de golpe pesado y uno corto en cada pelea | Ajustar |
+| Los gutters cambian de tamaño | Ajustar |
+| Hay un corte diagonal o un panel solapado | Ajustar |
+| El eje de la cámara no cambia de lado a mitad de secuencia | Regenerar |
+| Después del golpe hay una viñeta quieta | Regenerar |
+| Los dos golpes más importantes no se parecen | Regenerar |
+| No hay panel repetido tres veces con el mismo tamaño | Regenerar |
+| El poder se reconoce por el color antes que por la forma | Ajustar |
+
+---
+
+## 9. Lo que no se dibuja
+
+Sin ventanas de sistema, sin barras, sin números de poder, sin HUD, sin "LEVEL
+UP", sin multiple de estado, sin marcas de agua, sin onomatopeyas japonesas, sin
+texto en inglés.
+
+Un efecto de sonido **no** es un panel de sistema. Es tinta sobre la imagen.
