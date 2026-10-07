@@ -78,7 +78,9 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 | 5 | ✅ (imagen `cap05_descarga`) | ⚠️ | ampliar |
 | 6 | ✅ prosa escrita (Día 3, catorce puertas) | ✅ guion 40 viñetas (ampliado: tejado, civiles contando, tanque, chincheta) | ✅ novela terminó con quemaduras sin explicar (semilla cap18) |
 | 7 | ✅ prosa escrita (`cap07.txt`, "Lo que quemó") | ✅ guion detallado (1444 l) | novela termina con quemaduras sin explicar (semilla cap18) ✅ |
-| 8-10 | ❌ pendiente | cap08-10 resumen (~120 l) | ampliar 8-10 a la par |
+| 8 | ✅ prosa (`cap08.txt`, "Verde", 21:10 + epílogo al alba) | ✅ guion detallado (68 pantallas · 133 viñetas) | bloque G (madrugada: "Voy a entrar", círculo en el mapa) alineado con la novela |
+| 9 | ✅ prosa (`cap09.txt`, "Nadie hace nada", 18-may, kaiyu amarillo) | ✅ guion detallado (68 pantallas · 131 viñetas) | tema "nadie"; gancho 30,8%; semilla del kaiyu amarillo |
+| 10 | ❌ pendiente | cap10 resumen (~120 l) | **al completar la novela del cap10: DETENER y montar PDF historieta caps 1-10** |
 | 11-200 | ❌ | ❌ | a la par |
 
 ## Pendientes / próximos pasos
@@ -86,7 +88,7 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 1. ✅ Corregir `Guiones/cap01.md` portada: Ren Hayashi — El Relámpago / Yui Nakamura — La Distancia. ✅
 2. Ampliar `Guiones/cap06.md` con lo extra de la novela cap6.
 3. Push a GitHub (`git@github.com:Sgborbolla/WEBTOONPAD.git`): commit pendiente (118+ archivos ya stageados, incluye reorganización y borrado de prompts).
-4. Capítulos 7-10 (novela + guion a la par). **Al completar el cap 10: DETENER la novela y montar el PDF de historieta con los 10 primeros capítulos** (formato internacional de volúmenes de ~10 caps).
+4. Capítulos 9-10 (novela + guion a la par). **Al completar el cap 10: DETENER la novela y montar el PDF de historieta con los 10 primeros capítulos** (formato internacional de volúmenes de ~10 caps).
 5. Webtoon: **estilo de dibujo AÚN SIN DECIDIR** (usuario se inclina a coreano tipo Solo Leveling / Omniscient Reader; historieta en japonés con escuela coreana). Definir antes del arte.
 6. Revisar del usuario: docx con 6 capítulos, imágenes incrustadas y encabezados corregidos.
 7. ✅ **Decidido (2026-10-07):** Yui Nakamura = **"La Distancia"** en novela/historieta (rifle con mira telescópica). "El Eco" queda solo en el juego. NO hay que tocar ninguna otra referencia: los guiones/novela ya usan "La Distancia"; las demás apariciones de "eco" son el sustantivo (echo), no el título.
