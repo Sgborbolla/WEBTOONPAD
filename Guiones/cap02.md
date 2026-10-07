@@ -1,6 +1,6 @@
 # CAP 02 — Día 1, tarde. La primera puerta
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | Día | 1, tarde |
+| Fecha | lunes 15 de mayo de 2017 |
 | Lugar | Ward, Sector 6, bloque de trabajadores |
 | Qué pasa | Se abre una puerta. Sale el primer kaiyu |
 | Viñetas | 36 |
@@ -35,18 +36,18 @@ iluminación de tubo. Sol de la tarde, bajo y naranja sucio.
 atado a la espalda. Se apoya contra el marco de una puerta metálica, la puerta
 de servicio del Sector 6. Cruzado de brazos.
 > **Goro:** Cuatro y veinte. Cuatro y media abre el otro.
-> **Goro:** Seis y ahi se van todos. Menudo turno.
+> **Goro:** Seis y ahí se van todos. Menudo turno.
 
 **3.** Plano de bocas. Goro, sin moverse. Del otro lado, se oye a alguien
 barriendo.
-> **Goro:** Oye. ¿Esta el de arriba?
-> **Voz:** Todavia no, Arashi-san.
+> **Goro:** Oye. ¿Está el de arriba?
+> **Voz:** Todavía no, Arashi-san.
 
 **4.** Plano medio. Pasillo. Un hombre joven se acerca con un cuaderno:
 Kiryu, 30, mono de trabajo, cinta métrica colgando.
 > **Kiryu:** Arashi-san. La puerta del cuatro hace un ruido raro.
 > **Goro:** Raro como.
-> **Kiryu:** Como un... soplido. Cada certain minutos.
+> **Kiryu:** Como un... soplido. Cada ciertos minutos.
 > **Goro:** Cada cuanto.
 > **Kiryu:** No se. Dos, tres minutos.
 
@@ -101,7 +102,7 @@ bombilla, un extintor. Kosuke, 63, con el delantal, sacando la basura.
 **12.** Plano entero. Goro baja las escaleras con la bolsa. El sello de la puerta
 del Sector 6 se ve arriba, en la pared.
 > **Caja:** El Sector 6 se sella a las seis.
-> **Caja:** A las cuatro y veinte, abria.
+> **Caja:** A las cuatro y veinte, abría.
 
 **13.** Plano detalle. La bolsa en el contenedor. El sol, más bajo. Todo igual.
 
@@ -123,7 +124,7 @@ Una franja de luz negra sale por debajo.
 
 **18.** Primer plano de Goro. La cara quieta. Los ojos, sí, move.
 > **Caja:** El no se llamo a si mismo. Nadie lo llamo.
-> **Caja:** Koryo habia escrito el parte.
+> **Caja:** Koryo había escrito el parte.
 
 **19.** Plano de bocas. Kiryu, detrás de Goro, con el cuaderno abierto.
 > **Kiryu:** Yo no veo nada.
@@ -146,7 +147,7 @@ una puerta girada, un hueco plano, sin marco, sin bisagras. Negro dentro.
 
 **23.** Silueta. Goro contra el hueco. Es el único contorno humano recortado
 contra el negro.
-> **Caja:** Una puerta no se abre asi.
+> **Caja:** Una puerta no se abre así.
 > **Caja:** Se coloca.
 
 **24.** Plano medio. Goro retrocede un paso. El hueco no cambia.
@@ -159,7 +160,7 @@ de Goro. Amarillo palido en el codo.
 > **Sonido:** Un soplido largo.
 
 **27.** Plano de bocas. Goro.
-> **Goro:** Hey. (pausa) Hey, ¿estas bien?
+> **Goro:** Hey. (pausa) Hey, ¿estás bien?
 
 **28.** Plano general. Un kaiyu sale del hueco: **amarillo**, el tamaño de un
 caballo, hombro grande y cabeza hundida. El siluete de un **Embestidor**.
@@ -200,7 +201,7 @@ puerta de cocina.
 
 **35.** Primer plano de Kosuke en la puerta del pasillo. Mira el pasillo. Mira a
 Goro. La bolsa de basura, todavía en el suelo.
-> **Kosuke:** ¿Que paso ahi.
+> **Kosuke:** ¿Qué pasó ahí?
 > **Goro:** Nada.
 
 **36.** Viñeta a sangre, la última. El pasillo, el hueco al fondo, un hombre
@@ -215,9 +216,9 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 | Viñeta | Quien | Dice |
 |---|---|---|
 | 2 | Goro | Cuatro y veinte. Cuatro y media abre el otro. |
-| 2 | Goro | Seis y ahi se van todos. Menudo turno. |
-| 3 | Goro | Oye. ¿Esta el de arriba? |
-| 3 | Voz | Todavia no, Arashi-san. |
+| 2 | Goro | Seis y ahí se van todos. Menudo turno. |
+| 3 | Goro | Oye. ¿Está el de arriba? |
+| 3 | Voz | Todavía no, Arashi-san. |
 | 4 | Kiryu | Arashi-san. La puerta del cuatro hace un ruido raro. |
 | 4 | Goro | Raro como. |
 | 4 | Kiryu | Como un... soplido. Cada cierto minutos. |
@@ -256,10 +257,10 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 | 20 | Kiryu | Bueno. Voy a... voy a avisar. |
 | 20 | Goro | Corre. |
 | 27 | Goro | Hey. |
-| 27 | Goro | Hey, ¿estas bien? |
+| 27 | Goro | Hey, ¿estás bien? |
 | 29 | Goro | No vengas. Te digo que no vengas. |
 | 34 | Kosuke | Arashi. ¿Comes ahora o... |
-| 35 | Kosuke | ¿Que paso ahi. |
+| 35 | Kosuke | ¿Qué pasó ahí? |
 | 35 | Goro | Nada. |
 
 ### Cajas de narración (12)
@@ -268,12 +269,12 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 |---|---|
 | 1 | Sector 6. Turno de tarde. |
 | 12 | El Sector 6 se sella a las seis. |
-| 12 | A las cuatro y veinte, abria. |
+| 12 | A las cuatro y veinte, abría. |
 | 15 | 17:20. Turno de Goro Arashi. |
 | 18 | El no se llamo a si mismo. Nadie lo llamo. |
-| 18 | Kiryu habia escrito el parte. |
+| 18 | Kiryu había escrito el parte. |
 | 22 | 17:24. El Sector 6. |
-| 23 | Una puerta no se abre asi. |
+| 23 | Una puerta no se abre así. |
 | 23 | Se coloca. |
 | 28 | Categoría verde. Exploracion. |
 | 28 | El primero. |
@@ -291,7 +292,7 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 | 29 | Un gruñido sin garganta |
 | 31 | El guante: un golpe seco |
 | 32 | Polvo cayendo del techo |
-| 36 | Una radio de cocina, todavia encendida |
+| 36 | Una radio de cocina, todavía encendida |
 
 ---
 
@@ -300,7 +301,7 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 1. **Abre el género.** Un rectángulo negro en una pared. No hay explicación
 2. Goro intenta ser humano con un monstruo: le pregunta si está bien
 3. **El primer poder se ve por accidente**, no porque alguien lo eligiera
-4. **El vecino vuelve y no pasa nada todavia.** Eso guarda la matanza para el cap 3
+4. **El vecino vuelve y no pasa nada todavía.** Eso guarda la matanza para el cap 3
 5. Kiryu **dice que no ve nada** y se va a avisar. Va a morir en el cap 3
 
 ---
@@ -316,7 +317,7 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 | Kiryu no sale del pasillo en ninguna viñeta | Regenerar |
 | El brillo naranja sale del guante, no del kaiyu | Regenerar |
 | No hay ventanas de sistema ni números | Regenerar |
-| Nadie grita todavia | Regenerar |
+| Nadie grita todavía | Regenerar |
 | Kosuke no ve el kaiyu en ninguna viñeta | Regenerar |
 
 ---
@@ -324,5 +325,5 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 ## Nota de produccion
 
 Este es el capítulo que prueba si Stitch mantiene dos cosas distintas en la
-misma página: **un monstruo** y **una conversacion domestica**. Si las mezcla,
+misma página: **un monstruo** y **una conversación domestica**. Si las mezcla,
 hay que bajar a 30 viñetas por capítulo y subir el número de capítulos.

@@ -5,8 +5,12 @@
 
 ## Objetivo general
 
-Primera temporada de **Nippon Post-Apocalyptic Disaster (NPAD)**: 200 capítulos.
-Dos salidas que avanzan **a la par** por capítulo:
+**Nippon Post-Apocalyptic Disaster (NPAD)**: serie de **varias temporadas**.
+- **Primera temporada = caps 1-200** (documento rector: `Guias/arco-200.md`).
+- Después de la temporada 1, la serie continúa con más temporadas hasta cruzar
+  los **más de 30 años** de historia (el mundo kaiyu, los otros catálogos, la
+  invasión en otros países, etc.) e historias nuevas.
+- Dos salidas que avanzan **a la par** por capítulo:
 
 1. **Novela** (fuente grande, extensa): `Novela/novela_caps/capNN.txt` -> un solo docx creciente `Novela/NPAD_NOVELA.docx`.
 2. **Guiones webtoon**: `Guiones/capNN.md` en el formato detallado de `Guiiones/cap01.md` (modelo de referencia, 1019 líneas).
@@ -35,6 +39,7 @@ en la novela").
 
 - **Ren Hayashi — El Relámpago**; **Yui Nakamura — La Distancia** (rifle militar con **mira telescópica**, no escopeta). PROHIBIDO "Ren Ishida", "Yui Kurosawa", "La Sombra" (es un subjefe naranja) y "La Escopeta".
 - **El Silencio = 14 min exactos** (04:58 -> 05:12, 15-may-2017). Cap6: **catorce puertas**, cierra pilot.
+- **Cronología de los primeros 10 capítulos (corregida 2026-10-07):** Día 1 = lunes 15-may (caps 1-3; Silencio 04:58→05:12, presente 07:42); Día 2 = martes 16-may (caps 4-5); Día 3 = miércoles 17-may (cap06 madrugada 04:52-05:13, cap07 05:20-05:25, cap08 21:10 + alba del 18); Día 4 = jueves 18-may (cap09 10:40-19:30, cap10 21:45). Queda revertido el error previo de "día seis"/"18 de mayo = día seis": cap09 y cap10 son **día cuatro**.
 - Cero inglés/kana/kanji/cirílico en la historieta; SFX en español. Japonés solo en el título corto de la portada.
 - **Formato modelo de guion**: `Guiones/cap01.md`. Pain dogs:
 - Goro sin guante desde el final del cap5 (lo arrojó tras la descarga que mató a Nomura Tatsuo).
@@ -56,8 +61,9 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 ## Plan de entrega — volúmenes de HISTORIETA (formato internacional)
 
 - **Estándar internacional del género (verificado en web):** los manhwa/webtoon se entregan compilados en **volúmenes de ~10 capítulos** (p. ej. *Solo Leveling* en volúmenes, *Lookism* en 20+ tomos, light novels en volúmenes EPUB/PDF). El usuario adoptó este formato: **un PDF con 10 capítulos dentro**.
-- **Regla de producción:** al completar cada hito de 10 capítulos, **DETENER la novela** y producir la **historieta webtoon** de esos 10 capítulos junto a los guiones `.md`, entregada como **PDF único con los 10 capítulos**. El siguiente hito de 10 (cap 11-20) se produce después de escribir la novela de esos capítulos.
+- **Regla de producción:** al completar cada hito de 10 capítulos, **DETENER la novela** y producir la **historieta webtoon** de esos 10 capítulos junto a los guiones `.md`, entregada como **PDF único con los 10 capítulos**. El siguiente hito de 10 (cap 11-20) se produce después de escribir la novela de esos capítulos. **El proceso se repite indefinidamente por temporadas** hasta atravesar los 30+ años de historia (la serie es larga; los volúmenes siguen saliendo).
 - Próximo hito: al terminar la novela del **capítulo 10**, montar el **PDF de los capítulos 1-10** (novela ya hecha 1-10; historieta en base a los `.md`).
+- **ESTADO 2026-10-07:** novela **DETENIDA** (caps 1-10 ✅). Se está montando el **PDF de historieta caps 1-10**. Volumen siguiente (caps 11-20) se produce tras escribir la novela de esos capítulos.
 
 ## Organización de carpetas (2026-10-07)
 
@@ -71,27 +77,29 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 
 | Cap | Novela (`capNN.txt`) | Guion (`capNN.md`) | Notas |
 |---|---|---|---|
-| 1 | ✅ + batalla aérea | ✅ + batalla (Bloque A2, S29A-E) | ✅ portada Ren Hayashi/Yui Nakamura, rifle con mira telescópica |
-| 2 | ✅ | ⚠️ guion corto (327 l) | ampliar a la par |
-| 3 | ✅ (imagen `cap03_calle`) | ⚠️ | ampliar |
-| 4 | ✅ | ⚠️ | ampliar |
-| 5 | ✅ (imagen `cap05_descarga`) | ⚠️ | ampliar |
-| 6 | ✅ prosa escrita (Día 3, catorce puertas) | ✅ guion 40 viñetas (ampliado: tejado, civiles contando, tanque, chincheta) | ✅ novela terminó con quemaduras sin explicar (semilla cap18) |
-| 7 | ✅ prosa escrita (`cap07.txt`, "Lo que quemó") | ✅ guion detallado (1444 l) | novela termina con quemaduras sin explicar (semilla cap18) ✅ |
-| 8 | ✅ prosa (`cap08.txt`, "Verde", 21:10 + epílogo al alba) | ✅ guion detallado (68 pantallas · 133 viñetas) | bloque G (madrugada: "Voy a entrar", círculo en el mapa) alineado con la novela |
-| 9 | ✅ prosa (`cap09.txt`, "Nadie hace nada", 18-may, kaiyu amarillo) | ✅ guion detallado (68 pantallas · 131 viñetas) | tema "nadie"; gancho 30,8%; semilla del kaiyu amarillo |
-| 10 | ❌ pendiente | cap10 resumen (~120 l) | **al completar la novela del cap10: DETENER y montar PDF historieta caps 1-10** |
+| 1 | ✅ + batalla aérea | ✅ + batalla (Bloque A2, S29A-E) | ✅ portada Ren Hayashi/Yui Nakamura, rifle con mira telescópica; conteos corregidos: 79 pantallas · 136 viñetas · 12 SFX · 8 cajas (audit 2026-10-07) |
+| 2 | ✅ | ⚠️ guion corto (formato resumen) | fecha añadida a la ficha: lunes 15-may |
+| 3 | ✅ (imagen `cap03_calle`) | ⚠️ formato resumen | fecha añadida: lunes 15-may |
+| 4 | ✅ | ⚠️ formato resumen | fecha añadida: martes 16-may |
+| 5 | ✅ (imagen `cap05_descarga`) | ⚠️ formato resumen | fecha añadida: martes 16-may |
+| 6 | ✅ prosa escrita (Día 3, catorce puertas) | ✅ guion 40 viñetas (ampliado: tejado, civiles contando, tanque, chincheta) | ✅ novela termina con quemaduras sin explicar (semilla cap18) · fecha añadida: miércoles 17-may |
+| 7 | ✅ prosa escrita (`cap07.txt`, "Lo que quemó") | ✅ guion detallado (1444 l) | cronología corregida: ficha/caja/tabla pasan de "lunes 15" a "miércoles 17" (05:25) |
+| 8 | ✅ prosa (`cap08.txt`, "Verde", 21:10 + epílogo al alba) | ✅ guion detallado (68 pantallas · 133 viñetas) | cronología corregida: "Lunes 15" → "Miércoles 17" (21:10); bloque G alineado con la novela |
+| 9 | ✅ prosa (`cap09.txt`, "Nadie hace nada", 18-may, kaiyu amarillo) | ✅ guion detallado (68 pantallas · 131 viñetas) | corregido a "día cuatro terminó así" (era "día seis") y "tres días después del lunes" |
+| 10 | ✅ prosa (`cap10.txt`, "La jauría", jueves 18, 21:45) | ✅ guion detallado (70 pantallas · 136 viñetas, reordenado V1-V136) | LOS TEXTOS auditados: 6 globos / 5 cajas / 9 SFX / 4 sonidos (se vaciaron números viejos); V115 gutter 0/1020 |
 | 11-200 | ❌ | ❌ | a la par |
 
 ## Pendientes / próximos pasos
 
 1. ✅ Corregir `Guiones/cap01.md` portada: Ren Hayashi — El Relámpago / Yui Nakamura — La Distancia. ✅
-2. Ampliar `Guiones/cap06.md` con lo extra de la novela cap6.
-3. Push a GitHub (`git@github.com:Sgborbolla/WEBTOONPAD.git`): commit pendiente (118+ archivos ya stageados, incluye reorganización y borrado de prompts).
-4. Capítulos 9-10 (novela + guion a la par). **Al completar el cap 10: DETENER la novela y montar el PDF de historieta con los 10 primeros capítulos** (formato internacional de volúmenes de ~10 caps).
+2. ✅ Ampliar `Guiones/cap06.md` con lo extra de la novela cap6.
+3. Push a GitHub (`git@github.com:Sgborbolla/WEBTOONPAD.git`): commit pendiente con el QA completo (cronología Día 1-4, conteos cap01, LOS TEXTOS de cap10, docx a 10 caps, notas).
+4. ✅ Capítulos 9-10 (novela + guion a la par). **Al completar el cap 10: DETENER la novela y montar el PDF de historieta con los 10 primeros capítulos** (formato internacional de volúmenes de ~10 caps).
 5. Webtoon: **estilo de dibujo AÚN SIN DECIDIR** (usuario se inclina a coreano tipo Solo Leveling / Omniscient Reader; historieta en japonés con escuela coreana). Definir antes del arte.
-6. Revisar del usuario: docx con 6 capítulos, imágenes incrustadas y encabezados corregidos.
+6. ✅ Revisar del usuario: docx con 10 capítulos, imágenes incrustadas y encabezados corregidos (reconstruido 2026-10-07).
 7. ✅ **Decidido (2026-10-07):** Yui Nakamura = **"La Distancia"** en novela/historieta (rifle con mira telescópica). "El Eco" queda solo en el juego. NO hay que tocar ninguna otra referencia: los guiones/novela ya usan "La Distancia"; las demás apariciones de "eco" son el sustantivo (echo), no el título.
+8. ✅ **QA de consistencia 2026-10-07:** cap01 (viñetas consecutivas V1-V136, tablas = cuerpo, 12 SFX + 5 sonidos), cap10 (tablas LOS TEXTOS renumeradas, V115 gutter 0/1020), cap02-06 (fechas en ficha, ortografía/acentos, "cada certain"→"cada ciertos"), novelas (timestamps Día 1-4 consistentes).
+9. **PLANEADO (no implementar en caps 1-10):** nuevo arco de enemigos para caps 11+ y biblia del mundo kaiyu (idioma, estilo de vida, jerarquías, capítulos ambientados en su mundo) — pendiente de redactar en `enemigos.md` / `kaiyu-world.md`.
 
 ## Notas de producción webtoon
 

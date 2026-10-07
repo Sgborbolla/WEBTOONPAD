@@ -1,6 +1,6 @@
 # CAP 06 — Día 3. Los catorce minutos
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | Día | 3 |
+| Fecha | miércoles 17 de mayo de 2017 |
 | Lugar | Base NSF, costa de Kanto. Y el cielo |
 | Qué pasa | Se abren todas las puertas del mundo. Catorce minutos y se cierran |
 | Viñetas | 40 |
@@ -119,13 +120,13 @@ Kurose, sobre la mesa, abierta.
 
 **19.** Primer plano de **Kurose**, de pie, la cara cambiada.
 > **Kurose:** (primera vez que habla) Yo tengo el número.
-> **Watanabe:** ¿Que número?
+> **Watanabe:** ¿Qué número?
 > **Kurose:** De las que se abren. (pausa) Todas a la vez.
 
 **20.** Plano de bocas. La sala, todos mirándolo. Kurose, temblando.
 > **Kurose:** Catorce.
 > **Oficial:** (murmura) Catorce puertas.
-> **Watanabe:** Catorce puertas en el mundo, y el pais entero en silencio.
+> **Watanabe:** Catorce puertas en el mundo, y el país entero en silencio.
 
 **21.** Primer plano de Watanabe. Por primera vez, **no sabe qué decir.**
 > **Watanabe:** (nada)
@@ -209,7 +210,7 @@ la calle, **se detienen**. Todos a la vez. Como una orden.
 **37.** Primer plano de **Ren**. Mirando. Las manos quietas por segunda vez en el
 día.
 > **Ren:** Se van.
-> **Yui:** ¿Que?
+> **Yui:** ¿Qué?
 > **Ren:** Se van. (pausa) Todos se van.
 
 **38.** Plano entero. El hueco de la guardería, ya pequeño. **Mio** está dentro,
@@ -247,11 +248,11 @@ número**, con un papelito en blanco.
 | 18 | Watanabe | Y Tokio. |
 | 18 | Oficial | Tokio no responde, general. |
 | 19 | Kurose | Yo tengo el número. |
-| 19 | Watanabe | ¿Que número? |
+| 19 | Watanabe | ¿Qué número? |
 | 19 | Kurose | De las que se abren. Todas a la vez. |
 | 20 | Kurose | Catorce. |
 | 20 | Oficial | Catorce puertas. |
-| 20 | Watanabe | Catorce puertas en el mundo, y el pais entero en silencio. |
+| 20 | Watanabe | Catorce puertas en el mundo, y el país entero en silencio. |
 | 26 | Rika | Mio. |
 | 27 | Rika | Mio. Soy yo. |
 | 27 | Mio | Rika. |
@@ -266,7 +267,7 @@ número**, con un papelito en blanco.
 | 33 | Goro | Yo crucé una de esas. |
 | 33 | Rika | No. Tu saliste de ella. |
 | 37 | Ren | Se van. |
-| 37 | Yui | ¿Que? |
+| 37 | Yui | ¿Qué? |
 | 37 | Ren | Se van. Todos se van. |
 
 ### Cajas de narración (22)
@@ -358,7 +359,7 @@ número**, con un papelito en blanco.
 | Ningún kaiyu se detiene a mirar a un niño | Regenerar |
 | El civil del portal es el único humano que se detiene | Regenerar |
 | Los kaiyu se detienen a la vez en la viñeta 36 | Regenerar |
-| No hay omega con classificacion en pantalla | Regenerar |
+| No hay omega con clasificación en pantalla | Regenerar |
 | El cap cierra con Rika sola con la mano en el aire | Regenerar |
 | La chincheta del octavo punto solo aparece al final, viñeta 40 | Regenerar |
 
@@ -372,7 +373,7 @@ dividirlo en **cap 6A (el cielo, 1-22)** y **cap 6B (omega, 23-40)**, y ajustar
 los números de la ficha.
 
 Es el único capítulo del piloto donde el lector sabe lo que la página no:
-que el número **catorce** es tambien el número del grupo. Todavia no. Lo sabra
+que el número **catorce** es también el número del grupo. Todavía no. Lo sabra
 en el cap 7.
 
 ---
@@ -386,7 +387,7 @@ Lo que el piloto **no** dice y el cap 7 tiene que decir:
 | Por que se quemaron | El umbral quema a los humanos. Los kaiyu no |
 | Que hay un archivo de trece páginas | La orden de no avisar. La firmo Kurose |
 | Que Mio es omega | No tiene fila en el catalogo |
-| Que el Estado Mayor lo sabia | El general recibio la orden |
-| Que la OIDA no existia todavia | Se forma después del desastre |
+| Que el Estado Mayor lo sabía | El general recibio la orden |
+| Que la OIDA no existía todavía | Se forma después del desastre |
 
 Nada de esto aparece en el piloto. Todo esto es el cap 7.

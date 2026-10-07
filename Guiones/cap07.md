@@ -1,7 +1,7 @@
 # CAPÍTULO 7 — "Lo que quemó"
 
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 05:20 (base). Presente: 2026 (9 años).
+> **Fecha en la ficción:** miércoles **17 de mayo de 2017**, 05:20 (base). Presente: 2026 (9 años).
 > **Bloques:** A = Después de cap06 (S01–S15, gutter cerrado) · B = Interior base NSF (S16–S65, gutter abierto)
 > **Total:** 65 pantallas de 800×1280 · 117 viñetas · 83.200 px de scroll
 
@@ -1233,7 +1233,7 @@ Pantalla gris oscuro #2a2a2e, sin viñeta. Texto blanco centrado:
 
 **V112.** Plano general. Calle vacía tras ellos. Edificios grises, cielo nublado. Silencio.
 
-> **Caja de narración:** *15 de mayo de 2017 — 05:25.*
+> **Caja de narración:** *17 de mayo de 2017 — 05:25.*
 
 - **PLANO:** general
 - **COMPOSICION:** panorámico
@@ -1368,7 +1368,7 @@ Pantalla gris oscuro #2a2a2e. Sin viñeta. Texto blanco centrado, una línea:
 | V92 | Kurose, a solas. Guarda las trece páginas. |
 | V99 | 05:25. El día sigue. |
 | V106 | No saben cuándo volverá. Pero lo saben. |
-| V112 | 15 de mayo de 2017 — 05:25. |
+| V112 | 17 de mayo de 2017 — 05:25. |
 
 **Total cajas de narración: 16**
 

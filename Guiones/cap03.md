@@ -1,6 +1,6 @@
 # CAP 03 — Día 1, noche. La alarma
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | Día | 1, noche |
+| Fecha | lunes 15 de mayo de 2017 |
 | Lugar | Ward, calles del Sector 6 |
 | Qué pasa | La alarma. Entran más kaiyu. Los civiles mueren |
 | Viñetas | 36 |
@@ -69,7 +70,7 @@ Se apoya en una pared a respirar.
 **9.** Plano medio. Kiryu, 30, aparece corriendo por la esquina con el cuaderno
 en la mano. Ve a Setsuko.
 > **Kiryu:** Setsuko-san. ¿Ha oido la alarma?
-> **Setsuko:** ¿Que alarma?
+> **Setsuko:** ¿Qué alarma?
 > **Kiryu:** No ha sonado. Va a sonar.
 
 **10.** Plano de bocas. Setsuko, sin entender.
@@ -79,7 +80,7 @@ en la mano. Ve a Setsuko.
 
 **11.** Plano entero. Kiryu, corriendo calle abajo, hacia el hospital. Se oyen
 ambulancias ya, desde lejos.
-> **Sonido:** Sirenas. Muchas, y todavia sin prisa real.
+> **Sonido:** Sirenas. Muchas, y todavía sin prisa real.
 
 **12.** Primer plano de **Kawano Shinichi**, 38, saliendo del metro. Se estira.
 Mira arriba, ve el semaforo. No entiende la banda amarilla.
@@ -204,12 +205,12 @@ Gritos de fondo, todos.
 | 4 | Voz | Un parte, sr. Arashi. Si es una puerta sin número, no hay sector. |
 | 5 | Goro | ¿Y si hay algo adentro? |
 | 5 | Voz | No lo preveo. |
-| 5 | Goro | ¿Que? |
+| 5 | Goro | ¿Qué? |
 | 5 | Voz | No se prevee nada de este tipo. |
 | 5 | Goro | Manda a alguien. |
 | 5 | Voz | Cuando pueda, sr. Arashi. |
 | 10 | Kiryu | Setsuko-san. ¿Ha oido la alarma? |
-| 10 | Setsuko | ¿Que alarma? |
+| 10 | Setsuko | ¿Qué alarma? |
 | 10 | Kiryu | No ha sonado. Va a sonar. |
 | 10 | Setsuko | Esto es el Sector 6. A las seis cierran. |
 | 10 | Kiryu | Setsuko-san, por favor, vaya a su casa. |

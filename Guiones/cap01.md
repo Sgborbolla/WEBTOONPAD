@@ -3,7 +3,7 @@
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** lunes **15 de mayo de 2017**, 07:42. Presente: 2026 (9 años).
 > **Bloques:** Portada (S01) + A = cold open (S02–S29, gutter cerrado) · B = 3 días antes (45 pantallas, gutter abierto)
-> **Total:** 74 pantallas de 800×1280 · 128 viñetas + 1 portada · 94.720 px de scroll
+> **Total:** 79 pantallas de 800×1280 (S01 portada incluida) · 136 viñetas · 101.120 px de scroll
 
 ## Ficha
 
@@ -14,11 +14,11 @@
 | Fondo del bloque A | Blanco |
 | Fondo del bloque B | Gris oscuro #2a2a2e (marca de pasado) |
 | Personajes con nombre | Solo Rika Tsukimi, Mine Hoshino, Mio Tsukimi, Shino Tsukimi |
-| Viñetas | 136 + 1 portada |
-| Pantallas | 79 + prólogo |
+| Viñetas | 136 |
+| Pantallas | 79 (S01 = portada, sin viñetas) |
 | Globos de diálogo | 13 (9 con nombre + 4 de niños) |
 | Cajas de narración | 8 |
-| SFX | 14 marcas, 12 sonidos, todos en español |
+| SFX | 12 marcas, 11 sonidos, todos en español |
 | Enemigos visibles | Línea amarilla. Los 5 arquetipos. 21 en pantalla |
 
 > **Por qué solo Rika:** la guía de estructura webtoon marca como error común
@@ -73,7 +73,7 @@
 | S29E | T5 | 1 | 260 | 0/1020 |
 | S29 | T6 | 0 | — | rótulo negro |
 
-**Total bloque A: 34 pantallas · 59 viñetas · 43.264 px** (29 originales + 5 de la batalla aérea)
+**Total bloque A: 28 pantallas · 51 viñetas · 35.840 px** (S01 portada + S02–S28)
 
 **Suma de la retícula, bloque A:**
 T2R = 1200 + 80 = 1280 · T3R = 570 + 570 + 140 = 1280 · T4R = 380×3 + 35×4 = 1140 + 140 = 1280 · T5 = 260 + 1020 = 1280 · T1 = 1280 · T6 = 1280
@@ -93,7 +93,7 @@ De arriba abajo:
 
 1. **Cielo.** Mitad superior. Humo naranja y gris sobre una ciudad destruida: una
    avenida con un centro comercial reventado por dentro, coches volcados en el
-   asfalto, una torre deJapón con la estructura al aire y tendido colgando. Al
+   asfalto, una torre de Japón con la estructura al aire y tendido colgando. Al
    fondo, muy al fondo, la silueta de un kaiyu enorme entre los edificios, pequeña,
    como una sombra que no es una nube.
 
@@ -381,6 +381,7 @@ visor, boca cerrada, cejas bajas y horizontales.
 **V42.** Primer plano del soldado. El rostro entero, mirando de frente a cámara. Una
 fuente de luz clara y una sombra dura en un solo lado. El borde del casco le corta la
 frente en diagonal. Los ojos abiertos, sin parpadear.
+> **Sonido descrito:** un Shout de radio muy bajo.
 
 **V43.** Plano entero. El mismo soldado, visto desde atrás, llevándose la mano al
 casco. No se lo quita. Solo toca el metal, una vez, con dos dedos.
@@ -401,6 +402,7 @@ tomate, y el tomate tiene una grieta.
 
 **V47.** Plano general. Una plaza vacía. Humo bajo. Un coche volcado. Y al fondo un
 rectángulo negro abierto en un edificio, con luz de otro lado. Nadie.
+> **Sonido descrito:** un zumbido de fluorescente en el pasillo.
 
 ### S26 · T2R · 1 viñeta de 1200
 
@@ -443,19 +445,20 @@ que dejó la grieta, todavía recta.
 | S29D | T3R | 2 | 570/570 | 40/60/40 |
 | S29E | T5 | 1 | 260 | 0/1020 |
 
-**Total bloque A2: 5 pantallas · 8 viñetas · 6.400 px**
+**Total bloque A2: 6 pantallas · 8 viñetas · 7.680 px**
 
 ## Las viñetas
 
 ### S29A · T2R · 1 viñeta de 1200
 
 **V52.** Plano general aéreo, la ciudad entera. Amanecer. Los aviones cruzan el cielo en dos grupos dejando sendas blancas y rectas, como una costura sobre el día; abajo, el puerto y las avenidas, y las vetas oscuras de las criaturas avanzando todas en la misma dirección, como tinta que acaban de derramar. El ojo cae de las sendas a las manchas.
-> SFX en el eje de las sendas: *RRRRRAAAAAM*.
+> **SFX:** `RRRRRAAAAAM` (en el eje de las sendas).
 
 ### S29B · T4R · 3 viñetas de 380
 
 **V53.** Vista aérea de la columna de tanques entrando por el oeste, disparando a la vez; las flores negras de las explosiones suben entre los edificios y el cristal de los escaparates llueve sobre los coches.
-> SFX: *BRAAAAM* (disparo). *ROTIROTIRO* (lluvia de cristal).
+> **SFX:** `BRAAAAM` (disparo).
+> **SFX:** `ROTIROTIRO` (lluvia de cristal).
 
 **V54.** Plano medio. Un soldado arrastra a otro hacia un portal mientras grita una serie de números sueltos, sin globo, como letra pequeña que se desordena: **18 · 47 · 41 · su casa · la de su madre**. No es una orden: es su inventario.
 
@@ -464,7 +467,7 @@ que dejó la grieta, todavía recta.
 ### S29C · T1 · 1 viñeta de 1280 a sangre
 
 **V56.** IMPACTO. Rompe el marco y se va a sangría. La bestia de dos pisos levanta una extremidad hacia el cielo; el helicóptero que estaba demasiado bajo viene contra los tejados, con el rotor a medio girar. Los bordes quemados de la viñeta.
-> SFX: *ICKRRRAAACH* (el quejido metálico largo).
+> **SFX:** `ICKRRRAAACH` (largo, quejido metálico).
 > **Letrilla sobre la viñeta, pequeña, a la esquina:** *05:09.*
 
 ### S29D · T3R · 2 viñetas de 570
@@ -565,7 +568,7 @@ pasado. Texto blanco centrado, dos líneas, sin caja:
 
 ### S31 · T2 · 1 viñeta de 1060
 
-**V52.** Plano entero, de espaldas. Azotea de una guardería, 07:50. **Rika
+**V60.** Plano entero, de espaldas. Azotea de una guardería, 07:50. **Rika
 Tsukimi**, 15 años, de espaldas al lector, mirando la ciudad. Pelo rojo largo en
 coleta alta, movido por el viento. Su **haori color hueso** ondea: es la prenda más
 clara de la imagen y lo primero que se ve de ella. Detrás, la barandilla de metal, y
@@ -574,351 +577,353 @@ al fondo los edificios y los depósitos de agua de los tejados.
 
 ### S32 · T3 · 2 viñetas de 430
 
-**V53.** Plano medio. Rika de perfil contra el skyline. La luz de la mañana le da de
+**V61.** Plano medio. Rika de perfil contra el skyline. La luz de la mañana le da de
 lado y le marca media cara. El haori se le levanta por delante; ella no se ha movido.
 Tiene la cicatriz vieja en la ceja izquierda.
 
-**V54.** Detalle. Sus manos en la barandilla, los dedos sueltos, sin apretar. Las
+**V62.** Detalle. Sus manos en la barandilla, los dedos sueltos, sin apretar. Las
 vendas blancas en los antebrazos, tres vueltas cada una, ya algo grises. La barandilla
 de metal con el pintado marino en el canto.
 
 ### S33 · T2 · 1 viñeta de 1060
 
-**V55.** Primer plano de Rika mirando hacia abajo, a la calle, desde el borde de la
+**V63.** Primer plano de Rika mirando hacia abajo, a la calle, desde el borde de la
 azotea. No se le ve la cara entera: la barandilla le corta la mandíbula. El viento le
 mueve el pelo hacia un lado.
 
 ### S34 · T3 · 2 viñetas de 430
 
-**V56.** Plano entero. Rika baja por una escalera exterior de metal, un peldaño por
+**V64.** Plano entero. Rika baja por una escalera exterior de metal, un peldaño por
 uno, con la mano en el pasamanos. El sol le da en la cara. No hay prisa en ella.
 
-**V57.** Detalle. Sus sandalias de rejilla sobre una rejilla de metal. El mismo dibujo
+**V65.** Detalle. Sus sandalias de rejilla sobre una rejilla de metal. El mismo dibujo
 repetido dos veces, uno encima del otro.
 
 ### S35 · T2 · 1 viñeta de 1060
 
-**V58.** Plano entero de perfil. Rika sola en un solar, contra el skyline. Postura de
+**V66.** Plano entero de perfil. Rika sola en un solar, contra el skyline. Postura de
 **taijutsu**: los pies bien puestos, el peso abajo, la cadera por debajo de la rodilla.
 El haori casi quieto. Nadie la mira.
 
 ### S36 · T3 · 2 viñetas de 430
 
-**V59.** Detalle de sus antebrazos. Las vendas blancas atadas, tres vueltas cada una,
+**V67.** Detalle de sus antebrazos. Las vendas blancas atadas, tres vueltas cada una,
 ya sucias de uso. Detrás, desenfocado, el monte Fuji cortado por la mañana.
 
-**V60.** Detalle. Sus puños cerrados con el pelo rojo cayendo por delante de la mano.
+**V68.** Detalle. Sus puños cerrados con el pelo rojo cayendo por delante de la mano.
 La venda se le ve por debajo de la manga cada vez que cierra.
 
 ### S37 · T4 · 3 viñetas de 300
 
-**V61.** Viñeta de impacto. Rika golpea una tubería de acero montada en un caballete.
+**V69.** Viñeta de impacto. Rika golpea una tubería de acero montada en un caballete.
 Núcleo blanco en el centro exacto, ráfaga radial detrás. La tubería se dobla.
 
-**V62.** Viñeta de ruido. Un frame de estela: el antebrazo estirado y semitransparente,
+**V70.** Viñeta de ruido. Un frame de estela: el antebrazo estirado y semitransparente,
 las bordes deshilachadas en siete ecos. La tubería ya doblada dos veces.
 
-**V63.** Viñeta de silencio. La tubería doblada. Su mano, quieta al lado. No repite
+**V71.** Viñeta de silencio. La tubería doblada. Su mano, quieta al lado. No repite
 el golpe: lo sostiene.
 
 ### S38 · T3 · 2 viñetas de 430
 
-**V64.** Plano entero. Rika de pie, respirando, con las manos en las rodillas. El
+**V72.** Plano entero. Rika de pie, respirando, con las manos en las rodillas. El
 haori parado. El solar alrededor: una mazorca, tres contenedores, una verja.
 
-**V65.** Detalle. El haori de Rika solo, moviéndose en un cuadro donde ella no está.
+**V73.** Detalle. El haori de Rika solo, moviéndose en un cuadro donde ella no está.
 Es su marca: se mueve antes que ella.
 
 ### S39 · T2 · 1 viñeta de 1060
 
-**V66.** Plano general. El solar entero, con Rika pequeña dentro. Al fondo, la
+**V74.** Plano general. El solar entero, con Rika pequeña dentro. Al fondo, la
 guardería: un edificio de tres pisos con verja y un cartel de plástico. El sol de la
 mañana entra de lado y hace sombras largas.
 
 ### S40 · T3 · 2 viñetas de 430
 
-**V67.** Plano medio. La puerta de la guardería, abierta. Dentro, alfombra de colores
+**V75.** Plano medio. La puerta de la guardería, abierta. Dentro, alfombra de colores
 y paredes claras. Una mujer con delantal azul, de espaldas, recoge un juguete.
 
-**V68.** Plano entero. **Doce niños** de cuatro o cinco años sentados en círculo sobre
+**V76.** Plano entero. **Doce niños** de cuatro o cinco años sentados en círculo sobre
 la alfombra, de espaldas. Todos mirando hacia el mismo punto de la pared.
 > **Globo:** un niño, arriba-derecha, cola abajo-izquierda: *¡Ya!*
 
 ### S41 · T2 · 1 viñeta de 1060
 
-**V69.** Plano general del aula. La mujer del delantal azul, **Takagi**, se levanta de
+**V77.** Plano general del aula. La mujer del delantal azul, **Takagi**, se levanta de
 la alfombra. La puerta abierta al fondo, y el marco de la puerta encuadrando a Rika,
 que entra de espaldas. El haori es lo más claro del cuadro.
 
 ### S42 · T3 · 2 viñetas de 430
 
-**V70.** Plano medio. Rika se sienta en el suelo entre los niños, piernas dobladas,
+**V78.** Plano medio. Rika se sienta en el suelo entre los niños, piernas dobladas,
 espalda recta. Los niños se inclinan hacia ella. Empieza a contar con los dedos.
 
-**V71.** Detalle. Sus dedos contando sobre la alfombra, cuatro ya marcados con la yema.
+**V79.** Detalle. Sus dedos contando sobre la alfombra, cuatro ya marcados con la yema.
 Las vendas blancas de los antebrazos contra la lana.
 > **Globo:** Rika, abajo-izquierda, cola abajo-derecha: *Uno, dos, tres…*
 
 ### S43 · T3 · 2 viñetas de 430
 
-**V72.** Plano medio. **Mine Hoshino**, 5 años, con el delantal amarillo pálido, tira
+**V80.** Plano medio. **Mine Hoshino**, 5 años, con el delantal amarillo pálido, tira
 de la manga de Rika para enseñarle las manos. Las tiene abiertas, cargadas de témpera
 azul y amarilla hasta la muñeca. Está orgullosa.
 > **Globo:** Mine, arriba-derecha, cola abajo-izquierda: *¡Mine, mira!*
 
-**V73.** Detalle. Las dos manos abiertas de Mine: témpera azul, amarilla y roja en
+**V81.** Detalle. Las dos manos abiertas de Mine: témpera azul, amarilla y roja en
 las líneas de la palma. Debajo, la mano de Rika, sin tocar.
 
 ### S44 · T4 · 3 viñetas de 300
 
-**V74.** Viñeta de ruido. Cuatro manos de niños abiertas alrededor de las manos de
+**V82.** Viñeta de ruido. Cuatro manos de niños abiertas alrededor de las manos de
 Mine. Todo el cuadro lleno de color.
 
-**V75.** Viñeta de ruido. La cara de Rika. Sonríe con la boca cerrada. Es la primera
+**V83.** Viñeta de ruido. La cara de Rika. Sonríe con la boca cerrada. Es la primera
 vez que la vemos sonreír en el capítulo.
 > **Globo:** Rika, abajo-izquierda, cola arriba-derecha: *Sí. Muy bien. Estás manchada entera.*
 
-**V76.** Viñeta de ruido. La marca de una palma abierta de niño, azul, en la mejilla
+**V84.** Viñeta de ruido. La marca de una palma abierta de niño, azul, en la mejilla
 de Rika. Ella quieta, sin limpiarse.
 
 ### S45 · T2 · 1 viñeta de 1060
 
-**V77.** Plano entero del aula. Los doce niños alrededor de Rika, todos mirando sus
+**V85.** Plano entero del aula. Los doce niños alrededor de Rika, todos mirando sus
 manos. Takagi al fondo, de pie, con las manos cruzadas, mirando cómo la miran a
 ella. La mañana entra por una ventana y hace un rectángulo de luz en la alfombra.
 
 ### S46 · T3 · 2 viñetas de 430
 
-**V78.** Primer plano. Rika mira por la ventana del aula. La cara entera, quieta,
+**V86.** Primer plano. Rika mira por la ventana del aula. La cara entera, quieta,
 mirada fuera, no al lector. La luz le da de lado y le corta la cara en dos tonos. En
 el cristal, muy tenue, se refleja una farola que ahora no importa.
 > **Caja de narración:** *Nueve años después, esa cara fue el primer aviso. Nadie lo leyó.*
 
-**V79.** Detalle. El cristal de la ventana. La farola reflejada, casi perdida. Y
+**V87.** Detalle. El cristal de la ventana. La farola reflejada, casi perdida. Y
 detrás del cristal, la silueta de Rika superpuesta a las macetas del alfizar.
 
 ### S47 · T5 · 1 viñeta de 260
 
-**V80.** Viñeta de silencio. Detalle. Un reloj de pared de un pasillo, encima de una
+**V88.** Viñeta de silencio. Detalle. Un reloj de pared de un pasillo, encima de una
 puerta de aula. Las agujas marcan **08:20**. Junto al reloj, un cartel plastificado
 con un horario escrito, demasiado borroso para leer. 1020 px de blanco debajo.
+> **Sonido descrito:** la calefacción de un pasillo.
 
 ### S48 · T3 · 2 viñetas de 430
 
-**V81.** Plano medio. Rika se pone las sandalias de rejilla en un rellano. Mochila
+**V89.** Plano medio. Rika se pone las sandalias de rejilla en un rellano. Mochila
 escolar en un hombro. Al fondo, el marco de la puerta del aula con cuatro niños
 mirando.
 
-**V82.** Detalle. La mochila en su hombro y el haori detrás. La cinta blanca de la
+**V90.** Detalle. La mochila en su hombro y el haori detrás. La cinta blanca de la
 mochila, gastada.
 
 ### S49 · T2 · 1 viñeta de 1060
 
-**V83.** Plano entero. Rika en el rellano, de perfil, con un pie puesto y otro sin
+**V91.** Plano entero. Rika en el rellano, de perfil, con un pie puesto y otro sin
 poner. Gira la cabeza hacia atrás, hacia los niños de la puerta. El sol le entra por
 detrás.
 > **Globo:** Mine, fuera de cuadro, arriba-derecha, cola saliendo a la derecha: *¡Mine!*
 
 ### S50 · T3 · 2 viñetas de 430
 
-**V84.** Plano entero. Los cuatro niños en la puerta, mirando, uno con una mano alzada.
+**V92.** Plano entero. Los cuatro niños en la puerta, mirando, uno con una mano alzada.
 > **Globo:** un niño, arriba-izquierda, cola abajo-derecha: *¡Mine!*
 
-**V85.** Detalle. La mano de Rika sujetando la correa de la mochila. El nudo del yukata,
+**V93.** Detalle. La mano de Rika sujetando la correa de la mochila. El nudo del yukata,
 gris oscuro, y el borde del haori color hueso. La mano se queda ahí un segundo.
 
 ### S51 · T4 · 3 viñetas de 300
 
-**V86.** Viñeta de ruido. Rika se gira entera hacia atrás y saluda con la mano, una vez.
+**V94.** Viñeta de ruido. Rika se gira entera hacia atrás y saluda con la mano, una vez.
 > **Globo:** Mine, arriba-derecha, cola abajo-izquierda: *¡Adiós!*
 
-**V87.** Viñeta de ruido. Takagi, en el pasillo, le devuelve la mirada y asiente una
+**V95.** Viñeta de ruido. Takagi, en el pasillo, le devuelve la mirada y asiente una
 vez. No dice nada.
 
-**V88.** Viñeta de ruido. El delantal amarillo de Mine en el marco de la puerta, medio
+**V96.** Viñeta de ruido. El delantal amarillo de Mine en el marco de la puerta, medio
 dentro, y Rika ya en la calle, más lejos.
 
 ### S52 · T2 · 1 viñeta de 1060
 
-**V89.** Plano entero. La calle de la guardería, de mañana. Rika baja los escalones. El
+**V97.** Plano entero. La calle de la guardería, de mañana. Rika baja los escalones. El
 haori por encima del brazo izquierdo, doblado. Sol de mañana y sombra larga en el
 suelo.
 
 ### S53 · T3 · 2 viñetas de 430
 
-**V90.** Plano medio. **Shino Tsukimi**, 47, la madre, en la cocina: delantal, mangas
+**V98.** Plano medio. **Shino Tsukimi**, 47, la madre, en la cocina: delantal, mangas
 arremangadas, un cuenco en cada mano. Mira la puerta por donde ha salido su hija.
 
-**V91.** Detalle. La mesa de la cocina: dos tazas, un tupper, una nota doblada con las
+**V99.** Detalle. La mesa de la cocina: dos tazas, un tupper, una nota doblada con las
 horas de estudio escritas por dentro. La tercera taza sin usar, en el escurridor.
 
 ### S54 · T2 · 1 viñeta de 1060
 
-**V92.** Plano entero de la cocina. Shino se sienta. Mira la taza sin usar. El reloj de
+**V100.** Plano entero de la cocina. Shino se sienta. Mira la taza sin usar. El reloj de
 la pared: 07:41. Fuera, por la ventana, una calle vacía con sol.
 > **Globo:** Shino, medio-izquierda, cola abajo-derecha: *Sin el cuenco se te cae la cabeza. Otra vez.*
 
 ### S55 · T3 · 2 viñetas de 430
 
-**V93.** Plano de bocas de Shino. El pelo recogido. La taza delante, sin haberla
+**V101.** Plano de bocas de Shino. El pelo recogido. La taza delante, sin haberla
 tocado.
 
-**V94.** Detalle. La ventana de la cocina. Fuera, Rika, ya a dos manzanas, pequeña,
+**V102.** Detalle. La ventana de la cocina. Fuera, Rika, ya a dos manzanas, pequeña,
 con el haori al viento. Shino no se ha movido del sitio.
 
 ### S56 · T4 · 3 viñetas de 300
 
-**V95.** Viñeta de ruido. Rika cruza un paso de cebra sola, con el semáforo en verde y
+**V103.** Viñeta de ruido. Rika cruza un paso de cebra sola, con el semáforo en verde y
 nadie más esperando.
 
-**V96.** Viñeta de ruido. Rika pasa al lado de **Mio Tsukimi**, 19 años, que la espera
+**V104.** Viñeta de ruido. Rika pasa al lado de **Mio Tsukimi**, 19 años, que la espera
 en el portal de un edificio de oficinas. Abrigo largo oscuro, pelo recogido, bolsa de
 hombro. **Mio es más alta.**
 
-**V97.** Viñeta de ruido. Mio de perfil, inclinándose un poco hacia abajo. No la toca.
+**V105.** Viñeta de ruido. Mio de perfil, inclinándose un poco hacia abajo. No la toca.
 Solo le habla desde arriba. El haori y el abrigo largo, los dos tonos distintos de
 claro, enfrentados.
 
 ### S57 · T2 · 1 viñeta de 1060
 
-**V98.** Plano entero, dos figuras. Mio en el portal, con la bolsa de hombro, hablando
+**V106.** Plano entero, dos figuras. Mio en el portal, con la bolsa de hombro, hablando
 con Rika. La diferencia de estatura es obvia. Luz de mañana. El edificio detrás tiene
 un banco, un buzón y un árbol sin hojas.
 > **Globo:** Mio, arriba-izquierda, cola abajo-derecha: *Otra vez sin desayunar. Tienes la misma cara de siempre.*
 
 ### S58 · T3 · 2 viñetas de 430
 
-**V99.** Plano medio. Mio, un escalón más abajo, con la bolsa al hombro y las manos
+**V107.** Plano medio. Mio, un escalón más abajo, con la bolsa al hombro y las manos
 dentro de los bolsillos. El hombro del abrigo caído.
 
-**V100.** Detalle. Rika de perfil, los ojos en el suelo. El pelo rojo en coleta, con
+**V108.** Detalle. Rika de perfil, los ojos en el suelo. El pelo rojo en coleta, con
 la base atada por detrás. La cicatriz vieja de la ceja izquierda, en su sitio exacto.
 
 ### S59 · T2 · 1 viñeta de 1060
 
-**V101.** Plano entero de Rika. Baja de estatura en el encuadre. Haori al viento. No
+**V109.** Plano entero de Rika. Baja de estatura en el encuadre. Haori al viento. No
 mira a Mio: mira el suelo.
 > **Globo:** Rika, medio-derecha, cola izquierda: *Tengo hambre. Que es distinto.*
 
 ### S60 · T3 · 2 viñetas de 430
 
-**V102.** Plano de bocas de Mio. La primera sonrisa, muy corta, solo en la comisura. La
+**V110.** Plano de bocas de Mio. La primera sonrisa, muy corta, solo en la comisura. La
 bolsa colgada.
 
-**V103.** Detalle. La mano de Mio en el hombro de Rika, un segundo, y suelta. Las dos
+**V111.** Detalle. La mano de Mio en el hombro de Rika, un segundo, y suelta. Las dos
 mangas distintas: la de Mio, oscura, y la venda blanca del antebrazo de Rika.
 
 ### S61 · T4 · 3 viñetas de 300
 
-**V104.** Viñeta de ruido. Primer plano de Mio, la boca casi cerrada.
+**V112.** Viñeta de ruido. Primer plano de Mio, la boca casi cerrada.
 > **Globo:** Mio, abajo-izquierda, cola arriba-derecha: *Es peor.*
 
-**V105.** Viñeta de ruido. Las dos riéndose. Mio con dos dedos en la frente de Rika,
+**V113.** Viñeta de ruido. Las dos riéndose. Mio con dos dedos en la frente de Rika,
 empujándola. Rika con los ojos cerrados riéndose. Es la primera vez que las dos se
 ríen juntas en el capítulo.
 
-**V106.** Viñeta de ruido. Las dos, quietas, en el portal, con la luz de la mañana por
+**V114.** Viñeta de ruido. Las dos, quietas, en el portal, con la luz de la mañana por
 detrás. Un segundo de silencio. Se quedan así.
 > **Globo:** Rika, medio-izquierda, cola abajo-derecha: *¿Qué?*
 
 ### S62 · T5 · 1 viñeta de 260
 
-**V107.** Viñeta de silencio. Primer plano de Rika mirando hacia arriba a su hermana. La
+**V115.** Viñeta de silencio. Primer plano de Rika mirando hacia arriba a su hermana. La
 mandíbula y el abrigo de Mio arriba; los ojos de Rika abajo. La mitad superior del
 cuadro es el abrigo largo.
 
 ### S63 · T2 · 1 viñeta de 1060
 
-**V108.** Plano medio, las dos. Mio empujándole la cabeza a Rika con dos dedos, casi sin
+**V116.** Plano medio, las dos. Mio empujándole la cabeza a Rika con dos dedos, casi sin
 ganas. Rika con los ojos cerrados, resistiéndose, sin mover los pies.
 > **Globo:** Rika, arriba-izquierda, cola abajo-derecha: *Mañana traigo los termos. No se te olvida.*
 
 ### S64 · T3 · 2 viñetas de 430
 
-**V109.** Plano medio de las dos, ya separadas. Mio se pasa la bolsa al otro hombro y
+**V117.** Plano medio de las dos, ya separadas. Mio se pasa la bolsa al otro hombro y
 mira el reloj del edificio. Rika de pie, con la mochila.
 
-**V110.** Detalle. La cara de Rika un segundo, girada hacia arriba, el haori detrás. La
+**V118.** Detalle. La cara de Rika un segundo, girada hacia arriba, el haori detrás. La
 marca de témpera azul de la sien, que se le va lavando con el calor.
 
 ### S65 · T3 · 2 viñetas de 430
 
-**V111.** Plano entero. Mio se va andando calle abajo, de espaldas. El abrigo largo, la
+**V119.** Plano entero. Mio se va andando calle abajo, de espaldas. El abrigo largo, la
 bolsa. Sin mirar atrás.
 
-**V112.** Plano entero. Rika, de pie, viendo irse a Mio. El haori por encima del
+**V120.** Plano entero. Rika, de pie, viendo irse a Mio. El haori por encima del
 hombro. La calle entre las dos, vacía, con sol.
 
 ### S66 · T4 · 3 viñetas de 300
 
-**V113.** Viñeta de ruido. Rika, ya sola, girándose hacia el otro lado de la calle.
+**V121.** Viñeta de ruido. Rika, ya sola, girándose hacia el otro lado de la calle.
 Empieza a andar hacia el sur.
 
-**V114.** Viñeta de ruido. Su estela. El haori moviéndose un segundo después que ella.
+**V122.** Viñeta de ruido. Su estela. El haori moviéndose un segundo después que ella.
 Y en el cristal de unarogería, el reflejo del haori, siguiendo.
 
-**V115.** Viñeta de ruido. Rika ya a media manzana, pequeña. Un señora se detiene a
+**V123.** Viñeta de ruido. Rika ya a media manzana, pequeña. Un señora se detiene a
 mirarla pasar y sigue andando. Nadie la conoce.
 
 ### S67 · T3 · 2 viñetas de 430
 
-**V116.** Plano general. La calle del barrio, de mañana, yendo hacia la escuela. Casas
+**V124.** Plano general. La calle del barrio, de mañana, yendo hacia la escuela. Casas
 bajas con persianas, un tendedero, una bicicleta. El monte al fondo, cortado por la
 neblina. Un solo peatón en cuadro, y no es ella.
 
-**V117.** Plano detalle. La acera. Una tapa de registro de hierro fundido con la
+**V125.** Plano detalle. La acera. Una tapa de registro de hierro fundido con la
 cuadrícula gastada, y al lado un rectángulo de hormigón más nuevo, tapado con
 pintura. Nadie señala nada.
 
 ### S68 · T3 · 2 viñetas de 430
 
-**V118.** Plano medio. Un callejón lateral, estrecho, con una pared de bloques de
+**V126.** Plano medio. Un callejón lateral, estrecho, con una pared de bloques de
 hormigón a la izquierda. Al fondo, una **puerta de servicio de metal gris** con un
 sello de metal sobre el marco.
 
-**V119.** Detalle. El marco de la puerta. El sello es un rectángulo de metal atornillado,
+**V127.** Detalle. El marco de la puerta. El sello es un rectángulo de metal atornillado,
 opaco, sin brillo, con la pintura comida alrededor de los tornillos. Alrededor, la marca
 vieja de quemadura.
 
 ### S69 · T5 · 1 viñeta de 260
 
-**V120.** Viñeta de silencio. Detalle. La marca vieja de quemadura alrededor del marco:
+**V128.** Viñeta de silencio. Detalle. La marca vieja de quemadura alrededor del marco:
 oscurecida, con la pintura de encima agrietada en escamas. El sello, en el centro. El
 sello parece viejo, no de hoy. Nadie lo ha tocado.
+> **Sonido descrito:** un contenedor a lo lejos.
 > **Caja de narración:** *La puerta estaba ahí. Nadie la abrió.*
 
 ### S70 · T3 · 2 viñetas de 430
 
-**V121.** Plano entero. La puerta de servicio, entera, en el centro del callejón. La
+**V129.** Plano entero. La puerta de servicio, entera, en el centro del callejón. La
 luz de la mañana entra por la boca del callejón y cae en diagonal sobre el suelo, no
 sobre la puerta. Nadie mira la puerta. Nadie la abre.
 
-**V122.** Plano entero. El otro extremo del callejón. Un contenedor, una escalera de
+**V130.** Plano entero. El otro extremo del callejón. Un contenedor, una escalera de
 hierro, el final de la calle con tráfico lejano. La puerta queda fuera de cuadro.
 
 ### S71 · T3 · 2 viñetas de 430
 
-**V123.** Plano medio. Rika, de perfil, en la acera de su calle, esperando el semáforo.
+**V131.** Plano medio. Rika, de perfil, en la acera de su calle, esperando el semáforo.
 El haori por encima del hombro. Mira hacia el sur, hacia el monte.
 
-**V124.** Detalle. Sus vendajes en los antebrazos, desde abajo, con la manga del yukata
+**V132.** Detalle. Sus vendajes en los antebrazos, desde abajo, con la manga del yukata
 caída. La luz de la mañana los vuelve casi blancos: son lo más claro de la imagen
 después del haori.
 
 ### S72 · T4 · 3 viñetas de 300
 
-**V125.** Viñeta de ruido. El semáforo en verde. Rika cruza. La sombra larga en el
+**V133.** Viñeta de ruido. El semáforo en verde. Rika cruza. La sombra larga en el
 asfalto.
 
-**V126.** Viñeta de ruido. Rika de espaldas, alejándose, con la mochila. El haori por
+**V134.** Viñeta de ruido. Rika de espaldas, alejándose, con la mochila. El haori por
 encima del hombro, y el pelo rojo en la coleta alta.
 
-**V127.** Viñeta de ruido. La espalda de Rika, pequeña al final de la calle. El cuadro
+**V135.** Viñeta de ruido. La espalda de Rika, pequeña al final de la calle. El cuadro
 tiene los tres tonos: el asfalto, la sombra larga y el haori.
 
 ### S73 · T2 · 1 viñeta de 1060
 
-**V128.** Plano general. La calle, hacia el sur. Rika, ya lejos, en el centro del
+**V136.** Plano general. La calle, hacia el sur. Rika, ya lejos, en el centro del
 encuadre. A la izquierda, el hueco entre dos casas por donde asoma una azotea con un
 depósito de agua. El cielo, plano.
 > **Caja de narración:** *Tres días. Eso fue todo el aviso que tuvo.*
@@ -936,15 +941,15 @@ Corte a negro y a capítulo 2.
 
 | Viñeta | Quién | Posición | Cola | Texto |
 |---|---|---|---|---|
-| V71 | Rika | abajo-izquierda | abajo-derecha | *Uno, dos, tres…* |
-| V72 | Mine | arriba-derecha | abajo-izquierda | *¡Mine, mira!* |
-| V75 | Rika | abajo-izquierda | arriba-derecha | *Sí. Muy bien. Estás manchada entera.* |
-| V83 | Mine, fuera de cuadro | arriba-derecha | sale a la derecha | *¡Mine!* |
-| V92 | Shino | medio-izquierda | abajo-derecha | *Sin el cuenco se te cae la cabeza. Otra vez.* |
-| V98 | Mio | arriba-izquierda | abajo-derecha | *Otra vez sin desayunar. Tienes la misma cara de siempre.* |
-| V101 | Rika | medio-derecha | izquierda | *Tengo hambre. Que es distinto.* |
-| V104 | Mio | abajo-izquierda | arriba-derecha | *Es peor.* |
-| V108 | Rika | arriba-izquierda | abajo-derecha | *Mañana traigo los termos. No se te olvida.* |
+| V79 | Rika | abajo-izquierda | abajo-derecha | *Uno, dos, tres…* |
+| V80 | Mine | arriba-derecha | abajo-izquierda | *¡Mine, mira!* |
+| V83 | Rika | abajo-izquierda | arriba-derecha | *Sí. Muy bien. Estás manchada entera.* |
+| V91 | Mine, fuera de cuadro | arriba-derecha | sale a la derecha | *¡Mine!* |
+| V100 | Shino | medio-izquierda | abajo-derecha | *Sin el cuenco se te cae la cabeza. Otra vez.* |
+| V106 | Mio | arriba-izquierda | abajo-derecha | *Otra vez sin desayunar. Tienes la misma cara de siempre.* |
+| V109 | Rika | medio-derecha | izquierda | *Tengo hambre. Que es distinto.* |
+| V112 | Mio | abajo-izquierda | arriba-derecha | *Es peor.* |
+| V116 | Rika | arriba-izquierda | abajo-derecha | *Mañana traigo los termos. No se te olvida.* |
 
 > Los cuatro globos de la tabla siguiente son líneas cortas de los niños del aula,
 > en viñetas sin personaje nombreado. Cuentan para el total de 13.
@@ -953,24 +958,25 @@ Corte a negro y a capítulo 2.
 
 | Viñeta | Quién | Texto |
 |---|---|---|
-| V68 | un niño | *¡Ya!* |
-| V84 | un niño | *¡Mine!* |
-| V86 | Mine | *¡Adiós!* |
-| V106 | Rika | *¿Qué?* |
+| V76 | un niño | *¡Ya!* |
+| V92 | un niño | *¡Mine!* |
+| V94 | Mine | *¡Adiós!* |
+| V114 | Rika | *¿Qué?* |
 
-## Cajas de narración (7)
+## Cajas de narración (8)
 
 | Viñeta | Texto |
 |---|---|
 | V01 | *Mayo de 2017. Yokohama. 07:42.* |
-| V52 | *Tres días antes.* |
-| V78 | *Nueve años después, esa cara fue el primer aviso. Nadie lo leyó.* |
-| V120 | *La puerta estaba ahí. Nadie la abrió.* |
-| V128 | *Tres días. Eso fue todo el aviso que tuvo.* |
+| V58 | *Las puertas se estaban cerrando.* |
+| V60 | *Tres días antes.* |
+| V86 | *Nueve años después, esa cara fue el primer aviso. Nadie lo leyó.* |
+| V128 | *La puerta estaba ahí. Nadie la abrió.* |
+| V136 | *Tres días. Eso fue todo el aviso que tuvo.* |
 | rótulo S29 | *Ese día duró catorce minutos.* (sobre negro) |
 | rótulo S30 | *TRES DÍAS ANTES / 12 de mayo de 2017* (rótulo gris) |
 
-## SFX (8)
+## SFX (12)
 
 | Viñeta | SFX | Tipo |
 |---|---|---|
@@ -982,8 +988,12 @@ Corte a negro y a capítulo 2.
 | V34 | `PUM-PUM` | metralleta, automatismo |
 | V37 | `KRAAK` | placas partiéndose |
 | V38 | `TUM` | corte de cuerpo |
+| V52 | `RRRRRAAAAAM` | estela de los aviones en el eje de las sendas |
+| V53 | `BRAAAAM` | disparo en salva |
+| V53 | `ROTIROTIRO` | lluvia de cristal sobre los coches |
+| V56 | `ICKRRRAAACH` | quejido metálico largo |
 
-> 8 marcas, 7 sonidos distintos: `CRAAACK` aparece dos veces (V08 y V25).
+> 12 marcas, 11 sonidos distintos: `CRAAACK` aparece dos veces (V08 y V25).
 
 ## Sonidos descritos (no son SFX, no se dibujan)
 
@@ -992,8 +1002,8 @@ Corte a negro y a capítulo 2.
 | 24 | el graznido de unas ruedas al romperse |
 | 42 | un Shout de radio muy bajo |
 | 47 | un zumbido de fluorescente en el pasillo |
-| 80 | la calefacción de un pasillo |
-| 120 | un contenedor a lo lejos |
+| 88 | la calefacción de un pasillo |
+| 128 | un contenedor a lo lejos |
 
 ---
 

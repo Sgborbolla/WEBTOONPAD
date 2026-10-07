@@ -1,7 +1,7 @@
 # CAPÍTULO 8 — "Verde"
 
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 21:10–21:30 y madrugada siguiente (bloque G, al alba). Presente: 2026 (9 años).
+> **Fecha en la ficción:** miércoles **17 de mayo de 2017**, 21:10–21:30 y madrugada siguiente (bloque G, al alba). Presente: 2026 (9 años).
 > **Bloques:** A = La noche (S01–S10, gutter 40) · B = El duelo (S11–S20, gutter 35) · C = Lo que aprendió (S21–S30, gutter 35) · D = El callejón (S31–S40, gutter 40) · E = El secreto (S41–S50, gutter 40) · F = La esquina (S51–S60, gutter 40) · G = Todavía (S61–S68, cierra en negro)
 > **Total:** 68 pantallas de 800×1280 · 133 viñetas · 87.040 px de scroll
 
@@ -57,7 +57,7 @@ T2R = 1200 + 80 = 1280 · T3R = 570 + 570 + 140 = 1280 · T4R = 380×3 + 35×4 =
 ### S01 · T2R · 1 viñeta de 1200
 
 **V01.** Plano general. La calle de la guardería, de noche, **21:10**. Un portal cerrado al fondo, línea vertical negra contra la fachada, sin vapor, sin luz. Farolas encendidas. Ningún viandante.
-> **Caja:** Lunes 15 de mayo de 2017. 21:10. La calle de la guardería.
+> **Caja:** Miércoles 17 de mayo de 2017. 21:10. La calle de la guardería.
 
 - **PLANO:** general
 - **COMPOSICION:** frontal, portal al fondo del eje de la calle
@@ -1308,7 +1308,7 @@ Pantalla negra, **FUNDIDO A: negro.** Una línea blanca centrada:
 
 | Viñeta | Texto |
 |---|---|
-| V01 | Lunes 15 de mayo de 2017. 21:10. La calle de la guardería. |
+| V01 | Miércoles 17 de mayo de 2017. 21:10. La calle de la guardería. |
 | V08 | Y entonces sintió el viento. |
 | V09 | No era el viento de la calle. |
 | V25 | El verde no se defendía. |

@@ -1,7 +1,7 @@
 # CAPÍTULO 9 — "Nadie hace nada"
 
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** jueves **18 de mayo de 2017**, 10:40–19:30 (tres días después del cap08). Presente: 2026 (9 años).
+> **Fecha en la ficción:** jueves **18 de mayo de 2017**, 10:40–19:30 (tres días después del lunes; el cap08 transcurre la noche del miércoles 17). Presente: 2026 (9 años).
 > **Bloques:** A = La ciudad finge (S01–S10, gutter 40) · B = El mercado (S11–S20, gutter 35) · C = El kaiyu amarillo (S21–S30, gutter 35) · D = El pasillo (S31–S40, gutter 40) · E = La tarde (S41–S50, gutter 40) · F = El atardecer (S51–S60, gutter 40) · G = Cierre (S61–S68, cierra en negro)
 > **Total:** 68 pantallas de 800×1280 · 131 viñetas · 87.040 px de scroll
 
@@ -34,7 +34,7 @@
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---:|---|---|---|---|---|
-| S01 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | La ciudad tres días después. |
+| S01 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | La ciudad tres días después del lunes. |
 | S02 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: calle | Barren la ceniza. |
 | S03 | T4R | 3 | 380/380/380 | 35/35/35/35 | primer plano/detalle/primer plano | CORTE A: calle | Nadie habla del lunes. |
 | S04 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Los cuatro llegan. |
@@ -51,7 +51,7 @@
 
 ### S01 · T2R · 1 viñeta de 1200
 
-**V1.** Plano general. La calle comercial, tres días después. Cinta amarilla enrollada en un rincón, persianas subiendo, manchas de pintura fresca sobre los agujeros de las fachadas.
+**V1.** Plano general. La calle comercial, tres días después del lunes. Cinta amarilla enrollada en un rincón, persianas subiendo, manchas de pintura fresca sobre los agujeros de las fachadas.
 - **PLANO:** general
 - **COMPOSICION:** la calle entera, la luz de la mañana, "normalidad" reconstruida
 - **ACCION:** la ciudad fingiendo. Nadie habla del lunes.

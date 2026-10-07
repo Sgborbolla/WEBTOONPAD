@@ -1,6 +1,6 @@
 # CAP 04 — Día 2, mañana. La respuesta
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | Día | 2, mañana |
+| Fecha | martes 16 de mayo de 2017 |
 | Lugar | Base de la NSF en la costa de Kanto, y la carretera |
 | Qué pasa | El ejército dispara a cosas que no conoce |
 | Viñetas | 36 |
@@ -38,7 +39,7 @@ insignias de poder. No tiene arma. Habla despacio.
 **4.** Primer plano de Watanabe. La frase rara le pasa de largo.
 > **Watanabe:** ¿Cuarenta y seis qué.
 > **Oficial:** Cuarenta y seis. Los bichos.
-> **Watanabe:** (pausa) Escribalo asi, otra vez. Mas despacio.
+> **Watanabe:** (pausa) Escríbalo así, otra vez. Más despacio.
 
 **5.** Plano medio. **Kurose Ken**, 52, de pie al fondo, con una carpeta. No toma
 la palabra.
@@ -108,13 +109,13 @@ un dibujo con regla. No sangra: **quemado**.
 **18.** Plano de bocas. Goro, sentado, mirando por la ventanilla.
 > **Goro:** A mi me paso igual.
 > **Yui:** ¿A ti?
-> **Goro:** En la puerta. Salimos los dos quemados y el otro salio entero.
+> **Goro:** En la puerta. Salimos los dos quemados y el otro salió entero.
 > **Ren:** ¿El otro?
-> **Goro:** El que entro. El que no volvió.
+> **Goro:** El que entró. El que no volvió.
 
 **19.** Primer plano de Ren. Las manos, que no paran quietas, por fin quietas.
 > **Ren:** (pausa) ¿Y yo?
-> **Yui:** ¿Que?
+> **Yui:** ¿Qué?
 > **Ren:** Nada. Nada.
 
 **20.** Viñeta de silencio. Los cuatro, en el autobus. Ninguno mira a otro.
@@ -214,7 +215,7 @@ Nadie habla entre ellos. **Las luces se apagan un segundo y vuelven.**
 | 3 | Oficial | Cuatro puertas confirmadas en la provincia. Cuarenta y seis kaiyu avistados. Perdidas sin cerrar. |
 | 4 | Watanabe | ¿Cuarenta y seis qué. |
 | 4 | Oficial | Cuarenta y seis. Los bichos. |
-| 4 | Watanabe | Escribalo asi, otra vez. Mas despacio. |
+| 4 | Watanabe | Escríbalo así, otra vez. Más despacio. |
 | 8 | Miura | ¡Atención! Objetivo en el muro. Dos rondas al blanco. ¡Fuego! |
 | 10 | Miura | Otra vez. Al muro. |
 | 11 | Shinozuka | Capitan, radio. Uno de los nuestros no aparece. |
@@ -230,11 +231,11 @@ Nadie habla entre ellos. **Las luces se apagan un segundo y vuelven.**
 | 17 | Rika | No. |
 | 18 | Goro | A mi me paso igual. |
 | 18 | Yui | ¿A ti? |
-| 18 | Goro | En la puerta. Salimos los dos quemados y el otro salio entero. |
+| 18 | Goro | En la puerta. Salimos los dos quemados y el otro salió entero. |
 | 18 | Ren | ¿El otro? |
-| 18 | Goro | El que entro. El que no volvió. |
+| 18 | Goro | El que entró. El que no volvió. |
 | 19 | Ren | ¿Y yo? |
-| 19 | Yui | ¿Que? |
+| 19 | Yui | ¿Qué? |
 | 19 | Ren | Nada. Nada. |
 | 21 | Hayakawa | Base, aquí Toro cuatro. Salimos hacia la ruta de inspeccion. |
 | 22 | Hayakawa | Base, Toro cuatro en el aire. Alguien tiene que mirar las puertas desde arriba. |
@@ -276,7 +277,7 @@ Nadie habla entre ellos. **Las luces se apagan un segundo y vuelven.**
 | 6 | El zumbido de un fluorescente |
 | 7 | Un motor al ralentí |
 | 9 | Tres cañones, a la vez |
-| 10 | La explosion todavia, en el eco |
+| 10 | La explosion todavía, en el eco |
 | 13 | Una línea de radio abierta, sin nadie hablando |
 | 20 | El motor del autobus |
 | 23 | Un motor, subiendo |

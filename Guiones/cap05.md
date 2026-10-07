@@ -1,6 +1,6 @@
 # CAP 05 — Día 2, noche. La brasa
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
 
 ---
 
@@ -9,6 +9,7 @@
 | | |
 |---|---|
 | Día | 2, noche |
+| Fecha | martes 16 de mayo de 2017 |
 | Lugar | Sector 6 del Ward. La puerta sigue abierta |
 | Qué pasa | Un **kaiyu naranja** entra en la calle de Goro. Goro suelta vapor |
 | Viñetas | 36 |
@@ -74,7 +75,7 @@ sentado en la mesa: **Nomura**, 49, con mono de Tokukan, sucio. Una mano vendada
 
 **10.** Plano medio. Nomura mira su mano vendada.
 > **Nomura:** Arashi me cubrió. A los dos nos quemamos.
-> **Kosuke:** ¿Que?
+> **Kosuke:** ¿Qué?
 > **Nomura:** El fuego. Lo que salía.
 
 **11.** Plano de bocas. Goro, en la puerta. No había entrado.
@@ -195,7 +196,7 @@ la costura.
 **34.** Primer plano. Su mano desnuda. Marcas rojas en los nudillos, en forma de
 dibujo con regla. Idénticas a las de Rika, a las de él mismo.
 > **Caja:** Es la misma marca que dejaría un marco.
-> **Caja:** Toda la  lleva la misma.
+> **Caja:** Todos la llevan.
 
 **35.** Plano entero. Goro, arrancándose el guante. Lo tira al suelo. Se pone el
 escudo en la mano, al revés, como se lleva un banquillo.
@@ -224,7 +225,7 @@ La brasa, al fondo, apagándose.
 | 9 | Nomura | Estoy bien, jefe. |
 | 9 | Kosuke | Nadie te preguntó. |
 | 10 | Nomura | Arashi me cubrió. A los dos nos quemamos. |
-| 10 | Kosuke | ¿Que? |
+| 10 | Kosuke | ¿Qué? |
 | 10 | Nomura | El fuego. Lo que salía. |
 | 11 | Goro | Que salía. |
 | 11 | Nomura | Arashi. No es nada. Ya está. |
