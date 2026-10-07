@@ -1,6 +1,6 @@
 # MANUAL — cómo se hace esto
 
-Todo lo que hay que saber para producir "Los Catorce" en formato webtoon
+Todo lo que hay que saber para producir "NPAD" en formato webtoon
 vertical. Las cifras vienen de las guías de publicación de la plataforma
 (WEBTOON Canvas Resource Handbook), de las guías de acción y panelling de Clip
 Studio y Multic, y de los estudios de lettering de sonido. `acciones.md` tiene el
@@ -219,7 +219,7 @@ Un prompt por pantalla, con esta forma:
 
 ```
 CAP 03, pantalla 9 de 12. Viñeta 22.
-Ancla de los Catorce aplicada.
+Ancla NPAD aplicada.
 PLANO: <declarado>
 COMPOSICION: <regla de tercios, que queda en que lado, que se ve al fondo>
 PERSONAJES: <descripción corta de cada uno, literal>

@@ -9,7 +9,7 @@ Copiar desde aquí hasta el final del bloque.
 ---
 
 ```
-HISTORIETA: "LOS CATORCE". Historieta de ciencia ficción y horror de ciudad,
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
 ambientada en Japón contemporáneo, hoy. Pintada a plano, sombreado cel, línea de
 tinta negra gruesa y uniforme, alto contraste, lectura de webtoon vertical.
 

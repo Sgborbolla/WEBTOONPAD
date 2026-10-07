@@ -1,4 +1,4 @@
-# HEROES — "Los Catorce"
+# HEROES — NPAD
 
 Los cuatro. Todos son gente normal con un poder que no eligieron. Ninguno viste
 armadura moderna. Todos visten lo que se ponian para trabajar.

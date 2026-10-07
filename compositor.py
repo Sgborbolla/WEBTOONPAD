@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-compositor.py — monta las pantallas y los PDF de "Los Catorce".
+compositor.py — monta las pantallas y los PDF de "NPAD".
 
 Stitch dibuja el arte. Este script pone la geometría: gutters exactos, marcos
 negros, fondos pintados, cajas de narración y los PDF de 10 capítulos.

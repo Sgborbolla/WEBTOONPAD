@@ -1,4 +1,4 @@
-# ARCO 200 — plan maestro de "Los Catorce"
+# ARCO 200 — plan maestro de NPAD
 
 Documento rector. Todo guion nuevo (cap07 en adelante) se escribe contra este
 archivo. Si algo de un capítulo choca con este archivo, **manda este archivo**.
@@ -318,7 +318,7 @@ Plantilla Stitch (una por pantalla, 74 por capítulo):
 
 ```
 CAP NN, pantalla X de 74. Viñeta V.
-Ancla de los Catorce aplicada.
+Ancla NPAD aplicada.
 PLANO: <declarado en la lista de manual.md>
 COMPOSICION: <tercios, quién queda en cada lado, qué hay al fondo>
 PERSONAJES: <descripción corta y fija, literal, misma marca siempre>

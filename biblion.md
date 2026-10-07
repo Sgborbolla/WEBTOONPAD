@@ -1,4 +1,4 @@
-# BIBLION — "Los Catorce"
+# BIBLION — NPAD
 
 Canon de la historieta. Este documento no es para el lector: es la referencia
 para no equivocarme al escribir prompts.

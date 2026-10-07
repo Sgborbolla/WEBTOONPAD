@@ -1,4 +1,4 @@
-# BIBLE DE PRODUCCIÓN WEBTOON — "Los Catorce"
+# BIBLE DE PRODUCCIÓN WEBTOON — NPAD
 
 Basada en WEBTOON Canvas Resource Handbook (Creator 101), Clip Studio Tips, Comistitch, Lemoon Studio, Multic y análisis profesional 2026.
 
@@ -194,7 +194,7 @@ Incluir:
 
 ```text
 CAP NN, pantalla X de YY. Viñeta VZZ.
-Ancla de los Catorce aplicada.
+Ancla NPAD aplicada.
 PLANO: <declarado>
 COMPOSICION: <tercios, qué lado, fondo>
 PERSONAJES: <descripción corta y fija, literal>
