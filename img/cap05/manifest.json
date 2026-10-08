@@ -1,0 +1,672 @@
+{
+ "cap": 5,
+ "titulo": "Día 2, noche. La brasa",
+ "pantallas": 18,
+ "viñetas": 36,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Día 2. 21:10. El Sector 6."
+    },
+    {
+     "panel": 2,
+     "texto": "Nadie vino a sellarla."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 3,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Se escribio siete veces al Gobierno. La primera respuesta fue una"
+    },
+    {
+     "panel": 2,
+     "texto": "La segunda no llego."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 5
+  },
+  {
+   "n": 4,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Dos Recamaras."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 9
+  },
+  {
+   "n": 6,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 11
+  },
+  {
+   "n": 7,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "21:40."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 15,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Se para a escuchar."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "El suelo. Un chillido corto."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 17
+  },
+  {
+   "n": 10,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 21,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Un silbido bajo. El aire, al calentarse."
+    },
+    {
+     "panel": 2,
+     "texto": "Un golpe de aire."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 23,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "21:41."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Nada. El silencio es el sonido."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 27
+  },
+  {
+   "n": 15,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 29
+  },
+  {
+   "n": 16,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 33,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "La brasa del guante. Sola. Sin enemigo."
+    },
+    {
+     "panel": 2,
+     "texto": "Es la misma marca que dejaría un marco."
+    },
+    {
+     "panel": 2,
+     "texto": "Todos la llevan."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 35
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 1,
+   "panel": 2,
+   "quien": "",
+   "texto": "Dos días. La puerta no vuelve. Y sigue creciendo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "(murmura) Ni el sargento ni nadie. Ni el capitan me contesto.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿La abriste más?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "No. Se abrio sola.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Y la guardia?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "Se fue ayer. No es que no vengan, Arashi-san. Es que no vienen.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "Anotado.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Siéntate bien.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Estoy bien, jefe.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Nadie te preguntó.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Arashi me cubrió. A los dos nos quemamos.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Qué?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "El fuego. Lo que salía.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Que salía.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "(se gira) Arashi. No es nada. Ya está.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "(mira la venda) Eso es una quemadura de third grado.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Que se te va a curar.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 2,
+   "quien": "",
+   "texto": "Bien, sentaos los dos. Que se enfría.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 2,
+   "quien": "",
+   "texto": "No tengo hambre.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 2,
+   "quien": "",
+   "texto": "Nadie te lo pregunto.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Kiryu. ¿Lo ves?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 1,
+   "quien": "",
+   "texto": "Veo la calle.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 1,
+   "quien": "",
+   "texto": "No. En el suelo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "...Eso estaba antes.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Como antes?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "No lo sé. Es largo. Es como una sombra.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "No te muevas.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "Arashi-san...",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 13,
+   "panel": 1,
+   "quien": "",
+   "texto": "Arashi-san. Arashi-san. Arashi-san.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "Nomura.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "Tsumita-san.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Qué le ha pasado?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 2,
+   "quien": "",
+   "texto": "Yo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Tú qué?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 2,
+   "quien": "",
+   "texto": "Yo le he pasado.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "Ha dicho que lo tapaba. Que salía.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "Sale. Ya lo sé. Arashi, yo lo he visto salir.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Cuántas veces?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "(pausa) Tres veces.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 1,
+   "quien": "",
+   "texto": "Con Acero gris, tres personas. Dos salidas. Uno no responded.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 18,
+   "panel": 1,
+   "quien": "",
+   "texto": "No me lo vuelvo a poner.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

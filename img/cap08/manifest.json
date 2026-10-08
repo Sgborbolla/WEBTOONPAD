@@ -1,0 +1,1282 @@
+{
+ "cap": 8,
+ "titulo": "Verde",
+ "pantallas": 68,
+ "viñetas": 133,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 2
+  },
+  {
+   "n": 3,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 4
+  },
+  {
+   "n": 4,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 8
+  },
+  {
+   "n": 6,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 10
+  },
+  {
+   "n": 7,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 14
+  },
+  {
+   "n": 9,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 16
+  },
+  {
+   "n": 10,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 20
+  },
+  {
+   "n": 12,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 22
+  },
+  {
+   "n": 13,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "El verde no se defendía."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 26
+  },
+  {
+   "n": 15,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 28
+  },
+  {
+   "n": 16,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`SSHHH`"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 32
+  },
+  {
+   "n": 18,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 34,
+   "sfx": [
+    {
+     "panel": 3,
+     "texto": "`FZZZ`"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 37
+  },
+  {
+   "n": 20,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 38,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "No fue culpa. Fue gusto. El gusto de haber sido la más rápida."
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 40
+  },
+  {
+   "n": 22,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 43
+  },
+  {
+   "n": 23,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 44,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Se lo dijo como quien se aferra a una tabla."
+    },
+    {
+     "panel": 2,
+     "texto": "Pero la voz le sonó a otra persona."
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 46
+  },
+  {
+   "n": 25,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 49
+  },
+  {
+   "n": 26,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 50
+  },
+  {
+   "n": 27,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 52
+  },
+  {
+   "n": 28,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 55
+  },
+  {
+   "n": 29,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 56
+  },
+  {
+   "n": 30,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 58
+  },
+  {
+   "n": 31,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 61
+  },
+  {
+   "n": 32,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 62
+  },
+  {
+   "n": 33,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 64
+  },
+  {
+   "n": 34,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 67
+  },
+  {
+   "n": 35,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 68
+  },
+  {
+   "n": 36,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 70
+  },
+  {
+   "n": 37,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 73
+  },
+  {
+   "n": 38,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 74
+  },
+  {
+   "n": 39,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 76
+  },
+  {
+   "n": 40,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 79
+  },
+  {
+   "n": 41,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 80
+  },
+  {
+   "n": 42,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 82
+  },
+  {
+   "n": 43,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 85
+  },
+  {
+   "n": 44,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 86
+  },
+  {
+   "n": 45,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 88
+  },
+  {
+   "n": 46,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 91
+  },
+  {
+   "n": 47,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 92,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Con la paciencia de las puertas que saben que su hora va a llegar."
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 94
+  },
+  {
+   "n": 49,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 97
+  },
+  {
+   "n": 50,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 98,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Otra persona. Alguien que buscaba, sí."
+    },
+    {
+     "panel": 2,
+     "texto": "Pero ya no sabía si buscaba una hermana o un contrincante."
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 100
+  },
+  {
+   "n": 52,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 103
+  },
+  {
+   "n": 53,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 104
+  },
+  {
+   "n": 54,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 106
+  },
+  {
+   "n": 55,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 109
+  },
+  {
+   "n": 56,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 110
+  },
+  {
+   "n": 57,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 112
+  },
+  {
+   "n": 58,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 115
+  },
+  {
+   "n": 59,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 116
+  },
+  {
+   "n": 60,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 117,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Todavía no lo sabía."
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 119
+  },
+  {
+   "n": 62,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 122
+  },
+  {
+   "n": 63,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 123,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Aunque tenga que matar lo que encuentre."
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 125
+  },
+  {
+   "n": 65,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 128
+  },
+  {
+   "n": 66,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 129,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Nadie dijo nada. No hacía falta."
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 131
+  },
+  {
+   "n": 68,
+   "paneles": [],
+   "gaps": [
+    0
+   ],
+   "bg": "negro de corte",
+   "vinheta_inicio": 134,
+   "marco_pantalla": true
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué eres?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 1,
+   "quien": "",
+   "texto": "¡No!",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 23,
+   "panel": 1,
+   "quien": "",
+   "texto": "Mio. Hago esto por Mio.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 27,
+   "panel": 2,
+   "quien": "",
+   "texto": "Ya sabía que estabas ahí.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 1,
+   "quien": "",
+   "texto": "No ibas a volver sola.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 1,
+   "quien": "",
+   "texto": "Volví sola.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 1,
+   "quien": "",
+   "texto": "Y ganaste sola.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 2,
+   "quien": "",
+   "texto": "Otra cosa no pude hacer.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 2,
+   "quien": "",
+   "texto": "Estabas siguiéndome.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 30,
+   "panel": 3,
+   "quien": "",
+   "texto": "Goro. Yui. ¿Sabes?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 30,
+   "panel": 3,
+   "quien": "",
+   "texto": "Están a dos calles. No saben. Yo no les dije.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 32,
+   "panel": 2,
+   "quien": "",
+   "texto": "No se lo digas.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 33,
+   "panel": 1,
+   "quien": "",
+   "texto": "No se lo digo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 35,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué hay al fondo?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 35,
+   "panel": 1,
+   "quien": "",
+   "texto": "Un hueco grande. Más grande que el de la guardería.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 35,
+   "panel": 2,
+   "quien": "",
+   "texto": "Todavía no se abre.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 36,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Lo has visto?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 36,
+   "panel": 2,
+   "quien": "",
+   "texto": "Lo he visto. Ahora, al volver. Está un poco más allá del portal.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 36,
+   "panel": 3,
+   "quien": "",
+   "texto": "Es como si esperara.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 40,
+   "panel": 1,
+   "quien": "",
+   "texto": "Hay un hueco grande al fondo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 40,
+   "panel": 1,
+   "quien": "",
+   "texto": "Ya lo sé.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 40,
+   "panel": 1,
+   "quien": "",
+   "texto": "No se abre.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 40,
+   "panel": 1,
+   "quien": "",
+   "texto": "Todavía.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 42,
+   "panel": 1,
+   "quien": "",
+   "texto": "Estás bien.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 42,
+   "panel": 1,
+   "quien": "",
+   "texto": "Estoy bien.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 42,
+   "panel": 3,
+   "quien": "",
+   "texto": "Te llevé el pelo recogido.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 45,
+   "panel": 1,
+   "quien": "",
+   "texto": "No se abre todavía.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 45,
+   "panel": 3,
+   "quien": "",
+   "texto": "Todavía no.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 54,
+   "panel": 3,
+   "quien": "",
+   "texto": "Mio. Hago esto por Mio.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 63,
+   "panel": 1,
+   "quien": "",
+   "texto": "Mio. Voy a entrar.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 64,
+   "panel": 2,
+   "quien": "",
+   "texto": "Hoy tampoco.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 67,
+   "panel": 2,
+   "quien": "",
+   "texto": "Cuando se abra, cruzamos.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

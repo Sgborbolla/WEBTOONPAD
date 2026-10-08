@@ -1,0 +1,686 @@
+{
+ "cap": 6,
+ "titulo": "Día 3. Los catorce minutos",
+ "pantallas": 20,
+ "viñetas": 40,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Día 3. 04:52."
+    },
+    {
+     "panel": 2,
+     "texto": "Siete puertas. Es lo que se sabe."
+    },
+    {
+     "panel": 2,
+     "texto": "En el mundo hay más."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 3,
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Un tono por cada punto que se apaga."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 5,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "04:58."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "05:01."
+    },
+    {
+     "panel": 2,
+     "texto": "Los gritos se le gastaron en los otros dos días."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Nada. El hombre, contando en silencio."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 9,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Los civiles no huyen. Todavía no."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Desde aquí no se oye nada."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 11,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Un rojo se detiene a mirar a un niño todavía recuerda."
+    },
+    {
+     "panel": 1,
+     "texto": "Este es humano. El que se detiene, aquí, es humano."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Los que contaban, dejaron de contar. Todos llegaron al mismo número."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 15,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "La columna tiene una dirección. La dirección es siempre el mar."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "El viento. Nada más."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 17,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "05:04."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 21,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "El general no tiene una orden para esto."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 23,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "05:09. La guardería de la calle de Rika."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Nada. Los otros no hacen ruido. Ella tampoco."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Se detiene a mirar cosas. Los kaiyu no hacen eso."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 27,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Rika tiene quince años. Su hermana tiene diecinueve."
+    },
+    {
+     "panel": 2,
+     "texto": "Debería ser mayor."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 29,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "05:12."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 33
+  },
+  {
+   "n": 18,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 35,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "05:13."
+    },
+    {
+     "panel": 2,
+     "texto": "Se detienen. Todos. A la vez."
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 37,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Rika no puede cruzar. Todavía no."
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 39,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Esa mañana, un kilómetro de allí."
+    },
+    {
+     "panel": 2,
+     "texto": "Con la letra pequeña de los auxiliares: no está en el plano."
+    }
+   ]
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "...ninguna estructura inferior... repetimos, ninguna estructura",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "(murmura) Ni en Tokio.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 2,
+   "quien": "",
+   "texto": "(susurro) No me ve.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Cuántas.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "No se sabe. Hay comunicacion con nueve provincias. Ninguna con",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "Y Tokio.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "Tokio no responde, general.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "(primera vez que habla) Yo tengo el número.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué número?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "De las que se abren. (pausa) Todas a la vez.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 2,
+   "quien": "",
+   "texto": "Catorce.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 2,
+   "quien": "",
+   "texto": "(murmura) Catorce puertas.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 2,
+   "quien": "",
+   "texto": "Catorce puertas en el mundo, y el país entero en silencio.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 1,
+   "quien": "",
+   "texto": "(nada)",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 13,
+   "panel": 2,
+   "quien": "",
+   "texto": "(susurro) Mio.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "Mio. Soy yo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "(no se gira) Rika.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 1,
+   "quien": "",
+   "texto": "Rika. ¿Es ella?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 1,
+   "quien": "",
+   "texto": "(no contesta)",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 1,
+   "quien": "",
+   "texto": "Rika. ¿Es tu hermana?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 1,
+   "quien": "",
+   "texto": "Si.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Ese rectángulo negro. ¿Lo ves?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Si.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Es una puerta.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Lo se.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 17,
+   "panel": 1,
+   "quien": "",
+   "texto": "Yo crucé una de esas.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 17,
+   "panel": 1,
+   "quien": "",
+   "texto": "(sin volverse) No. Tu saliste de ella.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 19,
+   "panel": 1,
+   "quien": "",
+   "texto": "Se van.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 19,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 19,
+   "panel": 1,
+   "quien": "",
+   "texto": "Se van. (pausa) Todos se van.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

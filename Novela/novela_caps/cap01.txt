@@ -2,7 +2,6 @@
 
 >>> 15 de mayo de 2017. 04:58. Costas de Kanto.
 
-[IMG:img/cap01_portal.png]
 
 El aire, esa madrugada, olía a sal y a hierro frío. Yokohama dormía con las persianas bajas y el mar en calma detrás de los depósitos de agua. No había tensión en ningún tejado. No había nada que esperar. En las azoteas, los tanques de agua vigilaban el horizonte como siempre habían hecho, y las antenas giraban despacio, sin oír nada.
 
@@ -178,7 +177,6 @@ El estudiante se llamaba Kenji. El mismo Kenji del konbini, que había cerrado l
 
 Desde el aire, la ciudad se veía como un mapa que acaban de derramar: las avenidas eran vetas oscuras que avanzaban todas en la misma dirección, y el puerto, abajo, con sus luces encendidas y nadie en los muelles, esperaba. La respuesta no vino de las calles. Vino del sur, del cielo de la base, con ese ruido que precede a las cosas grandes: primero tres helicópteros con el fuselaje marcado, después el zumbido grave de los aviones cruzando el cielo en dos grupos y dejando sendas blancas detrás, rectas, como una costura sobre el amanecer.
 
-[IMG:img/cap01_batalla.png]
 
 Las órdenes no habían llegado de ningún despacho. La primera decisión del ejército, esa mañana, se tomó por analogía: se dispara a lo que se mueve. Los helicópteros abrieron fuego desde el aire, y las líneas trazadoras bajaron sobre la avenida en dos haces exactos, mordiendo la cabeza de la columna de criaturas. Algunas cayeron. Cayeron de lado, arrastrando el asfalto tres metros, y las que venían detrás las esquivaron sin bajar la marcha, como el agua esquiva una piedra.
 

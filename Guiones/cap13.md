@@ -1,0 +1,1154 @@
+# CAPÍTULO 13 — "El registro"
+
+> **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
+> **Fecha en la ficción:** sábado **20 de mayo de 2017**, 07:10–22:00 (Día 6; después del cap12; mismo lugar de siempre).
+> **Bloques:** A = El aviso (S01–S08, gutter 40) · B = El reparto (S09–S18, gutter 35) · C = El naranja (S19–S30, gutter 35, T1 + T5) · D = Lo que no se dice (S31–S40, gutter 190) · E = El registro (S41–S54, gutter 40) · F = El registro quedó abierto (S55–S60, gutter 190, cierra en negro)
+> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Pelea, drama |
+| Estructura | El aviso coordinado → los cuatro se reparten el espacio sin hablarse → el naranja interviene a mitad y los solos fallan → primer impacto coordinado → **la pausa (el naranja mira a Rika)** → el parte del día lo anota "sin instrucciones" → Rika se queda con la mirada |
+| Fondo de los bloques A, E, F | Base NSF (sala de avisos, comedor, archivo) |
+| Fondo de los bloques B, C, D | Sector Ocho, la estación de mercancías (vías, naves, grava) |
+| Personajes con nombre | Rika Tsukimi, Goro Arashi, Ren Hayashi, Yui Nakamura, Futaki Saeri |
+| Viñetas | 120 |
+| Pantallas | 60 |
+| Globos de diálogo | 31 |
+| Cajas narración | 16 |
+| SFX | español (dibujados); repertorio declarado al final |
+| Transiciones | CORTE A: (sala/estación/andén/comedor/archivo) · FUNDIDO A: negro (cierre) |
+
+> **Segundo gancho:** pantalla S23 (viñeta **V47, 39%**) — el naranja no cae: **se detiene y mira a Rika** antes de morir.
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+> **Cierre:** trama (T) — el parte del día anota el naranja como **"sin instrucciones"** (C11: el documento dice lo que cabe en la casilla).
+
+---
+
+## 1. MAPA DE PANTALLAS
+
+### BLOQUE A — EL AVISO (S01–S08, 07:10, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---|---:|---|---|---|---|
+| S01 | T2R | 1 | 1200 | 40/40 | general | CORTE A: sala de avisos | Tres pantallas, termo, carpeta. El punto grande. |
+| S02 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: sala | "Aviso coordinado." |
+| S03 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: sala | "El papel dice los cuatro." |
+| S04 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: sala | Los cuatro llegan. |
+| S05 | T3R | 2 | 570/570 | 40/60/40 | grueso/primer plano | CORTE A: sala | Goro lee; Rika, la última línea. |
+| S06 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/primer plano | CORTE A: sala | "La ficha no da abasto." |
+| S07 | T2R | 1 | 1200 | 40/40 | medio | CORTE A: sala | "El aviso dice los cuatro." |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 | grueso/primerísimo/primer plano | CORTE A: sala | "Vamos." "¿Los cuatro?" "Los cuatro." |
+
+**Total bloque A: 8 pantallas · 16 viñetas · 10.240 px**
+
+## Las viñetas del bloque A
+
+### S01 · T2R · 1 viñeta de 1200
+
+**V1.** Plano general. La sala de avisos al amanecer: tres pantallas encendidas, el termo del café, la carpeta del día sobre la mesa. En una pantalla, la del Sector Ocho, siete puntos sobre el mapa. **SFX:** *rumo*
+- **PLANO:** general
+- **COMPOSICION:** la sala, las pantallas, el operador de espaldas
+- **ACCION:** el punto grande, detrás de los seis pequeños, sin número.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S02 · T3R · 2 viñetas de 570
+
+**V2.** Plano medio. El operador, de espaldas a la cámara, la mirada clavada en el punto grande.
+> **Caja:** El operador solo quería una cosa: que el punto grande no cambiara de casilla.
+- **PLANO:** medio
+- **COMPOSICION:** el operador, la pantalla, la carpeta al borde
+- **ACCION:** busca, en la columna vacía, la casilla donde ponerle número.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V3.** Primer plano. La pantalla del Sector Ocho: seis pequeños en formación, uno grande detrás, sin número ni color. **SFX:** *clic*
+- **PLANO:** primer plano
+- **COMPOSICION:** el mapa, los siete puntos, la flecha del cursor
+- **ACCION:** el punto que llega, no que sigue.
+- **GUTTER ABAJO:** 40
+
+### S03 · T4R · 3 viñetas de 380
+
+**V4.** Plano medio. Futaki Saeri cruza la puerta de la sala con la carpeta contra el pecho, en voz baja:
+> **Futaki:** Aviso coordinado.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki, la carpeta, la puerta
+- **ACCION:** la frase nueva, que nadie había dicho nunca.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V5.** Primerísimo. Futaki, bajando la voz:
+> **Futaki:** Solo sé que el papel dice los cuatro.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca, la media voz
+- **ACCION:** la frase que cambia de nombre la mañana.
+- **GUTTER ABAJO:** 35
+
+**V6.** Detalle. La hoja del aviso: casillas, y una marcada: los cuatro.
+- **PLANO:** detalle
+- **COMPOSICION:** la hoja, la casilla señalada
+- **ACCION:** el papel nombrando gente por primera vez.
+- **GUTTER ABAJO:** 35
+
+### S04 · T2R · 1 viñeta de 1200
+
+**V7.** Plano grueso. Los cuatro llegan a la sala: Goro primero, Rika, Yui y Ren detrás, ya con los zapatos puestos.
+- **PLANO:** grueso
+- **COMPOSICION:** los cuatro, la puerta, la sala
+- **ACCION:** los avisos de esos días se esperaban de pie.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S05 · T3R · 2 viñetas de 570
+
+**V8.** Plano grueso. Goro lee el papel despacio, el dedo pasando por las líneas, una vez y otra.
+- **PLANO:** grueso
+- **COMPOSICION:** Goro, la hoja, la parsimonia de las listas
+- **ACCION:** medir antes de pronunciarse.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V9.** Primer plano. Rika lee la última línea, la del final, y no dice nada.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro de Rika, la hoja, el haori hueso
+- **ACCION:** leer un papel desde su última línea.
+- **GUTTER ABAJO:** 40
+
+### S06 · T4R · 3 viñetas de 380
+
+**V10.** Plano medio. Goro, con la voz plana de las listas:
+> **Goro:** Seis de línea y uno grande sin clasificar.
+- **PLANO:** medio
+- **COMPOSICION:** Goro, la hoja, la mano grande
+- **ACCION:** el recuento.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V11.** Primerísimo. Futaki, la pausa de las cosas que no acaban de salir:
+> **Futaki:** Todavía. Llegó después. La ficha no da abasto.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca, la rectificación
+- **ACCION:** el grande que no cabía en la ficha.
+- **GUTTER ABAJO:** 35
+
+**V12.** Primer plano. Ren, las vendas por la frente, la voz baja de las preguntas que no quiere hacerse:
+> **Ren:** ¿Nos toca a los cuatro?
+- **PLANO:** primer plano
+- **COMPOSICION:** Ren, la pregunta, la amarilla
+- **ACCION:** la pregunta que nadie había hecho aún.
+- **GUTTER ABAJO:** 35
+
+### S07 · T2R · 1 viñeta de 1200
+
+**V13.** Plano medio. Futaki, con la hoja como quien entrega una medida que no se debía tomar:
+> **Futaki:** El aviso dice los cuatro.
+> **Caja:** Primera vez que el papel nombraba a los cuatro juntos.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki, la hoja, los cuatro al fondo de la sala
+- **ACCION:** la ventana del día, abriéndose.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S08 · T4R · 3 viñetas de 380
+
+**V14.** Plano grueso. Goro, ya yéndose, sin girar:
+> **Goro:** Vamos.
+> **Yui:** ¿Los cuatro?
+- **PLANO:** grueso
+- **COMPOSICION:** Goro de espaldas, la sala, los tres
+- **ACCION:** la palabra de siempre, con un peso nuevo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V15.** Primerísimo. Yui, calculando antes de obedecer, la mira quieta.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Yui, la cuenta
+- **ACCION:** la contabilidad que Yui hace antes de moverse.
+- **GUTTER ABAJO:** 35
+
+**V16.** Primer plano. Rika dobla el papel despacio, lo guarda en el bolsillo interior del haori hueso:
+> **Rika:** Los cuatro.
+- **PLANO:** primer plano
+- **COMPOSICION:** Rika, la hoja doblada, el haori
+- **ACCION:** salir delante de todos.
+- **GUTTER ABAJO:** 35
+
+### BLOQUE B — EL REPARTO (S09–S18, 07:28, gutter 35 cerrado)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---:|---|---:|---|---|---|---|
+| S09 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/grueso/primer plano | CORTE A: estación | No era una jauría. |
+| S10 | T3R | 2 | 570/570 | 40/60/40 | grueso/medio | CORTE A: estación | Se reparten sin hablarse: Goro centro, Rika filo. |
+| S11 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: estación | Yui, la distancia; Ren, los huecos. |
+| S12 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: estación | No se hablaron. |
+| S13 | T3R | 2 | 570/570 | 40/60/40 | medio/grueso | CORTE A: estación | El Embestidor; Goro bloquea. |
+| S14 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/medio/detalle | CORTE A: estación | Lanzador, los tres segundos, el Carrilero. |
+| S15 | T2R | 1 | 1200 | 40/40 | general | CORTE A: estación | No se hablaron, y se entendieron. |
+| S16 | T3R | 2 | 570/570 | 40/60/40 | medio/grueso | CORTE A: estación | El Blindado y el Resucitado. |
+| S17 | T3R | 2 | 570/570 | 40/60/40 | primer plano/medio | CORTE A: estación | "Rika. Termina." |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/grueso/primerísimo | CORTE A: estación | La estela que duda. |
+
+**Total bloque B: 10 pantallas · 20 viñetas · 12.800 px**
+
+## Las viñetas del bloque B
+
+### S09 · T4R · 3 viñetas de 380
+
+**V17.** Plano general. El Sector Ocho: la estación de mercancías, vías muertas, vagones dormidos, cartel de horarios corroído. Los cuatro entran por la calle del mercado viejo; la ciudad los ve pasar de reojo.
+- **PLANO:** general
+- **COMPOSICION:** la estación, la fila de cuatro, la calle
+- **ACCION:** la ciudad que ya los reconoce, sin señalarlos.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V18.** Plano grueso. La formación, en la explanada: seis amarillos repartidos con distancia, mirando en cuatro direcciones a la vez.
+> **Caja:** No era una jauría: esperaban lo que venía.
+- **PLANO:** grueso
+- **COMPOSICION:** los seis, la explanada, las naves al fondo
+- **ACCION:** la patrulla que sabe que alguien va a venir.
+- **GUTTER ABAJO:** 35
+
+**V19.** Primer plano. Rika, leyendo la formación; y detrás de los seis, la sombra grande no alcanza a verse.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro de Rika, la formación detrás
+- **ACCION:** el séptimo, sin presentarse todavía.
+- **GUTTER ABAJO:** 35
+
+### S10 · T3R · 2 viñetas de 570
+
+**V20.** Plano grueso. Los cuatro se reparten el espacio sin hablarse. Goro al centro, con el escudo delante y el casco de obra echado un palmo sobre los ojos.
+- **PLANO:** grueso
+- **COMPOSICION:** Goro al centro, el espacio abriéndose a su alrededor
+- **ACCION:** el sitio del que aguanta.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V21.** Plano medio. Rika al borde derecho, pegado a la vía muerta, el abanico de brasa cerrado en la mano.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, la vía, el borde
+- **ACCION:** el sitio del filo.
+- **GUTTER ABAJO:** 40
+
+### S11 · T3R · 2 viñetas de 570
+
+**V22.** Plano medio. Yui donde empieza la calle, alta, quieta, el rifle abierto sobre la mira; el mono alto y la mira, sus marcas (C2).
+- **PLANO:** medio
+- **COMPOSICION:** Yui, la calle, la mira
+- **ACCION:** el sitio de la distancia.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V23.** Plano medio. Ren, en los huecos, en los sitios vacíos entre los cuatro; las vendas de las muñecas, el amarillo.
+- **PLANO:** medio
+- **COMPOSICION:** Ren entre dos espacios vacíos, la amarilla chillona
+- **ACCION:** el sitio donde todos los demás no estaban.
+- **GUTTER ABAJO:** 40
+
+### S12 · T2R · 1 viñeta de 1200
+
+**V24.** Plano grueso. La silueta de la fila repartida por la explanada, vista de arriba (la imagen del operador): el centro, el borde, la calle, los huecos.
+> **Caja:** No se hablaron.
+- **PLANO:** grueso
+- **COMPOSICION:** la explanada, los cuatro repartidos, los seis en formación
+- **ACCION:** la repartición sin una sola palabra.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S13 · T3R · 2 viñetas de 570
+
+**V25.** Plano medio. El Embestidor sale de la formación como sale una bala: sin aviso. Goro no esquiva: bloquea. **SFX:** *crac*
+- **PLANO:** medio
+- **COMPOSICION:** el Embestidor, el escudo, el hombro
+- **ACCION:** el idioma del hombro de Goro, respuesta por respuesta.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V26.** Plano grueso. Goro encaja el segundo y el tercero en línea, jadeando, la explanada yendo con él.
+- **PLANO:** grueso
+- **COMPOSICION:** Goro, la línea de amarillos, el escudo humeando
+- **ACCION:** la línea que no deja de empujar.
+- **GUTTER ABAJO:** 40
+
+### S14 · T4R · 3 viñetas de 380
+
+**V27.** Plano medio. Rika abre el abanico frente al Lanzador, que alza los brazos largos desde la nave: la hoja de fuego quieto cruza la distancia. **SFX:** *tsst*
+- **PLANO:** medio
+- **COMPOSICION:** Rika, la hoja de brasa, el Lanzador al fondo
+- **ACCION:** cortar el aire antes del lanzamiento.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V28.** Plano medio. Yui, quieta, no dispara todavía: la cuenta bajo el labio —uno, dos, tres—, el dedo a medio camino.
+- **PLANO:** medio
+- **COMPOSICION:** Yui, la cuenta, el rifle a media altura
+- **ACCION:** apuntar a lo que va a venir.
+- **GUTTER ABAJO:** 35
+
+**V29.** Detalle con acción. El Carrilero en línea recta, largo y bajo; Ren aparece en el hueco entre dos momentos, la estela abriéndose tras él, y lo deja pasar. **SFX:** *fruu*
+- **PLANO:** detalle
+- **COMPOSICION:** Ren en el hueco, el Carrilero pasando de largo
+- **ACCION:** el hueco que no existió.
+- **GUTTER ABAJO:** 35
+
+### S15 · T2R · 1 viñeta de 1200
+
+**V30.** Plano general. La explanada funcionando sola: cada uno en su sitio, sin órdenes.
+> **Caja:** No se hablaron, y se entendieron.
+- **PLANO:** general
+- **COMPOSICION:** los cuatro, los seis, el polvo de la pelea
+- **ACCION:** la primera mañana sin palabra de la fila.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S16 · T3R · 2 viñetas de 570
+
+**V31.** Plano medio. Rika rodea al Blindado —cuadrado, sin cuello, no se mueve— y lo deja arrinconado en la punta de la vía muerta.
+- **PLANO:** medio
+- **COMPOSICION:** Rika pasando de largo, el Blindado quieto
+- **ACCION:** hay que rodearlo, y lo rodeó.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V32.** Plano grueso. El Resucitado —encogido, gris, con algo que se mueve debajo— rueda hasta sus pies, se queda un segundo quieto, y se levanta otra vez.
+- **PLANO:** grueso
+- **COMPOSICION:** el Resucitado caído, después erguido
+- **ACCION:** el segundo movimiento, el que no viene del sitio donde cayó el primero.
+- **GUTTER ABAJO:** 40
+
+### S17 · T3R · 2 viñetas de 570
+
+**V33.** Primer plano. Goro, sin girar, la voz de las listas:
+> **Goro:** Rika. Termina.
+- **PLANO:** primer plano
+- **COMPOSICION:** Goro de perfil, el casco, la voz plana
+- **ACCION:** el turno, devuelto.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V34.** Plano medio. Rika, la brasa del abanico haciendo lo que hace cuando Rika se lo dice; el Resucitado queda gris. **SFX:** *tsst*
+> **Rika:** Ya.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, el abanico cerrado, el montón gris
+- **ACCION:** el segundo movimiento, sin empezar.
+- **GUTTER ABAJO:** 40
+
+### S18 · T4R · 3 viñetas de 380
+
+**V35.** Detalle. La muñeca derecha de Ren: la estela parpadea un latido, un amago de apagón, y se enciende sola.
+- **PLANO:** detalle
+- **COMPOSICION:** la muñeca, la venda, el parpadeo del amarillo
+- **ACCION:** la velocidad, dudando una décima.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V36.** Plano grueso. El hueco ya cerrado: Rika se corrió un paso al centro, Yui puso un tiro entre la vía y la nave; Ren se detiene un instante, mirándose la muñeca.
+- **PLANO:** grueso
+- **COMPOSICION:** Ren al centro del hueco tapado, los tres alrededor
+- **ACCION:** la fila cerrando el hueco sin que nadie dijera nada.
+- **GUTTER ABAJO:** 35
+
+### BLOQUE C — EL NARANJA (S19–S30, 07:41–07:47, gutter 35)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---:|---|---:|---|---|---|---|
+| S19 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: estación | Sale de la nave. |
+| S20 | T4R | 3 | 380/380/380 | 35/35/35/35 | grueso/medio/medio | CORTE A: estación | Los tres solos fallan. |
+| S21 | T3R | 2 | 570/570 | 40/60/40 | primer plano/primerísimo | CORTE A: estación | "No va a los momentos." |
+| S22 | T4R | 3 | 380/380/380 | 35/35/35/35 | grueso/primer plano/primer plano | CORTE A: estación | "Juntos." |
+| S23 | T3R | 2 | 570/570 | 40/60/40 | grueso/primer plano | CORTE A: estación | El primer impacto. **> SEGUNDO GANCHO.** |
+| S24 | T1 | 1 | 1280 | 0/0 | impacto | CORTE A: estación | **T1:** el sello de brasa; cae. |
+| S25 | T3R | 2 | 570/570 | 40/60/40 | grueso/medio | CORTE A: estación | El polvo; el silencio. |
+| S26 | T3R | 2 | 570/570 | 40/60/40 | grueso/medio | CORTE A: estación | Los dos amarillos quedan quietos. |
+| S27 | T4R | 3 | 380/380/380 | 35/35/35/35 | grueso/primer plano/primerísimo | CORTE A: estación | "No nos dimos ni una orden." |
+| S28 | T2R | 1 | 1200 | 40/40 | general | CORTE A: estación | La explanada; los seis montoncitos. |
+| S29 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: estación | **Viñeta de silencio T5.** La pausa después del impacto. |
+| S30 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: estación → oficina | Los cuatro de pie; al fondo la ciudad. |
+
+**Total bloque C: 12 pantallas · 22 viñetas · 15.360 px**
+
+## Las viñetas del bloque C
+
+### S19 · T2R · 1 viñeta de 1200
+
+**V37.** Plano grueso. El naranja sale de la nave: alto, delgado, miembros largos como cortinas, la cabeza pequeña, dos ojos planos y oscuros. No anuncia nada.
+> **Caja:** Parece que espera a alguien.
+- **PLANO:** grueso
+- **COMPOSICION:** el naranja, la nave al fondo, los cuatro en primer plano de espaldas
+- **ACCION:** caminar sin prisa, como quien no tiene horario.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S20 · T4R · 3 viñetas de 380
+
+**V38.** Plano grueso. Goro embiste con el escudo; el naranja se corre de lado y lo escupe a la vía muerta; Goro cae sobre la grava. **SFX:** *crac*
+- **PLANO:** grueso
+- **COMPOSICION:** Goro cayendo, el naranja corrido de lado
+- **ACCION:** el que no embiste: se desplaza.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V39.** Plano medio. Rika cruza el abanico por el pecho; el filo pasa de largo por donde el cuerpo no estaba.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, el abanico abierto, el pecho filtrado
+- **ACCION:** el cuerpo que no está donde parece.
+- **GUTTER ABAJO:** 35
+
+**V40.** Plano medio. Yui dispara al centro del pecho con la cuenta hecha; el tiro entra y no detiene nada. **SFX:** *pum*
+- **PLANO:** medio
+- **COMPOSICION:** Yui tras la mira, el naranja alcanzado de frente
+- **ACCION:** el corazón que está en otra parte.
+- **GUTTER ABAJO:** 35
+
+### S21 · T3R · 2 viñetas de 570
+
+**V41.** Primer plano. Ren gira entre dos momentos y vuelve al vacío: los huecos del naranja no abren.
+- **PLANO:** primer plano
+- **COMPOSICION:** Ren llegando al vacío, la estela cortada
+- **ACCION:** la sola pieza que no se caza por los costados.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V42.** Primerísimo. Ren, el pecho abriéndosele:
+> **Ren:** No va al espacio. Va a los momentos.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Ren, la comprensión
+- **ACCION:** nombrar lo que no le deja un sitio.
+- **GUTTER ABAJO:** 40
+
+### S22 · T4R · 3 viñetas de 380
+
+**V43.** Plano grueso. Goro, desde la grava, la palabra por primera vez dicha en voz alta:
+> **Goro:** Juntos.
+- **PLANO:** grueso
+- **COMPOSICION:** Goro levantándose, la palabra cayendo en la explanada
+- **ACCION:** la puerta de la fila, abriéndose.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V44.** Primer plano. Rika; después Ren, en el mismo encuadre:
+> **Rika:** Juntos.
+> **Ren:** Juntos.
+- **PLANO:** primer plano
+- **COMPOSICION:** Rika y Ren, la palabra devuelta
+- **ACCION:** dos veces la misma puerta.
+- **GUTTER ABAJO:** 35
+
+**V45.** Primer plano. Yui no dice nada: carga.
+- **PLANO:** primer plano
+- **COMPOSICION:** Yui, el cargador en la palma, la mano que sabe cuándo la fila la necesita
+- **ACCION:** Yui cargaba las palabras con el cuerpo.
+- **GUTTER ABAJO:** 35
+
+### S23 · T3R · 2 viñetas de 570
+
+**V46.** Plano grueso. El primer impacto coordinado: Ren en el flanco ciego, Goro clava el escudo en el pie del centro, Yui dispara a la articulación del hombro izquierdo, Rika le pone la brasa entera en el pecho. Cuatro piezas, una soldadura.
+- **PLANO:** grueso
+- **COMPOSICION:** los cuatro alrededor, el naranja atado por la atención y el peso
+- **ACCION:** la fila, atornillada a la vez.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V47.** Primer plano. El naranja no cae: **se detiene**. Los brazos cuelgan, quietos; los ojos planos y oscuros, sobre Rika.
+> **> SEGUNDO GANCHO (viñeta V47, 39%).** Debería haberse caído. No se cayó: se paró. Y antes de morir, mira a Rika.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro del naranja, las cortinas colgando, Rika al borde del encuadre
+- **ACCION:** la pausa de los que miden.
+- **GUTTER ABAJO:** 40
+
+### S24 · T1 · viñeta a sangre de 1280
+
+**V48.** **T1 a sangre.** El sello de brasa de Rika se cierra sobre el pecho tieso del naranja, quieto, mirándola, y lo tumba a la vez: cae hacia atrás contra la grava de la vía muerta. **SFX:** *zash*
+- **PLANO:** impacto
+- **COMPOSICION:** el sello, el estallido, la caída fuera de marco
+- **ACCION:** el golpe más grande del capítulo, el que la fila hizo entre los cuatro.
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
+
+### S25 · T3R · 2 viñetas de 570
+
+**V49.** Plano grueso. El polvo cayendo sobre la grava; las cortinas de los brazos soltándose.
+- **PLANO:** grueso
+- **COMPOSICION:** la grava, el polvo, la vía muerta
+- **ACCION:** la caída de los árboles que se van.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V50.** Plano medio. La explanada en silencio; la brasa de los puños de Rika tarda en apagarse.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, el abanico abierto, el sitio vacío delante
+- **ACCION:** el fuego que no se apaga cuando Rika lo pide con la mano.
+- **GUTTER ABAJO:** 40
+
+### S26 · T3R · 2 viñetas de 570
+
+**V51.** Plano grueso. Los dos amarillos que quedan —el arrodillado y el entero—, quietos, mirando el montón gris.
+- **PLANO:** grueso
+- **COMPOSICION:** los dos amarillos, el montón, la explanada
+- **ACCION:** no retroceden, no atacan: miran.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V52.** Plano medio. Los cuatro los terminan sin palabras, más despacio, la mitad del pensamiento en otra parte.
+- **PLANO:** medio
+- **COMPOSICION:** los cuatro, los dos amarillos, la faena
+- **ACCION:** ya no había una hora antes.
+- **GUTTER ABAJO:** 40
+
+### S27 · T4R · 3 viñetas de 380
+
+**V53.** Plano grueso. Goro se levanta de la grava, se quita el polvo del casco con el antebrazo, despacio, con dos dedos.
+- **PLANO:** grueso
+- **COMPOSICION:** Goro de pie, el polvo, los seis montoncitos
+- **ACCION:** repasar las medidas de la mañana.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V54.** Primer plano. Goro, mirando la explanada:
+> **Goro:** No nos dimos ni una orden.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro de Goro, el casco, la grava
+- **ACCION:** la comprobación, dicha en voz alta.
+- **GUTTER ABAJO:** 35
+
+**V55.** Primerísimo. Ren, la voz de las cosas que se acaban de comprobar:
+> **Ren:** No.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Ren, la frase sin terminar
+- **ACCION:** el "y sin embargo" que ninguno dijo.
+- **GUTTER ABAJO:** 35
+
+### S28 · T2R · 1 viñeta de 1200
+
+**V56.** Plano general. La explanada entera: seis montoncitos de plataforma, el naranja confundido con la tierra, la estación quieta.
+- **PLANO:** general
+- **COMPOSICION:** la explanada, los montoncitos, el polvo
+- **ACCION:** la mañana, terminada.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S29 · T5 · viñeta de silencio
+
+**V57.** **Viñeta de silencio.** Estría vertical: los cuatro en medio de la explanada vacía. Ninguno dijo nada. No hacía falta.
+- **PLANO:** silencio
+- **COMPOSICION:** la estría, los cuatro, la estación
+- **ACCION:** la pausa obligatoria después del impacto.
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 1020
+
+### S30 · T2R · 1 viñeta de 1200
+
+**V58.** Plano grueso. Los cuatro de pie, jadeando, en la explanada callada; al fondo, en la luz de la oficina del andén, una ventana con una figura que no entiende.
+> **Caja:** No se dieron ni una orden en toda la mañana.
+- **PLANO:** grueso
+- **COMPOSICION:** los cuatro, la estación, la ventana pequeña al fondo
+- **ACCION:** la fila, enterándose de lo que hizo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### BLOQUE D — LO QUE NO SE DICE (S31–S40, 07:47–08:05, gutter 190 abierto)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---:|---|---:|---|---|---|---|
+| S31 | T3R | 2 | 430/430 | 115/190/115 | grueso/primer plano | CORTE A: estación | La pausa, respiración. |
+| S32 | T4R | 3 | 300/300/300 | 90/100/100/90 | medio/primer plano/medio | CORTE A: estación | Goro guarda; Ren la muñeca; Yui la cuenta. |
+| S33 | T3R | 2 | 430/430 | 115/190/115 | medio/detalle | CORTE A: estación | Rika junto al montón. |
+| S34 | T3R | 2 | 430/430 | 115/190/115 | primer plano/primerísimo | CORTE A: estación | La brasa; la pregunta. |
+| S35 | T2R | 1 | 1060 | 190/30 | primer plano | CORTE A: oficina del andén | El hombre de limpieza, la ventana. |
+| S36 | T3R | 2 | 430/430 | 115/190/115 | grueso/medio | CORTE A: andén → calle | Salen; la calle. |
+| S37 | T4R | 3 | 300/300/300 | 90/100/100/90 | medio/primer plano/primerísimo | CORTE A: calle | "Alguien tendrá que anotar lo de hoy." |
+| S38 | T3R | 2 | 430/430 | 115/190/115 | grueso/detalle | CORTE A: calle | La estación atrás; el casco con polvo. |
+| S39 | T2R | 1 | 1060 | 190/30 | medio | CORTE A: calle | Rika, las manos, la brasa. |
+| S40 | T3R | 2 | 430/430 | 115/190/115 | grueso/detalle | CORTE A: base | Vuelta a la base; la carpeta. |
+
+**Total bloque D: 10 pantallas · 20 viñetas · 12.800 px**
+
+## Las viñetas del bloque D
+
+### S31 · T3R · 2 viñetas de 430
+
+**V59.** Plano grueso. Los cuatro, jadeando todavía, de pie en la explanada vacía, cada uno con su parte de la mañana.
+- **PLANO:** grueso
+- **COMPOSICION:** los cuatro, la respiración, la estación quieta
+- **ACCION:** la primera bocanada después de la pausa.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V60.** Primer plano. Goro, el escudo a media altura, la mano izquierda abierta repasando la jugada.
+- **PLANO:** primer plano
+- **COMPOSICION:** la mano de Goro, la jugada en el aire
+- **ACCION:** releer el sitio donde se le corrió de lado.
+- **GUTTER ABAJO:** 40
+
+### S32 · T4R · 3 viñetas de 300
+
+**V61.** Plano medio. Goro guarda el escudo a la espalda, despacio, sin que nadie lo ayude.
+- **PLANO:** medio
+- **COMPOSICION:** Goro, el escudo, la correa
+- **ACCION:** el gesto de siempre, con el polvo encima.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V62.** Primer plano. Ren, la muñeca derecha, la estela que dudó una décima; se la mira sin decirlo.
+- **PLANO:** primer plano
+- **COMPOSICION:** la muñeca, la venda, la duda
+- **ACCION:** la próxima vez no va a poder fingir que no la vio.
+- **GUTTER ABAJO:** 100
+
+**V63.** Plano medio. Yui, la mano contando hacia dentro: uno, dos, tres.
+- **PLANO:** medio
+- **COMPOSICION:** Yui, la mano, la cuenta
+- **ACCION:** medir lo que ya no va a repetirse.
+- **GUTTER ABAJO:** 90
+
+### S33 · T3R · 2 viñetas de 430
+
+**V64.** Plano medio. Rika se acerca al montón gris del naranja, sin prisa, la planta del pie asentando en la grava.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, el montón, la vía muerta
+- **ACCION:** acercarse a mirar lo que la miró.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V65.** Detalle. Las cenizas en la grava; el sitio exacto donde el naranja se había detenido.
+- **PLANO:** detalle
+- **COMPOSICION:** las cenizas, la grava, el sitio vacío
+- **ACCION:** la dirección de una mirada que ya no está.
+- **GUTTER ABAJO:** 40
+
+### S34 · T3R · 2 viñetas de 430
+
+**V66.** Primer plano. Los puños de Rika: la brasa quieta, tibia, tardando en apagarse más que nunca.
+- **PLANO:** primer plano
+- **COMPOSICION:** los puños, la tibieza, el haori hueso
+- **ACCION:** el fuego que no se apaga cuando Rika recuerda.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V67.** Primerísimo. Los ojos de Rika; dentro, la pregunta sin letras.
+> **Caja:** Lo que la miró desde dentro no era un enemigo.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, la pregunta, el hueco del pecho
+- **ACCION:** el cajón de Rika, tocado por primera vez desde el martes.
+- **GUTTER ABAJO:** 40
+
+### S35 · T2R · 1 viñeta de 1060
+
+**V68.** Primer plano. El hombre de limpieza en la oficina del andén, la ventana, la bayeta a media mano, la boca a medio abrir.
+> **Caja:** No entendió.
+- **PLANO:** primer plano
+- **COMPOSICION:** la ventana, la figura, la bayeta
+- **ACCION:** la mirada externa (técnica 8): no era un golpe lo que acababan de ver.
+- **GUTTER ARRIBA:** 190 · **GUTTER ABAJO:** 30
+
+### S36 · T3R · 2 viñetas de 430
+
+**V69.** Plano grueso. Los cuatro atraviesan la explanada hacia la salida, el polvo en los hombros, la fila entera.
+- **PLANO:** grueso
+- **COMPOSICION:** la fila, la explanada, la estación atrás
+- **ACCION:** la mañana, a la espalda.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V70.** Plano medio. La calle; la ciudad mirando de reojo, persianas, móviles medio escondidos.
+- **PLANO:** medio
+- **COMPOSICION:** la calle, los cuatro, las persianas
+- **ACCION:** el pueblo que ve pasar lo que no entiende.
+- **GUTTER ABAJO:** 40
+
+### S37 · T4R · 3 viñetas de 300
+
+**V71.** Plano medio. Yui, en la marcha, la voz con la que mide:
+> **Yui:** Alguien tendrá que anotar lo de hoy.
+- **PLANO:** medio
+- **COMPOSICION:** Yui, la marcha, la frase operativa
+- **ACCION:** la continuación del cuaderno.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V72.** Primer plano. Goro, sin volverse:
+> **Goro:** El parte lo hará.
+- **PLANO:** primer plano
+- **COMPOSICION:** Goro de perfil, la voz plana
+- **ACCION:** la lista, abriéndose otra vez.
+- **GUTTER ABAJO:** 100
+
+**V73.** Primerísimo. Rika, sin decir nada, la pausa dentro.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el rostro de Rika, el silencio
+- **ACCION:** lo que no va a caber en el cajón, naciendo.
+- **GUTTER ABAJO:** 90
+
+### S38 · T3R · 2 viñetas de 430
+
+**V74.** Plano grueso. La estación quedando atrás, pequeña, la calle larga delante.
+- **PLANO:** grueso
+- **COMPOSICION:** la fila, la estación empequeñeciéndose
+- **ACCION:** el tamaño que se pierde al alejarse.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V75.** Detalle. El polvo del casco de Goro, en los hombros de los cuatro, como arena de otra parte.
+- **PLANO:** detalle
+- **COMPOSICION:** el casco, el polvo, la grava en la tela
+- **ACCION:** la mañana, llevándose puesta.
+- **GUTTER ABAJO:** 40
+
+### S39 · T2R · 1 viñeta de 1060
+
+**V76.** Plano medio. Rika, en la calle, mirándose las manos: la brasa quieta, tibia, despierta.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, las manos, la calle
+- **ACCION:** la brasa que la mañana no apagó.
+- **GUTTER ARRIBA:** 190 · **GUTTER ABAJO:** 30
+
+### S40 · T3R · 2 viñetas de 430
+
+**V77.** Plano grueso. Los cuatro, de vuelta, entrando a la base; la ciudad detrás, el día a medias.
+- **PLANO:** grueso
+- **COMPOSICION:** la fila, la verja de la base, la luz
+- **ACCION:** la mañana entera, terminada y sin terminar.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V78.** Detalle. La carpeta del operador, sobre la mesa de la sala de avisos.
+> **Caja:** La carpeta se llamaba de otra manera: la de la pelea de los cuatro.
+- **PLANO:** detalle
+- **COMPOSICION:** la carpeta, la mesa, el marcapáginas
+- **ACCION:** el nombre nuevo de la mañana.
+- **GUTTER ABAJO:** 40
+
+### BLOQUE E — EL REGISTRO (S41–S54, 13:20, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---:|---|---:|---|---|---|---|
+| S41 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: sala de avisos | El operador repasa el tramo. |
+| S42 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: comedor | Futaki entra; la hoja. |
+| S43 | T4R | 3 | 380/380/380 | 35/35/35/35 | grueso/primer plano/primerísimo | CORTE A: comedor | "Sector Ocho." |
+| S44 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: comedor | "El parte del día." |
+| S45 | T4R | 3 | 380/380/380 | 35/35/35/35 | primerísimo/primer plano/primerísimo | CORTE A: comedor | "Sin instrucciones." |
+| S46 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: comedor | El silencio, el café frío. |
+| S47 | T3R | 2 | 570/570 | 40/60/40 | primer plano/primerísimo | CORTE A: comedor | "¿Qué quiere decir eso?" |
+| S48 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/detalle | CORTE A: comedor | La ficha de los subjefes. |
+| S49 | T2R | 1 | 1200 | 40/40 | primer plano | CORTE A: comedor | "Lo anoto." |
+| S50 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: comedor | "¿El qué?" |
+| S51 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/grueso | CORTE A: comedor | Rika calla; se levantan. |
+| S52 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: sala de avisos | Otra vez el tramo. |
+| S53 | T2R | 1 | 1200 | 40/40 | medio | CORTE A: comedor | El comedor vacío; la hoja. |
+| S54 | T3R | 2 | 570/570 | 40/60/40 | grueso/detalle | CORTE A: archivo | El parte en la carpeta. |
+
+**Total bloque E: 14 pantallas · 28 viñetas · 17.920 px**
+
+## Las viñetas del bloque E
+
+### S41 · T2R · 1 viñeta de 1200
+
+**V79.** Plano grueso. La sala de avisos, 13:20: el operador repasa el tramo del Sector Ocho con el volumen bajo.
+- **PLANO:** grueso
+- **COMPOSICION:** el operador, la pantalla, el tramo congelado
+- **ACCION:** volver a mirar el segundo en que se detiene.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S42 · T3R · 2 viñetas de 570
+
+**V80.** Plano medio. Futaki entra al comedor con la hoja contra el pecho, 13:20, el comedor vaciándose.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki, la hoja, la puerta del comedor
+- **ACCION:** la hoja que hay que entregar.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V81.** Detalle. La hoja del parte: casillas; la primera fila ya llena: "Sector Ocho".
+- **PLANO:** detalle
+- **COMPOSICION:** la hoja, las casillas, la primera fila
+- **ACCION:** la cinta métrica del día.
+- **GUTTER ABAJO:** 40
+
+### S43 · T4R · 3 viñetas de 380
+
+**V82.** Plano grueso. Los cuatro, en la mesa del fondo, el café recién hecho, las manos con polvo de la estación debajo de las uñas.
+- **PLANO:** grueso
+- **COMPOSICION:** la mesa del fondo, los cuatro, el café
+- **ACCION:** la mesa de siempre, con otra clase de cansancio.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V83.** Primer plano. Futaki, dejando la hoja sin darle la vuelta:
+> **Futaki:** Sector Ocho. Seis de línea. Un subjefe.
+- **PLANO:** primer plano
+- **COMPOSICION:** Futaki, la hoja, la media voz
+- **ACCION:** la lectura de la casilla llena.
+- **GUTTER ABAJO:** 35
+
+**V84.** Primerísimo. Yui, con el café en la mano:
+> **Yui:** ¿Y la pelea?
+- **PLANO:** primerísimo
+- **COMPOSICION:** Yui, la taza, la pregunta
+- **ACCION:** pedir que el parte no se quede corto.
+- **GUTTER ABAJO:** 35
+
+### S44 · T3R · 2 viñetas de 570
+
+**V85.** Plano medio. Futaki, la explicación del papel:
+> **Futaki:** Eso va en el parte de la pelea. Esto es el parte del día.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki, la hoja, la jerarquía de papeles
+- **ACCION:** el orden de la burocracia del día.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V86.** Primer plano. Yui, bajando la taza, la voz con la que mide:
+> **Yui:** ¿Qué dice del grande?
+- **PLANO:** primer plano
+- **COMPOSICION:** Yui, la voz medida, la taza en el borde
+- **ACCION:** la pregunta que va al fondo de la hoja.
+- **GUTTER ABAJO:** 40
+
+### S45 · T4R · 3 viñetas de 380
+
+**V87.** Primerísimo. Futaki, la pausa que no se quiere hacer, de memoria:
+> **Futaki:** Clasificación: subjefe.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca de Futaki, la pausa
+- **ACCION:** la clasificación que la mañana ya sabía.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V88.** Primer plano. Rika, sin soltar la taza:
+> **Rika:** ¿Y el objetivo?
+- **PLANO:** primer plano
+- **COMPOSICION:** Rika, la taza, la pregunta
+- **ACCION:** la última casilla, la que no se quería pedir.
+- **GUTTER ABAJO:** 35
+
+**V89.** Primerísimo. Futaki, la voz más baja todavía, la frase escrita sin saber del todo lo que escribía:
+> **Futaki:** Sin instrucciones.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca, la frase, el silencio abriéndose
+- **ACCION:** la casilla que desmonta la mañana.
+- **GUTTER ABAJO:** 35
+
+### S46 · T2R · 1 viñeta de 1200
+
+**V90.** Plano grueso. La mesa del fondo; el café recién hecho quedándose tibio, frío, en las tazas.
+> **Caja:** La casilla no cabía en la hoja, y la hoja se quedaba con hueco.
+- **PLANO:** grueso
+- **COMPOSICION:** las tazas, la mesa, los cuatro sin hablar
+- **ACCION:** el silencio que nadie riega.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S47 · T3R · 2 viñetas de 570
+
+**V91.** Primer plano. Yui, separando la frase en casillas:
+> **Yui:** ¿Qué quiere decir eso?
+- **PLANO:** primer plano
+- **COMPOSICION:** Yui, la pregunta numerada
+- **ACCION:** ponerle número a lo que no lo tenía.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V92.** Primerísimo. Futaki, en voz baja:
+> **Futaki:** Que no llevaba objetivo.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca, la confirmación
+- **ACCION:** la ficha, vacía de rumbo.
+- **GUTTER ABAJO:** 40
+
+### S48 · T4R · 3 viñetas de 380
+
+**V93.** Plano medio. Futaki, explicando el papel con el respeto de las cosas que dan miedo una vez que se entienden:
+> **Futaki:** Los subjefes siempre llevan objetivo. Es su ficha. Les dan uno, los sueltan, y van donde el objetivo los lleva.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki, la hoja, la explicación
+- **ACCION:** la regla de los subjefes, dicha entera.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V94.** Primer plano. Ren, bajito:
+> **Ren:** ¿Y si no registramos la orden?
+- **PLANO:** primer plano
+- **COMPOSICION:** Ren, la pregunta baja
+- **ACCION:** la duda de fondo, dicha por el más joven.
+- **GUTTER ABAJO:** 35
+
+**V95.** Detalle. La hoja; la casilla "Objetivo" sin llenar, con el hueco donde la palabra no cabe.
+- **PLANO:** detalle
+- **COMPOSICION:** la casilla, el hueco, la hoja
+- **ACCION:** la medida que no se midió.
+- **GUTTER ABAJO:** 35
+
+### S49 · T2R · 1 viñeta de 1200
+
+**V96.** Primer plano. Yui abre el cuaderno que no se quitaba de encima y escribe, despacio, dos palabras. **SFX:** *scrch*
+> **Yui:** Lo anoto.
+- **PLANO:** primer plano
+- **COMPOSICION:** el cuaderno, la mano, la tinta
+- **ACCION:** el rasguido de la tinta; la mesa del fondo oyendo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S50 · T3R · 2 viñetas de 570
+
+**V97.** Plano medio. Goro, mirando el cuaderno:
+> **Goro:** ¿El qué?
+- **PLANO:** medio
+- **COMPOSICION:** Goro, el cuaderno, la pregunta
+- **ACCION:** el inventario de Mañana, pidiendo campo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V98.** Primer plano. Yui, cerrando el cuaderno con el cuidado de las cosas que no se dicen dos veces:
+> **Yui:** Lo de hoy. Lo de la pelea. Lo de los cuatro. Y lo de que salió sin que nadie lo mandara.
+- **PLANO:** primer plano
+- **COMPOSICION:** Yui, el cuaderno cerrado a medias
+- **ACCION:** la línea de la tarde, firmada.
+- **GUTTER ABAJO:** 40
+
+### S51 · T4R · 3 viñetas de 380
+
+**V99.** Plano medio. Rika, mirando su café, la brasa quieta, tibia, en los puños.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, la taza, la quietud
+- **ACCION:** lo que no tiene nombre todavía.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V100.** Primerísimo. Los ojos de Rika; dentro, la pausa del naranja, mirándola.
+> **Caja:** No sabía cómo decir lo que aún no tenía nombre.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, la pausa, el cajón
+- **ACCION:** la pregunta sin casilla de la jornada.
+- **GUTTER ABAJO:** 35
+
+**V101.** Plano grueso. Los cuatro se levantan, cada uno a una parte de la tarde.
+- **PLANO:** grueso
+- **COMPOSICION:** la mesa deshaciéndose, los cuatro, las tazas
+- **ACCION:** la tarde, repartiéndose sola.
+- **GUTTER ABAJO:** 35
+
+### S52 · T3R · 2 viñetas de 570
+
+**V102.** Plano medio. La sala de avisos; el operador pone otra vez el tramo, volumen bajo, buscando el segundo.
+- **PLANO:** medio
+- **COMPOSICION:** el operador, la pantalla, la repetición
+- **ACCION:** la obsesión de la sala, sin decirlo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V103.** Primer plano. La pausa en pantalla: el naranja detenido, congelado, mirando.
+> **Caja:** Había algo en esa pausa que se le parecía a las pausas de la gente.
+- **PLANO:** primer plano
+- **COMPOSICION:** la pantalla, la imagen congelada, la luz
+- **ACCION:** el operador, guardando la grabación sin decir a nadie lo que miraba.
+- **GUTTER ABAJO:** 40
+
+### S53 · T2R · 1 viñeta de 1200
+
+**V104.** Plano medio. El comedor, vacío ya; la mesa del fondo con las tazas y la hoja del parte al borde.
+- **PLANO:** medio
+- **COMPOSICION:** el comedor vacío, la mesa, la hoja
+- **ACCION:** lo anotado, reposando donde se anotó.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S54 · T3R · 2 viñetas de 570
+
+**V105.** Plano grueso. La mesa del archivo, 18:00; el parte del día entrando en su carpeta.
+- **PLANO:** grueso
+- **COMPOSICION:** la carpeta, la hoja, la mesa del archivo
+- **ACCION:** la hoja, yendo a su sitio.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V106.** Detalle. La línea de tinta, ya seca: "Objetivo: sin instrucciones."
+- **PLANO:** detalle
+- **COMPOSICION:** la línea, la tinta, la casilla
+- **ACCION:** la frase que no se borra.
+- **GUTTER ABAJO:** 40
+
+### BLOQUE F — EL REGISTRO QUEDÓ ABIERTO (S55–S60, 21:40–22:00, gutter 190 abierto, cierra en negro)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---:|---|---:|---|---|---|---|
+| S55 | T2R | 1 | 1060 | 190/30 | grueso | CORTE A: archivo → noche | La sala de avisos, apagada. |
+| S56 | T4R | 3 | 300/300/300 | 90/100/100/90 | grueso/grueso/primer plano | CORTE A: comedor, noche | La cena. |
+| S57 | T4R | 3 | 300/300/300 | 90/100/100/90 | primer plano/primerísimo/detalle | CORTE A: comedor | La ventana; la pausa. |
+| S58 | T4R | 3 | 300/300/300 | 90/100/100/90 | grueso/primer plano/detalle | CORTE A: archivo | El parte se archiva a las 22. |
+| S59 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: archivo | **Viñeta de silencio T5.** "Sin instrucciones". |
+| S60 | T4R | 3 | 300/300/300 | 90/100/100/90 | general/general/primerísimo | CORTE A: archivo | Cierre (T). La ciudad; la luz; el registro. |
+
+**Total bloque F: 6 pantallas · 14 viñetas · 7.680 px**
+
+**Total capítulo: 60 pantallas · 120 viñetas · 76.800 px**
+
+---
+
+## Las viñetas del bloque F
+
+### S55 · T2R · 1 viñeta de 1060
+
+**V107.** Plano grueso. La sala de avisos, de noche: la pantalla apagada, el termo vacío, la carpeta cerrada.
+- **PLANO:** grueso
+- **COMPOSICION:** la sala oscura, la pantalla apagada, la carpeta
+- **ACCION:** la mañana, guardada.
+- **GUTTER ARRIBA:** 190 · **GUTTER ABAJO:** 30
+
+### S56 · T4R · 3 viñetas de 300
+
+**V108.** Plano grueso. El comedor de noche; la mesa del fondo, los cuatro cenando en silencio.
+- **PLANO:** grueso
+- **COMPOSICION:** la mesa, los cuatro, la luz baja
+- **ACCION:** la noche que se come la base.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V109.** Plano grueso. Goro repasando la jugada con la mano abierta; Ren mirando el bulto del bolsillo; Yui con el cuaderno abierto a medias sobre la bandeja.
+- **PLANO:** grueso
+- **COMPOSICION:** los tres, cada uno con su parte de la tarde
+- **ACCION:** sin hablar apenas.
+- **GUTTER ABAJO:** 100
+
+**V110.** Primer plano. Rika, al final de la mesa, mirando la ventana y la noche del sector allá fuera.
+- **PLANO:** primer plano
+- **COMPOSICION:** Rika, la ventana, la luz de la base
+- **ACCION:** la mirada hacia el lugar donde la miraron.
+- **GUTTER ABAJO:** 90
+
+### S57 · T4R · 3 viñetas de 300
+
+**V111.** Primer plano. El rostro de Rika contra la ventana, el reflejo de la luz de la base mezclándose con la noche.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro, el reflejo, la noche
+- **ACCION:** la pausa, volviendo.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V112.** Primerísimo. Sus ojos; el naranja detenido, mirándola, en el centro de la memoria.
+> **Caja:** Una cosa nueva que no iba a caber en su cajón.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, la pausa, el cajón
+- **ACCION:** la única cosa que no cabía.
+- **GUTTER ABAJO:** 100
+
+**V113.** Detalle. La brasa quieta, tibia, en los puños de Rika, bajo la mesa.
+- **PLANO:** detalle
+- **COMPOSICION:** los puños, la tibieza
+- **ACCION:** el fuego que vigila la pregunta.
+- **GUTTER ABAJO:** 90
+
+### S58 · T4R · 3 viñetas de 300
+
+**V114.** Plano grueso. El parte del día, archivado a las veintidós, entrando en la carpeta del archivo.
+- **PLANO:** grueso
+- **COMPOSICION:** la carpeta, la hoja, la mesa del archivo
+- **ACCION:** la tinta, sellada para la noche.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V115.** Primer plano. La hoja, sobre la mesa del archivo, a la luz de la lámpara: las casillas, la frase.
+> **Caja:** Sector Ocho. Seis de línea. Un subjefe. Objetivo: sin instrucciones.
+- **PLANO:** primer plano
+- **COMPOSICION:** la hoja, la casilla, la tinta seca
+- **ACCION:** el documento, dejando su huella (C11).
+- **GUTTER ABAJO:** 100
+
+**V116.** Detalle. El sello de cierre sobre la carpeta del día.
+- **PLANO:** detalle
+- **COMPOSICION:** el sello, la carpeta, la sombra
+- **ACCION:** la palabra "sin instrucciones", cerrada dentro.
+- **GUTTER ABAJO:** 90
+
+### S59 · T5 · viñeta de silencio
+
+**V117.** **Viñeta de silencio.** Estría vertical: la carpeta cerrada, la hoja dentro, la palabra flotando.
+- **PLANO:** silencio
+- **COMPOSICION:** la estría, la carpeta, la mesa del archivo
+- **ACCION:** la palabra, recibida en peso.
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 1020
+
+### S60 · T4R · 3 viñetas de 300
+
+**V118.** Plano general. La ciudad de noche, ventanas encendidas, la luz de la base al fondo.
+- **PLANO:** general
+- **COMPOSICION:** la ciudad, las ventanas, la noche
+- **ACCION:** alguien, del otro lado, contándolas.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V119.** Plano general. El comedor, apagada la luz del fondo; la mesa del fondo, vacía; la carpeta, cerrada.
+- **PLANO:** general
+- **COMPOSICION:** el comedor oscuro, la mesa, la puerta
+- **ACCION:** el día, cerrado.
+- **GUTTER ABAJO:** 100
+
+**V120.** Primerísimo. La hoja en la carpeta, un último reflejo de luz sobre la casilla "sin instrucciones"; y la palabra que el documento no sabe escribir.
+> **Caja:** El registro quedó abierto.
+> **FUNDIDO A: negro.** Cierre de trama.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la casilla, la luz, la tinta
+- **ACCION:** el parte cerrado, y la pregunta abierta.
+- **GUTTER ABAJO:** 90
+
+**FIN DEL CAPÍTULO 13.**
+
+---
+
+## LOS TEXTOS
+
+### Globos de diálogo (31)
+
+| Viñeta | Quién | Texto |
+|---|---|---|
+| V4 | Futaki Saeri | Aviso coordinado. |
+| V5 | Futaki Saeri | Solo sé que el papel dice los cuatro. |
+| V10 | Goro Arashi | Seis de línea y uno grande sin clasificar. |
+| V11 | Futaki Saeri | Todavía. Llegó después. La ficha no da abasto. |
+| V12 | Ren Hayashi | ¿Nos toca a los cuatro? |
+| V13 | Futaki Saeri | El aviso dice los cuatro. |
+| V14 | Goro Arashi / Yui Nakamura | Goro: Vamos. / Yui: ¿Los cuatro? |
+| V16 | Rika Tsukimi | Los cuatro. |
+| V33 | Goro Arashi | Rika. Termina. |
+| V34 | Rika Tsukimi | Ya. |
+| V42 | Ren Hayashi | No va al espacio. Va a los momentos. |
+| V43 | Goro Arashi | Juntos. |
+| V44 | Rika Tsukimi / Ren Hayashi | Rika: Juntos. / Ren: Juntos. |
+| V71 | Yui Nakamura | Alguien tendrá que anotar lo de hoy. |
+| V72 | Goro Arashi | El parte lo hará. |
+| V83 | Futaki Saeri | Sector Ocho. Seis de línea. Un subjefe. |
+| V84 | Yui Nakamura | ¿Y la pelea? |
+| V85 | Futaki Saeri | Eso va en el parte de la pelea. Esto es el parte del día. |
+| V86 | Yui Nakamura | ¿Qué dice del grande? |
+| V87 | Futaki Saeri | Clasificación: subjefe. |
+| V88 | Rika Tsukimi | ¿Y el objetivo? |
+| V89 | Futaki Saeri | Sin instrucciones. |
+| V91 | Yui Nakamura | ¿Qué quiere decir eso? |
+| V92 | Futaki Saeri | Que no llevaba objetivo. |
+| V93 | Futaki Saeri | Los subjefes siempre llevan objetivo. Es su ficha. Les dan uno, los sueltan, y van donde el objetivo los lleva. |
+| V94 | Ren Hayashi | ¿Y si no registramos la orden? |
+| V96 | Yui Nakamura | Lo anoto. |
+| V97 | Goro Arashi | ¿El qué? |
+| V98 | Yui Nakamura | Lo de hoy. Lo de la pelea. Lo de los cuatro. Y lo de que salió sin que nadie lo mandara. |
+
+### Cajas de narración (16)
+
+| Viñeta | Texto |
+|---|---|
+| V2 | El operador solo quería una cosa: que el punto grande no cambiara de casilla. |
+| V13 | Primera vez que el papel nombraba a los cuatro juntos. |
+| V18 | No era una jauría: esperaban lo que venía. |
+| V24 | No se hablaron. |
+| V30 | No se hablaron, y se entendieron. |
+| V37 | Parece que espera a alguien. |
+| V58 | No se dieron ni una orden en toda la mañana. |
+| V67 | Lo que la miró desde dentro no era un enemigo. |
+| V68 | No entendió. |
+| V78 | La carpeta se llamaba de otra manera: la de la pelea de los cuatro. |
+| V90 | La casilla no cabía en la hoja, y la hoja se quedaba con hueco. |
+| V100 | No sabía cómo decir lo que aún no tenía nombre. |
+| V103 | Había algo en esa pausa que se le parecía a las pausas de la gente. |
+| V112 | Una cosa nueva que no iba a caber en su cajón. |
+| V115 | Sector Ocho. Seis de línea. Un subjefe. Objetivo: sin instrucciones. |
+| V120 | El registro quedó abierto. |
+
+### SFX (español, dibujados)
+
+| Viñeta | SFX | Sentido |
+|---|---|---|
+| V3 | *clic* | la ficha del punto grande, tecleándose |
+| V25 | *crac* | el Embestidor contra el escudo de Goro |
+| V27 | *tsst* | la hoja de brasa, abriéndose |
+| V29 | *fruu* | la estela de Ren, entre momentos |
+| V34 | *tsst* | la brasa que termina al Resucitado |
+| V38 | *crac* | el naranja, escupiendo a Goro a la grava |
+| V40 | *pum* | el tiro de Yui al centro del pecho |
+| V48 | *zash* | el sello de brasa que tumba al naranja |
+| V96 | *scrch* | el rasguido de la tinta en el cuaderno |
+
+### Sonidos descritos (6)
+
+| Viñeta | Sonido |
+|---|---|
+| V28 | Los tres segundos que Yui oye antes de cada disparo: todavía no hay tiro. |
+| V37 | El paso del naranja sin ruido; el aire del sector entero cambiando. |
+| V49 | El polvo cayendo sobre la grava. |
+| V90 | El silencio del comedor con el café quedándose frío. |
+| V96 | El rasguido de la tinta sobre el papel en la mesa del fondo. |
+| V103 | La pausa en pantalla, congelada, sin sonido. |
+
+---
+
+## Semillas y metas de guion
+
+- **El aviso coordinado (S01–S08):** la primera vez que el papel nombra a los cuatro juntos. La base empieza a verlos como una unidad; prepara la OIDA (T2) y la burocracia del parte (el "registro").
+- **El reparto sin hablarse (V20–V36):** el capítulo que define cómo pelean juntos (kit mixto, con la estela de Ren como tejido). Se paga en 14 (retirada), 17, 20, 21 y 24 (coordinan con todo lo aprendido).
+- **Ren: "No va al espacio. Va a los momentos" (V42) y la estela que duda (V35):** paga la revelación del cap12 ("entre momentos") y la del cap11 ("se apaga cuando le importa"); se paga en el cap17 (moverse entre momentos, sin aire).
+- **La pausa del naranja (V47, gancho 39%):** el primero de los "detenerse a mirar" del canon (`enemigos.md`: los de cuerpo humano todavía recuerdan). Se paga en el cap24 (el Asesor se detiene a mirar a una niña antes de decidir) y abre la duda de verdades: qué miró, por qué a Rika.
+- **"Sin instrucciones" (V89–V95, cierre de trama C11):** el documento dice lo que cabe en la casilla. Un subjefe sin objetivo contradice la ficha (los subjefes llevan objetivo y se les deja). Es la primera semilla del prisionero y de la guerra interna del planeta kaiyu (T2, cap40+): un kaiyu que actúa sin orden.
+- **El cuaderno de Yui (V96–V98):** sigue la línea de los trozos de la noche (cap12); ahora anota "lo de los cuatro" y "que salió sin que nadie lo mandara". El objeto-eco del arco (abre cap16 y cap22).
+- **La mirada externa (V68, V102–V103):** el hombre de limpieza y el operador no entienden; el lector sí. Técnica 8 del arco, y prepara que otros empiecen a mirar a los cuatro (el video del cap10/11, la ciudad).
+- **Rika y el cajón (V100, V112–V113):** la pausa no cabe en su cajón. Suma al peso del cap8 (lo del verde) y del cap12; se pagará en T4 (los cajones abiertos).
+- **Diálogo fiel a la novela (2026-10-07):** los atributos y las frases siguen `cap13.txt` literalmente ("Juntos.", "Sin instrucciones.", "Lo de hoy. Lo de los cuatro...").
+- **Eco interno:** "Alguien tendrá que anotar lo de hoy" (V71) hereda de "Alguien tendrá que vigilar esa noche" (cap12, V90). La fila sigue repartiéndose los alguien.
+
+---
+
+## Qué no hace este guion
+
+- No rompe la regla de 1-3 viñetas por pantalla (retícula: T2R=1, T3R=2, T4R=3, T1=1, T5=1). Todas las pantallas suman exactamente 1280 (bloques tensos 40/60/35; bloques abiertos 190 con 115/190/115 y 90/100/100/90).
+- No mezcla dos tipos de pelea: es **una sola** pelea tipo 5 (equipo), la primera, contra 6 amarillos + 1 naranja (escalada T1: 3-9 enemigos).
+- No nombra en la historieta nada que el Sistema no sepa: "subjefe", "objetivo" y "parte" sí; "omega", "expediente", "legajo" y el nombre del naranja no.
+- No hace que el naranja hable: no produce sonido propio (regla `enemigos.md`). Solo mira.
+- No explica la mirada: el guion deja la pausa abierta, como la novela; la casilla dice "sin instrucciones" y eso es lo único que el documento suelta.
+- No muestra a Rika contando lo que sintió: se queda con ello (cierre en silencio, V112).
+- No usa HUD, no traduce nada, cero inglés/kana/ideogramas; SFX en español (repertorio declarado arriba).
+- No usa la marca de agua de Pollinations en ilustraciones (nologo=true siempre).
+- Mantiene nombres oficiales: Ren Hayashi — El Relámpago · Yui Nakamura — La Distancia (rifle con mira telescópica) · Goro Arashi · Rika Tsukimi (marcas C2 en cada bloque).

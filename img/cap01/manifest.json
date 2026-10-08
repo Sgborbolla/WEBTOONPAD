@@ -1,30 +1,19 @@
 {
  "cap": 1,
  "titulo": "El día que no avisaron",
- "pantallas": 22,
+ "pantallas": 79,
+ "viñetas": 136,
  "ancho": 800,
  "alto": 1280,
  "screens": [
   {
    "n": 1,
-   "paneles": [
-    980
-   ],
-   "gaps": [
-    0,
-    300
-   ],
+   "paneles": [],
+   "gaps": [],
    "bg": "blanco",
-   "bg_img": "bg01_ciudad_amanecer.png",
-   "narracion": {
-    "texto": "Mayo de 2017.\nYokohama.\n07:42.",
-    "x": 40,
-    "y": 40,
-    "w": 300,
-    "pt": 26,
-    "negro": false
-   },
-   "h_txt": null
+   "vinheta_inicio": 1,
+   "marco_pantalla": true,
+   "bg_img": "pag_s01.png"
   },
   {
    "n": 2,
@@ -35,23 +24,210 @@
     40,
     40
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 1,
+   "bg_img": "pag_s02.png"
   },
   {
    "n": 3,
    "paneles": [
-    580,
-    580
+    380,
+    380,
+    380
    ],
    "gaps": [
-    40,
-    40,
-    40
+    35,
+    35,
+    35,
+    35
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 2,
+   "bg_img": "pag_s03.png"
   },
   {
    "n": 4,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 5
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 8,
+   "bg_img": "pag_s05.png"
+  },
+  {
+   "n": 6,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 10
+  },
+  {
+   "n": 7,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 11
+  },
+  {
+   "n": 8,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 14
+  },
+  {
+   "n": 9,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 15
+  },
+  {
+   "n": 10,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 17
+  },
+  {
+   "n": 11,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 20,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`GRRRAAAAH`"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 21
+  },
+  {
+   "n": 13,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 23,
+   "sfx": [
+    {
+     "panel": 3,
+     "texto": "`CRAAACK`"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 26
+  },
+  {
+   "n": 15,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 27
+  },
+  {
+   "n": 16,
    "paneles": [
     1280
    ],
@@ -59,322 +235,1073 @@
     0,
     0
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 29,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`CRASH`"
+    }
+   ]
   },
   {
-   "n": 5,
+   "n": 17,
    "paneles": [
-    580,
-    580
+    570,
+    570
    ],
    "gaps": [
     40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 30
+  },
+  {
+   "n": 18,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 32,
+   "sfx": [
+    {
+     "panel": 3,
+     "texto": "`PUM-PUM`"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
     40,
     40
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 35
   },
   {
-   "n": 6,
+   "n": 20,
    "paneles": [
-    580,
-    580
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 36,
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "`KRAAK`"
+    },
+    {
+     "panel": 3,
+     "texto": "`TUM`"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "paneles": [
+    570,
+    570
    ],
    "gaps": [
     40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 39
+  },
+  {
+   "n": 22,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
     40,
     40
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 41
   },
   {
-   "n": 7,
+   "n": 23,
    "paneles": [
-    387,
-    387,
-    386
+    570,
+    570
    ],
    "gaps": [
-    30,
-    30,
-    30,
-    30
+    40,
+    60,
+    40
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 42
   },
   {
-   "n": 8,
+   "n": 24,
    "paneles": [
-    700
+    260
    ],
    "gaps": [
     0,
-    580
+    1020
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 44
   },
   {
-   "n": 9,
+   "n": 25,
    "paneles": [
-    520
+    380,
+    380,
+    380
    ],
    "gaps": [
-    200,
-    560
+    35,
+    35,
+    35,
+    35
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 45
   },
   {
-   "n": 10,
+   "n": 26,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 48
+  },
+  {
+   "n": 27,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 49
+  },
+  {
+   "n": 28,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 50
+  },
+  {
+   "n": 29,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 52,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Las puertas se estaban cerrando."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`RRRRRAAAAAM`\n`BRAAAAM`\n`ROTIROTIRO`\n`ICKRRRAAACH`"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 53,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Las puertas se estaban cerrando."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`RRRRRAAAAAM`\n`BRAAAAM`\n`ROTIROTIRO`\n`ICKRRRAAACH`"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "paneles": [
+    1280
+   ],
+   "gaps": [
+    0,
+    0
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 56,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Las puertas se estaban cerrando."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`RRRRRAAAAAM`\n`BRAAAAM`\n`ROTIROTIRO`\n`ICKRRRAAACH`"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 57,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Las puertas se estaban cerrando."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`RRRRRAAAAAM`\n`BRAAAAM`\n`ROTIROTIRO`\n`ICKRRRAAACH`"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 59,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Las puertas se estaban cerrando."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`RRRRRAAAAAM`\n`BRAAAAM`\n`ROTIROTIRO`\n`ICKRRRAAACH`"
+    }
+   ]
+  },
+  {
+   "n": 29,
    "paneles": [],
    "gaps": [
     0
    ],
    "bg": "negro de corte",
-   "narracion": {
-    "texto": "Ese día duró catorce minutos.",
-    "centro": true,
-    "y": 600,
-    "w": 700,
-    "pt": 40
-   }
+   "vinheta_inicio": 60,
+   "marco_pantalla": true,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Las puertas se estaban cerrando."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "`RRRRRAAAAAM`\n`BRAAAAM`\n`ROTIROTIRO`\n`ICKRRRAAACH`"
+    }
+   ]
   },
   {
-   "n": 11,
+   "n": 30,
    "paneles": [],
    "gaps": [
     0
    ],
    "bg": "gris pasado",
-   "narracion": {
-    "texto": "TRES DÍAS ANTES\n12 de mayo de 2017",
-    "x": 0,
-    "y": 520,
-    "w": 620,
-    "pt": 42,
-    "centro": true,
-    "h": 260,
-    "negro": false
-   }
+   "vinheta_inicio": 60,
+   "marco_pantalla": true
   },
   {
-   "n": 12,
+   "n": 31,
    "paneles": [
-    1000
+    1060
    ],
    "gaps": [
-    200,
-    80
+    190,
+    30
    ],
    "bg": "blanco",
-   "bg_img": "bg03_azotea_guarperia.png"
+   "vinheta_inicio": 60,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Tres días antes."
+    }
+   ]
   },
   {
-   "n": 13,
+   "n": 32,
    "paneles": [
-    355,
-    355
+    430,
+    430
    ],
    "gaps": [
+    115,
     190,
-    190,
-    190
-   ],
-   "bg": "blanco"
-  },
-  {
-   "n": 14,
-   "paneles": [
-    355,
-    355
-   ],
-   "gaps": [
-    190,
-    190,
-    190
-   ],
-   "bg": "blanco"
-  },
-  {
-   "n": 15,
-   "paneles": [
-    355,
-    355
-   ],
-   "gaps": [
-    190,
-    190,
-    190
-   ],
-   "bg": "blanco"
-  },
-  {
-   "n": 16,
-   "paneles": [
-    760
-   ],
-   "gaps": [
-    340,
-    180
+    115
    ],
    "bg": "blanco",
-   "bg_img": "bg04_pasillo_guarperia.png",
-   "narracion": {
-    "texto": "Nueve años después, esa cara\nfue el primer aviso.\nNadie lo leyó.",
-    "x": 40,
-    "y": 1125,
-    "w": 520,
-    "pt": 26,
-    "negro": false
-   }
+   "vinheta_inicio": 61
   },
   {
-   "n": 17,
+   "n": 33,
    "paneles": [
-    355,
-    355
+    1060
    ],
    "gaps": [
     190,
-    190,
-    190
+    30
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 63
   },
   {
-   "n": 18,
+   "n": 34,
    "paneles": [
-    1000
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 64
+  },
+  {
+   "n": 35,
+   "paneles": [
+    1060
    ],
    "gaps": [
     190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 66
+  },
+  {
+   "n": 36,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 67
+  },
+  {
+   "n": 37,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
     90
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 69
   },
   {
-   "n": 19,
+   "n": 38,
    "paneles": [
-    355,
-    355
+    430,
+    430
    ],
    "gaps": [
+    115,
     190,
-    190,
-    190
-   ],
-   "bg": "blanco"
-  },
-  {
-   "n": 20,
-   "paneles": [
-    1080
-   ],
-   "gaps": [
-    190,
-    10
+    115
    ],
    "bg": "blanco",
-   "bg_img": "bg02_calle_temprano.png",
-   "narracion": {
-    "texto": "Tres días. Eso fue todo\nel aviso que tuvo.",
-    "x": 36,
-    "y": 1065,
-    "w": 470,
-    "pt": 26,
-    "negro": false,
-    "fondo": "#ffffffe6"
-   }
+   "vinheta_inicio": 72
   },
   {
-   "n": 21,
+   "n": 39,
    "paneles": [
-    900
+    1060
    ],
    "gaps": [
-    250,
-    130
+    190,
+    30
    ],
-   "bg": "blanco"
+   "bg": "blanco",
+   "vinheta_inicio": 74
   },
   {
-   "n": 22,
+   "n": 40,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 75
+  },
+  {
+   "n": 41,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 77
+  },
+  {
+   "n": 42,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 78
+  },
+  {
+   "n": 43,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 80
+  },
+  {
+   "n": 44,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
+    90
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 82
+  },
+  {
+   "n": 45,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 85
+  },
+  {
+   "n": 46,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 86,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Nueve años después, esa cara fue el primer aviso. Nadie lo leyó."
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 88
+  },
+  {
+   "n": 48,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 89
+  },
+  {
+   "n": 49,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 91
+  },
+  {
+   "n": 50,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 92
+  },
+  {
+   "n": 51,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
+    90
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 94
+  },
+  {
+   "n": 52,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 97
+  },
+  {
+   "n": 53,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 98
+  },
+  {
+   "n": 54,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 100
+  },
+  {
+   "n": 55,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 101
+  },
+  {
+   "n": 56,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
+    90
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 103
+  },
+  {
+   "n": 57,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 106
+  },
+  {
+   "n": 58,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 107
+  },
+  {
+   "n": 59,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 109
+  },
+  {
+   "n": 60,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 110
+  },
+  {
+   "n": 61,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
+    90
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 112
+  },
+  {
+   "n": 62,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 115
+  },
+  {
+   "n": 63,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 116
+  },
+  {
+   "n": 64,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 117
+  },
+  {
+   "n": 65,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 119
+  },
+  {
+   "n": 66,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
+    90
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 121
+  },
+  {
+   "n": 67,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 124
+  },
+  {
+   "n": 68,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 126
+  },
+  {
+   "n": 69,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 128,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "La puerta estaba ahí. Nadie la abrió."
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 129
+  },
+  {
+   "n": 71,
+   "paneles": [
+    430,
+    430
+   ],
+   "gaps": [
+    115,
+    190,
+    115
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 131
+  },
+  {
+   "n": 72,
+   "paneles": [
+    300,
+    300,
+    300
+   ],
+   "gaps": [
+    90,
+    100,
+    100,
+    90
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 133
+  },
+  {
+   "n": 73,
+   "paneles": [
+    1060
+   ],
+   "gaps": [
+    190,
+    30
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 136,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Tres días. Eso fue todo el aviso que tuvo."
+    }
+   ]
+  },
+  {
+   "n": 74,
    "paneles": [],
    "gaps": [
     0
    ],
-   "bg": "gris pasado"
+   "bg": "gris pasado",
+   "vinheta_inicio": 137,
+   "marco_pantalla": true
   }
  ],
- "fondos": [
-  "bg01_ciudad_amanecer.png",
-  "bg02_calle_temprano.png",
-  "bg03_azotea_guarperia.png",
-  "bg04_pasillo_guarperia.png"
- ],
- "salidas": 33,
- "scroll": 28160,
  "dialogos": [
   {
-   "pantalla": 15,
-   "panel": 1,
-   "quien": "Rika",
-   "texto": "Uno, dos, tres…",
-   "globo": "arriba-izq",
+   "pantalla": 40,
+   "panel": 2,
+   "quien": "",
+   "texto": "¡Ya!",
+   "globo": "abajo-izq",
    "cola": "abajo-dcha"
   },
   {
-   "pantalla": 15,
+   "pantalla": 42,
    "panel": 2,
-   "quien": "Niña",
+   "quien": "",
+   "texto": "Uno, dos, tres…",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 43,
+   "panel": 1,
+   "quien": "",
    "texto": "¡Mine, mira!",
    "globo": "arriba-dcha",
    "cola": "abajo-izq"
   },
   {
-   "pantalla": 15,
+   "pantalla": 44,
    "panel": 2,
-   "quien": "Rika",
+   "quien": "",
    "texto": "Sí. Muy bien. Estás manchada entera.",
    "globo": "abajo-izq",
    "cola": "arriba-dcha"
   },
   {
-   "pantalla": 17,
-   "panel": 2,
-   "quien": "Niña (fuera de cuadro)",
+   "pantalla": 49,
+   "panel": 1,
+   "quien": "",
    "texto": "¡Mine!",
    "globo": "arriba-dcha",
    "cola": "sal-dcha"
   },
   {
-   "pantalla": 18,
+   "pantalla": 50,
    "panel": 1,
-   "quien": "Mio",
+   "quien": "",
+   "texto": "¡Mine!",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 51,
+   "panel": 1,
+   "quien": "",
+   "texto": "¡Adiós!",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 54,
+   "panel": 1,
+   "quien": "",
+   "texto": "Sin el cuenco se te cae la cabeza. Otra vez.",
+   "globo": "centro-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 57,
+   "panel": 1,
+   "quien": "",
    "texto": "Otra vez sin desayunar. Tienes la misma cara de siempre.",
    "globo": "arriba-izq",
    "cola": "abajo-dcha"
   },
   {
-   "pantalla": 18,
+   "pantalla": 59,
    "panel": 1,
-   "quien": "Rika",
+   "quien": "",
    "texto": "Tengo hambre. Que es distinto.",
    "globo": "centro-dcha",
    "cola": "izq"
   },
   {
-   "pantalla": 18,
+   "pantalla": 61,
    "panel": 1,
-   "quien": "Mio",
+   "quien": "",
    "texto": "Es peor.",
    "globo": "abajo-izq",
    "cola": "arriba-dcha"
   },
   {
-   "pantalla": 19,
+   "pantalla": 61,
+   "panel": 3,
+   "quien": "",
+   "texto": "¿Qué?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 63,
    "panel": 1,
-   "quien": "Rika",
+   "quien": "",
    "texto": "Mañana traigo los termos. No se te olvida.",
    "globo": "arriba-izq",
    "cola": "abajo-dcha"

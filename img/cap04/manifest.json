@@ -1,0 +1,676 @@
+{
+ "cap": 4,
+ "titulo": "Día 2, mañana. La respuesta",
+ "pantallas": 18,
+ "viñetas": 36,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Día 2. 06:40. Base NSF."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 3
+  },
+  {
+   "n": 3,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 5,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "El doctor Kurose no habla en estas reuniones."
+    },
+    {
+     "panel": 1,
+     "texto": "Nunca ha hablado."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "08:15. Poligono de tiro."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 9,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Tres cañones. A la vez."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 11
+  },
+  {
+   "n": 7,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "09:30. Los que cruzaron."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 15,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Ninguno se conoce."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 17
+  },
+  {
+   "n": 10,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 21
+  },
+  {
+   "n": 12,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 23,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "09:40. Vista aerea."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Un motor, subiendo."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Nada. Desde el aire no se oye nada."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 27
+  },
+  {
+   "n": 15,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 29,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "El general no lo mira. Cae la carpeta."
+    },
+    {
+     "panel": 1,
+     "texto": "Kurose lo sabe."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 33,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "12:20. Sin retirarla."
+    },
+    {
+     "panel": 2,
+     "texto": "La foto de la orden. Pega, junto al mapa, en el pasillo de todos."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 35,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Un electrodomestico, en algun sitio. No se ve de donde."
+    }
+   ]
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 1,
+   "panel": 2,
+   "quien": "",
+   "texto": "Balance. En orden.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Cuatro puertas confirmadas en la provincia. Cuarenta y seis",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Cuarenta y seis qué.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Cuarenta y seis. Los bichos.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "(pausa) Escríbalo así, otra vez. Más despacio.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 4,
+   "panel": 2,
+   "quien": "",
+   "texto": "¡Atención! Objetivo en el muro. Dos rondas al blanco. ¡Fuego!",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Otra vez. Al muro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Capitan, radio. Uno de los nuestros no aparece.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿El de la patrulla de ayer?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Si.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Que siga buscando.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 2,
+   "quien": "",
+   "texto": "Que no espere. Que vaya.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 2,
+   "quien": "",
+   "texto": "A la radio no la espera nadie, capitan.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 8,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Como te llamas?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 8,
+   "panel": 2,
+   "quien": "",
+   "texto": "Rika.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 8,
+   "panel": 2,
+   "quien": "",
+   "texto": "Rika, ¿puedo ver tu brazo?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 1,
+   "quien": "",
+   "texto": "Esto no es una quemadura de cocina.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 1,
+   "quien": "",
+   "texto": "No.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "A mi me paso igual.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿A ti?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "En la puerta. Salimos los dos quemados y el otro salió entero.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿El otro?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 2,
+   "quien": "",
+   "texto": "El que entró. El que no volvió.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "(pausa) ¿Y yo?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "Nada. Nada.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 1,
+   "quien": "",
+   "texto": "Base, aquí Toro cuatro. Salimos hacia la ruta de inspeccion.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 2,
+   "quien": "",
+   "texto": "Base, Toro cuatro en el aire. Alguien tiene que mirar las",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 2,
+   "quien": "",
+   "texto": "Coordinacion.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 2,
+   "quien": "",
+   "texto": "Aereo. Solo aereo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "Dos cosas. Primera: nadie sale de la base sin orden.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 2,
+   "quien": "",
+   "texto": "Segunda: la provincia es nuestra. Lo que hay en la provincia es",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Orden de no contacto, excelente?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "",
+   "texto": "No. Orden de no **abrir**. Contacto, los que necesarias.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "",
+   "texto": "(anota) ¿Y si hace falta abrir?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "",
+   "texto": "(pausa) No hace falta.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Perdon. El pasillo del tres ya no se puede limpiar.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Vaya.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Es que hay... hay cosas.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "(pausa) Ya lo he visto, sargento.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 16,
+   "panel": 2,
+   "quien": "",
+   "texto": "Entonces por que seguimos aquí dentro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

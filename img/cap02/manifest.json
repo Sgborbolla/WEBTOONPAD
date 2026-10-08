@@ -1,0 +1,742 @@
+{
+ "cap": 2,
+ "titulo": "Día 1, tarde. La primera puerta",
+ "pantallas": 18,
+ "viñetas": 36,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Sector 6. Turno de tarde."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 3
+  },
+  {
+   "n": 3,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 5
+  },
+  {
+   "n": 4,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "El zumbido electrico, muy bajo. Cada dos minutos, otra vez."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 9
+  },
+  {
+   "n": 6,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 11,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "El Sector 6 se sella a las seis."
+    },
+    {
+     "panel": 2,
+     "texto": "A las cuatro y veinte, abría."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 15,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "17:20. Turno de Goro Arashi."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 17,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Él no se llamó a sí mismo. Nadie lo llamó."
+    },
+    {
+     "panel": 2,
+     "texto": "Kiryu había escrito el parte."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 21,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "17:24. El Sector 6."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 23,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Una puerta no se abre así."
+    },
+    {
+     "panel": 1,
+     "texto": "Se coloca."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25,
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Un soplido largo."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 27,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Categoría verde. Exploracion."
+    },
+    {
+     "panel": 2,
+     "texto": "El primero."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 29,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Los pies se mueven antes que el cuerpo."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "La brasa del guante, un latido antes de la carga."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "17:24. Tres segundos."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "El guante. Un golpe seco."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 33
+  },
+  {
+   "n": 18,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 35
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 1,
+   "panel": 2,
+   "quien": "",
+   "texto": "Cuatro y veinte. Cuatro y media abre el otro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 1,
+   "panel": 2,
+   "quien": "",
+   "texto": "Seis y ahí se van todos. Menudo turno.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Oye. ¿Está el de arriba?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Todavía no, Arashi-san.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Arashi-san. La puerta del cuatro hace un ruido raro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Raro como.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Como un... soplido. Cada ciertos minutos.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Cada cuanto.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "No se. Dos, tres minutos.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "Hay un parte. Si algo no encaja, se escribe.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "Si. Claro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Y si encaja?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "Entonces no se escribe. No se molesta.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "Lo escribo entonces.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "Bien.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Y usted lo ha visto alguna vez, Arashi-san? ¿Un soplido?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 2,
+   "quien": "",
+   "texto": "No.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 4,
+   "panel": 2,
+   "quien": "",
+   "texto": "Llegas tarde.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 4,
+   "panel": 2,
+   "quien": "",
+   "texto": "Llego a mi hora.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 4,
+   "panel": 2,
+   "quien": "",
+   "texto": "Todos llegas a tu hora.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 4,
+   "panel": 2,
+   "quien": "",
+   "texto": "¿Eso es un elogio?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Bajar eso al contenedor.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Esta pesado.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Por eso lo bajamos.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Aparte, hay un bicho raro en el dos.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Un bicho?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Grande. Amarillo. No es perro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Subo yo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Y yo hago de comer.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Grande, ¿eh?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Grande grande. En el pasillo. O no estaba.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "(pausa) ¿En el pasillo?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Eso he dicho.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Y guiso bien hoy.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Guisas bien todos los días.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 6,
+   "panel": 1,
+   "quien": "",
+   "texto": "Guiso bien todos los días y nunca te lo comes.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 9,
+   "panel": 1,
+   "quien": "",
+   "texto": "(nada)",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "Yo no veo nada.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "Espera.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "Arashi-san, no se ve nada.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 2,
+   "quien": "",
+   "texto": "Bueno. Voy a... voy a avisar.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 10,
+   "panel": 2,
+   "quien": "",
+   "texto": "Corre.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 12,
+   "panel": 2,
+   "quien": "",
+   "texto": "(murmura) Cosas raras.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "Hey. (pausa) Hey, ¿estás bien?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "No vengas. Te digo que no vengas.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 17,
+   "panel": 2,
+   "quien": "",
+   "texto": "Arashi. ¿Comes ahora o...",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 18,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué pasó ahí?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 18,
+   "panel": 1,
+   "quien": "",
+   "texto": "Nada.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

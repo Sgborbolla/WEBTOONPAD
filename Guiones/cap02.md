@@ -123,8 +123,8 @@ Una franja de luz negra sale por debajo.
 > **Goro:** (nada)
 
 **18.** Primer plano de Goro. La cara quieta. Los ojos, sí, move.
-> **Caja:** El no se llamo a si mismo. Nadie lo llamo.
-> **Caja:** Koryo había escrito el parte.
+> **Caja:** Él no se llamó a sí mismo. Nadie lo llamó.
+> **Caja:** Kiryu había escrito el parte.
 
 **19.** Plano de bocas. Kiryu, detrás de Goro, con el cuaderno abierto.
 > **Kiryu:** Yo no veo nada.
@@ -271,7 +271,7 @@ grande de espaldas y un vecino en la puerta. Nadie grita. Todavía.
 | 12 | El Sector 6 se sella a las seis. |
 | 12 | A las cuatro y veinte, abría. |
 | 15 | 17:20. Turno de Goro Arashi. |
-| 18 | El no se llamo a si mismo. Nadie lo llamo. |
+| 18 | Él no se llamó a sí mismo. Nadie lo llamó. |
 | 18 | Kiryu había escrito el parte. |
 | 22 | 17:24. El Sector 6. |
 | 23 | Una puerta no se abre así. |

@@ -1,0 +1,576 @@
+{
+ "cap": 3,
+ "titulo": "Día 1, noche. La alarma",
+ "pantallas": 18,
+ "viñetas": 36,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "17:31. El Sector 6 sigue abierto."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Un teléfono de pared, dos tonos."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 3
+  },
+  {
+   "n": 3,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 5
+  },
+  {
+   "n": 4,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "17:34. El barrio sigue en pie."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 9
+  },
+  {
+   "n": 6,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 11,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "No lo vio. Nadie lo vio."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Sirenas. Muchas, y todavía sin prisa real."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "17:36. Otras dos puertas."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 15,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Un chirrido de rodillas sobre asfalto."
+    },
+    {
+     "panel": 2,
+     "texto": "El golpe. Metal."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 17,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "No van a por el. Va a ser peor."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Un gruñido sin garganta."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "La sirena, ahora sí, encima."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 21
+  },
+  {
+   "n": 12,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 23,
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "Un golpe sordo. Nada desplastico."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "17:38. Mitamura Setsuko, 74 años."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 27,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "17:39. Sector 6."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "Su respiración, pesada, con el casco."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 29
+  },
+  {
+   "n": 16,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "17:40. Nadie lo saca."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 33,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "A veinte pasos. El escudo, en alto."
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 35,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "17:41."
+    }
+   ],
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "El golpe. El metal rompiéndose."
+    }
+   ]
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Unidad seis, habla Arashi. Una puerta abierta en mi pasillo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Sector seis, recibido. ¿Abierta o forzada?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Abierta.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 1,
+   "quien": "",
+   "texto": "Un momento.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Sector seis, no tenemos registro de eso.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Registro.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 2,
+   "panel": 2,
+   "quien": "",
+   "texto": "Un parte, sr. Arashi. Si es una puerta sin número, no hay sector.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Y si hay algo adentro?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "No lo preveo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "...No se prevee nada de este tipo.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "Manda a alguien.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 3,
+   "panel": 1,
+   "quien": "",
+   "texto": "Cuando pueda, sr. Arashi.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 4,
+   "panel": 2,
+   "quien": "",
+   "texto": "(resopla)",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "Setsuko-san. ¿Ha oido la alarma?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Qué alarma?",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 1,
+   "quien": "",
+   "texto": "No ha sonado. Va a sonar.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Esto es el Sector 6. A las seis cierran.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Setsuko-san, por favor, vaya a su casa.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 5,
+   "panel": 2,
+   "quien": "",
+   "texto": "Pero si mi carro...",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 1,
+   "quien": "",
+   "texto": "Dios mio. Dios mio.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 11,
+   "panel": 2,
+   "quien": "",
+   "texto": "(grito corto)",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 12,
+   "panel": 1,
+   "quien": "",
+   "texto": "Mamá.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "(jadeo)",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "",
+   "texto": "Setsuko-san.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 17,
+   "panel": 1,
+   "quien": "",
+   "texto": "(solo, un susurro) Hey.",
+   "globo": "arriba-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

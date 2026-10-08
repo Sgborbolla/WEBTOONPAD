@@ -15,9 +15,7 @@
 1. **Novela** (fuente grande, extensa): `Novela/novela_caps/capNN.txt` -> un solo docx creciente `Novela/NPAD_NOVELA.docx`.
 2. **Guiones webtoon**: `Guiones/capNN.md` en el formato detallado de `Guiiones/cap01.md` (modelo de referencia, 1019 líneas).
 
-Regla del usuario: cada cosa que se haga/agregue en la novela, los capítulos `.md`
-deben ajustarse en consecuencia ("los arreglos necesarios basándote en lo que hagas
-en la novela").
+**Regla de producción (obligatoria):** la novela es la fuente y es más extensa, más narrativa y más explicativa; los guiones `.md` se escriben **DESPUÉS** del capítulo de novela del mismo número y mantienen coherencia entre capítulos en novela e historieta. Cuando la novela añade cosas, los `.md` se ajustan en consecuencia.
 
 ## Decisiones de estilo de la novela (docx)
 
@@ -33,7 +31,7 @@ en la novela").
 - Marcador en la novela: línea propia `[IMG:img/archivo.png]` -> se incrusta con `wp:inline`, ancho 92% del área de texto, estilo `Caption` para pies (16px itálica gris).
 - Generador: `Novela/gen_images.py` con **Pollinations** (`https://image.pollinations.ai/prompt/...?width=&height=&nologo=true&model=flux&seed=`) + reintentos (a veces responde **HTTP 402** o 524; reintentar con otra semilla).
 - **IMPORTANTE (webtoon)**: Pollinations imprime en la esquina inferior derecha el logo/texto **"Made with Pollinations.ai"**. Ya se limpió en las 4 imágenes actuales patcheando la esquina con textura (detectar cluster por `ImageChops.subtract` vs blur). Guardar siempre `nologo=true` y limpiar nueva esquina antes de usarlas en la historieta.
-- Semillas guardadas de las imágenes actuales: `img/cap01_portal.png` (sin logo), `img/cap01_batalla.png` (seed 65870), `img/cap03_calle.png` (seed 44057), `img/cap05_descarga.png` (seed 21736). Las de cap01 se re-descargaron para limpiar el logo.
+- Semillas guardadas de las imágenes actuales: `img/cap01_portal.png` (sin logo, seed 11), `img/cap01_batalla.png` (seed 23), `img/cap03_calle.png` (seed 44057), `img/cap05_descarga.png` (seed 21736), `img/cap11_portal.png` (seed 83), `img/cap11_proteger.png` (seed 89). Las de cap01 se re-descargaron para limpiar el logo.
 
 ## Canon obligatorio (mando `Guias/arco-200.md`)
 
@@ -87,7 +85,8 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 | 8 | ✅ prosa (`cap08.txt`, "Verde", 21:10 + epílogo al alba) | ✅ guion detallado (68 pantallas · 133 viñetas) | cronología corregida: "Lunes 15" → "Miércoles 17" (21:10); bloque G alineado con la novela |
 | 9 | ✅ prosa (`cap09.txt`, "Nadie hace nada", 18-may, kaiyu amarillo) | ✅ guion detallado (68 pantallas · 131 viñetas) | corregido a "día cuatro terminó así" (era "día seis") y "tres días después del lunes" |
 | 10 | ✅ prosa (`cap10.txt`, "La jauría", jueves 18, 21:45) | ✅ guion detallado (70 pantallas · 136 viñetas, reordenado V1-V136) | LOS TEXTOS auditados: 6 globos / 5 cajas / 9 SFX / 4 sonidos (se vaciaron números viejos); V115 gutter 0/1020 |
-| 11-200 | ❌ | ❌ | a la par |
+| 11 | ✅ prosa reescrita (`cap11.txt`, "El portal", viernes 19, 360 l, 2 IMG: portal + proteger) + prompts en `gen_images.py` | ❌ pendiente | gancho: la descarga no es azar, pasa cuando le importa alguien; cierre: el dibujo del sol que no es sol, Ren lo guarda sin mirarlo |
+| 12-200 | ❌ | ❌ | a la par |
 
 ## Pendientes / próximos pasos
 
@@ -100,6 +99,7 @@ Fuente de verdad del juego: `docs/diseño.md` (2080 l.) + `personajes.md`, `enem
 7. ✅ **Decidido (2026-10-07):** Yui Nakamura = **"La Distancia"** en novela/historieta (rifle con mira telescópica). "El Eco" queda solo en el juego. NO hay que tocar ninguna otra referencia: los guiones/novela ya usan "La Distancia"; las demás apariciones de "eco" son el sustantivo (echo), no el título.
 8. ✅ **QA de consistencia 2026-10-07:** cap01 (viñetas consecutivas V1-V136, tablas = cuerpo, 12 SFX + 5 sonidos), cap10 (tablas LOS TEXTOS renumeradas, V115 gutter 0/1020), cap02-06 (fechas en ficha, ortografía/acentos, "cada certain"→"cada ciertos"), novelas (timestamps Día 1-4 consistentes).
 9. **PLANEADO (no implementar en caps 1-10):** nuevo arco de enemigos para caps 11+ y biblia del mundo kaiyu (idioma, estilo de vida, jerarquías, capítulos ambientados en su mundo) — pendiente de redactar en `enemigos.md` / `kaiyu-world.md`.
+10. ✅ **Planificado (2026-10-07) — arco del planeta kaiyu (post cap 40):** los personajes se enteran de la verdad por un kaiyu que toman preso. El prisionero es **más humanoide que su raza**, no está de acuerdo con ella y **dirige un ejército de rebeldes contra su rey tirano**. **Aprende el idioma humano** y cuenta que su mundo está **al borde de la destrucción** y que invadieron para **colonizar** la Tierra. Mientras cuenta, capítulos enteros se trasladan a su planeta (historias, acciones, conversaciones y peleas del otro mundo) hasta llegar a la invasión. Documentado en `arco-200.md` §4, `enemigos.md` y `biblion.md` §16. **PENDIENTE:** inventar el **idioma kaiyu** (la palabra única del Asesor del cap 24 es su primer sonido) y los **nuevos enemigos del mundo kaiyu con sus cargos y rangos** — se cierran antes del arco.
 
 ## Notas de producción webtoon
 

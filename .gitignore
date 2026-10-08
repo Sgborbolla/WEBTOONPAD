@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+img/cap*/screens/
+img/cap*/s*_p*.png
+img/cap*/pag_s*.png

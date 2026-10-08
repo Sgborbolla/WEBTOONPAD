@@ -101,14 +101,62 @@ def dibujar_narracion(base, m):
         x = (ANCHO - nar.get("w", 700)) // 2
     if nar.get("h"):
         alto = nar["h"]
-    bbox = [x, y, x + nar.get("w", 470), y + alto]
-    draw.rectangle(bbox, fill=rgb + (alpha,), outline=(0, 0, 0, 255), width=grosor)
     tinta = (17, 17, 17, 255) if not nar.get("negro") else (255, 255, 255, 255)
-    ty = y + 14
-    for line in lineas:
-        draw.text((x + 14, ty), line, font=font, fill=tinta)
-        ty += int(pt * 1.35)
+    if not nar.get("sin_caja"):
+        bbox = [x, y, x + nar.get("w", 470), y + alto]
+        draw.rectangle(bbox, fill=rgb + (alpha,), outline=(0, 0, 0, 255), width=grosor)
+        ty = y + 14
+        for line in lineas:
+            draw.text((x + 14, ty), line, font=font, fill=tinta)
+            ty += int(pt * 1.35)
+    else:
+        # rótulo de corte: texto limpio, sin caja, centrado
+        yt = y if y else 480
+        ty = yt + 14
+        for line in lineas:
+            lw = draw.textlength(line, font=font)
+            draw.text(((ANCHO - lw) / 2, ty), line, font=font, fill=tinta)
+            ty += int(pt * 1.4)
     del draw
+
+def dibujar_caja(base, rect, texto, usado=None):
+    """Caja de narración anclada al pie del panel (sin cola)."""
+    draw = ImageDraw.Draw(base, "RGBA")
+    pt = 24
+    font = fuente(pt)
+    lineas, alto = caja_texto(draw, texto, font, pt, ANCHO - 52)
+    alto += 14
+    rect2 = [14, rect[1] + rect[3] - alto - 10, ANCHO - 14, rect[1] + rect[3] - 10]
+    if rect2[1] < rect[1] + 6:
+        rect2[1] = rect[1] + 6; rect2[3] = rect[1] + 6 + alto
+    if usado:
+        for r in usado:
+            if not (rect2[2] < r[0] or rect2[0] > r[2] or rect2[3] < r[1] or rect2[1] > r[3]):
+                rect2[1] -= alto + 10
+                rect2[3] -= alto + 10
+        usado.append(list(rect2))
+    draw.rectangle(rect2, fill=(255, 255, 255, 235), outline=(0, 0, 0, 255), width=2)
+    ty = rect2[1] + 8
+    for line in lineas:
+        draw.text((rect2[0] + 10, ty), line, font=font, fill=(15, 15, 15, 255))
+        ty += int(pt * 1.3)
+    del draw
+
+def dibujar_sfx(base, rect, texto):
+    """Marca sonora dibujada dentro del panel, grande y algo inclinada."""
+    palabras = texto.split()
+    linea = " ".join(palabras[:3])
+    if len(palabras) > 3:
+        linea += "…"
+    pt = 40
+    font = fuente(pt)
+    capa = Image.new("RGBA", (ANCHO, 300), (0, 0, 0, 0))
+    d = ImageDraw.Draw(capa)
+    lw = d.textlength(linea, font=font)
+    d.text(((ANCHO - lw) / 2, 30), linea, font=font, fill=(60, 20, 20, 230))
+    capa = capa.rotate(6, resample=Image.BICUBIC, expand=False)
+    base.paste(capa, (0, rect[1] + 12), capa)
+    del d, capa
 
 def pos_globo(tag, pr):
     m = 12
@@ -213,6 +261,15 @@ def componer_pantalla(carpeta, m, dest, dialogo):
             pr = [0, rects[df["panel"] - 1][0], ANCHO, rects[df["panel"] - 1][1]]
             dibujar_globo(base, pr, df["texto"], df.get("globo", "arriba-izq"),
                           df.get("cola", "abajo-dcha"), usado)
+    cajas_usadas = []
+    for fcaja in m.get("cajas", []):
+        if fcaja["panel"] - 1 < len(rects):
+            pr = [0, rects[fcaja["panel"] - 1][0], ANCHO, rects[fcaja["panel"] - 1][1]]
+            dibujar_caja(base, pr, fcaja["texto"], cajas_usadas)
+    for fsfx in m.get("sfx", []):
+        if fsfx["panel"] - 1 < len(rects):
+            pr = [0, rects[fsfx["panel"] - 1][0], ANCHO, rects[fsfx["panel"] - 1][1]]
+            dibujar_sfx(base, pr, fsfx["texto"])
     dibujar_narracion(base, m)    # la narración va sobre los globos del fondo
     base.save(dest, quality=95)
 

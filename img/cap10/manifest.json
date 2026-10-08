@@ -1,0 +1,1104 @@
+{
+ "cap": 10,
+ "titulo": "La jauría",
+ "pantallas": 70,
+ "viñetas": 136,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 2
+  },
+  {
+   "n": 3,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 4
+  },
+  {
+   "n": 4,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 8
+  },
+  {
+   "n": 6,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 10
+  },
+  {
+   "n": 7,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 14
+  },
+  {
+   "n": 9,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 16
+  },
+  {
+   "n": 10,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 20
+  },
+  {
+   "n": 12,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 22,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "THAM"
+    },
+    {
+     "panel": 2,
+     "texto": "THAM"
+    },
+    {
+     "panel": 3,
+     "texto": "THAM"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "THAM"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 26,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "THAM"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 28
+  },
+  {
+   "n": 16,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 32
+  },
+  {
+   "n": 18,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 34
+  },
+  {
+   "n": 19,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 37
+  },
+  {
+   "n": 20,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 38,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "tsst"
+    },
+    {
+     "panel": 2,
+     "texto": "tsst"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 40
+  },
+  {
+   "n": 22,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 43
+  },
+  {
+   "n": 23,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 44
+  },
+  {
+   "n": 24,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 46,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "CREC"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 49
+  },
+  {
+   "n": 26,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 50
+  },
+  {
+   "n": 27,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 52
+  },
+  {
+   "n": 28,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 55
+  },
+  {
+   "n": 29,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 56
+  },
+  {
+   "n": 30,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 58
+  },
+  {
+   "n": 31,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 61
+  },
+  {
+   "n": 32,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 62
+  },
+  {
+   "n": 33,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 64,
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "CRAC"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 67
+  },
+  {
+   "n": 35,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 68
+  },
+  {
+   "n": 36,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 70
+  },
+  {
+   "n": 37,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 73
+  },
+  {
+   "n": 38,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 74
+  },
+  {
+   "n": 39,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 76
+  },
+  {
+   "n": 40,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 79
+  },
+  {
+   "n": 41,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 80
+  },
+  {
+   "n": 42,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 82
+  },
+  {
+   "n": 43,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 85
+  },
+  {
+   "n": 44,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 86
+  },
+  {
+   "n": 45,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 88
+  },
+  {
+   "n": 46,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 91,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "NAM"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 92
+  },
+  {
+   "n": 48,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 94
+  },
+  {
+   "n": 49,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 97
+  },
+  {
+   "n": 50,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 98,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "zumbido del móvil"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 100
+  },
+  {
+   "n": 52,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 103
+  },
+  {
+   "n": 53,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 104
+  },
+  {
+   "n": 54,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 106
+  },
+  {
+   "n": 55,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 109
+  },
+  {
+   "n": 56,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 110
+  },
+  {
+   "n": 57,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 112
+  },
+  {
+   "n": 58,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 115
+  },
+  {
+   "n": 59,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 116
+  },
+  {
+   "n": 60,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 117
+  },
+  {
+   "n": 61,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 119,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Nadie preguntó qué quería decir. No hacía falta."
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 122
+  },
+  {
+   "n": 63,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 123
+  },
+  {
+   "n": 64,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 125
+  },
+  {
+   "n": 65,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 128
+  },
+  {
+   "n": 66,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 129,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "rrrrm"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 131
+  },
+  {
+   "n": 68,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 134
+  },
+  {
+   "n": 69,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 135
+  },
+  {
+   "n": 70,
+   "paneles": [],
+   "gaps": [
+    0
+   ],
+   "bg": "negro de corte",
+   "vinheta_inicio": 137,
+   "marco_pantalla": true
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 25,
+   "panel": 1,
+   "quien": "",
+   "texto": "Tú también.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 60,
+   "panel": 2,
+   "quien": "",
+   "texto": "Tú también.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 67,
+   "panel": 2,
+   "quien": "",
+   "texto": "Cuando se abra, cruzamos.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 67,
+   "panel": 3,
+   "quien": "",
+   "texto": "Yo las puse. Yo las cerraré. Y cuando vuelvan a abrirse, pasaré yo delante.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 69,
+   "panel": 1,
+   "quien": "",
+   "texto": "Todavía no era el momento.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 69,
+   "panel": 2,
+   "quien": "",
+   "texto": "Pero la puerta, por fin, se está moviendo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}

@@ -1,0 +1,1272 @@
+{
+ "cap": 9,
+ "titulo": "Nadie hace nada",
+ "pantallas": 68,
+ "viñetas": 131,
+ "ancho": 800,
+ "alto": 1280,
+ "screens": [
+  {
+   "n": 1,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 1
+  },
+  {
+   "n": 2,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 2
+  },
+  {
+   "n": 3,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 4
+  },
+  {
+   "n": 4,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 7
+  },
+  {
+   "n": 5,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 8
+  },
+  {
+   "n": 6,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 10
+  },
+  {
+   "n": 7,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 13
+  },
+  {
+   "n": 8,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 14
+  },
+  {
+   "n": 9,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 16
+  },
+  {
+   "n": 10,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 19
+  },
+  {
+   "n": 11,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 20
+  },
+  {
+   "n": 12,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 22
+  },
+  {
+   "n": 13,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 25
+  },
+  {
+   "n": 14,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 26
+  },
+  {
+   "n": 15,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 28
+  },
+  {
+   "n": 16,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 31
+  },
+  {
+   "n": 17,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 32
+  },
+  {
+   "n": 18,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 34
+  },
+  {
+   "n": 19,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 37
+  },
+  {
+   "n": 20,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 39,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "En medio del mercado, entre toda la vida fingiéndose normal, estaba el kaiyu amarillo."
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 40
+  },
+  {
+   "n": 22,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 43
+  },
+  {
+   "n": 23,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 44,
+   "sfx": [
+    {
+     "panel": 2,
+     "texto": "tac-tac-tac"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 46,
+   "cajas": [
+    {
+     "panel": 3,
+     "texto": "Rika entendió que lo de aquella tarde no iba a depender de lo que hiciera el mercado, sino de lo que hiciera ella."
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 49
+  },
+  {
+   "n": 26,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 50
+  },
+  {
+   "n": 27,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 52
+  },
+  {
+   "n": 28,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 55
+  },
+  {
+   "n": 29,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 56
+  },
+  {
+   "n": 30,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 58
+  },
+  {
+   "n": 31,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 61
+  },
+  {
+   "n": 32,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 62
+  },
+  {
+   "n": 33,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 64
+  },
+  {
+   "n": 34,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 67
+  },
+  {
+   "n": 35,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 68
+  },
+  {
+   "n": 36,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 70
+  },
+  {
+   "n": 37,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 73,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "No cruzó. Ninguno cruzó."
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 74,
+   "cajas": [
+    {
+     "panel": 2,
+     "texto": "Esa tarde, en el mercado, quizá debió ser ella la que cruzó."
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 76
+  },
+  {
+   "n": 40,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 79,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "Nadie hizo nada."
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 80
+  },
+  {
+   "n": 42,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 82
+  },
+  {
+   "n": 43,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 85
+  },
+  {
+   "n": 44,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 86
+  },
+  {
+   "n": 45,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 88
+  },
+  {
+   "n": 46,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 91
+  },
+  {
+   "n": 47,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 92
+  },
+  {
+   "n": 48,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 94
+  },
+  {
+   "n": 49,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 97
+  },
+  {
+   "n": 50,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 99,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "No pasa nada, porque nadie hace nada."
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 100
+  },
+  {
+   "n": 52,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 103
+  },
+  {
+   "n": 53,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 104
+  },
+  {
+   "n": 54,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 106
+  },
+  {
+   "n": 55,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 109
+  },
+  {
+   "n": 56,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 110
+  },
+  {
+   "n": 57,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 112
+  },
+  {
+   "n": 58,
+   "paneles": [
+    260
+   ],
+   "gaps": [
+    0,
+    1020
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 115,
+   "sfx": [
+    {
+     "panel": 1,
+     "texto": "…"
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 116
+  },
+  {
+   "n": 60,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 117
+  },
+  {
+   "n": 61,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 119,
+   "cajas": [
+    {
+     "panel": 1,
+     "texto": "El día cuatro terminó así, con la ciudad fingiendo, con el kaiyu yéndose solo, con nadie haciendo nada."
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 120
+  },
+  {
+   "n": 63,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 122
+  },
+  {
+   "n": 64,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 125
+  },
+  {
+   "n": 65,
+   "paneles": [
+    570,
+    570
+   ],
+   "gaps": [
+    40,
+    60,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 126
+  },
+  {
+   "n": 66,
+   "paneles": [
+    380,
+    380,
+    380
+   ],
+   "gaps": [
+    35,
+    35,
+    35,
+    35
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 128
+  },
+  {
+   "n": 67,
+   "paneles": [
+    1200
+   ],
+   "gaps": [
+    40,
+    40
+   ],
+   "bg": "blanco",
+   "vinheta_inicio": 131
+  },
+  {
+   "n": 68,
+   "paneles": [],
+   "gaps": [
+    0
+   ],
+   "bg": "negro de corte",
+   "vinheta_inicio": 132,
+   "marco_pantalla": true
+  }
+ ],
+ "dialogos": [
+  {
+   "pantalla": 10,
+   "panel": 1,
+   "quien": "",
+   "texto": "Nada. Eso. Todo está fingiendo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 14,
+   "panel": 1,
+   "quien": "",
+   "texto": "Gente.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 1,
+   "quien": "",
+   "texto": "La veo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 2,
+   "quien": "",
+   "texto": "Mucha gente.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 15,
+   "panel": 3,
+   "quien": "",
+   "texto": "La veo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 19,
+   "panel": 1,
+   "quien": "",
+   "texto": "Bueno.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 25,
+   "panel": 1,
+   "quien": "",
+   "texto": "Está mirando.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 26,
+   "panel": 1,
+   "quien": "",
+   "texto": "No está haciendo nada.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 26,
+   "panel": 2,
+   "quien": "",
+   "texto": "Eso.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 1,
+   "quien": "",
+   "texto": "Horas.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 29,
+   "panel": 2,
+   "quien": "",
+   "texto": "Llevo horas sin música.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 35,
+   "panel": 1,
+   "quien": "",
+   "texto": "Goro.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 35,
+   "panel": 2,
+   "quien": "",
+   "texto": "No cruces.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 36,
+   "panel": 1,
+   "quien": "",
+   "texto": "Lo sé.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 36,
+   "panel": 2,
+   "quien": "",
+   "texto": "No cruzo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 43,
+   "panel": 1,
+   "quien": "",
+   "texto": "Podría dispararle.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 44,
+   "panel": 1,
+   "quien": "",
+   "texto": "¿Dispararle a qué?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 44,
+   "panel": 2,
+   "quien": "",
+   "texto": "A esa cosa.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 45,
+   "panel": 1,
+   "quien": "",
+   "texto": "Desde aquí se ve bien. El mercado. El pasillo. Dónde se paró. Podría dispararle.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 45,
+   "panel": 2,
+   "quien": "",
+   "texto": "No había que dispararle.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 45,
+   "panel": 3,
+   "quien": "",
+   "texto": "No hay que dispararle a nada. Hasta ayer había que disparar a todo. Hoy no hay que dispararle a nada. ¿Quién ha cambiado las reglas?",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 49,
+   "panel": 1,
+   "quien": "",
+   "texto": "Horas.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 49,
+   "panel": 2,
+   "quien": "",
+   "texto": "Horas sin música. Y no pasa nada.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 50,
+   "panel": 1,
+   "quien": "",
+   "texto": "No pasa nada.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 53,
+   "panel": 1,
+   "quien": "",
+   "texto": "Se fue.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 53,
+   "panel": 2,
+   "quien": "",
+   "texto": "Volverá.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 54,
+   "panel": 3,
+   "quien": "",
+   "texto": "Yo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 56,
+   "panel": 1,
+   "quien": "",
+   "texto": "Yo lo voy a hacer.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 56,
+   "panel": 2,
+   "quien": "",
+   "texto": "Si nadie hace nada, yo lo hago.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 57,
+   "panel": 1,
+   "quien": "",
+   "texto": "Yo ya lo estoy haciendo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 57,
+   "panel": 2,
+   "quien": "",
+   "texto": "Yo no soy nadie.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 57,
+   "panel": 3,
+   "quien": "",
+   "texto": "Eso es lo único que sé decir.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  },
+  {
+   "pantalla": 60,
+   "panel": 2,
+   "quien": "",
+   "texto": "Alguien tendrá que hacerlo.",
+   "globo": "abajo-izq",
+   "cola": "abajo-dcha"
+  }
+ ]
+}
