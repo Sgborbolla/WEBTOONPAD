@@ -1,339 +1,235 @@
-# CAP 05 — Día 2, noche. La brasa
-# CAPÍTULO 5 — "Resumen"
+# CAPÍTULO 5 — "El primer grupo"
 
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
-> **Total:** 18 pantallas de 800×1280 · 36 viñetas · 23.040 px de scroll
+> **Fecha en la ficción:** martes **16 de mayo de 2017**, 08:00 (Día 2). Presente: 2026 (9 años).
+> **Bloques:** A = Amanecer tenso (S01–S20) · B = Organización (S21–S40) · C = Unión (S41–S60)
+> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
 
 ## Ficha
 | | |
 |---|---|
-| Viñetas | 36 |
-| Pantallas | 18 |
-
-> **Coherente con novela cap05.**
-
-
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
-
----
-
-## Ficha rápida
-
-| | |
-|---|---|
-| Día | 2, noche |
-| Fecha | martes 16 de mayo de 2017 |
-| Lugar | Sector 6 del Ward. La puerta sigue abierta |
-| Qué pasa | Un **kaiyu naranja** entra en la calle de Goro. Goro suelta vapor |
-| Viñetas | 36 |
-| Globos | 52 |
-| Cajas de narración | 6 |
-| Sonidos descritos | 5 |
-| Muertos en pantalla | Nomura Tatsuo, 49, compañero de Goro |
-
-**Este es el capítulo donde el poder se vuelve un problema.** En el cap 2, el
-guante salvó una calle. Aquí el mismo guante quema a un hombre que Goro conoce.
-
----
-
-## Las 36 viñetas
-
-### Bloque A — La puerta que no se cierra (1-7)
-
-**1.** Plano general. El Sector 6, de noche. Dos días después. El **hueco** del
-pasillo sigue abierto, y es más ancho. La luz negra sale al exterior.
-> **Caja:** Día 2. 21:10. El Sector 6.
-
-**2.** Plano entero. **Kiryu**, 30, con la cinta métrica y un rollo de cinta
-adhesiva, parcheando la puerta de servicio. La puerta sigue allí. Detrás de él,
-el hueco.
-> **Kiryu:** Dos días. La puerta no vuelve. Y sigue creciendo.
-> **Caja:** Nadie vino a sellarla.
-
-**3.** Plano de bocas. Kiryu, solo, mirando el hueco.
-> **Kiryu:** (murmura) Ni el sargento ni nadie. Ni el capitan me contesto.
-
-**4.** Primer plano de Kiryu. Se toca el bolsillo. Saca un recibo arrugado, un
-número de teléfono. Lo mira. Lo vuelve a guardar.
-> **Caja:** Se escribio siete veces al Gobierno. La primera respuesta fue una
-> letra.
-> **Caja:** La segunda no llego.
-
-**5.** Plano entero. **Goro**, 32, entra al pasillo desde la escalera. Casco,
-escudo a la espalda. Se para en seco.
-> **Goro:** ¿La abriste más?
-> **Kiryu:** No. Se abrio sola.
-
-**6.** Plano de bocas. Goro, mirando el hueco.
-> **Goro:** ¿Y la guardia?
-> **Kiryu:** Se fue ayer. No es que no vengan, Arashi-san. Es que no vienen.
-> **Goro:** Anotado.
-
-**7.** Viñeta de silencio. El hueco, más ancho. La parte baja toca el suelo. En el
-suelo, la marca de quemadura vieja: ahora hay una marca nueva al lado.
-
----
-
-### Bloque B — Kosuke y la comida (8-13)
-
-**8.** Plano general. La cocina de Tsumita, 63, dos habitaciones. Cosas colgadas,
-un cartel de papel escrito a mano en la puerta, una mesa con dos fuentes.
-> **Caja:** Dos Recamaras.
-
-**9.** Plano entero. **Kosuke** cocinando. Delantal, manga arriba. Alguien está
-sentado en la mesa: **Nomura**, 49, con mono de Tokukan, sucio. Una mano vendada.
-> **Kosuke:** Siéntate bien.
-> **Nomura:** Estoy bien, jefe.
-> **Kosuke:** Nadie te preguntó.
-
-**10.** Plano medio. Nomura mira su mano vendada.
-> **Nomura:** Arashi me cubrió. A los dos nos quemamos.
-> **Kosuke:** ¿Qué?
-> **Nomura:** El fuego. Lo que salía.
-
-**11.** Plano de bocas. Goro, en la puerta. No había entrado.
-> **Goro:** Que salía.
-> **Nomura:** (se gira) Arashi. No es nada. Ya está.
-> **Goro:** (mira la venda) Eso es una quemadura de third grado.
-> **Nomura:** Que se te va a curar.
-
-**12.** Primer plano de Kosuke. Mira a Goro. Mira la venda. Sigue cocinando,
-más lento.
-> **Kosuke:** Bien, sentaos los dos. Que se enfría.
-> **Goro:** No tengo hambre.
-> **Kosuke:** Nadie te lo pregunto.
-
-**13.** Viñeta de silencio. Los tres, en la cocina, el vapor de la olla, dos platos
-y uno sin usar.
-
----
-
-### Bloque C — La sombra (14-20)
-
-**14.** Plano general. La calle del Sector 6, de noche. **Una sombra larga** en
-el suelo, pegada, sin patas. Entra por debajo de un coche y sigue.
-> **Caja:** 21:40.
-
-**15.** Silueta. La sombra se levanta de una pared. Tiene **cabeza**: no es una
-sombra, es una cosa plana con una forma de cabeza. **Naranja** en un borde.
-> **Sonido:** El suelo. Un chillido corto.
-
-**16.** Primer plano de la sombra. Se queda quieta. No corre. Espera.
-> **Caja:** Se para a escuchar.
-
-**17.** Plano entero. **Goro** en la calle, se detiene. Lo ve. **Kiryu**, detrás,
-no lo ve.
-> **Goro:** ¿Kiryu. ¿Lo ves?
-> **Kiryu:** Veo la calle.
-> **Goro:** No. En el suelo.
-
-**18.** Plano de bocas. Kiryu mira el suelo. Traga.
-> **Kiryu:** ...Eso estaba antes.
-> **Goro:** ¿Como antes?
-> **Kiryu:** No lo sé. Es largo. Es como una sombra.
-
-**19.** Viñeta partida. Izquierda: la sombra, pegada al suelo, acercándose a
-Kiryu. Derecha: Goro, poniéndose delante de Kiryu.
-> **Goro:** No te muevas.
-> **Kiryu:** Arashi-san...
-
-**20.** Plano entero. Goro, delante, el escudo todavía a la espalda. El guante, en
-la mano. La brasa, encendida.
-
----
-
-### Bloque D — La descarga (21-26)
-
-**21.** Contrapicado. Desde abajo: el cielo naranja, los cables, el guante de Goro.
-La brasa sube.
-> **Sonido:** Un silbido bajo. El aire, al calentarse.
-
-**22.** Viñeta a sangre, horizontal. **La descarga de vapor.** El el guante derecho explota
-en un cono de brasa blanca y naranja. La sombra se rompe en tres partes que se
-deslizan. El asfalto, humeando.
-> **Sonido:** Un golpe de aire.
-
-**23.** Plano general. El vapor, abriéndose, calmándose. La sombra, partida en
-tres, cada parte intentando gathering. El asfalto, ennegrecido. Dos personas en el
-fondo. Uno está en el suelo.
-> **Caja:** 21:41.
-
-**24.** Primer plano de **Nomura**, en el suelo, la cara hacia arriba. El pelo,
-quemado. Los ojos abiertos. **Muerto.**
-> **Sonido:** Nada. El silencio es el sonido.
-
-**25.** Plano de bocas. Kiryu, de rodillas. No dice nada. Solo repite:
-> **Kiryu:** Arashi-san. Arashi-san. Arashi-san.
-
-**26.** Viñeta de silencio. El guante de Goro, en el suelo. La brasa, apagándose.
-El mango, chupeandose el guante.
-
----
-
-### Bloque E — Lo que dijo (27-32)
-
-**27.** Plano entero. Goro, arrodillado junto a Nomura. El escudo al lado.
-> **Goro:** Nomura.
-> **Goro:** Tsumita-san.
-
-**28.** Plano de bocas. **Kosuke**, en la puerta de la cocina, sin delantal. Ve.
-Se apoya en el marco.
-> **Kosuke:** ¿Qué le ha pasado?
-> **Goro:** Yo.
-> **Kosuke:** ¿Tú qué?
-> **Goro:** Yo le he pasado.
-
-**29.** Primer plano de Goro. La cara. Sin llanto, sin grito.
-> **Goro:** Ha dicho que lo tapaba. Que salía.
-> **Kosuke:** Sale. Ya lo sé. Arashi, yo lo he visto salir.
-> **Goro:** ¿Cuántas veces?
-> **Kosuke:** (pausa) Tres veces.
-
-**30.** Viñeta de silencio. Los dos, frente a frente, la puerta entre ellos.
-El sitio de Nomura, vacío.
-
-**31.** Plano entero. Kiryu, de pie, grabando con el teléfono. Hablando.
-> **Kiryu:** Con Acero gris, tres personas. Dos salidas. Uno no responded.
-
-**32.** Viñeta a sangre. Acero gris, un **hueco** de estos, más grande, en la
-carretera. **Tres** de ellos, caminando hacia la ciudad. Silueta contra la noche.
-
----
-
-### Bloque F — La mano (33-36)
-
-**33.** Contrapicado. Goro, de pie. La mano del guante, de frente. Sale humo de
-la costura.
-> **Caja:** La brasa del guante. Sola. Sin enemigo.
-
-**34.** Primer plano. Su mano desnuda. Marcas rojas en los nudillos, en forma de
-dibujo con regla. Idénticas a las de Rika, a las de él mismo.
-> **Caja:** Es la misma marca que dejaría un marco.
-> **Caja:** Todos la llevan.
-
-**35.** Plano entero. Goro, arrancándose el guante. Lo tira al suelo. Se pone el
-escudo en la mano, al revés, como se lleva un banquillo.
-> **Goro:** No me lo vuelvo a poner.
-
-**36.** Viñeta a sangre, la última. La calle, de noche. Goro, solo, con el escudo
-en la mano y **sin guante**. Al fondo, los tres de la carretera. No se mueve.
-La brasa, al fondo, apagándose.
-
----
-
-## Los textos
-
-### Globos (52)
-
-| Viñeta | Quien | Dice |
-|---|---|---|
-| 2 | Kiryu | Dos días. La puerta no vuelve. Y sigue creciendo. |
-| 3 | Kiryu | Ni el sargento ni nadie. Ni el capitan me contesto. |
-| 5 | Goro | ¿La abriste más? |
-| 5 | Kiryu | No. Se abrio sola. |
-| 6 | Goro | ¿Y la guardia? |
-| 6 | Kiryu | Se fue ayer. No es que no vengan, Arashi-san. Es que no vienen. |
-| 6 | Goro | Anotado. |
-| 9 | Kosuke | Siéntate bien. |
-| 9 | Nomura | Estoy bien, jefe. |
-| 9 | Kosuke | Nadie te preguntó. |
-| 10 | Nomura | Arashi me cubrió. A los dos nos quemamos. |
-| 10 | Kosuke | ¿Qué? |
-| 10 | Nomura | El fuego. Lo que salía. |
-| 11 | Goro | Que salía. |
-| 11 | Nomura | Arashi. No es nada. Ya está. |
-| 11 | Goro | Eso es una quemadura de tercer grado. |
-| 11 | Nomura | Que se te va a curar. |
-| 12 | Kosuke | Bien, sentaos los dos. Que se enfría. |
-| 12 | Goro | No tengo hambre. |
-| 12 | Kosuke | Nadie te lo pregunto. |
-| 15 | — | El suelo. Un chillido corto. |
-| 17 | Goro | ¿Kiryu. ¿Lo ves? |
-| 17 | Kiryu | Veo la calle. |
-| 17 | Goro | No. En el suelo. |
-| 18 | Kiryu | Eso estaba antes. |
-| 18 | Goro | ¿Como antes? |
-| 18 | Kiryu | No lo sé. Es largo. Es como una sombra. |
-| 19 | Goro | No te muevas. |
-| 19 | Kiryu | Arashi-san... |
-| 25 | Kiryu | Arashi-san. Arashi-san. Arashi-san. |
-| 27 | Goro | Nomura. |
-| 27 | Goro | Tsumita-san. |
-| 28 | Kosuke | ¿Qué le ha pasado? |
-| 28 | Goro | Yo. |
-| 28 | Kosuke | ¿Tú qué? |
-| 28 | Goro | Yo le he pasado. |
-| 29 | Goro | Ha dicho que lo tapaba. Que salía. |
-| 29 | Kosuke | Sale. Ya lo sé. Arashi, yo lo he visto salir. |
-| 29 | Goro | ¿Cuántas veces? |
-| 29 | Kosuke | Tres veces. |
-| 31 | Kiryu | Con Acero gris, tres personas. Dos salidas. Uno no responde. |
-| 35 | Goro | No me lo vuelvo a poner. |
-
-### Cajas de narración (6)
-
-| Viñeta | Texto |
-|---|---|
-| 1 | Día 2. 21:10. El Sector 6. |
-| 2 | Nadie vino a sellarla. |
-| 4 | Se escribio siete veces al Gobierno. La primera respuesta fue una letra. |
-| 4 | La segunda no llego. |
-| 8 | Dos habitaciones. |
-| 14 | 21:40. |
-| 16 | Se para a escuchar. |
-| 23 | 21:41. |
-| 33 | La brasa del guante. Sola. Sin enemigo. |
-| 34 | Es la misma marca que dejaria un marco. |
-| 34 | Toda la tripulacion lleva la misma. |
-
-### Sonidos descritos (5)
-
-| Viñeta | |
-|---|---|
-| 1 | El hueco, zumbando, constante |
-| 13 | El vapor de la olla, en una cocina |
-| 15 | El suelo. Un chillido corto |
-| 21 | Un silbido bajo. El aire al calentarse |
-| 22 | Un golpe de aire |
-| 24 | Nada. El silencio es el sonido |
-| 26 | La brasa, apagándose |
-
----
-
-## Lo que este capítulo tiene que lograr
-
-1. **La misma brasa del cap 2 mata a un hombre.** El lector lo vio salvar una
-   calle. Ahora sabe lo que es
-2. **Goro no pide perdón.** Dice "yo". Dos palabras
-3. **Kosuke ya lo sabía.** "Yo lo he visto salir. Tres veces." Y no lo dijo antes
-4. **Nomura lo tapa hasta el final.** Su última frase es un chiste sobre la herida
-5. **Kiryu graba el video.** Es el primer archivo del Gate de los Catorce, hecho
-   por un testigo, sin permiso
-6. **Goro tira el guante** y se pone el escudo en la mano. Marca de la página
-
----
-
-## Checklist para validar
-
-| Se comprueba | Si falla |
-|---|---|
-| Nomura muere por la descarga de Goro, no por el kaiyu | Regenerar |
-| La sombra se **parte en tres**, no muere | Regenerar |
-| El kaiyu naranja no huye | Regenerar |
-| Goro no grita ni llora | Regenerar |
-| El guante se **quema y se cae** en la viñeta 26 | Regenerar |
-| En la 35 Goro **tira** el guante | Regenerar |
-| La marca de la mano en la 34 es un dibujo con regla | Regenerar |
-| Kiryu no toca el cuerpo | Regenerar |
-| Kosuke no se acerca a Goro | Regenerar |
-| No hay sangre, ni organos, ni mutilación | Ajustar |
-| El escudo de la 35 está al revés | Ajustar |
-| Kiryu sube el video, no lo manda | Regenerar |
-
----
-
-## Nota de produccion
-
-Este capítulo tiene **un solo momento de violencia**: la carga de la viñeta 22. Todo
-lo demas es gente hablando en una cocina. Si Stitch extiende la violencia, se
-le dice: **una sola descarga, en una sola viñeta, sin repetirla**.
+| Géneros | Drama, acción, esperanza |
+| Viñetas | 120 |
+| Pantallas | 60 |
+| Globos de diálogo | 80+ |
+| Cajas narración | 15 |
+| SFX | español solo gráfico |
+
+> **Segundo gancho:** S37 ~35% — primeros equipos empiezan a coordinarse entre sectores.
+> **Cierre (E).**
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+
+### BLOQUE A: Amanecer tenso (S01–S20)
+
+#### S01 · T1 · 1 viñeta (1280)
+- **V1.** Amanecer gris sobre Ward Sector 6. Ruinas, humo leve, calle silenciosa.
+- **CAJAS:** `[CAJA:NARR] Día 2. Amanecer.`
+
+#### S02 · T2R · 2 viñetas (620,620)+gap 40
+- **V2.** Goro observa desde tejado improvisado.
+- **V3.** **Goro:** —Han parado de abrirse por ahora.
+
+#### S03 · T3R · 2 viñetas (570,570)+gap 40
+- **V4.** **Kosuke:** —Respiramos un respiro.
+- **V5.** **Nomura:** —Un respiro corto.
+
+#### S04 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V6.** **Kiryu:** —Llegaron supervivientes de otros sectores durante la noche.
+- **V7.** **Goro:** —Cuántos?
+- **V8.** **Kiryu:** —Veintisiete.
+
+#### S05 · T2R · 2 viñetas (620,620)+gap 40
+- **V9.** **Nomura:** —Hay gente con experiencia médica entre ellos.
+- **V10.** **Kosuke:** —Eso nos ayuda mucho.
+
+#### S06 · T3R · 2 viñetas (570,570)+gap 40
+- **V11.** **Goro:** —Bien. No desperdiciamos recursos.
+- **V12.** Se reúnen alrededor de mesa improvisada.
+
+#### S07 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V13.** **Nomura:** —Hay otro grupo al este. Se han organizado.
+- **V14.** **Kiryu:** —¿Han contactado?
+- **V15.** **Nomura:** —Señales con espejos, a ratos.
+
+#### S08 · T2R · 2 viñetas (620,620)+gap 40
+- **V16.** **Kosuke:** —Otros están haciendo lo mismo que nosotros.
+- **V17.** **Goro:** —Mejor. Nos coordinamos.
+
+#### S09 · T3R · 2 viñetas (570,570)+gap 40
+- **V18.** **Kiryu:** —Quieren hablar contigo, Goro.
+- **V19.** **Goro:** —Voy.
+
+#### S10 · T1 · 1 viñeta (1280)
+- **V20.** Encuentro entre grupos, miradas cautelosas pero respetuosas.
+### BLOQUE B: Organización (S21–S40)
+
+#### S21 · T2R · 2 viñetas (620,620)+gap 40
+- **V21.** Dos líderes se acercan con cautela.
+- **V22.** **Líder grupo este:** —Hemos visto vuestro trabajo. Gracias por cubrir evacuación.
+
+#### S22 · T3R · 2 viñetas (570,570)+gap 40
+- **V23.** **Goro:** —Vosotros hicisteis lo mismo al este.
+- **V24.** **Nomura:** —Compartimos información.
+
+#### S23 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V25.** Marcan zonas en mapa dibujado a mano.
+- **V26.** **Kosuke:** —Estos accesos son comunes. Podemos cubrirlos por turnos.
+- **V27.** **Kiryu:** —Turnos de descanso también.
+
+#### S24 · T2R · 2 viñetas (620,620)+gap 40
+- **V28.** **Líder:** —No aguantamos mucho sin dormir.
+- **V29.** **Goro:** —Tres horas máximo, luego relevo.
+
+#### S25 · T3R · 2 viñetas (570,570)+gap 40
+- **V30.** **Nomura:** —Nada de heroísmos solos.
+- **V31.** **Kosuke:** —Aprendimos eso a golpes.
+
+#### S26 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V32.** Acuerdan rutas de patrulla conjuntas.
+- **V33.** **Goro:** —Compartimos medicinas y agua.
+- **V34.** **Líder:** —De acuerdo.
+
+#### S27 · T2R · 2 viñetas (620,620)+gap 40
+- **V35.** **Kiryu:** —Punto de encuentro común si todo empeora.
+- **V36.** **Nomura:** —Fijado.
+
+#### S28 · T3R · 2 viñetas (570,570)+gap 40
+- **V37.** Se estrechan manos brevemente, con respeto.
+- **V38.** **Kosuke:** —Es mejor así. Unidos aguantamos más.
+
+#### S29 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V39.** Vuelven al grupo.
+- **V40.** **Goro:** —A partir de ahora trabajamos con ellos.
+- **V41.** **Equipo:** Asienten.
+
+#### S30 · T1 · 1 viñeta (1280)
+- **V42.** Primer equipo mixto empieza a organizar turnos en garaje.
+
+#### S31 · T2R · 2 viñetas (620,620)+gap 40
+- **V43.** **Nomura:** —Distribuimos comida racionada.
+- **V44.** **Kosuke:** —Todos comen, sobre todo niños.
+
+#### S32 · T3R · 2 viñetas (570,570)+gap 40
+- **V45.** **Kiryu:** —Organizamos guardias.
+- **V46.** **Goro:** —Dos por turno. Nunca uno solo.
+
+#### S33 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V47.** Animan ambiente con instrucciones claras.
+- **V48.** **Nomura:** —Descansad quienes no estéis de guardia.
+- **V49.** Gente obedece, agotada pero tranquila.
+
+#### S34 · T2R · 2 viñetas (620,620)+gap 40
+- **V50.** **Kosuke:** —Tú también, Goro. Te toca descanso después.
+- **V51.** **Goro:** —Después del relevo.
+
+#### S35 · T3R · 2 viñetas (570,570)+gap 40
+- **V52.** **Kiryu:** —Ya te conocemos. No cuela.
+- **V53.** **Nomura:** —Te obligamos si hace falta.
+
+#### S36 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V54.** Goro suspira, acepta con gesto cansado.
+- **V55.** **Goro:** —Dos horas.
+- **V56.** **Kosuke:** —Tres.
+
+#### S37 · T2R · 2 viñetas (620,620)+gap 40
+- **V57.** Primera coordinación efectiva entre sectores toma forma.
+- **V58.** **Nomura:** —Está funcionando.
+
+#### S38 · T3R · 2 viñetas (570,570)+gap 40
+- **V59.** **Kiryu:** —Sí. Estamos aguantando juntos.
+- **V60.** Miradas de esperanza tímida.
+
+#### S39 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V61.** **Kosuke:** —No estamos solos.
+- **V62.** **Goro:** —Eso marca la diferencia.
+- **V63.** Asienten entre todos.
+
+#### S40 · T1 · 1 viñeta (1280)
+- **V64.** Pequeño grupo comparte agua en silencio, momentánea calma.
+### BLOQUE C: Unión (S41–S60)
+
+#### S41 · T2R · 2 viñetas (620,620)+gap 40
+- **V65.** Niños dibujan con tiza en suelo de garaje.
+- **V66.** **Nomura:** —Por lo menos ellos pueden respirar un rato.
+
+#### S42 · T3R · 2 viñetas (570,570)+gap 40
+- **V67.** **Kosuke:** —Eso vale todo.
+- **V68.** **Goro:** —Sí.
+
+#### S43 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V69.** **Kiryu:** —Les estamos dando un techo, aunque sea este.
+- **V70.** **Nomura:** —Seguridad mínima.
+- **V71.** **Goro:** —Es más de lo que había ayer.
+
+#### S44 · T2R · 2 viñetas (620,620)+gap 40
+- **V72.** Goro mira dibujos, se relaja un instante.
+- **V73.** **Kosuke:** —Te quedas mirándolos con esa cara.
+
+#### S45 · T3R · 2 viñetas (570,570)+gap 40
+- **V74.** **Nomura:** —Cara de tonto blando.
+- **V75.** **Goro:** —Otra vez no.
+
+#### S46 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V76.** Bromas leves entre cansados.
+- **V77.** **Kiryu:** —Bien. Esto nos mantiene humanos.
+- **V78.** Ríen bajito.
+
+#### S47 · T2R · 2 viñetas (620,620)+gap 40
+- **V79.** Escuchan eco lejano, se tensan un segundo.
+- **V80.** **Kosuke:** —Tranquilo. Lejos.
+
+#### S48 · T3R · 2 viñetas (570,570)+gap 40
+- **V81.** **Nomura:** —Parece que aguanta.
+- **V82.** **Goro:** —Aprovechamos este hueco.
+
+#### S49 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V83.** Repasan equipo, llenan botellas.
+- **V84.** **Kiryu:** —Todo listo para cuando vuelva el ruido.
+- **V85.** **Goro:** —Siempre preparados.
+
+#### S50 · T1 · 1 viñeta (1280)
+- **V86.** Mirada al horizonte de ruinas desde entrada.
+
+#### S51 · T2R · 2 viñetas (620,620)+gap 40
+- **V87.** **Kosuke:** —¿Crees que esto pasará?
+- **V88.** **Goro:** —No lo sé. Pero lo aguantaremos.
+
+#### S52 · T3R · 2 viñetas (570,570)+gap 40
+- **V89.** **Nomura:** —Paso a paso.
+- **V90.** **Kiryu:** —Juntos.
+
+#### S53 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V91.** **Kosuke:** —Me gusta el plan.
+- **V92.** **Goro:** —Es el único que tenemos.
+- **V93.** Asienten.
+
+#### S54 · T2R · 2 viñetas (620,620)+gap 40
+- **V94.** Niño ofrece dibujo a Goro.
+- **V95.** **Niño:** —Para ti.
+
+#### S55 · T3R · 2 viñetas (570,570)+gap 40
+- **V96.** Goro lo coge con cuidado, lo guarda.
+- **V97.** **Goro:** —Gracias. Lo guardo bien.
+
+#### S56 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V98.** **Nomura:** —Ay, se te ha derretido del todo.
+- **V99.** **Kosuke:** —Irrecuperable.
+- **V100.** Risas suaves.
+
+#### S57 · T2R · 2 viñetas (620,620)+gap 40
+- **V101.** Dejan momento de calma para volver a guardia.
+- **V102.** **Goro:** —Vamos por turnos.
+
+#### S58 · T3R · 2 viñetas (570,570)+gap 40
+- **V103.** **Kiryu:** —Descansa tú primero, jefe cabezota.
+- **V104.** **Goro:** —Vale, vale.
+
+#### S59 · T4R · 3 viñetas (380,380,380)+gaps 35,35
+- **V105.** Se reparten tareas con naturalidad.
+- **V106.** **Kosuke:** —Buen equipo.
+- **V107.** **Nomura:** —El mejor ahora.
+
+#### S60 · T1 · 1 viñeta (1280)
+- **V108.** Amanecer en Ward, grupo unido mirando hacia delante con esperanza cautelosa.
+- **CAJAS:** `[CAJA:NARR] Día 2. Dejaron de estar solos.`
+- **Transición:** FUNDIDO A: negro
