@@ -1,4 +1,4 @@
-Genera 3 pantallas webtoon verticales consecutivas 864×1536 (9:16), una por imagen, en orden S01, S02, S03.
+Genera 3 pantallas webtoon verticales consecutivas 864×1536 (9:16), una por imagen, en orden S22, S23, S24.
 
 REGLAS:
 - Sin texto de DIÁLOGO. Deja espacios vacíos limpios para bocadillos blancos con cola. NO rellenes globos.
@@ -11,6 +11,6 @@ REGLAS:
 - Usa ÚNICAMENTE la imagen de referencia adjunta para estilo, iluminación, trazo, paleta y diseño. NO copies texto ni logotipo.
 - PANELES: respeta geometría. T2R/T3R/T4R = FILA HORIZONTAL con gutters indicados. T1/T5/T6 según corresponda.
 
-S01 – Ver geometría y descripción exactas del guion cap01.md (### S01). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S01.
-S02 – Ver geometría y descripción exactas del guion cap01.md (### S02). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S02.
-S03 – Ver geometría y descripción exactas del guion cap01.md (### S03). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S03.
+S22 – Ver geometría y descripción exactas del guion cap01.md (### S22). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S22.
+S23 – Ver geometría y descripción exactas del guion cap01.md (### S23). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S23.
+S24 – Ver geometría y descripción exactas del guion cap01.md (### S24). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S24.

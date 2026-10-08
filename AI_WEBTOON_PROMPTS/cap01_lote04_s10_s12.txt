@@ -1,16 +1,16 @@
 Genera 3 pantallas webtoon verticales consecutivas 864×1536 (9:16), una por imagen, en orden S10, S11, S12.
 
 REGLAS:
-- Sin texto, letras, diálogos, onomatopeyas con letras, números, logotipo, marca, firma, créditos, HUD.
-- Deja espacios vacíos limpios para bocadillos blancos con cola. NO rellenes globos.
-- SFX solo gráfico. Sin caracteres.
-- Continuidad absoluta. Misma luz, color, ambiente, diseño personajes.
-- Conserva fondo entre cortes consecutivos.
-- Usa ÚNICAMENTE la imagen de referencia adjunta. NO copies poses exactas. NO copies texto/logotipo.
-- Composición vertical webtoon.
+- Sin texto de DIÁLOGO. Deja espacios vacíos limpios para bocadillos blancos con cola. NO rellenes globos.
+- SÍ PERMITE escribir ONOMATOPEYAS EN ESPAÑOL (SFX) ÚNICAMENTE cuando se indique explícitamente en cada pantalla. Dibújalas con letra manuscrita/impact para webtoon, integradas con la acción, legibles. PROHIBIDO inventarlas.
+- SFX SOLO GRÁFICO si NO se indica. NUNCA escribas CRAC, PUM, BOOM, ZAS, PA, BANG, THUD, SPLASH u otras onomatopeyas con letras a menos que aparezcan en el guion de esa pantalla.
+- MISMO ESTILO GRÁFICO en todo el lote: trazo, texturas, grosor de línea, sombreado, iluminación y paleta IDÉNTICOS.
+- CONSISTENCIA ABSOLUTA DE PERSONAJES: rostro, rasgos, altura, complexión, proporciones, ropa (pliegues/desgaste), peinado, color de cabello, accesorios, vendas, equipo y todos sus detalles exactos. Usa ÚNICAMENTE la imagen de referencia adjunta para fijarlos. NO copies poses exactas.
+- Continuidad absoluta entre pantallas consecutivas. Conserva elementos del fondo entre cortes.
+- Composición para lectura vertical webtoon.
+- Usa ÚNICAMENTE la imagen de referencia adjunta para estilo, iluminación, trazo, paleta y diseño. NO copies texto ni logotipo.
+- PANELES: respeta geometría. T2R/T3R/T4R = FILA HORIZONTAL con gutters indicados. T1/T5/T6 según corresponda.
 
-S10 – T1 (1 viñeta). Plano general amplio. Vista calle portuaria amanecer niebla. Escena que cierra bloque con atmósfera tensa. Espacios vacíos.
-
-S11 – T3R: 2 paneles horizontales (570,570) con gutter 40. Cambio de encuadre manteniendo continuidad. Espacios vacíos.
-
-S12 – T4R: 3 paneles horizontales (380,380,380) con gutters 35,35. Tres momentos consecutivos, fluidez entre paneles. Espacios vacíos.
+S10 – Ver geometría y descripción exactas del guion cap01.md (### S10). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S10.
+S11 – Ver geometría y descripción exactas del guion cap01.md (### S11). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S11.
+S12 – Ver geometría y descripción exactas del guion cap01.md (### S12). Respeta tipo, número de paneles, medidas y gutters. Deja espacios vacíos para bocadillos. SOLO añade SFX si vienen indicados para S12.
