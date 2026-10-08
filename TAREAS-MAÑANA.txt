@@ -1,0 +1,22 @@
+TAREAS MAÑANA - HISTORIETA WEBTOON
+
+1. Continuar expandiendo guiones a 60/120 con MUCHO diálogo + acción + interacciones (estilo webtoon con diálogos intensos)
+- Terminar cap06 completamente expandido (acorde novela cap06)
+- Revisar cap07-10 ya tienen mucho diálogo pero comprobar coherencia con novela
+- Completar cap11-30 guiones detallados 60/120 si faltan partes (cap11-14 hay, 15-30 skeletons)
+
+2. Coherencia IA imagen → guion .md
+- Añadir en CADA guion .md línea clara:
+  > **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés (Ward japonés años 2017), iluminación dura/suave según escena, colorido con contraste, atmosférico. Sin moe chibi, sin anime shoujo excesivo. Realista con toques cinematográficos.
+- También añadir: "Hiragana/Katakana/kanji PROHIBIDOS. Inglés PROHIBIDO. Solo español. SFX solo cuando indicado. Sin HUD/logo."
+- Asegurar orden correcto pantallas S01→S60, continuidad entre lotes para IA.
+
+3. Fechas/hora/orden correcto
+- Verificar fechas ficción (cap01 15 mayo 2017 07:42, etc) coherentes
+- Mantener 14 minutos canon correcto
+
+4. Novela→guion SIEMPRE (novela fuente, guion después mismo número)
+
+5. Para generación IA por lotes: usar prompts con imagen de referencia única + geometría horizontal correcta.
+
+Pendiente revisar cap06 completo expandido mañana.

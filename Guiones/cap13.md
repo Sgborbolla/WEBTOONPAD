@@ -1,5 +1,6 @@
 # CAPÍTULO 13 — "El registro"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** sábado **20 de mayo de 2017**, 07:10–22:00 (Día 6; después del cap12; mismo lugar de siempre).
 > **Bloques:** A = El aviso (S01–S08, gutter 40) · B = El reparto (S09–S18, gutter 35) · C = El naranja (S19–S30, gutter 35, T1 + T5) · D = Lo que no se dice (S31–S40, gutter 190) · E = El registro (S41–S54, gutter 40) · F = El registro quedó abierto (S55–S60, gutter 190, cierra en negro)

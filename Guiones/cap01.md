@@ -1,5 +1,6 @@
 # CAPÍTULO 1 — "El día que no avisaron"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** lunes **15 de mayo de 2017**, 07:42. Presente: 2026 (9 años).
 > **Bloques:** Portada (S01) + A = cold open (S02–S29, gutter cerrado) · B = 3 días antes (45 pantallas, gutter abierto)

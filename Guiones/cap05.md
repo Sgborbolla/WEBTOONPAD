@@ -1,5 +1,6 @@
 # CAPÍTULO 5 — "El primer grupo"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** martes **16 de mayo de 2017**, 08:00 (Día 2). Presente: 2026 (9 años).
 > **Bloques:** A = Amanecer tenso (S01–S20) · B = Organización (S21–S40) · C = Unión (S41–S60)

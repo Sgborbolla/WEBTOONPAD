@@ -1,5 +1,6 @@
 # CAPÍTULO 9 — "Nadie hace nada"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** jueves **18 de mayo de 2017**, 10:40–19:30 (tres días después del lunes; el cap08 transcurre la noche del miércoles 17). Presente: 2026 (9 años).
 > **Bloques:** A = La ciudad finge (S01–S10, gutter 40) · B = El mercado (S11–S20, gutter 35) · C = El kaiyu amarillo (S21–S30, gutter 35) · D = El pasillo (S31–S40, gutter 40) · E = La tarde (S41–S50, gutter 40) · F = El atardecer (S51–S60, gutter 40) · G = Cierre (S61–S68, cierra en negro)

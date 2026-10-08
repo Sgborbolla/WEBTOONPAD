@@ -1,5 +1,6 @@
 # CAPÍTULO 10 — "La jauría"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** jueves **18 de mayo de 2017**, 21:45–22:15 (noche, mismo día que cap09). Presente: 2026 (9 años).
 > **Bloques:** A = El turno (S01–S10, gutter 40) · B = La jauría (S11–S20, gutter 35) · C = El guante (S21–S30, gutter 35) · D = Dividir (S31–S40, gutter 40) · E = Rematar (S41–S50, gutter 40) · F = El video (S51–S60, gutter 40) · G = El temblor (S61–S70, cierra en negro)

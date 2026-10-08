@@ -1,5 +1,6 @@
 # CAPÍTULO 4 — "Reagrupados"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** lunes **15 de mayo de 2017**, 17:45 (Día 1, tarde). Presente: 2026 (9 años).
 > **Bloques:** A = Punto de encuentro (S01–S20) · B = Informes (S21–S40) · C = Decisiones (S41–S60)

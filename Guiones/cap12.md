@@ -1,5 +1,6 @@
 # CAPÍTULO 12 — "Se cuentan"
 
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
 > **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** viernes **19 de mayo de 2017**, 13:15–13:45 (Día 5, después del cap11; mismo día). Presente: 2026 (9 años).
 > **Bloques:** A = La mesa (S01–S16, gutter 40) · B = Poder (S17–S20, gutter 190) · C = La misma noche (S21–S27, gutter 40) · D = Lo que no coincide (S28–S35, gutter 40) · E = El cuaderno (S36–S44, gutter 40) · F = Lo que no se cuenta (S45–S60, gutter 190, cierra en blanco)
