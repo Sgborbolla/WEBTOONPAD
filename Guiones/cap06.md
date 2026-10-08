@@ -1,4 +1,17 @@
 # CAP 06 — Día 3. Los catorce minutos
+# CAPÍTULO 6 — "Resumen"
+
+> **Retícula:** `medidas-referencia.md` §5. Pantallas de 800×1280.
+> **Total:** 18 pantallas de 800×1280 · 36 viñetas · 23.040 px de scroll
+
+## Ficha
+| | |
+|---|---|
+| Viñetas | 36 |
+| Pantallas | 18 |
+
+> **Coherente con novela cap06.**
+
 
 **Prompt pegable.** Ancla de `estilo.md` al inicio de la conversación de T1.
 
