@@ -1,0 +1,16 @@
+Genera 3 pantallas webtoon verticales consecutivas 864×1536 (9:16), una por imagen, en orden S04, S05, S06.
+
+REGLAS:
+- Sin texto, letras, diálogos, onomatopeyas con letras, números, logotipo, marca, firma, créditos, HUD.
+- Deja espacios vacíos limpios para bocadillos blancos con cola. NO rellenes globos.
+- SFX solo gráfico. Sin caracteres.
+- Continuidad absoluta con las pantallas anteriores y entre S04–S05–S06: misma luz, color, ambiente, diseño, proporciones, ropa, peinado, accesorios.
+- Conserva fondo entre cortes consecutivos.
+- Usa ÚNICAMENTE la imagen de referencia adjunta para estilo, iluminación, trazo, paleta y diseño de personajes. NO copies poses exactas. NO copies texto ni logotipo.
+- Composición para lectura vertical webtoon.
+
+S04 – T2R: 2 paneles horizontales (620,620) con gutter 40. Calle portuaria amanecer niebla. Caos inicial, primeros kaiyu avanzando, civiles reaccionando lejanamente. Espacios vacíos para bocadillos.
+
+S05 – T3R: 2 paneles horizontales (570,570) con gutter 40. Acción contenida, enfoque en movimiento, portal visible al fondo. Dejar espacios vacíos para bocadillos.
+
+S06 – T4R: 3 paneles horizontales (380,380,380) con gutters 35,35. Secuencia fluida entre paneles. Mayor tensión, kaiyu acercándose, sin gore explícito. Dejar espacios vacíos para bocadillos.

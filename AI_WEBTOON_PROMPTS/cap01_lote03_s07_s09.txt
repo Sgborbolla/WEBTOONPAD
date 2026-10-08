@@ -1,0 +1,16 @@
+Genera 3 pantallas webtoon verticales consecutivas 864×1536 (9:16), una por imagen, en orden S07, S08, S09.
+
+REGLAS:
+- Sin texto, letras, diálogos, onomatopeyas con letras, números, logotipo, marca, firma, créditos, HUD.
+- Deja espacios vacíos limpios para bocadillos blancos con cola. NO rellenes globos.
+- SFX solo gráfico. Sin caracteres.
+- Continuidad absoluta entre todas y entre S07–S08–S09. Misma ambientación, luz, color, diseño de personajes.
+- Conserva fondo entre cortes.
+- Usa ÚNICAMENTE la imagen de referencia adjunta para estilo, iluminación, trazo, paleta y diseño. NO copies poses exactas. NO copies texto/logotipo.
+- Composición vertical webtoon.
+
+S07 – T3R: 2 paneles horizontales (570,570) con gutter 40. Calle portuaria, enfoque en respuesta, movimiento defensivo. Espacios vacíos para globos.
+
+S08 – T4R: 3 paneles horizontales (380,380,380) con gutters 35,35. Tres momentos consecutivos, lectura fluida. Espacios vacíos.
+
+S09 – T4R: 3 paneles horizontales (380,380,380) con gutters 35,35. Transición continua con S08. Acción contenida, tensión atmosférica. Espacios vacíos.
