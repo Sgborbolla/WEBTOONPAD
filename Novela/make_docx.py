@@ -130,7 +130,10 @@ def esc(t):
 
 def load_chapters():
     caps = []
-    for f in sorted(os.listdir(CAPS_DIR)):
+    def cap_key(f):
+        m = re.match(r"cap(\d+)", f, re.I)
+        return (int(m.group(1)) if m else 1 << 30, f)
+    for f in sorted(os.listdir(CAPS_DIR), key=cap_key):
         if f.lower().endswith(".txt"):
             with open(os.path.join(CAPS_DIR, f), encoding="utf-8") as fh:
                 caps.append(fh.read())
@@ -239,7 +242,8 @@ def build_document_body(caps):
     # --- Portada (foto) a sangre, seccion con margenes 0 ---
     if COVER:
         out.append(cover_drawing_xml())
-        out.append('<w:p><w:pPr><w:sectPr>' + HREF + '<w:pgSz w:w="11906" w:h="16838"/>'
+        out.append('<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="0" w:lineRule="exact"/>'
+                   '<w:sectPr>' + HREF + '<w:pgSz w:w="11906" w:h="16838"/>'
                    '<w:pgMar w:top="0" w:right="0" w:bottom="0" w:left="0" w:header="0" w:footer="0" w:gutter="0"/>'
                    '</w:sectPr></w:pPr></w:p>')
     # --- Titulo (fondo + texto JUNTOS en la pagina 2) ---
@@ -256,14 +260,26 @@ def build_document_body(caps):
     out.append(p_xml("serie", SERIE))
     out.append(p_xml("author", "Autor: " + AUTOR))
     # cierra la seccion del titulo (sigue con margenes 0 y sin pie)
-    out.append('<w:p><w:pPr><w:sectPr>' + HREF + '<w:pgSz w:w="11906" w:h="16838"/>'
+    out.append('<w:p><w:pPr><w:spacing w:before="0" w:after="0" w:line="0" w:lineRule="exact"/>'
+               '<w:sectPr>' + HREF + '<w:pgSz w:w="11906" w:h="16838"/>'
                '<w:pgMar w:top="0" w:right="0" w:bottom="0" w:left="0" w:header="0" w:footer="0" w:gutter="0"/>'
                '</w:sectPr></w:pPr></w:p>')
     for i, c in enumerate(caps, 1):
         title, text = parse_chapter(c)
         n = re.match(r"^CAPÍTULO\s+(\d+)", title, re.I)
         num = n.group(1) if n else str(i)
-        brk = '<w:pageBreakBefore/><w:keepNext/>'
+        # Salto de página EXPLÍCITO (w:br) al final del párrafo anterior:
+        # w:pageBreakBefore lo ignoran Google Docs y varios visores móviles,
+        # de ahí que los encabezados se "fueran" a otras páginas.
+        # El capítulo 1 no lleva salto: ya arranca tras el corte de sección
+        # de la página de título (sectPr nextPage).
+        if i > 1:
+            j = len(out) - 1
+            while j >= 0 and not out[j].endswith("</w:p>"):
+                j -= 1
+            if j >= 0:
+                out[j] = out[j][:-len("</w:p>")] + '<w:r><w:br w:type="page"/></w:r></w:p>'
+        brk = '<w:keepNext/><w:keepLines/>'
         out.append(p_xml("chapter", "Capítulo " + num + " — " + title.split("—", 1)[-1].strip().strip('"'), brk))
         for kind, tk in paras_from_text(text):
             if kind == "normal" and tk.endswith("*"):

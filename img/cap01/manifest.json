@@ -13,7 +13,8 @@
    "bg": "blanco",
    "vinheta_inicio": 1,
    "marco_pantalla": true,
-   "bg_img": "pag_s01.png"
+   "bg_img": "pag_s01.png",
+   "bg_img_fit": true
   },
   {
    "n": 2,
@@ -59,7 +60,8 @@
     35
    ],
    "bg": "blanco",
-   "vinheta_inicio": 5
+   "vinheta_inicio": 5,
+   "bg_img": "pag_s04.png"
   },
   {
    "n": 5,
@@ -86,7 +88,8 @@
     1020
    ],
    "bg": "blanco",
-   "vinheta_inicio": 10
+   "vinheta_inicio": 10,
+   "bg_img": "pag_s06.png"
   },
   {
    "n": 7,
@@ -128,7 +131,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 15
+   "vinheta_inicio": 15,
+   "bg_img": "pag_s09.png"
   },
   {
    "n": 10,
@@ -144,7 +148,8 @@
     35
    ],
    "bg": "blanco",
-   "vinheta_inicio": 17
+   "vinheta_inicio": 17,
+   "bg_img": "pag_s10.png"
   },
   {
    "n": 11,
@@ -162,7 +167,8 @@
      "panel": 1,
      "texto": "`GRRRAAAAH`"
     }
-   ]
+   ],
+   "bg_img": "pag_s11.png"
   },
   {
    "n": 12,
@@ -176,7 +182,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 21
+   "vinheta_inicio": 21,
+   "bg_img": "pag_s12.png"
   },
   {
    "n": 13,
@@ -198,7 +205,8 @@
      "panel": 3,
      "texto": "`CRAAACK`"
     }
-   ]
+   ],
+   "bg_img": "pag_s13.png"
   },
   {
    "n": 14,
@@ -210,7 +218,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 26
+   "vinheta_inicio": 26,
+   "bg_img": "pag_s14.png"
   },
   {
    "n": 15,
@@ -224,7 +233,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 27
+   "vinheta_inicio": 27,
+   "bg_img": "pag_s15.png"
   },
   {
    "n": 16,
@@ -256,7 +266,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 30
+   "vinheta_inicio": 30,
+   "bg_img": "pag_s17.png"
   },
   {
    "n": 18,
@@ -356,7 +367,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 42
+   "vinheta_inicio": 42,
+   "bg_img": "pag_s23.png"
   },
   {
    "n": 24,
@@ -368,7 +380,8 @@
     1020
    ],
    "bg": "blanco",
-   "vinheta_inicio": 44
+   "vinheta_inicio": 44,
+   "bg_img": "pag_s24.png"
   },
   {
    "n": 25,
@@ -384,7 +397,8 @@
     35
    ],
    "bg": "blanco",
-   "vinheta_inicio": 45
+   "vinheta_inicio": 45,
+   "bg_img": "pag_s25.png"
   },
   {
    "n": 26,
@@ -396,7 +410,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 48
+   "vinheta_inicio": 48,
+   "bg_img": "pag_s26.png"
   },
   {
    "n": 27,
@@ -408,7 +423,8 @@
     1020
    ],
    "bg": "blanco",
-   "vinheta_inicio": 49
+   "vinheta_inicio": 49,
+   "bg_img": "pag_s27.png"
   },
   {
    "n": 28,
@@ -422,7 +438,8 @@
     40
    ],
    "bg": "blanco",
-   "vinheta_inicio": 50
+   "vinheta_inicio": 50,
+   "bg_img": "pag_s28.png"
   },
   {
    "n": 29,

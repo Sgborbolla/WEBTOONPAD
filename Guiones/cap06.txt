@@ -1,0 +1,1225 @@
+# CAPÍTULO 6 — "Los catorce minutos"
+
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
+> **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Fecha en la ficción:** miércoles **17 de mayo de 2017** (Día 3).
+> **Bloques:** A = La sala de radio (S01–S08, 04:52, gutter 40) · B = El rectángulo (S09–S13, 04:58, gutter 190 abierto) · C = La ciudad costera (S14–S21, 05:01, gutter 40) · D = Catorce (S22–S29, 05:04, gutter 40) · E = La guardería (S30–S45, 05:09–05:12, gutter 40) · F = El cielo se cierra (S46–S60, 05:13, gutter 190 abierto)
+> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+> **Segundo gancho:** pantalla S25 (viñeta **V45, 37%**) — Kurose dice: "Yo tengo el número."
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+> **Cierre:** emocional (E) — Futaki clava la chincheta sin número: *no está en el plano*.
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Tensión, horror silencioso, drama |
+| Estructura | Siete luces se apagan y se encende una octava → el cielo rectángulo → la columna de doce → "Catorce" → sale Mio → el cielo se cierra |
+| Fondo | Base NSF de noche, ciudad costera con alba falsa, sala de reunión, calle de la guardería |
+| Personajes con nombre | Futaki Saeri, Watanabe Raishirō, Kurose Ken, Goro Arashi, Ren Hayashi, Yui Nakamura, Rika Tsukimi, Mio Tsukimi |
+| Viñetas | 120 |
+| Pantallas | 60 |
+| Globos de diálogo | 37 |
+| Cajas de narración | 38 |
+| SFX | español (dibujados) |
+| Transiciones | CORTE A: (radio / ventana / ciudad / reunión / guardería) · FUNDIDO A: negro (cierre) |
+
+> **Primer gancho:** viñeta **V13** — se apagan las siete puertas del plano y se enciende una octava que no estaba en el plano.
+> **Segundo gancho:** viñeta **V45, 37%** — Kurose, el silencioso, dice: "Yo tengo el número." Y el número es catorce.
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD. SFX en español.
+
+---
+
+## 1. MAPA DE PANTALLAS
+
+### BLOQUE A — LA SALA DE RADIO (S01–S08, 04:52, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S01 | T6 | 0 | — | rótulo | rótulo | CORTE A: base NSF | Rótulo: `04:52 · BASE NSF · COSTA DE KANTO`. |
+| S02 | T1 | 1 | 1280 | 0/0 | general | CORTE A: radio | El mar negro. La única sala encendida. |
+| S03 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: radio | Futaki dormida. El cuadro de siete marcas. |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primerísimo/medio | CORTE A: radio | El casco crujió. La voz del turno. |
+| S05 | T2R | 1 | 1200 | 40/40 | medio | CORTE A: radio | "Ninguna estructura inferior en Kanto." |
+| S06 | T3R | 2 | 570/570 | 40/60/40 | primer plano/medio | CORTE A: radio | "Ni en Tokio." Y el cuadro se apaga. |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primerísimo/primer plano | CORTE A: radio | Uno, dos, tres... siete. |
+| S08 | T3R | 2 | 570/570 | 40/60/40 | general/primerísimo | CORTE A: radio | Se enciende el octavo punto. |
+
+**Total bloque A: 8 pantallas · 14 viñetas · 10.240 px**
+
+## Las viñetas del bloque A
+
+### S01 · T6 · 0 viñetas · rótulo
+
+**RÓTULO.** Sobre negro, letra pequeña y seca, sin adorno: `04:52 · BASE NSF · COSTA DE KANTO`. No hay viñetas: solo la hora de pie en la pantalla.
+
+### S02 · T1 · 1 viñeta de 1280
+
+**V1.** Plano general. El pasillo de la base de madrugada. La ventana da al mar, y el mar está quieto y negro, sin luces de barcos, sin nada, como si la noche entera se hubiera quedado sin gente. Al fondo, la única sala con luz: radio.
+> **Caja:** La base dormía de aquella manera rara de las bases: todo encendido a medias, todo despierto a medias.
+- **PLANO:** general
+- **COMPOSICION:** el pasillo largo, la ventana negra, la puerta de radio encendida al fondo
+- **ACCION:** la única sala donde se puede dormir sin apagar nada, porque ahí nunca se apaga nada. **SFX:** *zumbido*
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
+
+### S03 · T3R · 2 viñetas de 570
+
+**V2.** Plano medio. Futaki Saeri dormida con el casco de radio puesto, reclinada contra el respaldo de la silla giratoria, la barbilla sobre el pecho, los dedos sueltos sobre la mesa. Una cama plegable en el hueco de los archivadores, detrás.
+- **PLANO:** medio
+- **COMPOSICION:** la silla, el casco, los dedos sueltos, la cama plegable al fondo
+- **ACCION:** veinticuatro años y la regla no escrita de no dejar la guardia.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V3.** Detalle. El cuadro de la sala en el muro: una placa blanca con siete marcas encendidas, siete puntos de luz pequeña, cada uno con un número debajo y un papelito prendido con chincheta que nadie actualiza ya.
+> **Caja:** Siete puertas. Era lo que se sabía. En el mundo, había más.
+- **PLANO:** detalle
+- **COMPOSICION:** la placa, los siete puntos, los papelitos vencidos
+- **ACCION:** el plano oficial de las puertas, congelado sin actualizarse.
+- **GUTTER ABAJO:** 40
+
+### S04 · T4R · 3 viñetas de 380
+
+**V4.** Detalle. El casco de radio crujió sobre la cabeza de Futaki, la almohadilla rozando la oreja. **SFX:** *crujido*
+- **PLANO:** detalle
+- **COMPOSICION:** el casco, la oreja, el cable sobre el hombro
+- **ACCION:** el ruido que la despierta sin levantarse.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V5.** Primerísimo. Futaki abrió los ojos sin moverse, como quien lleva años abriendo los ojos sin moverse.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos abiertos, la ceja, la penumbra de la sala
+- **ACCION:** despierta sin gastar un solo gesto de más.
+- **GUTTER ABAJO:** 35
+
+**V6.** Plano medio. El altavoz de la sala, encendido siempre, con la voz lejana y de piedra del compañero de turno al otro lado:
+> **Voz de radio:** —Ninguna estructura inferior. Repetimos.
+- **PLANO:** medio
+- **COMPOSICION:** el altavoz en la pared, el reflejo de la placa de siete marcas
+- **ACCION:** la frase que viene cada noche, dicha como si se leyera un parte.
+- **GUTTER ABAJO:** 35
+
+### S05 · T2R · 1 viñeta de 1200
+
+**V7.** Plano medio. Futaki se sentó despacio, se subió los auriculares un segundo, los dejó otra vez. No se ha girado todavía hacia el cuadro. La voz termina la frase:
+> **Voz de radio:** —Ninguna estructura inferior en la provincia de Kanto.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki de espaldas, los auriculares a medio subir, el altavoz
+- **ACCION:** la frase completa, recibida desde la cama de la silla.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S06 · T3R · 2 viñetas de 570
+
+**V8.** Primer plano. Futaki, mirando el cuadro de la pared, la voz muy baja, sola en la sala:
+> **Futaki Saeri:** —Ni en Tokio.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro de Futaki, la mirada arriba, hacia el muro
+- **ACCION:** lo único que le sale decir a las cinco de la mañana.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V9.** Plano medio. El cuadro empezó a apagarse. No todos a la vez, ni en orden, ni con prisa.
+> **Caja:** Se apagaron como se apagan las luces de una calle cuando la calle ya no necesita ver.
+- **PLANO:** medio
+- **COMPOSICION:** la placa, los puntos muriendo de izquierda a derecha
+- **ACCION:** la primera marca cae sin que nadie la toque. **SFX:** *clac*
+- **GUTTER ABAJO:** 40
+
+### S07 · T4R · 3 viñetas de 380
+
+**V10.** Detalle. Un punto más se apaga, seco, sobre la placa blanca. Quedan cinco.
+- **PLANO:** detalle
+- **COMPOSICION:** la placa a contraluz, el punto muerto, el papelito que se queda
+- **ACCION:** el conteo sigue aunque nadie lo pida. **SFX:** *clac*
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V11.** Primerísimo. La boca del altavoz, contando como si contara muertos:
+> **Altavoz de la sala:** —Uno. Dos. Tres.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la rejilla del altavoz, la sombra sobre el muro
+- **ACCION:** el aparato sigue la cuenta por ella.
+- **GUTTER ABAJO:** 35
+
+**V12.** Plano medio. Futaki, quieta en la silla, sin volver la cabeza, oyendo los últimos números:
+> **Altavoz de la sala:** —Cuatro, cinco, seis. Siete.
+> **Caja:** Los siete puntos se apagaron.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki sentada, la placa apagada detrás de ella
+- **ACCION:** el final del conteo. Después, la sala se queda en silencio.
+- **GUTTER ABAJO:** 35
+
+### S08 · T3R · 2 viñetas de 570
+
+**V13.** Plano general. Y un octavo punto se encendió. Solo, en el muro, encendido, como un ojo que se abre en una cara que a nadie se le había ocurrido que tuviera cara.
+- **PLANO:** general
+- **COMPOSICION:** la placa con siete muertos y uno vivo, la sala pequeña debajo
+- **ACCION:** el altavoz dejó de contar. **SFX:** *tono seco*
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V14.** Primerísimo. Futaki mira el octavo el tiempo justo para saber que no era un error: no lleva papelito, no tiene número debajo, no está en el plano.
+> **Caja:** Estaba solo, en el muro, encendido. La sala quedó en silencio.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el reflejo del punto octavo en los ojos de Futaki
+- **ACCION:** en ese silencio se pone de pie, y va a la ventana.
+- **GUTTER ABAJO:** 40
+
+### BLOQUE B — EL RECTÁNGULO (S09–S13, 04:58, gutter 190 abierto)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S09 | T2R | 1 | 1060 | 190/30 | general | CORTE A: ventana | La frente en el cristal. El techo del mundo. |
+| S10 | T3R | 2 | 430/430 | 115/190/115 | general/detalle | CORTE A: ventana | Un rectángulo negro sin borde. |
+| S11 | T4R | 3 | 300/300/300 | 90/100/100/90 | primerísimo/medio/detalle | CORTE A: ventana | El altavoz vuelve a contar. |
+| S12 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: ventana | **Viñeta de silencio T5.** Un punto encendido en el muro. |
+| S13 | T3R | 2 | 430/430 | 115/190/115 | medio/general | CORTE A: ventana | La tabla desactualizada. No sabe qué número ponerle. |
+
+**Total bloque B: 5 pantallas · 9 viñetas · 6.400 px**
+
+## Las viñetas del bloque B
+
+### S09 · T2R · 1 viñeta de 1060 (gutter abierto)
+
+**V15.** Plano general. Futaki, de pie, la frente pegada al cristal de la ventana del pasillo. Fuera, todo el techo: un rectángulo negro que le toca el horizonte.
+> **Caja:** No era el hueco del Sector 6, que era una puerta entre dos paredes. Esto era todo el techo.
+- **PLANO:** general
+- **COMPOSICION:** la silueta de Futaki contra el cristal, el rectángulo que llena la ventana
+- **ACCION:** el mundo mirado desde abajo y sin techo.
+- **GUTTER ARRIBA:** 190 · **GUTTER ABAJO:** 30
+
+### S10 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V16.** Plano general. Arriba del mar, el rectángulo: perfecto, sin un borde visible, como si al mundo le hubieran puesto una tapa que todavía no ha bajado del todo.
+> **Caja:** No tenía luces. No tenía nubes. No tenía cielo.
+- **PLANO:** general
+- **COMPOSICION:** el mar quieto abajo, el rectángulo negro arriba, sin costura entre los dos
+- **ACCION:** la tapa a medio bajar.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V17.** Detalle. La mano de Futaki apoyada en el cristal, los dedos sobre el frío, el reflejo del rectángulo sobre la piel.
+- **PLANO:** detalle
+- **COMPOSICION:** la mano, el cristal, el reflejo negro
+- **ACCION:** tocar lo que no tiene borde.
+- **GUTTER ABAJO:** 115
+
+### S11 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V18.** Primerísimo. La frente de Futaki contra el cristal, el aliento empañando un palmo que se borra enseguida.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la ceja, el vapor, la línea negra al fondo
+- **ACCION:** no se ha girado hacia el cuadro ni una vez.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V19.** Plano medio. El altavoz de la sala vuelve a sonar: un tono, otro, otra vez el conteo.
+> **Altavoz de la sala:** —Uno. Dos.
+- **PLANO:** medio
+- **COMPOSICION:** el altavoz, la placa apagada debajo, la sala vacía
+- **ACCION:** la cuenta empieza de cero, sin que nadie la ordene. **SFX:** *tono seco*
+- **GUTTER ABAJO:** 100
+
+**V20.** Detalle. En el muro, la placa de siete marcas muertas y un único punto encendido, desenfocado, detrás de la cabeza de Futaki.
+- **PLANO:** detalle
+- **COMPOSICION:** el punto vivo, la placa sin números, el pelo de Futaki al borde
+- **ACCION:** el octavo sigue ahí, sin papelito.
+- **GUTTER ABAJO:** 90
+
+### S12 · T5 · 1 viñeta de 260 (silencio)
+
+**V21.** Franja de silencio. La sala entera, apagada, con un solo punto de luz en el muro. Nadie se ha movido. **SFX:** *(silencio)*
+- **PLANO:** silencio
+- **COMPOSICION:** la franja horizontal de la sala, la placa, la oscuridad
+- **ACCION:** el momento en que el altavoz deja de contar y no lo reemplaza nada.
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 1020
+
+### S13 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V22.** Plano medio. Futaki, sin volver al cuadro, la frente en el cristal, los auriculares colgados del cuello.
+> **Caja:** La tabla de las siete puertas se había quedado desactualizada, y a Futaki Saeri le habían enseñado a actualizar las tablas.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki de perfil, el cristal, la penumbra de la sala
+- **ACCION:** se queda quieta porque no sabe qué hacer con un dato así.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V23.** Plano general. Ella, pequeña, contra el rectángulo que le toca el horizonte; detrás, el cuadro con un punto sin número.
+> **Caja:** No sabía qué número ponerle a un rectángulo que le tocaba el horizonte.
+- **PLANO:** general
+- **COMPOSICION:** la figura corta, la ventana enorme, el muro con la placa
+- **ACCION:** la auxiliar de archivo frente a un dato que no entra en la casilla.
+- **GUTTER ABAJO:** 115
+
+### BLOQUE C — LA CIUDAD COSTERA (S14–S21, 05:01, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S14 | T6 | 0 | — | rótulo | rótulo | CORTE A: ciudad | Rótulo: `05:01 · LA CIUDAD COSTERA`. |
+| S15 | T2R | 1 | 1200 | 40/40 | general | CORTE A: ciudad | El cielo cambió de color y no fue el amanecer. |
+| S16 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: ciudad | Seis huecos fuera del plano. El hombre del tejado. |
+| S17 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/medio/primerísimo | CORTE A: ciudad | Doce kaiyu, la misma marcha. Los gritos gastados. |
+| S18 | T3R | 2 | 570/570 | 40/60/40 | general/medio | CORTE A: ciudad | Las calles despiertas y vacías. La gente en los portales. |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: ciudad | El rojo pasa y no mira: "No me ve." |
+| S20 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: ciudad | Cuentan la columna. Siempre hacia el mar. |
+| S21 | T2R | 1 | 1200 | 40/40 | general | CORTE A: ciudad | El tanque vacío del día uno. Los dos soldados dormidos. |
+
+**Total bloque C: 8 pantallas · 14 viñetas · 10.240 px**
+
+## Las viñetas del bloque C
+
+### S14 · T6 · 0 viñetas · rótulo
+
+**RÓTULO.** Sobre negro, la misma letra seca de antes: `05:01 · LA CIUDAD COSTERA`. Sin viñetas.
+
+### S15 · T2R · 1 viñeta de 1200
+
+**V24.** Plano general. La ciudad costera. La gente se ha despertado por el mismo motivo por el que se despiertan las ciudades en las catástrofes: el cielo cambió de color y no fue el amanecer. En seis edificios, a la vez, seis huecos que no estaban en el plano, con luz de otro lado. **SFX:** *zumbido*
+> **Caja:** Se abrieron con una luz que no era de la mañana, y la gente entendió lo que la gente entiende siempre al final: que las puertas habían vuelto.
+- **PLANO:** general
+- **COMPOSICION:** los tejados, los seis huecos encendidos, el cielo que no amanece
+- **ACCION:** seis aperturas simultáneas, marcadas fuera de la ciudad.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S16 · T3R · 2 viñetas de 570
+
+**V25.** Plano medio. Ventanas encendidas de los seis edificios: gente en camisón, manos en el cristal, nadie baja todavía.
+- **PLANO:** medio
+- **COMPOSICION:** la fachada, las ventanas, las figuras pequeñas
+- **ACCION:** entender, otra vez, lo que ya se sabe.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V26.** Plano general. Desde un tejado, un hombre que se subió a ver qué pasaba se asoma a la barandilla y ve la columna de la calle de abajo.
+- **PLANO:** general
+- **COMPOSICION:** la barandilla, la cabeza del hombre, la calle hundida abajo
+- **ACCION:** el único que ha subido a mirar de cerca.
+- **GUTTER ABAJO:** 40
+
+### S17 · T4R · 3 viñetas de 380
+
+**V27.** Plano general. Doce kaiyu, de todos los colores, caminando todos en la misma dirección por la calle de abajo, sin prisa, sin mirarse, con la mismita marcha de los del primer día.
+- **PLANO:** general
+- **COMPOSICION:** la fila de doce desde arriba, la calle recta, los tejados enmarcando
+- **ACCION:** la columna avanza sin gastar un solo ruido.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V28.** Plano medio. El hombre detrás de la barandilla, quieto, con la boca cerrada. No gritó: los gritos se le habían gastado en los otros dos días.
+- **PLANO:** medio
+- **COMPOSICION:** el hombre, la barandilla, el hueco de la calle
+- **ACCION:** se queda detrás del hierro, contándolos.
+- **GUTTER ABAJO:** 35
+
+**V29.** Primerísimo. Los labios del hombre moviéndose, sin voz, cerrando la cuenta:
+> **Hombre del tejado:** —Doce.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca, la barbilla, el reflejo de la calle
+- **ACCION:** el número exacto, dicho para él solo.
+- **GUTTER ABAJO:** 35
+
+### S18 · T3R · 2 viñetas de 570
+
+**V30.** Plano general. Las calles despiertas y vacías a la vez. La gente sale de sus portales a mirar la columna pasar, con las manos a los costados, sin un solo grito.
+> **Caja:** Los civiles no huían. Todavía no. Huir ya no era un movimiento útil, y la ciudad lo sabía.
+- **PLANO:** general
+- **COMPOSICION:** los portales abiertos, las figuras quietas, la calle larga
+- **ACCION:** la primera cosa que se ahorraron en estos días: el grito.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V31.** Plano medio. Dos civiles al pie de un portal, mirando pasar la columna, uno hablando sin mover los labios casi:
+> **Civil del portal:** —Ya no sirve de nada huir.
+- **PLANO:** medio
+- **COMPOSICION:** los dos, el portal, la columna desenfocada al fondo
+- **ACCION:** la frase que la calle lleva dos días repitiéndose.
+- **GUTTER ABAJO:** 40
+
+### S19 · T4R · 3 viñetas de 380
+
+**V32.** Plano medio. Un rojo pasó junto a un portal, al nivel de la acera, grande, con la cabeza baja al mismo ángulo de siempre. No miró.
+- **PLANO:** medio
+- **COMPOSICION:** el rojo al borde del portal, la sombra del dintel, la acera
+- **ACCION:** sigue la marcha sin desviarse un grado.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V33.** Primerísimo. El civil, detrás del cristal del portal, con la mano en el marco, susurrando para no oírse:
+> **Civil del portal:** —No me ve.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo del civil, el cristal, la mancha roja al otro lado
+- **ACCION:** no es una pregunta ni una esperanza: es solo una descripción.
+- **GUTTER ABAJO:** 35
+
+**V34.** Detalle. El rojo sigue de largo, la cabeza baja. Detrás del portal, la cola de la columna sigue pasando, sin prisa.
+> **Caja:** El que se detiene a mirar, aquí, es humano. Y el civil era humano, y se detuvo a mirar, y el rojo siguió.
+- **PLANO:** detalle
+- **COMPOSICION:** las pisadas del rojo, el borde del portal, la fila que viene
+- **ACCION:** nadie se detiene de este lado de la línea.
+- **GUTTER ABAJO:** 35
+
+### S20 · T3R · 2 viñetas de 570
+
+**V35.** Plano medio. El civil se pone a contar, detrás del cristal. Detrás de él, en el portal de al lado, otro también. Los que nunca contaron hasta el final de una columna, contaron.
+- **PLANO:** medio
+- **COMPOSICION:** los dos contando, las bocas, la columna cruzando
+- **ACCION:** todos llegan a un número y levantan la cabeza.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V36.** Plano general. Los civiles, de pie en los portales, mirando el final de la columna huir hacia el fondo de la calle:
+> **Civil del portal:** —Van hacia el mar.
+> **Caja:** A los portales, esas mañanas, no llegaba nunca nadie con maleta: llegaba la columna.
+- **PLANO:** general
+- **COMPOSICION:** los portales en hileras, la calle recta, la columna en dirección al horizonte
+- **ACCION:** la dirección de todo, esta mañana también.
+- **GUTTER ABAJO:** 40
+
+### S21 · T2R · 1 viñeta de 1200
+
+**V37.** Plano general. La acera del hospital. El tanque vacío de la mañana del día uno sigue con la torreta apuntando al cielo abierto, donde ya no hay aviones. En la sombra de las cadenas, dos soldados dormidos, con las manos en los bolsillos y los fusiles colgados del cuello.
+> **Caja:** Como quien cuelga algo que ya no sirve para ahorrarse las manos.
+- **PLANO:** general
+- **COMPOSICION:** el tanque clavado, la torreta inútil, los dos cuerpos contra el muro
+- **ACCION:** la defensa de la ciudad, dormida desde el primer día.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### BLOQUE D — CATORCE (S22–S29, 05:04, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S22 | T2R | 1 | 1200 | 40/40 | general | CORTE A: reunión | Siete personas y un mapa. |
+| S23 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: reunión | La carpeta de Kurose. "¿Cuántas?" |
+| S24 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/primer plano | CORTE A: reunión | Nueve provincias. "Tokio no responde." |
+| S25 | T3R | 2 | 570/570 | 40/60/40 | general/medio | CORTE A: reunión | **V45 — SEGUNDO GANCHO:** "Yo tengo el número." |
+| S26 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/primerísimo/primerísimo | CORTE A: reunión | Kurose tiembla. "De las que se abren." |
+| S27 | T3R | 2 | 570/570 | 40/60/40 | detalle/primerísimo | CORTE A: reunión | Levanta la cara. "Catorce." |
+| S28 | T4R | 3 | 380/380/380 | 35/35/35/35 | primer plano/medio/detalle | CORTE A: reunión | "Y el país entero en silencio." |
+| S29 | T2R | 1 | 1200 | 40/40 | general | CORTE A: reunión | Suelta la carpeta. Nadie se sienta. |
+
+**Total bloque D: 8 pantallas · 17 viñetas · 10.240 px**
+
+## Las viñetas del bloque D
+
+### S22 · T2R · 1 viñeta de 1200
+
+**V38.** Plano general. La sala de reunión: la misma gente de siempre, que son siete personas y un mapa. La ventana del fondo da al cielo negro, y detrás de los siete el cielo se ve como el plano pintado detrás de una clase vacía.
+> **Caja:** Watanabe Raishirō, cincuenta y cuatro años, treinta y uno en el ejército, no estaba mirando el mapa.
+- **PLANO:** general
+- **COMPOSICION:** la mesa larga, los siete de pie, el mapa de la pared, la ventana negra
+- **ACCION:** nadie se ha sentado desde que empezó la madrugada.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S23 · T3R · 2 viñetas de 570
+
+**V39.** Plano medio. Watanabe, de pie, sin mirar a nadie. Delante de él, sobre la mesa, la carpeta de Kurose, abierta: la sala entera la ve y ninguno la toca, porque es la carpeta que nadie abría.
+- **PLANO:** medio
+- **COMPOSICION:** Watanabe, la carpeta abierta, las manos de los otros quietas
+- **ACCION:** el expediente que quedó sobre la mesa como una bomba apagada.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V40.** Primerísimo. La boca de Watanabe, la voz plana de quien lleva órdenes treinta y un años en los hombros:
+> **Watanabe Raishirō:** —¿Cuántas?
+- **PLANO:** primerísimo
+- **COMPOSICION:** la mandíbula, la barba cerrada, la sombra
+- **ACCION:** la primera palabra de la sala.
+- **GUTTER ABAJO:** 40
+
+### S24 · T4R · 3 viñetas de 380
+
+**V41.** Plano medio. El oficial de comunicaciones, joven, con el auricular prendido todavía, la otra mano sobre la consola:
+> **Oficial de comunicaciones:** —No se sabe. Hay comunicación con nueve provincias. Ninguna con claridad.
+- **PLANO:** medio
+- **COMPOSICION:** el oficial, el auricular, los botones apagados
+- **ACCION:** el parte de la noche dicho sin levantar la voz.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V42.** Primerísimo. Watanabe, sin mover la cabeza:
+> **Watanabe Raishirō:** —¿Y Tokio?
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Watanabe, la luz de la ventana en el iris
+- **ACCION:** la única pregunta que le queda.
+- **GUTTER ABAJO:** 35
+
+**V43.** Primer plano. El oficial, la mandíbula dura, sin apartar el auricular:
+> **Oficial de comunicaciones:** —Tokio no responde, general.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro joven, el auricular, el fondo de la sala en penumbra
+- **ACCION:** la frase que nadie quería decir en voz alta.
+- **GUTTER ABAJO:** 35
+
+### S25 · T3R · 2 viñetas de 570
+
+**V44.** Plano general. La sala no hizo ruido. Hasta eso llevaba tres días haciéndose notar: ya casi no hacía ruido ni cuando hablaban. Watanabe mira la carpeta y después el cielo negro de la ventana.
+> **Caja:** Estaba a punto de decir algo que no iba a ser una orden.
+- **PLANO:** general
+- **COMPOSICION:** Watanabe entre la carpeta y la ventana, los seis detrás inmóviles
+- **ACCION:** el general que no tiene una sola orden para esto.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V45.** Plano medio. Contra la pared, el hombre que lleva tres días sin decir nada, la cabeza baja: Kurose Ken, cincuenta y dos años, el silencioso, el de la carpeta. **SEGUNDO GANCHO.**
+> **Kurose Ken:** —Yo tengo el número.
+- **PLANO:** medio
+- **COMPOSICION:** Kurose solo contra el muro, los otros seis girándose en bloque
+- **ACCION:** por primera vez en tres días, habla.
+- **GUTTER ABAJO:** 40
+
+### S26 · T4R · 3 viñetas de 380
+
+**V46.** Plano general. Watanabe lo mira. La sala entera lo mira. Kurose no levanta la cabeza del todo: la tenía baja, como tenía baja la voz, como tenía baja la vida.
+> **Caja:** Pero temblaba de una manera que la sala no le había visto nunca.
+- **PLANO:** general
+- **COMPOSICION:** el círculo de miradas, Kurose pequeño contra el muro
+- **ACCION:** Kurose no temblaba delante de la gente: temblaba delante de los números.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V47.** Primerísimo. Watanabe, un paso hacia él:
+> **Watanabe Raishirō:** —¿Qué número?
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca de Watanabe, el cuello tenso
+- **ACCION:** la pregunta que la sala entera estaba haciendo sin abrir la boca.
+- **GUTTER ABAJO:** 35
+
+**V48.** Primerísimo. Kurose, la voz al nivel de las rodillas, las manos crispadas:
+> **Kurose Ken:** —De las que se abren. Todas a la vez.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la cara de Kurose, el temblor en el labio
+- **ACCION:** aclara el tipo de cuenta, no la cifra.
+- **GUTTER ABAJO:** 35
+
+### S27 · T3R · 2 viñetas de 570
+
+**V49.** Detalle. Las manos de Kurose, temblando sobre el borde de la carpeta; después, la cara levantándose por primera vez.
+> **Caja:** Hubo un silencio de los que la sala ya había dejado de tener.
+- **PLANO:** detalle
+- **COMPOSICION:** las manos, el papel, la luz de la lámpara
+- **ACCION:** el momento justo antes de la cifra.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V50.** Primerísimo. Kurose, mirando al suelo, con la boca quieta un instante antes de decirlo:
+> **Kurose Ken:** —Catorce.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Kurose, la ceja, la sombra
+- **ACCION:** la cifra, dicha una sola vez.
+- **GUTTER ABAJO:** 40
+
+### S28 · T4R · 3 viñetas de 380
+
+**V51.** Primer plano. El oficial de comunicaciones, sin apartarse del auricular, repitiendo la cifra para comprobar que la ha oído:
+> **Oficial de comunicaciones:** —Catorce puertas.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro del oficial, el auricular, la boca abierta
+- **ACCION:** la traducción inmediata del número.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V52.** Plano medio. Watanabe, muy despacio, con la voz del que cuenta un inventario que no le cabe en el uniforme:
+> **Watanabe Raishirō:** —Catorce puertas en el mundo. Y el país entero en silencio.
+- **PLANO:** medio
+- **COMPOSICION:** Watanabe de frente, la carpeta abierta debajo, la ventana negra detrás
+- **ACCION:** el general haciendo la cuenta completa en voz alta.
+- **GUTTER ABAJO:** 35
+
+**V53.** Detalle. El mapa de la pared: catorce puntos, todos encendidos, pintados con la misma tinta de siempre.
+> **Caja:** A esa hora, esa tinta ya no quería decir lo que quería decir la víspera.
+- **PLANO:** detalle
+- **COMPOSICION:** los catorce puntos, la tinta, el papel arrugado del mapa
+- **ACCION:** el plano oficial superado por la pared.
+- **GUTTER ABAJO:** 35
+
+### S29 · T2R · 1 viñeta de 1200
+
+**V54.** Plano general. Watanabe suelta la carpeta sobre la mesa. No la abrió. La sala sigue de pie: nadie se sentó, nadie se fue, y el general, con los hombros llenos de órdenes, se queda mirando el mapa de la pared.
+> **Caja:** El que tiene poder en el mapa no tiene poder contra un número.
+- **PLANO:** general
+- **COMPOSICION:** la carpeta caída, los siete de pie, el mapa con catorce puntos
+- **ACCION:** la orden que no llega, porque no existe.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### BLOQUE E — LA GUARDERÍA (S30–S45, 05:09–05:12, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S30 | T6 | 0 | — | rótulo | rótulo | CORTE A: guardería | Rótulo: `05:09 · CALLE DE LA GUARDERÍA`. |
+| S31 | T1 | 1 | 1280 | 0/0 | general | CORTE A: guardería | La puerta grande, abierta desde el día uno. |
+| S32 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: guardería | Sale una chica. No sale un kaiyu. |
+| S33 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/detalle/primerísimo | CORTE A: guardería | Cuatro kaiyu detrás. La calle sin ruido. |
+| S34 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: guardería | Se detiene a mirar el coche volcado. |
+| S35 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/detalle/primerísimo | CORTE A: guardería | Los kaiyu no se detienen. Ella sí. |
+| S36 | T3R | 2 | 570/570 | 40/60/40 | general/medio | CORTE A: guardería | Rika llega corriendo y se queda en seco. |
+| S37 | T4R | 3 | 380/380/380 | 35/35/35/35 | primerísimo/medio/primerísimo | CORTE A: guardería | "Mio." / "Mio. Soy yo." |
+| S38 | T3R | 2 | 570/570 | 40/60/40 | primerísimo/medio | CORTE A: guardería | "Rika." Sin girarse. |
+| S39 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/medio/detalle | CORTE A: guardería | La luz de otro lado la lee mal. |
+| S40 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: guardería | Goro sin guante. Ren con la amarilla. |
+| S41 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/primer plano | CORTE A: guardería | Yui: "¿Es tu hermana?" |
+| S42 | T3R | 2 | 570/570 | 40/60/40 | primerísimo/primerísimo | CORTE A: guardería | "Sí." |
+| S43 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/primerísimo | CORTE A: guardería | El rectángulo negro: "¿Lo ves?" / "Lo sé." |
+| S44 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: guardería | "Yo crucé una de esas." |
+| S45 | T2R | 1 | 1200 | 40/40 | general | CORTE A: guardería | La fila de cuatro. Nadie se acerca. |
+
+**Total bloque E: 16 pantallas · 34 viñetas · 20.480 px**
+
+## Las viñetas del bloque E
+
+### S30 · T6 · 0 viñetas · rótulo
+
+**RÓTULO.** Sobre negro, la misma letra: `05:09 · CALLE DE LA GUARDERÍA`. Sin viñetas.
+
+### S31 · T1 · 1 viñeta de 1280
+
+**V55.** Plano general. A cinco minutos de la base, la puerta grande de la guardería, la que se abrió la mañana del día uno, sigue abierta. No es un hueco del tamaño de los otros: alto como uno de esos edificios pequeños, con luz de otro lado.
+> **Caja:** Y no salió de él un kaiyu.
+- **PLANO:** general
+- **COMPOSICION:** la fachada de la guardería, el hueco enorme, la calle vacía delante
+- **ACCION:** la puerta esperando desde hace tres días. **SFX:** *zumbido*
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
+
+### S32 · T3R · 2 viñetas de 570
+
+**V56.** Plano medio. Salió una chica. Diecinueve años, un yukata gris, el pelo rojo suelto hasta la cintura. Sale andando como quien sale de su casa después de un viaje largo.
+- **PLANO:** medio
+- **COMPOSICION:** la chica en el umbral, la luz detrás, el pelo rojo sobre el gris
+- **ACCION:** sin mirar atrás, sin prisa, con la costumbre de la que ya sabe que las puertas la llaman por su nombre.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V57.** Plano medio. La chica avanzando por la calle, de espaldas todavía, el borde del yukata moviéndose con el paso. Detrás, en el hueco, la luz de otro lado que no se apaga.
+- **PLANO:** medio
+- **COMPOSICION:** la espalda, el hueco al fondo, la calle que se abre
+- **ACCION:** nadie la llama todavía.
+- **GUTTER ABAJO:** 40
+
+### S33 · T4R · 3 viñetas de 380
+
+**V58.** Plano general. Detrás de ella, en la misma calle, cuatro kaiyu siguen andando, cada uno con su marcha, en la misma dirección.
+- **PLANO:** general
+- **COMPOSICION:** la chica delante, los cuatro detrás, la calle en perspectiva
+- **ACCION:** la columna corta, sin prisa, sin mirarse.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V59.** Detalle. Los pies de la chica sobre el asfalto y, al fondo, los de los kaiyu: ninguno de los dos bandos levanta polvo.
+- **PLANO:** detalle
+- **COMPOSICION:** la acera, las sandalias de rejilla, las silueta al fondo
+- **ACCION:** a la chica no se la oía andar, y a ellos tampoco.
+- **GUTTER ABAJO:** 35
+
+**V60.** Primerísimo. La calle entera, quieta, entre la chica y los kaiyu.
+> **Caja:** Esa era la única ley que la calle andaba cumpliendo a esa hora: el silencio.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la línea central de la calle, los dos bandos, el vacío entre ellos
+- **ACCION:** nadie hace ruido porque nadie lo necesita.
+- **GUTTER ABAJO:** 35
+
+### S34 · T3R · 2 viñetas de 570
+
+**V61.** Plano medio. La chica se detiene en medio de la calle a mirar un coche volcado. Lo mira un momento, el tiempo de verlo.
+- **PLANO:** medio
+- **COMPOSICION:** la chica parada, el coche de ruedas al aire, la calle
+- **ACCION:** la primera parada de la mañana.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V62.** Primerísimo. La chica vuelve a mirar al frente, sin expresión, sin prisa, como si el coche volcado fuera un mueble de la calle.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos, la línea del horizonte, el pelo rojo
+- **ACCION:** mirar cosas y seguir.
+- **GUTTER ABAJO:** 40
+
+### S35 · T4R · 3 viñetas de 380
+
+**V63.** Plano general. Los cuatro kaiyu pasan de largo, sin detenerse, rectos, como líneas con dirección.
+> **Caja:** Los kaiyu no se detienen a mirar. Por eso lo que hizo ella era lo más terrible de todo.
+- **PLANO:** general
+- **COMPOSICION:** la columna pasando, la chica parada en el centro, el coche
+- **ACCION:** uno hace una cosa que los otros no pueden hacer.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V64.** Detalle. El borde de un kaiyu cruzando el encuadre, a la altura del hombro de la chica, sin que ella se aparte un centímetro.
+- **PLANO:** detalle
+- **COMPOSICION:** la masa que pasa, el hombro quieto, la distancia mínima
+- **ACCION:** ni el uno mira al otro.
+- **GUTTER ABAJO:** 35
+
+**V65.** Primerísimo. Los ojos de la chica, abiertos, mirando el coche volcado que ya no está en el encuadre.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos, la luz de otro lado reflejada en la córnea
+- **ACCION:** una cosa que ya no sabe a qué lado de la línea está.
+- **GUTTER ABAJO:** 35
+
+### S36 · T3R · 2 viñetas de 570
+
+**V66.** Plano general. Rika Tsukimi llega corriendo por la esquina, con el haori color hueso, sin aliento, y ve a la chica. Se la reconoce igual.
+- **PLANO:** general
+- **COMPOSICION:** la esquina, Rika a media carrera, la chica al fondo
+- **ACCION:** la única prenda clara de la página entrando de golpe.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V67.** Plano medio. Rika se queda en seco en medio de la calle, con las manos colgadas, sin soltar el aire. Quince años, y hace nueve que no la ve.
+- **PLANO:** medio
+- **COMPOSICION:** Rika parada, las manos caídas, la distancia hasta la chica
+- **ACCION:** el cuerpo entero frenando antes que la voz.
+- **GUTTER ABAJO:** 40
+
+### S37 · T4R · 3 viñetas de 380
+
+**V68.** Primerísimo. Rika, a tres pasos, hablando por primera vez en nueve años con una persona a la que no le dio tiempo a despedirse:
+> **Rika Tsukimi:** —Mio.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca de Rika, la ceja, la mirada clavada al frente
+- **ACCION:** un susurro que no fue un susurro.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V69.** Plano medio. La chica no se giró. Sigue de pie en la calle, a la altura del coche volcado, la espalda quieta.
+- **PLANO:** medio
+- **COMPOSICION:** la espalda de la chica, Rika al borde del encuadre
+- **ACCION:** ni un gesto.
+- **GUTTER ABAJO:** 35
+
+**V70.** Primerísimo. Rika, otra vez, la voz ya quebrada al final de la frase:
+> **Rika Tsukimi:** —Mio. Soy yo.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el rostro de Rika, el temblor del labio inferior
+- **ACCION:** a los quince años el cuerpo sabe el final de las frases antes de decirlas. **SFX:** *latido*
+- **GUTTER ABAJO:** 35
+
+### S38 · T3R · 2 viñetas de 570
+
+**V71.** Primerísimo. La chica, sin girarse, la voz plana, desde el mismo sitio donde estaba:
+> **Mio Tsukimi:** —Rika.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la nuca de la chica, el pelo rojo, la boca casi de perfil
+- **ACCION:** le contesta sin volver la cara.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V72.** Plano medio. Rika, quieta, sin dar un paso más. La chica sigue de espaldas, a la altura del coche.
+> **Caja:** Eso fue todo. La hermana de Rika tenía diecinueve años y debería ser mayor.
+- **PLANO:** medio
+- **COMPOSICION:** las dos figuras separadas por el asfalto, ninguna girada
+- **ACCION:** nueve años resueltos en dos palabras.
+- **GUTTER ABAJO:** 40
+
+### S39 · T4R · 3 viñetas de 380
+
+**V73.** Plano general. En el hueco de la guardería, al fondo, la luz de otro lado hace que la chica se lea como se lee una foto que no va a salir bien: de espaldas, retratada por el borde de la puerta, perdiéndose.
+> **Caja:** Debería ser mayor de lo que Rika recuerda, mayor de lo que nadie puede ser si no vuelve a envejecer.
+- **PLANO:** general
+- **COMPOSICION:** el hueco, la silueta encajada en el marco, la luz falsa
+- **ACCION:** la puerta enmarcándola como un recuerdo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V74.** Plano medio. Rika a tres pasos de su hermana, con los pies clavados, la mano a media altura, sin acercarse.
+- **PLANO:** medio
+- **COMPOSICION:** Rika, el paso que no da, la distancia exacta
+- **ACCION:** querer acercarse y no poder todavía.
+- **GUTTER ABAJO:** 35
+
+**V75.** Detalle. La mano de Rika a la altura de la cadera, con las vendas blancas del antebrazo asomando bajo el haori hueso.
+- **PLANO:** detalle
+- **COMPOSICION:** la mano abierta, la venda, el borde de la prenda clara
+- **ACCION:** la mano que no se levanta.
+- **GUTTER ABAJO:** 35
+
+### S40 · T3R · 2 viñetas de 570
+
+**V76.** Plano medio. Goro Arashi llega por la esquina con el escudo en la mano, sin el guante errante que se había dejado la noche anterior, con la cara todavía de la noche anterior:
+> **Goro Arashi:** —Rika.
+- **PLANO:** medio
+- **COMPOSICION:** Goro en la esquina, el escudo bajo el brazo, la muñeca sin guante
+- **ACCION:** llega el más pesado de los cuatro y frena al ver la escena.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V77.** Plano medio. Ren Hayashi entra detrás con la amarilla, las manos quietas sobre los costados, los ojos en la chica. Las vendas en las muñecas.
+- **PLANO:** medio
+- **COMPOSICION:** Ren, el amarillo saturado, las manos quietas
+- **ACCION:** por segunda vez en el día, quieto delante de algo que no entiende.
+- **GUTTER ABAJO:** 40
+
+### S41 · T4R · 3 viñetas de 380
+
+**V78.** Plano medio. Yui Nakamura llega con el rifle gris azulado, bajito, despacio, y ve a Rika, y ve a la chica, y entiende lo que entienden todos los que se cruzan con una mujer a la que le sobra la edad.
+- **PLANO:** medio
+- **COMPOSICION:** Yui con el rifle bajo, Rika al fondo, la chica de espaldas
+- **ACCION:** la única que calcula antes de hablar.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V79.** Primerísimo. Yui, la voz medida, mirando a Rika y no a la chica:
+> **Yui Nakamura:** —Rika. ¿Es ella?
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca de Yui, la mirada desviada hacia Rika
+- **ACCION:** la pregunta que hay que hacer en voz baja.
+- **GUTTER ABAJO:** 35
+
+**V80.** Primer plano. Rika no contestó. Sigue mirando a la chica, la mandíbula apretada.
+- **PLANO:** primer plano
+- **COMPOSICION:** el perfil de Rika, la mirada clavada, la boca cerrada
+- **ACCION:** la respuesta que todavía no puede dar delante de ella.
+- **GUTTER ABAJO:** 35
+
+### S42 · T3R · 2 viñetas de 570
+
+**V81.** Primerísimo. Yui, un paso más cerca, bajando la voz otra vez:
+> **Yui Nakamura:** —Rika. ¿Es tu hermana?
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Yui, la insistencia sin prisa
+- **ACCION:** la misma pregunta, dicha entera.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V82.** Primerísimo. Rika, sin apartar la vista de la chica:
+> **Rika Tsukimi:** —Sí.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo de Rika, la lágrima que no baja
+- **ACCION:** una sílaba para nueve años.
+- **GUTTER ABAJO:** 40
+
+### S43 · T4R · 3 viñetas de 380
+
+**V83.** Plano medio. Yui se levantó la mano despacio, apuntando al hueco de la guardería, al rectángulo negro que se ve detrás de la chica:
+> **Yui Nakamura:** —Ese rectángulo negro. ¿Lo ves?
+- **PLANO:** medio
+- **COMPOSICION:** el brazo de Yui, la flecha de la mano, el rectángulo al fondo
+- **ACCION:** nombrar lo que los cuatro están mirando desde hace un minuto.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V84.** Primerísimo. Rika, al fin girando la cabeza hacia Yui, una sola palabra:
+> **Rika Tsukimi:** —Sí.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el rostro de Rika girándose, el reflejo negro en el ojo
+- **ACCION:** mirar el rectángulo por primera vez sin miedo de lo que ve.
+- **GUTTER ABAJO:** 35
+
+**V85.** Primerísimo. Yui, sin bajar la mano:
+> **Yui Nakamura:** —Es una puerta.
+> **Rika Tsukimi:** —Lo sé.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los dos rostros a contraluz, la mano aún levantada
+- **ACCION:** las dos saben lo que eso significa y las dos lo dicen.
+- **GUTTER ABAJO:** 35
+
+### S44 · T3R · 2 viñetas de 570
+
+**V86.** Plano medio. Goro, detrás, miró el hueco. Miró el guante que ya no tenía en la muñeca. Miró a Rika.
+> **Goro Arashi:** —Yo crucé una de esas.
+- **PLANO:** medio
+- **COMPOSICION:** Goro, la muñeca desnuda, el hueco entre los dos
+- **ACCION:** la experiencia que él también tiene, dicha sin jactancia.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V87.** Primerísimo. Rika, sin volverse, corrigiéndolo con la voz quieta:
+> **Rika Tsukimi:** —No. Tú saliste de ella.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el perfil de Rika, la corrección seca
+- **ACCION:** la diferencia entre entrar y salir, hecha en seis palabras.
+- **GUTTER ABAJO:** 40
+
+### S45 · T2R · 1 viñeta de 1200
+
+**V88.** Plano general. Ninguno de los cuatro se acercó. Ninguno se fue. Una fila de cuatro a lo largo de la acera de la guardería, mirando al hueco como se mira una cuenta larga, sin técnicas todavía, sin ninguna hoja en la mano: el escudo de Goro apoyado contra la pierna, el rifle de Yui rozando el chaleco. Al fondo, en medio de la calle, la hermana de Rika sigue de pie ante el coche volcado, esperando no se sabe qué.
+> **Caja:** Sin técnicas todavía. Sin ninguna hoja en la mano.
+- **PLANO:** general
+- **COMPOSICION:** la fila de cuatro sobre la acera, la chica sola en el centro de la calle
+- **ACCION:** los cuatro frente a una cuenta que acaba de empezar.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### BLOQUE F — EL CIELO SE CIERRA (S46–S60, 05:13, gutter 190 abierto)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S46 | T6 | 0 | — | rótulo | rótulo | CORTE A: cielo | Rótulo: `05:13 · EL CIELO SE CIERRA`. |
+| S47 | T3R | 2 | 430/430 | 115/190/115 | general/medio | CORTE A: cielo | Empieza a cerrarse. Como una tapa. |
+| S48 | T4R | 3 | 300/300/300 | 90/100/100/90 | general/medio/detalle | CORTE A: cielo | Catorce puertas haciéndose pequeñas. Los kaiyu paran. |
+| S49 | T3R | 2 | 430/430 | 115/190/115 | general/medio | CORTE A: ciudad | La columna se para en la acera. |
+| S50 | T4R | 3 | 300/300/300 | 90/100/100/90 | primerísimo/primerísimo/medio | CORTE A: cielo | Ren: "Se van. Todos se van." |
+| S51 | T3R | 2 | 430/430 | 115/190/115 | medio/primerísimo | CORTE A: cielo | Mio, en el borde, sin salir. |
+| S52 | T4R | 3 | 300/300/300 | 90/100/100/90 | detalle/primerísimo/primerísimo | CORTE A: cielo | Los pies de Rika no la obedecen. |
+| S53 | T3R | 2 | 430/430 | 115/190/115 | general/medio | CORTE A: cielo | Se cierra en cuatro minutos. |
+| S54 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: cielo | **Viñeta de silencio T5.** La línea se apaga. |
+| S55 | T3R | 2 | 430/430 | 115/190/115 | medio/general | CORTE A: guardería | Rika levanta la mano al aire. |
+| S56 | T4R | 3 | 300/300/300 | 90/100/100/90 | detalle/general/medio | CORTE A: guardería | La cuenta cerrada. Nadie la toca. |
+| S57 | T3R | 2 | 430/430 | 115/190/115 | medio/primerísimo | CORTE A: guardería | "Mio." Y la hermana ya se fue. |
+| S58 | T4R | 3 | 300/300/300 | 90/100/100/90 | general/medio/detalle | CORTE A: radio | CORTE A: la sala de radio, a un kilómetro. |
+| S59 | T4R | 3 | 300/300/300 | 90/100/100/90 | detalle/medio/primerísimo | CORTE A: radio | La chincheta de más andar: "no está en el plano". |
+| S60 | T2R | 1 | 1060 | 190/30 | general | FUNDIDO A: negro | Cierre (E). El octavo punto, sin número. |
+
+**Total bloque F: 15 pantallas · 32 viñetas · 19.200 px**
+
+**Total capítulo: 60 pantallas · 120 viñetas · 76.800 px**
+
+---
+
+## Las viñetas del bloque F
+
+### S46 · T6 · 0 viñetas · rótulo
+
+**RÓTULO.** Sobre negro, la misma letra de siempre: `05:13 · EL CIELO SE CIERRA`. Sin viñetas.
+
+### S47 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V89.** Plano general. El cielo empezó a cerrarse. No se cerró como se cierra una puerta: se cerró como se cierra una tapa.
+> **Caja:** El negro bajó desde los bordes del rectángulo, despacio, en silencio.
+- **PLANO:** general
+- **COMPOSICION:** el rectángulo negro, los bordes comiéndose hacia dentro, la calle abajo
+- **ACCION:** el mundo reduciéndose desde los cuatro extremos.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V90.** Plano medio. En la calle de la guardería, el hueco se achica un palmo mientras los cuatro miran sin moverse.
+- **PLANO:** medio
+- **COMPOSICION:** la fila de cuatro, el hueco que encoge, la luz que se estrecha
+- **ACCION:** todos a la vez, sin aviso.
+- **GUTTER ABAJO:** 115
+
+### S48 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V91.** Plano general. Las catorce puertas del mundo empezaron a hacerse pequeñas a la vista, como se hacen pequeñas las cosas a las que uno empieza a renunciar.
+- **PLANO:** general
+- **COMPOSICION:** la línea del horizonte, los rectángulos encogiéndose, el cielo pesando
+- **ACCION:** el mapa entero reduciéndose en cuatro minutos.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V92.** Plano medio. Los kaiyu que venían por la acera se detuvieron. Todos, a la vez, como si alguien hubiera dicho una orden que no era para los humanos.
+- **PLANO:** medio
+- **COMPOSICION:** la fila clavada en seco, la acera, la sombra quieta
+- **ACCION:** primera parada real de la mañana. **SFX:** *(silencio)*
+- **GUTTER ABAJO:** 100
+
+**V93.** Detalle. Un kaiyu inmóvil a la altura del portal, la cabeza baja al mismo ángulo de siempre, sin avanzar ni un centímetro.
+- **PLANO:** detalle
+- **COMPOSICION:** la silueta helada, el borde del portal, la línea de la acera
+- **ACCION:** la marcha cancelada sin gesto alguno.
+- **GUTTER ABAJO:** 90
+
+### S49 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V94.** Plano general. En la ciudad, la columna se detuvo en medio de la acera. Los civiles que la miraban desde los portales lo vieron.
+- **PLANO:** general
+- **COMPOSICION:** la columna parada en cruz, los portales, las figuras asomadas
+- **ACCION:** la misma orden, a un kilómetro de distancia.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V95.** Plano medio. Todos parados en medio de la acera, quietos, como las agujas de un reloj que ha acabado de dar la hora.
+> **Caja:** Ninguno se lo explicó. Solo se pararon, todos, a la vez.
+- **PLANO:** medio
+- **COMPOSICION:** las figuras detenidas, la calle, el cielo que encoge
+- **ACCION:** la ciudad entera conteniendo la respiración.
+- **GUTTER ABAJO:** 115
+
+### S50 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V96.** Primerísimo. Ren, con las manos quietas por segunda vez en el día, mirando el hueco:
+> **Ren Hayashi:** —Se van.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Ren, las vendas, el reflejo del hueco
+- **ACCION:** el que sabe lo que pasa entre momentos nombrándolo primero.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V97.** Primerísimo. Goro, sin entender todavía, la cabeza girada hacia Ren:
+> **Goro Arashi:** —¿Qué?
+- **PLANO:** primerísimo
+- **COMPOSICION:** la mandíbula de Goro, la sorpresa quieta
+- **ACCION:** la pregunta más corta de la mañana.
+- **GUTTER ABAJO:** 100
+
+**V98.** Plano medio. Ren mira el hueco, que ya era pequeño, y se repite la palabra para los otros tres:
+> **Ren Hayashi:** —Se van. Todos se van.
+- **PLANO:** medio
+- **COMPOSICION:** Ren de perfil, el hueco casi cerrado, los otros tres al borde
+- **ACCION:** la frase que explica la mañana entera.
+- **GUTTER ABAJO:** 90
+
+### S51 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V99.** Plano medio. El hueco de la guardería quedó del tamaño de una puerta normal. Mio está dentro, de espaldas, en el borde, sin salir.
+- **PLANO:** medio
+- **COMPOSICION:** el marco estrecho, la figura recortada, la luz que se apaga
+- **ACCION:** en el umbral, sin cruzar.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V100.** Primerísimo. Rika, en la calle, sintió que los pies no la obedecen. No se mueve ni un centímetro.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el rostro de Rika, la mirada al hueco, la mandíbula
+- **ACCION:** el cuerpo frenando antes que la mente.
+- **GUTTER ABAJO:** 115
+
+### S52 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V101.** Detalle. Los pies de Rika en la acera, clavados, las sandalias de rejilla sin despegarse del asfalto.
+> **Caja:** No era miedo. Miedo ya no le quedaba.
+- **PLANO:** detalle
+- **COMPOSICION:** los pies, la línea de la acera, la sombra quieta
+- **ACCION:** el cuerpo diciendo que no.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V102.** Primerísimo. Rika, mirando el hueco, la mano a medio levantar, temblando sin saber por qué.
+> **Caja:** Que no cruce. Que todavía no puede cruzar. Que la puerta no es para ella todavía.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, la mano a medio camino, el borde del marco
+- **ACCION:** una orden del cuerpo sin remitente.
+- **GUTTER ABAJO:** 100
+
+**V103.** Primerísimo. Rika, sin entender su propia quietud.
+> **Caja:** Lo supo el lector de lo que viene. Pero ella no.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la cara de Rika, la ceja fruncida, el reflejo que se cierra
+- **ACCION:** saber que algo en los hombros le dice no, sin poder nombrarlo.
+- **GUTTER ABAJO:** 90
+
+### S53 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V104.** Plano general. El cielo se cerró en cuatro minutos. El hueco de la guardería quedó en una línea.
+> **Caja:** El cielo se cerró en cuatro minutos.
+- **PLANO:** general
+- **COMPOSICION:** la línea fina de luz, el muro, los cuatro de espaldas
+- **ACCION:** la cuenta atrás terminada.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V105.** Plano medio. La línea se apagó, y el viento volvió a bailar por la calle como si nunca hubiera faltado. **SFX:** *fro*
+- **PLANO:** medio
+- **COMPOSICION:** la calle sin línea, el pelo rojo de Rika moviéndose, el haori
+- **ACCION:** lo único que queda en movimiento.
+- **GUTTER ABAJO:** 115
+
+### S54 · T5 · 1 viñeta de 260 (silencio)
+
+**V106.** Franja de silencio. La calle de la guardería, vacía, sin línea de luz, sin borde. **SFX:** *(silencio)*
+- **PLANO:** silencio
+- **COMPOSICION:** la franja horizontal de la acera, el asfalto, el muro sin hueco
+- **ACCION:** el sitio donde estaba la puerta, ahora solo calle.
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 1020
+
+### S55 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V107.** Plano medio. Rika levantó una mano al aire, contra el aire, donde ya no había nada que ver.
+- **PLANO:** medio
+- **COMPOSICION:** la mano abierta, el vacío delante, el haori moviéndose
+- **ACCION:** agarrar una puerta que ya no está.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V108.** Plano general. Los otros tres se quedaron quietos detrás de ella, en fila, sin tocarla.
+> **Caja:** Porque ninguno sabía qué mano echarle a una cuenta que se acababa de cerrar.
+- **PLANO:** general
+- **COMPOSICION:** la fila de cuatro, la acera vacía, el cielo que ya no tiene rectángulo
+- **ACCION:** quedarse sin saber qué se dice en este momento.
+- **GUTTER ABAJO:** 115
+
+### S56 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V109.** Detalle. La mano de Rika en el aire, sin nada que agarrar, los dedos cerrándose sobre el vacío.
+- **PLANO:** detalle
+- **COMPOSICION:** los dedos, el aire, el fondo desenfocado de la calle
+- **ACCION:** el gesto que se queda sin objeto.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V110.** Plano general. Los cuatro, un rato, en la acera vacía de la guardería, con el día amaneciendo encima.
+> **Caja:** Con el día amaneciendo encima y el rectángulo negro ya solo un recuerdo sin borde.
+- **PLANO:** general
+- **COMPOSICION:** la acera, los cuatro de espaldas, la luz gris de la mañana
+- **ACCION:** nadie se mueve todavía.
+- **GUTTER ABAJO:** 100
+
+**V111.** Plano medio. La fachada de la guardería, con el hueco reducido a nada: pared, pintura, una raya vieja donde no había puerta.
+- **PLANO:** medio
+- **COMPOSICION:** el muro, la raya, la sombra del alero
+- **ACCION:** el sitio donde estuvo lo que no estaba en el plano.
+- **GUTTER ABAJO:** 90
+
+### S57 · T3R · 2 viñetas de 430 (gutter abierto)
+
+**V112.** Plano medio. Rika, todavía con la mano levantada, llamando a la calle vacía:
+> **Rika Tsukimi:** —Mio.
+- **PLANO:** medio
+- **COMPOSICION:** la espalda de Rika, la mano en alto, la calle sin respuesta
+- **ACCION:** la segunda llamada, sin nadie al otro lado.
+- **GUTTER ARRIBA:** 115 · **GUTTER ABAJO:** 190
+
+**V113.** Primerísimo. Yui, con el rifle bajo, mirando el sitio donde desapareció la hermana de Rika.
+> **Caja:** La hermana de Rika se había ido con la última luz de las puertas.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos de Yui, el mono alto, la luz gris
+- **ACCION:** contener lo que hay que decir ahora.
+- **GUTTER ABAJO:** 115
+
+### S58 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V114.** Plano general. Los cuatro de espaldas, todavía en la acera, la mañana subiendo sobre los tejados.
+> **Caja:** Ninguno de ellos sabía todavía por qué se les habían quedado quemaduras en las manos, ni quién había firmado la orden de no avisar.
+- **PLANO:** general
+- **COMPOSICION:** las cuatro siluetas, la acera, los tejados encendidos
+- **ACCION:** las preguntas que todavía no se han hecho.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V115.** Plano medio. CORTE A: la sala de radio, a un kilómetro de allí. Futaki vuelve a sentarse ante el cuadro de los puntos apagados.
+> **Caja:** Ni por qué el número catorce iba a querer decir algo más que una cuenta.
+- **PLANO:** medio
+- **COMPOSICION:** Futaki en la silla, el cuadro, la luz de la ventana
+- **ACCION:** la auxiliar de archivo volviendo a su puesto.
+- **GUTTER ABAJO:** 100
+
+**V116.** Detalle. El cuadro: siete marcas muertas, los números debajo, los papelitos viejos y, arriba del todo, un punto encendido sin número.
+- **PLANO:** detalle
+- **COMPOSICION:** la placa, los siete apagados, el octavo vivo
+- **ACCION:** el octavo sigue encendido desde hace veintiún minutos.
+- **GUTTER ABAJO:** 90
+
+### S59 · T4R · 3 viñetas de 300 (gutter abierto)
+
+**V117.** Detalle. La mano de Futaki cogiendo una chincheta de más andar del cajón, una de las que se clavan con dos dedos.
+- **PLANO:** detalle
+- **COMPOSICION:** los dedos, la chincheta, el cajón abierto
+- **ACCION:** buscar la herramienta exacta para un dato que no tiene casilla.
+- **GUTTER ARRIBA:** 90 · **GUTTER ABAJO:** 100
+
+**V118.** Plano medio. Futaki se levanta y le clava la chincheta al octavo punto, sin número debajo, sin papelito viejo. **SFX:** *clac*
+- **PLANO:** medio
+- **COMPOSICION:** la mano arriba, la placa, Futaki de perfil
+- **ACCION:** actualizar la tabla con lo único que hay.
+- **GUTTER ABAJO:** 100
+
+**V119.** Primerísimo. Un papelito nuevo, prendido con la chincheta, con la letra pequeña de los auxiliares: *no está en el plano.*
+- **PLANO:** primerísimo
+- **COMPOSICION:** el papel, la chincheta, la letra menuda
+- **ACCION:** la anotación que cierra el capítulo. **SFX:** *clac*
+- **GUTTER ABAJO:** 90
+
+### S60 · T2R · 1 viñeta de 1060 (gutter abierto)
+
+**V120.** Plano general. La sala de radio, la ventana con el mar quieto y negro, la silla y el cuadro con un punto sin número. Futaki, sentada, mirándolo.
+> **Caja:** En el mundo, había más.
+- **PLANO:** general
+- **COMPOSICION:** la sala pequeña, la ventana enorme, el punto encendido en el muro
+- **ACCION:** **FUNDIDO A: negro.** El capítulo se cierra donde empezó: en la sala que nunca se apaga.
+- **GUTTER ARRIBA:** 190 · **GUTTER ABAJO:** 30
+
+**FIN DEL CAPÍTULO 6.**
+
+---
+## LOS TEXTOS
+
+### Globos de diálogo (37)
+
+| Viñeta | Quién | Texto |
+|---|---|---|
+| V6 | Voz de radio | Ninguna estructura inferior. Repetimos. |
+| V7 | Voz de radio | Ninguna estructura inferior en la provincia de Kanto. |
+| V8 | Futaki Saeri | Ni en Tokio. |
+| V11 | Altavoz de la sala | Uno. Dos. Tres. |
+| V12 | Altavoz de la sala | Cuatro, cinco, seis. Siete. |
+| V19 | Altavoz de la sala | Uno. Dos. |
+| V29 | Hombre del tejado | Doce. |
+| V31 | Civil del portal | Ya no sirve de nada huir. |
+| V33 | Civil del portal | No me ve. |
+| V36 | Civil del portal | Van hacia el mar. |
+| V40 | Watanabe Raishirō | ¿Cuántas? |
+| V41 | Oficial de comunicaciones | No se sabe. Hay comunicación con nueve provincias. Ninguna con claridad. |
+| V42 | Watanabe Raishirō | ¿Y Tokio? |
+| V43 | Oficial de comunicaciones | Tokio no responde, general. |
+| V45 | Kurose Ken | Yo tengo el número. |
+| V47 | Watanabe Raishirō | ¿Qué número? |
+| V48 | Kurose Ken | De las que se abren. Todas a la vez. |
+| V50 | Kurose Ken | Catorce. |
+| V51 | Oficial de comunicaciones | Catorce puertas. |
+| V52 | Watanabe Raishirō | Catorce puertas en el mundo. Y el país entero en silencio. |
+| V68 | Rika Tsukimi | Mio. |
+| V70 | Rika Tsukimi | Mio. Soy yo. |
+| V71 | Mio Tsukimi | Rika. |
+| V76 | Goro Arashi | Rika. |
+| V79 | Yui Nakamura | Rika. ¿Es ella? |
+| V81 | Yui Nakamura | Rika. ¿Es tu hermana? |
+| V82 | Rika Tsukimi | Sí. |
+| V83 | Yui Nakamura | Ese rectángulo negro. ¿Lo ves? |
+| V84 | Rika Tsukimi | Sí. |
+| V85 | Yui Nakamura | Es una puerta. |
+| V85 | Rika Tsukimi | Lo sé. |
+| V86 | Goro Arashi | Yo crucé una de esas. |
+| V87 | Rika Tsukimi | No. Tú saliste de ella. |
+| V96 | Ren Hayashi | Se van. |
+| V97 | Goro Arashi | ¿Qué? |
+| V98 | Ren Hayashi | Se van. Todos se van. |
+| V112 | Rika Tsukimi | Mio. |
+
+### Cajas de narración (38)
+
+| Viñeta | Texto |
+|---|---|
+| V1 | La base dormía de aquella manera rara de las bases: todo encendido a medias, todo despierto a medias. |
+| V3 | Siete puertas. Era lo que se sabía. En el mundo, había más. |
+| V9 | Se apagaron como se apagan las luces de una calle cuando la calle ya no necesita ver. |
+| V12 | Los siete puntos se apagaron. |
+| V14 | Estaba solo, en el muro, encendido. La sala quedó en silencio. |
+| V15 | No era el hueco del Sector 6, que era una puerta entre dos paredes. Esto era todo el techo. |
+| V16 | No tenía luces. No tenía nubes. No tenía cielo. |
+| V22 | La tabla de las siete puertas se había quedado desactualizada, y a Futaki Saeri le habían enseñado a actualizar las tablas. |
+| V23 | No sabía qué número ponerle a un rectángulo que le tocaba el horizonte. |
+| V24 | Se abrieron con una luz que no era de la mañana, y la gente entendió lo que la gente entiende siempre al final: que las puertas habían vuelto. |
+| V30 | Los civiles no huían. Todavía no. Huir ya no era un movimiento útil, y la ciudad lo sabía. |
+| V34 | El que se detiene a mirar, aquí, es humano. Y el civil era humano, y se detuvo a mirar, y el rojo siguió. |
+| V36 | A los portales, esas mañanas, no llegaba nunca nadie con maleta: llegaba la columna. |
+| V37 | Como quien cuelga algo que ya no sirve para ahorrarse las manos. |
+| V38 | Watanabe Raishirō, cincuenta y cuatro años, treinta y uno en el ejército, no estaba mirando el mapa. |
+| V44 | Estaba a punto de decir algo que no iba a ser una orden. |
+| V46 | Pero temblaba de una manera que la sala no le había visto nunca. |
+| V49 | Hubo un silencio de los que la sala ya había dejado de tener. |
+| V53 | A esa hora, esa tinta ya no quería decir lo que quería decir la víspera. |
+| V54 | El que tiene poder en el mapa no tiene poder contra un número. |
+| V55 | Y no salió de él un kaiyu. |
+| V60 | Esa era la única ley que la calle andaba cumpliendo a esa hora: el silencio. |
+| V63 | Los kaiyu no se detienen a mirar. Por eso lo que hizo ella era lo más terrible de todo. |
+| V72 | Eso fue todo. La hermana de Rika tenía diecinueve años y debería ser mayor. |
+| V73 | Debería ser mayor de lo que Rika recuerda, mayor de lo que nadie puede ser si no vuelve a envejecer. |
+| V88 | Sin técnicas todavía. Sin ninguna hoja en la mano. |
+| V89 | El negro bajó desde los bordes del rectángulo, despacio, en silencio. |
+| V95 | Ninguno se lo explicó. Solo se pararon, todos, a la vez. |
+| V101 | No era miedo. Miedo ya no le quedaba. |
+| V102 | Que no cruce. Que todavía no puede cruzar. Que la puerta no es para ella todavía. |
+| V103 | Lo supo el lector de lo que viene. Pero ella no. |
+| V104 | El cielo se cerró en cuatro minutos. |
+| V108 | Porque ninguno sabía qué mano echarle a una cuenta que se acababa de cerrar. |
+| V110 | Con el día amaneciendo encima y el rectángulo negro ya solo un recuerdo sin borde. |
+| V113 | La hermana de Rika se había ido con la última luz de las puertas. |
+| V114 | Ninguno de ellos sabía todavía por qué se les habían quedado quemaduras en las manos, ni quién había firmado la orden de no avisar. |
+| V115 | Ni por qué el número catorce iba a querer decir algo más que una cuenta. |
+| V120 | En el mundo, había más. |
+
+### SFX (español, dibujados)
+
+| Viñeta | SFX | Sentido |
+|---|---|---|
+| V1 | *zumbido* | el zumbido de la sala de radio, que nunca se apaga |
+| V4 | *crujido* | el casco de radio cediendo sobre la oreja de Futaki |
+| V9 | *clac* | la primera marca del cuadro apagándose sola |
+| V10 | *clac* | otro punto más, seco, sobre la placa blanca |
+| V13 | *tono seco* | el octavo punto encendiéndose sin que nadie lo ordene |
+| V19 | *tono seco* | el altavoz que vuelve a contar desde cero |
+| V21 | *(silencio)* | la sala apagada con un solo punto vivo |
+| V24 | *zumbido* | los seis huecos abriéndose con luz de otro lado |
+| V55 | *zumbido* | la luz de otro lado saliendo del hueco de la guardería |
+| V70 | *latido* | la voz de Rika quebrándose al final de la frase |
+| V92 | *(silencio)* | los kaiyu deteniéndose todos a la vez, sin ruido |
+| V105 | *fro* | el viento volviendo a bailar por la calle |
+| V106 | *(silencio)* | la calle sin línea de luz, después del cierre |
+| V118 | *clac* | la chincheta de más andar clavándose en el muro |
+| V119 | *clac* | el papelito nuevo quedando prendido |
+
+### Sonidos descritos (7)
+
+| Viñeta | Sonido |
+|---|---|
+| V1 | El zumbido continuo de la sala de radio, la única sala donde nunca se apaga nada. |
+| V6 | La voz lejana y de piedra del compañero de turno, llegando por el altavoz. |
+| V12 | El altavoz dejando de contar y la sala quedándose en silencio, de golpe. |
+| V27 | La columna de doce avanzando sin ruido, con la misma marcha del primer día. |
+| V60 | La calle sin un solo grito: los gritos, ya gastados en los días anteriores. |
+| V92 | Los kaiyu deteniéndose a la vez y sin ningún ruido, como por orden. |
+| V105 | El viento volviendo a bailar por la calle como si nunca hubiera faltado. |
+
+---
+
+## Semillas y metas de guion
+
+- **El octavo punto (V13, V20, V116-V120):** un punto de luz sin número y sin papelito en el cuadro de la base. Es la semilla directa del cap07 (Kurose, la carpeta y el sello) y de toda la línea de "lo que no está en el plano". Cierra el capítulo con la chincheta de Futaki: *no está en el plano*.
+- **"Catorce" (V50-V54):** el número que ordena el arco entero. **Segundo gancho en V45 (37%)**, con Kurose diciendo "Yo tengo el número", y la cifra cerrada en V50. Las catorce puertas cierran el pilot y siguen contando hasta el final.
+- **Mio en el umbral (V56-V88, V99):** sale de la guardería, se detiene a mirar cosas (los kaiyu no lo hacen) y se queda en el borde sin salir. Es omega y aquí se muestra sin decir la palabra: el guion no la nombra.
+- **La mano que no cruza (V100-V109):** Rika no puede cruzar y no sabe por qué. La caja V103 lo deja dicho sin decírselo a ella. Paga en T5 (cruzar a propósito) y en su arco de no matar a su hermana.
+- **Las quemaduras en las manos (V113):** los cuatro salen con marcas que nadie ha explicado, y con la orden de no avisar sin firmar. Semilla de la línea de comandos del cap07 en adelante.
+- **Goro sin guante (V76, V86):** continuidad directa del cap05: se dejó el guante la noche anterior. La muñeca desnuda se ve en V76 y V86.
+- **"Tú saliste de ella" (V87):** la frase que separa a Goro de Rika en experiencia: él cruzó y volvió, ella perdió a alguien dentro. Semilla de la conversación de la base en el cap07.
+- **Futaki Saeri (V2-V23, V115-V120):** personaje de apoyo de la base; abre y cierra el capítulo. Prepara la sala de radio como punto de información de los caps siguientes.
+- **Watanabe sin orden (V54):** el general con treinta y un años de órdenes y ninguna para esto. Semilla del conflicto de mando del arco de la base.
+- **Dialóga fiel a la novela:** todos los globos proceden de `novela_caps/cap06.txt`; los que amplían (el altavoz contando, los civiles de la acera) reproducen frases que la novela pone en narración.
+
+---
+
+## Qué no hace este guion
+
+- No rompe la retícula: T1=1 · T2R=1 · T3R=2 · T4R=3 · T5=1 · T6=0 viñetas, con alturas + gaps = 1280 exactos en cada pantalla.
+- No inventa hechos fuera de la novela: no aparece nadie ni pasa nada que `novela_caps/cap06.txt` no cuente.
+- No dibuja kaiyu combatiendo: los kaiyu caminan y se detienen; no hay pelea en este capítulo.
+- No nombra "omega", ni "expediente", ni "Sistema": el guion solo cuenta lo que se ve.
+- No muestra a Mio girarse ni salir de la puerta: se queda de espaldas, en el borde, hasta el final.
+- No le da a Rika la respuesta de por qué no puede cruzar: la caja se la deja al lector.
+- No usa HUD, no traduce nada, cero inglés/kana/ideogramas; SFX en español.
+- No toca la marca de agua de las ilustraciones (nologo=true siempre).
+- Mantiene nombres oficiales: Ren Hayashi — El Relámpago · Yui Nakamura — La Distancia (rifle de cerrojo) · Goro Arashi (sin guante) · Rika Tsukimi · Mio Tsukimi.

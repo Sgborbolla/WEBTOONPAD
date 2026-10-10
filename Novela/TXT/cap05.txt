@@ -1,6 +1,6 @@
 # CAP 05 — Día 2, noche. La brasa
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.txt` al inicio de la conversacion de T1.
 
 ---
 

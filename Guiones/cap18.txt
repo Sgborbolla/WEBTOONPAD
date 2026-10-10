@@ -1,0 +1,9 @@
+# CAPÍTULO 18 — "Omega"
+
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
+> **Retícula:** `medidas-referencia.txt` §5. 800×1280. 60 pantallas · 120 viñetas
+> **Fecha:** domingo 21 mayo 2017 09:15
+> **Bloques:** A–D–E
+> **Estructura:** Rika entra archivo, lee expediente Mio: omega, 04:58, mismo segundo → decide sacarla
+> **Gancho 30–40%:** "permanece en el mismo espacio-tiempo"
+> **Cierre (E):** promesa "Voy a sacarla."

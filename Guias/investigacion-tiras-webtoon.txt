@@ -1,0 +1,96 @@
+# Investigación: cómo se hacen las tiras webtoon (NPAD)
+
+> Guardada el 2026-10-07. Fuentes: Clip Studio (Art Rocket / Tips), Nicole Finch
+> (ContentCurve), S-Morishita Studio, Gootaku, + experiencia propia del pipeline NPAD.
+
+---
+
+## 1. Formato técnico de una tira (reglas de plataforma)
+
+| Regla | Valor |
+|---|---|
+| Ancho de tira | 800 px (estándar). Trabajar a 1600 px y exportar a 50% → líneas nítidas |
+| Rodajas por episodio | máx 1280 px de alto y 2 MB cada una; hasta 100 imágenes |
+| Margen lateral seguro | 60–80 px a cada lado (los pulgares tapan) |
+| Texto/diálogo | fuera de la zona central al 70% → ilegible; fuentes 28–36 px a 800 px |
+| N.º de bocadillos | máximo 3 por panel (WEBTOON recomienda ≤3) |
+| Lienzo del episodio | 1 columna vertical infinita; el scroll ES el paso de página |
+
+## 2. Paneles
+
+- Cada panel es **una idea un momento**. Una **ilustración propia por panel**, apilada; no recortar trozos de una imagen grande (error del pipeline v1).
+- Favorecer paneles **verticales/cuadrados** en tira estrecha; el establishing ancho se lee fatal a 800 px.
+- Caras y manos cuentan la historia: los **close-ups** leen mejor en móvil.
+- Mayores paneles = mayor importancia del golpe (panel más grande → momento más significante).
+- Impact panel (T1): ocupa la pantalla entera, rompe el marco, todo el arte a sangre.
+
+### Tipología de pantallas NPAD (cap1.txt · T1–T6)
+- **T1 Impacto total**: a sangre, rompe el marco (núcleo blanco / grito "GRRAAAAH").
+- **T2 Plano dominante**: 1 viñeta/panel por pantalla (p. ej. 1200 px de alto).
+- **T3 Par secuencial**: 2 viñetas (570/570).
+- **T4 Cadencia rápida**: 3 viñetas (380×3) — única excepción canónica.
+- **T5 Silencio absoluto**: 1 viñeta pequeña arriba (260) + gran espacio negativo (1020).
+- **T6 Rótulo a sangre**: pantalla negra con texto, sin viñeta.
+
+## 3. Gutter = ritmo (clave)
+
+| Espacio entre paneles | Efecto | Ejemplo en NPAD |
+|---|---|---|
+| 50–150 px | acción/conversación rápida | gutter cerrado (35 px) |
+| 300–600 px | transición de escena | — |
+| 800–1500 px | suspense/anticipación | gutter abierto (1020 px), "se corta el tiempo" |
+
+- **Nunca espacios uniformes**: la variación es el tempo. cap1.txt lo cumple (35 cerrado / 1020 abierto).
+
+## 4. Estilo de texto (Estilo A / Style Exemplar)
+
+- **Diálogo**: bocadillo óvalo blanco, borde negro, cola al hablante.
+- **Grito**: globo dentado (zigzag), 1–4 palabras, en mayúsculas, ej. "¡FUERA DE AQUÍ!".
+- **Narración**: caja rectángulo gris claro, texto negro.
+- **SFX**: letras negras grandes e inclinadas, integradas/rotadas.
+- **Máx 3 bocadillos por panel**; textos en español neutro; sin kanji/kana; sin anglicismos; sin logos/marcas de agua/barras de juego.
+- **Certitud tipográfica en nuestro maquetador**: fuente de globo ≈28–36 px a 800 → en Pillow `pt*3` usar `pt≈11–13`; narración/cajas más pequeñas; SFX grande (pt 30+).
+
+## 5. Prompting de arte que FUNCIONA (receta probada en el Word)
+
+Base usada en `Novela/gen_images.py` (éxito) — adoptada en `webtoon_estilo.py`:
+
+`Korean webtoon manhwa illustration in Solo Leveling cinematic mood, hand drawn
+colored crayon texture, paper grain, painterly brushwork, muted desaturated
+palette, dramatic low light, high contrast, clean ink outlines, vertical webtoon
+panel 9:16, illustration not photograph, no photography, no glamour, no fashion,
+no beauty portrait, no selfie, no bokeh, no text/no letters/no logo/no watermark`
+
+Protector para viñetas sin personajes (evita retratos kpop):
+`completely empty scene, no people, no characters, wide establishing shot...`
+
+- Las fichas de personaje (Rika/Goro/Ren/Yui/Mine/Kaiyu) se inyectan cuando la
+  viñeta los menciona → mismo diseño en los 200+ capítulos.
+- El grader ajusta media/desviación por canal hacia tus fotos novela 1/2
+  (paneles gris-neutro oscuro: mean ≈ (74,70,68), alto contraste).
+
+## 6. Herramientas instaladas en Termux (2026-10-07)
+
+`imagemagick` (convert/montage/comparar/annotate de alta calidad), `ffmpeg`
+(video/pase), `chafa` (ver imágenes en terminal), `unzip`/`zip`, `tesseract`
+(OCR), `jq`. Python + Pillow ya presentes.
+
+## 7. Pipeline objetivo (v2)
+
+1. Generar **una imagen por panel** a 1600 px de ancho (aspecto del panel).
+2. Bajar a 800 px → montar en la tira con los gutters de cap1.txt.
+3. Superponer globos/cajas/SFX con las fuentes correctas (28–36 px).
+4. Exportar rodajas ≤1280 px / ≤2 MB y el PDF del capítulo.
+5. Consistencia global: misma receta de estilo + grader + fichas de personaje
+   en todos los capítulos (primera temporada = caps 1-200).
+
+## 8. Canon gráfico extraído (zips de referencia)
+
+- Los zips **01 (style exemplar), 04 (hoja de personajes), 05 (portada)**
+  corresponden a las fotos novela (gris-oscuro/editorial). Paleta canon:
+  hueso `#F2F0EC`, rojo `#B71C1C`, amarillo `#FFFF00`, pálido `#FFF9C4`,
+  acero `#6B5D4F`, gris bloque B `#2A2A2E`.
+- Los zips **02, 03, 06** son del estilo **neón/fucsia** (rosa `#ff5fa8`,
+  fucsia `#e0508f`/`#e0408f`, magenta `#ff3aa0`) → NO es el estilo elegido.
+- **La serie se llama NPAD** ("Los Catorce" es solo el grupo).
+- La **portada** es la del usuario (ARTE_CAP1 S01), nunca se regenera.

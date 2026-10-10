@@ -1,0 +1,1209 @@
+# CAPÍTULO 10 — "La jauría"
+
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
+> **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Fecha en la ficción:** jueves **18 de mayo de 2017**, 21:45–22:15 (noche, mismo día que cap09). Presente: 2026 (9 años).
+> **Bloques:** A = El turno (S01–S10, gutter 40) · B = La jauría (S11–S20, gutter 35) · C = El guante (S21–S30, gutter 35) · D = Dividir (S31–S40, gutter 40) · E = Rematar (S41–S50, gutter 40) · F = El video (S51–S60, gutter 40) · G = El temblor (S61–S70, cierra en negro)
+> **Total:** 70 pantallas de 800×1280 · 136 viñetas · 89.600 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Acción, terror urbano |
+| Estructura | Goro en su turno nocturno → una jauría de cinco kaiyu amarillos → el guante de brasa vuelve sin pedirla → vence solo → alguien lo filmó → el hueco grande tiembla |
+| Fondo del bloque A | Gris oscuro `#2a2a2e` (noche, sin HUD) |
+| Fondo de los bloques B-F | Gris oscuro `#2a2a2e` (calle) |
+| Fondo del bloque G | Negro (cierre) |
+| Personajes con nombre | Goro Arashi (protagonista), Rika Tsukimi, Ren Hayashi, Yui Nakamura, Nomura Tatsuo (recuerdo) |
+| Viñetas | 136 |
+| Pantallas | 70 |
+| Globos de diálogo | 6 |
+| Cajas narración | 5 |
+| SFX | español, dibujados |
+| Transiciones | CORTE A: (noche) · FUNDIDO A: negro (cierre) |
+
+> **Segundo gancho:** pantalla S20 (28,5%) — el guante de brasa empieza a salir sin pedirla.
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+> **Cierre:** trama (T) — el hueco grande tiembla por primera vez.
+
+---
+
+## 1. MAPA DE PANTALLAS
+
+### BLOQUE A — EL TURNO (S01–S10, 21:45, Sector Seis)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S01 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Goro solo, el turno nocturno. |
+| S02 | T3R | 2 | 570/570 | 40/60/40 | americano/medio | CORTE A: calle | El escudo, el casco, sin pelo. |
+| S03 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/detalle | CORTE A: calle | Espera vigilando. |
+| S04 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | "Es mi turno" (recuerdo breve). |
+| S05 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | El hueco al fondo. |
+| S06 | T4R | 3 | 380/380/380 | 35/35/35/35 | general/medio/primer plano | CORTE A: calle | El viento de otro lado. |
+| S07 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Cuenta. Uno. |
+| S08 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Cinco. |
+| S09 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | La jauría. |
+| S10 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | La fila que camina. |
+
+**Total bloque A: 10 pantallas · 19 viñetas · 12.800 px**
+
+## Las viñetas del bloque A
+
+### S01 · T2R · 1 viñeta de 1200
+
+**V1.** Plano general. La calle del mercado de noche: persianas bajadas, la cinta amarilla en el rincón, y al fondo, negro sobre negro, el hueco grande esperando. En medio, **Goro Arashi, solo**.
+- **PLANO:** general
+- **COMPOSICION:** la calle entera, la figura pequeña en el centro
+- **ACCION:** el turno nocturno. Nadie más en la calle.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S02 · T3R · 2 viñetas de 570
+
+**V2.** Plano americano. Goro, el escudo a la espalda, el casco de obra en la cabeza, las mangas arremangadas, plantado en medio de la calle.
+- **PLANO:** americano
+- **COMPOSICION:** de frente, la luna al fondo
+- **ACCION:** esperar, que es su manera de vigilar.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V3.** Plano medio. De perfil: el brazo derecho desnudo, sin el guante que arrojó. La mano abierta, tendida, quieta.
+- **PLANO:** medio
+- **COMPOSICION:** el brazo en el centro del encuadre
+- **ACCION:** el sitio donde estuvo el guante. Vacío.
+- **GUTTER ABAJO:** 40
+
+### S03 · T4R · 3 viñetas de 380
+
+**V4.** Plano medio. Goro, los ojos recorriendo la calle, puerta por puerta.
+- **PLANO:** medio
+- **COMPOSICION:** el rostro llenando el encuadre
+- **ACCION:** cuenta lo que ve y lo que no ve.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V5.** Primer plano. La luna sobre la calle del mercado, la cinta amarilla dormida.
+- **PLANO:** primer plano
+- **COMPOSICION:** la cinta en el rincón
+- **ACCION:** la ciudad entera finge dormir.
+- **GUTTER ABAJO:** 35
+
+**V6.** Detalle. El pie de Goro, girando despacio sobre el asfalto, como ajustando el centro de gravedad.
+- **PLANO:** detalle
+- **COMPOSICION:** el pie, el asfalto, la sombra
+- **ACCION:** se prepara sin prisa.
+- **GUTTER ABAJO:** 35
+
+### S04 · T2R · 1 viñeta de 1200
+
+**V7.** Plano entero. **RECUERDO** (fondo gris lavado): en la base, Goro levantando la mano.
+> **Caja:** "Es mi turno." — y ninguno discutió.
+- **PLANO:** entero
+- **COMPOSICION:** la mano levantada en primer término, los otros al fondo
+- **ACCION:** un gesto de pared que además tiene razón.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S05 · T3R · 2 viñetas de 570
+
+**V8.** Plano medio. Goro, de vuelta al presente, mirando el fondo de la calle, el hueco grande.
+- **PLANO:** medio
+- **COMPOSICION:** Goro de perfil, el hueco al fondo del encuadre
+- **ACCION:** negro sobre negro, quieto.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+**V9.** Plano medio. De espaldas, la sombra de Goro alargada por la luna.
+- **PLANO:** espaldas
+- **COMPOSICION:** la sombra del escudo sobre el asfalto
+- **ACCION:** vigilar, contar, esperar.
+- **GUTTER ABAJO:** 40
+
+### S06 · T4R · 3 viñetas de 380
+
+**V10.** Plano general. La calle vacía; el viento levantando polvo.
+- **PLANO:** general
+- **COMPOSICION:** la calle, el polvo, la luz de la luna
+- **ACCION:** el viento de otro lado. Seco.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V11.** Plano medio. Goro se detiene, la cabeza un poco alta, oliendo el aire.
+- **PLANO:** medio
+- **COMPOSICION:** el rostro, la nariz, la boca cerrada
+- **ACCION:** lo conoce. Lo precede todo.
+- **GUTTER ABAJO:** 35
+
+**V12.** Primer plano. Goro, los ojos cerrados un instante, contando. "Costilla por costilla", como quien reza con los dedos.
+- **PLANO:** primer plano
+- **COMPOSICION:** frontal, los párpados bajos
+- **ACCION:** el que viene, a la distancia justa.
+- **GUTTER ABAJO:** 35
+
+### S07 · T2R · 1 viñeta de 1200
+
+**V13.** Plano general. La boca del callejón, al fondo. Un kaiyu amarillo sale, uno solo.
+> **Caja:** Primero.
+- **PLANO:** general
+- **COMPOSICION:** el kaiyu saliendo del callejón
+- **ACCION:** llegó el que venía.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S08 · T3R · 2 viñetas de 570
+
+**V14.** Plano medio. Un segundo kaiyu sale tras el primero, dos pasos detrás.
+> **Caja:** Segundo.
+- **PLANO:** medio
+- **COMPOSICION:** dos figuras, en fila
+- **ACCION:** Goro no gira.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V15.** Primerísimo. Los ojos de Goro, fijos en la boca del callejón, contando.
+> **Caja:** Tercero. Cuarto. Quinto.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, el reflejo de los cinco
+- **ACCION:** cinco. Una jauría.
+- **GUTTER ABAJO:** 40
+
+### S09 · T4R · 3 viñetas de 380
+
+**V16.** Plano americano. Los cinco kaiyu amarillos, en fila, la cabeza gacha, marchando lentos.
+- **PLANO:** americano
+- **COMPOSICION:** la fila llenando el callejón
+- **ACCION:** no es un encuentro. Es una jauría.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V17.** Plano medio. Goro, quieto, los cinco descubiertos al fin. Una sonrisa delgada, profesional.
+- **PLANO:** medio
+- **COMPOSICION:** Goro de frente, los cinco al fondo
+- **ACCION:** los cuenta otra vez, por hábito.
+- **GUTTER ABAJO:** 35
+
+**V18.** Detalle. La mano de Goro ajustándose el casco de obra, un gesto sereno.
+- **PLANO:** detalle
+- **COMPOSICION:** la mano, el casco, la correa
+- **ACCION:** como cerrar la puerta de una casa ajena.
+- **GUTTER ABAJO:** 35
+
+### S10 · T2R · 1 viñeta de 1200
+
+**V19.** Plano general. La fila de cinco avanzando por la calle, Goro plantado delante, el escudo a la espalda, la calle entera desierta.
+- **PLANO:** general
+- **COMPOSICION:** Goro pequeño a la izquierda, la fila a la derecha, la calle entre ellos
+- **ACCION:** el último plan de la noche, en marcha.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 80
+
+### BLOQUE B — LA JAURÍA (S11–S20, gutter 35)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S11 | T3R | 2 | 570/570 | 40/60/40 | medio/contrapicado | CORTE A: calle | Se quita el escudo. |
+| S12 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primer plano | CORTE A: calle | Carga larga. Tres veces. Coste. |
+| S13 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Bloquea. |
+| S14 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Impacto. |
+| S15 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Retrocede. |
+| S16 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Se abre espacio. |
+| S17 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Aguanta. |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | Fatiga. |
+| S19 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No retrocede mucho. |
+| S20 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: calle | **> SEGUNDO GANCHO (viñeta 1, 28,5%)** — el guante de brasa empieza a salir sin pedirla. |
+
+**Total bloque B: 10 pantallas · 20 viñetas · 12.800 px**
+
+## Las viñetas del bloque B
+
+### S11 · T3R · 2 viñetas de 570
+
+**V20.** Plano medio. Goro se quita el escudo de la espalda y se lo pone delante, con un gesto lento, sin prisa.
+- **PLANO:** medio
+- **COMPOSICION:** el escudo saliendo de la espalda
+- **ACCION:** como abrir una puerta para no salir por ella.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V21.** Contrapicado. Goro, desde el suelo hacia el cielo, el casco y el escudo recortados contra la luna.
+- **PLANO:** contrapicado
+- **COMPOSICION:** la silueta, la luna
+- **ACCION:** la pared, en pie.
+- **GUTTER ABAJO:** 35
+
+### S12 · T4R · 3 viñetas de 380
+
+**V22.** Plano americano. El primer kaiyu embiste. Goro no esquiva: bloquea.
+- **PLANO:** americano
+- **COMPOSICION:** el kaiyu en movimiento, el escudo quieto
+- **ACCION:** la primera vez.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V23.** Plano medio. El escudo canta con el golpe sordo, contenido; el kaiyu rebota.
+- **PLANO:** medio
+- **COMPOSICION:** el impacto, las chispas sin chispas (solo sonido)
+- **ACCION:** primer golpe. Coste en el hombro.
+- **GUTTER ABAJO:** 35
+
+**V24.** Primer plano. Goro, los dientes apretados, la mandíbula morseando el esfuerzo.
+- **PLANO:** primer plano
+- **COMPOSICION:** frontal, el escudo al borde
+- **ACCION:** el dolor que ya no le duele de tanto dolerle.
+- **GUTTER ABAJO:** 35
+
+### S13 · T2R · 1 viñeta de 1200
+
+**V25.** Plano entero. Bloquea el segundo. Y el tercero, que cambia de ángulo de golpe. La ciudad duerme.
+- **PLANO:** entero
+- **COMPOSICION:** Goro en el centro, dos kaiyu a los costados
+- **ACCION:** segundo y tercer bloqueo, la calle entera jadeando con él.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+### S14 · T3R · 2 viñetas de 570
+
+**V26.** Plano medio. El cuarto embiste de lado; Goro gira el escudo, el golpe lo toma en el canto.
+- **PLANO:** medio
+- **COMPOSICION:** el escudo girado, el kaiyu rebotando
+- **ACCION:** cuarto. La fila no perdona.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V27.** Primerísimo. El momento del golpe: la mano de Goro apretando el asa del escudo con los nudillos blancos.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la mano, el asa, los nudillos
+- **ACCION:** agarrarse a la pared.
+- **GUTTER ABAJO:** 35
+
+### S15 · T4R · 3 viñetas de 380
+
+**V28.** Plano medio. Goro da un paso atrás. El quinto embiste y lo toma de costado. Retrocede otro paso.
+- **PLANO:** medio
+- **COMPOSICION:** Goro desplazándose, el escudo delante
+- **ACCION:** no retrocede mucho, pero retrocede.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V29.** Detalle. El pie de Goro arrastrándose por el asfalto, buscando asiento.
+- **PLANO:** detalle
+- **COMPOSICION:** la bota, el arrastre, el polvo
+- **ACCION:** sostenerse cuesta, y se sostiene.
+- **GUTTER ABAJO:** 35
+
+**V30.** Primer plano. Los dedos de la mano derecha de Goro, al costado del escudo, moviéndose. Buscan algo que no está.
+- **PLANO:** primer plano
+- **COMPOSICION:** la mano derecha, desnuda, sin guante
+- **ACCION:** el hábito del guante. El que arrojó.
+- **GUTTER ABAJO:** 35
+
+### S16 · T2R · 1 viñeta de 1200
+
+**V31.** Plano general. Goro gira el escudo, lo clava de canto, y la fila se parte: dos por la izquierda, tres por la derecha. Se abrió espacio.
+- **PLANO:** general
+- **COMPOSICION:** el escudo de cuña, la fila dividida
+- **ACCION:** la pared dejó de ser solo pared.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+### S17 · T3R · 2 viñetas de 570
+
+**V32.** Plano medio. Goro aguanta, la espalda contra la fachada del puesto de tomates.
+- **PLANO:** medio
+- **COMPOSICION:** Goro de espaldas a la fachada, los tres enfrente
+- **ACCION:** elegir dónde pararse. Cerrar un flanco.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V33.** Primer plano. La respiración de Goro, corta, controlada. Los labios moviéndose sin sonido.
+- **PLANO:** primer plano
+- **COMPOSICION:** la boca, la respiración visible en el aire frío
+- **ACCION:** una sílaba por segundo. Contándolos.
+- **GUTTER ABAJO:** 35
+
+### S18 · T4R · 3 viñetas de 380
+
+**V34.** Plano americano. El primer kaiyu vuelve. Goro bloquea. El hombro tiembla un poco.
+- **PLANO:** americano
+- **COMPOSICION:** el impacto, el hombro
+- **ACCION:** el coste que se va sumando.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V35.** Plano medio. Un kaiyu pasa por el hueco que dejó el escudo y le roza el casco. Goro escucha el sonido del aire.
+- **PLANO:** medio
+- **COMPOSICION:** el kaiyu pasando cerca, el casco al borde
+- **ACCION:** se abrió un hueco. Lo anota.
+- **GUTTER ABAJO:** 35
+
+**V36.** Primerísimo. Los ojos de Goro, entre el esfuerzo y el cansancio, con un brillo que no es ni una cosa ni la otra.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, la fatiga, el reflejo de los cinco
+- **ACCION:** todavía aguanta. Todavía cuenta.
+- **GUTTER ABAJO:** 35
+
+### S19 · T2R · 1 viñeta de 1200
+
+**V37.** Plano entero. La fila vuelve a agruparse. Goro retrocede medio paso más, reacomodando el centro de gravedad. No retrocede mucho.
+- **PLANO:** entero
+- **COMPOSICION:** Goro al centro, la fila cerrada enfrente
+- **ACCION:** ni mucho ni poco: lo justo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+### S20 · T3R · 2 viñetas de 570
+
+**V38.** Plano medio. **> SEGUNDO GANCHO (viñeta 1, 28,5%).** En la pausa entre embestida y embestida, Goro baja un instante el escudo y mira la mano derecha. De la piel del antebrazo, sin pedirla, sin quererla, empieza a salir una brasa.
+- **PLANO:** medio
+- **COMPOSICION:** el antebrazo desnudo, la brasa naciendo de la piel
+- **ACCION:** como un guante que él no se puso.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V39.** Detalle. La brasa subiendo de la muñeca hacia los dedos, tibia, encendida, delineando el guante viejo que ya no está.
+- **PLANO:** detalle
+- **COMPOSICION:** la mano abierta, la brasa recorriéndola
+- **ACCION:** el fuego que no lo abandonó. Él lo abandonó a él.
+- **GUTTER ABAJO:** 35
+
+### BLOQUE C — EL GUANTE (S21–S30, gutter 35)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S21 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primerísimo/medio | CORTE A: calle | Lo reconoce. |
+| S22 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Pausa. La jauría también la siente. |
+| S23 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | El cuarto embiste: la levanta. |
+| S24 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/detalle | CORTE A: calle | El brazo no cede. El kaiyu se detiene. |
+| S25 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | "Tú también." |
+| S26 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Respira corto. No se rinde. |
+| S27 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Los cinco descubren el cambio. |
+| S28 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | El guante encendido, la calle iluminada. |
+| S29 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Cambia el ritmo. |
+| S30 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | Aprovecha los huecos. |
+
+**Total bloque C: 10 pantallas · 21 viñetas · 12.800 px**
+
+## Las viñetas del bloque C
+
+### S21 · T4R · 3 viñetas de 380
+
+**V40.** Detalle. El guante de brasa tomando forma sobre la mano de Goro, dedo por dedo.
+- **PLANO:** detalle
+- **COMPOSICION:** la mano, la brasa tejiéndose
+- **ACCION:** como si el cuero volviera, pero de luz.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V41.** Primerísimo. Los ojos de Goro, mirando la mano, reconociéndola.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, el reflejo naranja
+- **ACCION:** algo que le sonó a la frase de los viejos libros.
+- **GUTTER ABAJO:** 35
+
+**V42.** Plano medio. Goro, la mano alzada, el guante encendido, y la calle de repente más quieta.
+- **PLANO:** medio
+- **COMPOSICION:** el guante en el centro, la noche a los costados
+- **ACCION:** el fuego no lo había abandonado. Él lo había abandonado a él.
+- **GUTTER ABAJO:** 35
+
+### S22 · T2R · 1 viñeta de 1200
+
+**V43.** Plano general. Goro y la jauría, los dos lados en pausa. La ciudad detrás, durmiendo sobre su mentira. El único movimiento: la brasa, respirando.
+- **PLANO:** general
+- **COMPOSICION:** la calle entera, el guante como única luz
+- **ACCION:** pausa. La jauría también la siente.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+### S23 · T3R · 2 viñetas de 570
+
+**V44.** Plano medio. El cuarto kaiyu embiste en ese momento. Goro levanta el brazo derecho, no el escudo.
+- **PLANO:** medio
+- **COMPOSICION:** el kaiyu en movimiento, el brazo alzado
+- **ACCION:** la decisión del brazo en vez del escudo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V45.** Primer plano. El golpe tomado de lleno por el brazo encendido. El kaiyu se detiene, como si el fuego le diera otra clase de miedo.
+- **PLANO:** primer plano
+- **COMPOSICION:** el impacto en el antebrazo, el kaiyu de frente
+- **ACCION:** el brazo no cede.
+- **GUTTER ABAJO:** 35
+
+### S24 · T4R · 3 viñetas de 380
+
+**V46.** Plano americano. La brasa se enciende del todo: un blanco naranja que ilumina la calle un instante.
+- **PLANO:** americano
+- **COMPOSICION:** Goro envuelto en la luz, la calle revelada
+- **ACCION:** como un faro que la ciudad no quiso encender.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V47.** Plano medio. El kaiyu amarillo, quieto, ante la luz.
+- **PLANO:** medio
+- **COMPOSICION:** el kaiyu, la cabeza levantada por primera vez
+- **ACCION:** mirarlo. Reconocerlo.
+- **GUTTER ABAJO:** 35
+
+**V48.** Detalle. El guante, ahora completo, dibujando sobre la piel el contorno del que arrojó.
+- **PLANO:** detalle
+- **COMPOSICION:** el brazo entero, el guante de luz
+- **ACCION:** y el de cuero, lejos, en la memoria del cap5.
+- **GUTTER ABAJO:** 35
+
+### S25 · T2R · 1 viñeta de 1200
+
+**V49.** Plano entero. Goro, mirándose el guante, y luego a la jauría.
+> **Goro:** Tú también.
+- **PLANO:** entero
+- **COMPOSICION:** Goro alzando el brazo, los cinco al fondo
+- **ACCION:** reconoce a su fuego como se reconoce a un animal que vuelve.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+### S26 · T3R · 2 viñetas de 570
+
+**V50.** Plano medio. Goro respira corto. No se rinde.
+- **PLANO:** medio
+- **COMPOSICION:** la respiración visible, el guante al costado
+- **ACCION:** el segundo aire.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V51.** Primerísimo. El guante, latiendo con el pulso de Goro, apagándose y encendiéndose.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el guante de luz, el pulso
+- **ACCION:** un arma que por fin le hace caso otra vez.
+- **GUTTER ABAJO:** 35
+
+### S27 · T4R · 3 viñetas de 380
+
+**V52.** Plano grupo. Los cinco kaiyu amarillos, en fila, detenidos. La luz les da de frente.
+- **PLANO:** grupo
+- **COMPOSICION:** la fila, la luz a sus espaldas
+- **ACCION:** descubren el cambio.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V53.** Plano medio. Goro, de pie, el escudo al frente, el guante encendido, la calle rota.
+- **PLANO:** medio
+- **COMPOSICION:** el héroe de la noche, de frente
+- **ACCION:** ya no es solo la pared. Es la pared de fuego.
+- **GUTTER ABAJO:** 35
+
+**V54.** Primerísimo. El momento exacto en que Goro decide que no va a retroceder más.
+- **PLANO:** primerísimo
+- **COMPOSICION:** los ojos, la mandíbula
+- **ACCION:** aquí ya no.
+- **GUTTER ABAJO:** 35
+
+### S28 · T2R · 1 viñeta de 1200
+
+**V55.** Plano general. El guante encendido iluminando la calle entera, los cinco kaiyu recortados contra la luz, la cinta amarilla en su rincón, la ciudad durmiendo.
+- **PLANO:** general
+- **COMPOSICION:** el plano completo, la luz naranja dominando
+- **ACCION:** la noche de la calle, por fin despierta.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+### S29 · T3R · 2 viñetas de 570
+
+**V56.** Plano medio. Goro cambia el ritmo. Ya no bloquea de pie, quieto: gira el escudo.
+- **PLANO:** medio
+- **COMPOSICION:** el escudo girando
+- **ACCION:** del muro al cuchillo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 60
+
+**V57.** Plano de espaldas. Goro dividiendo la jauría con el escudo de cuña, separando al cuarto del quinto.
+- **PLANO:** espaldas
+- **COMPOSICION:** la cuña, la fila partida
+- **ACCION:** aprovecha los huecos que le dan cuando embisten en fila.
+- **GUTTER ABAJO:** 35
+
+### S30 · T4R · 3 viñetas de 380
+
+**V58.** Plano americano. El primer hueco: el cuarto queda solo un instante.
+- **PLANO:** americano
+- **COMPOSICION:** el cuarto, aislado por la luz
+- **ACCION:** el instante en que la fila olvida que la fila son cinco.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V59.** Plano medio. El guante de brasa marcándole el camino, encendiéndose cuando Goro la pide y apagándose cuando la guarda.
+- **PLANO:** medio
+- **COMPOSICION:** el brazo encendido, el movimiento
+- **ACCION:** el arma por fin obediente.
+- **GUTTER ABAJO:** 35
+
+**V60.** Primerísimo. Los ojos de Goro, al otro lado del escudo, ya no mirando a los cinco como cinco sino como cinco huecos, uno por uno.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, el reflejo de la fila
+- **ACCION:** uno por uno.
+- **GUTTER ABAJO:** 35
+
+### BLOQUE D — DIVIDIR (S31–S40, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S31 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Cambia el ángulo del escudo. |
+| S32 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | El escudo cubre. |
+| S33 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primerísimo | CORTE A: calle | La brasa se estabiliza. |
+| S34 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Tres caen. |
+| S35 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Dos restantes. |
+| S36 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primer plano | CORTE A: calle | Cuidado. |
+| S37 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | La calle rota. |
+| S38 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Pausa. |
+| S39 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Juntos en mente. |
+| S40 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Aguanta. |
+
+**Total bloque D: 10 pantallas · 19 viñetas · 12.800 px**
+
+## Las viñetas del bloque D
+
+### S31 · T2R · 1 viñeta de 1200
+
+**V61.** Plano general. Goro cambia el ángulo del escudo, lo baja, y la jauría reacciona girando en bloque. La coreografía de la noche, por fin con dos bandos.
+- **PLANO:** general
+- **COMPOSICION:** el escudo bajo, la fila girando
+- **ACCION:** cambiar las reglas en mitad de la partida.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S32 · T3R · 2 viñetas de 570
+
+**V62.** Plano medio. El escudo cubriendo a Goro mientras el guante se prepara libre. El brazo sale por el costado.
+- **PLANO:** medio
+- **COMPOSICION:** el escudo al frente, el brazo encendido al costado
+- **ACCION:** cubrirse y amenazar a la vez.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V63.** Primer plano. El guante, estable, como un faro tranquilo.
+- **PLANO:** primer plano
+- **COMPOSICION:** la brasa, quieta, tibia
+- **ACCION:** ni más ni menos que la que necesita.
+- **GUTTER ABAJO:** 40
+
+### S33 · T4R · 3 viñetas de 380
+
+**V64.** Plano medio. El primero de la izquierda queda solo un instante. Goro lo toma.
+- **PLANO:** medio
+- **COMPOSICION:** el kaiyu aislado, el movimiento de Goro
+- **ACCION:** uno.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V65.** Detalle. El golpe: el primer kaiyu cae a la izquierda. El guante, encendido en el punto exacto.
+- **PLANO:** detalle
+- **COMPOSICION:** el golpe congelado, el guante en la luz
+- **ACCION:** el primero cae.
+- **GUTTER ABAJO:** 35
+
+**V66.** Primerísimo. Una brasa, desprendida, apagándose contra el asfalto.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la chispa en el suelo
+- **ACCION:** y por un momento, la calle agradece no ser la ciudad.
+- **GUTTER ABAJO:** 35
+
+### S34 · T2R · 1 viñeta de 1200
+
+**V67.** Plano entero. Tres kaiyu caídos en la calle. Goro, de pie, el guante humeando, la jauría reducida a dos.
+- **PLANO:** entero
+- **COMPOSICION:** los tres caídos, los dos restantes al fondo, Goro en medio
+- **ACCION:** tres. Quedan dos.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S35 · T3R · 2 viñetas de 570
+
+**V68.** Plano medio. Los dos kaiyu restantes, en fila, quietos, midiendo la nueva distancia.
+- **PLANO:** medio
+- **COMPOSICION:** los dos, la noche
+- **ACCION:** la jauría, doblada.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V69.** Plano de espaldas. Goro, girando despacio para no perderlos, el escudo bajo hasta tocar el asfalto.
+- **PLANO:** espaldas
+- **COMPOSICION:** Goro de espaldas, los dos frente a él
+- **ACCION:** no perderlos. No perderse.
+- **GUTTER ABAJO:** 40
+
+### S36 · T4R · 3 viñetas de 380
+
+**V70.** Plano americano. El cuarto embiste de nuevo, con más cuidado que la primera vez.
+- **PLANO:** americano
+- **COMPOSICION:** la embestida medida
+- **ACCION:** la fila les enseña a no embestir en fila.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V71.** Plano medio. Goro lo desvía con el escudo deslizado; el golpe pasa de largo sin tocarlo.
+- **PLANO:** medio
+- **COMPOSICION:** el escudo deslizando, el kaiyu pasando
+- **ACCION:** el golpe que ya no le duele.
+- **GUTTER ABAJO:** 35
+
+**V72.** Primer plano. Goro, la boca llena de aire, el guante temblando de tanto haberse pedido.
+- **PLANO:** primer plano
+- **COMPOSICION:** la respiración, el guante al borde
+- **ACCION:** el cuerpo pidiendo tregua y la cabeza diciendo que no.
+- **GUTTER ABAJO:** 35
+
+### S37 · T2R · 1 viñeta de 1200
+
+**V73.** Plano general. La calle rota: tres kaiyu caídos, el puesto del tomate tocado, la cinta amarilla en su rincón. Goro, jadeando.
+- **PLANO:** general
+- **COMPOSICION:** el escenario entero de la batalla
+- **ACCION:** la normalidad de la ciudad, rota por una noche.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S38 · T3R · 2 viñetas de 570
+
+**V74.** Plano medio. La pausa. Goro baja el escudo un momento y se permite una bocanada de aire.
+- **PLANO:** medio
+- **COMPOSICION:** Goro con el escudo abajo, el pecho subiendo
+- **ACCION:** el segundo aire, esta vez de verdad.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V75.** Primerísimo. El guante, apagándose por fin, la mano de Goro mediomuerta de cansancio.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el guante apagándose, la mano abierta
+- **ACCION:** el fuego que también se cansa. Y que vuelve.
+- **GUTTER ABAJO:** 40
+
+### S39 · T4R · 3 viñetas de 380
+
+**V76.** Plano medio. Goro, solo, en la calle rota, mirando el hueco grande al fondo.
+- **PLANO:** medio
+- **COMPOSICION:** Goro de espaldas al encuadre, el hueco delante
+- **ACCION:** la palabra del mapa. "Cuando se abra, cruzamos."
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V77.** Detalle. La mano de Goro, con el guante ya apagado, tocándose el pecho donde guarda la memoria de los cuatro.
+- **PLANO:** detalle
+- **COMPOSICION:** la mano, el pecho
+- **ACCION:** los otros tres, lejos. Juntos en mente.
+- **GUTTER ABAJO:** 35
+
+**V78.** Primer plano. Goro, la decisión de aguantar hasta que llegan.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro, los ojos en la boca del callejón
+- **ACCION:** aguanta.
+- **GUTTER ABAJO:** 35
+
+### S40 · T2R · 1 viñeta de 1200
+
+**V79.** Plano entero. Goro, solo en medio de la calle, el escudo a media altura, el guante apagado, esperando la siguiente embestida.
+- **PLANO:** entero
+- **COMPOSICION:** Goro en el centro, la calle entera a su alrededor
+- **ACCION:** como al principio del turno. Pero ya no es el mismo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### BLOQUE E — REMATAR (S41–S50, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S41 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Los últimos dos. |
+| S42 | T4R | 3 | 380/380/380 | 35/35/35/35 | americano/medio/primerísimo | CORTE A: calle | El gasto. |
+| S43 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S44 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: calle | El escudo desliza. |
+| S45 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/primerísimo | CORTE A: calle | Se sostiene. |
+| S46 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | Remata. |
+| S47 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | La calle en silencio. |
+| S48 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: calle | Jadea. |
+| S49 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S50 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | **Alguien filmó el final.** El móvil, lejos, mal. |
+
+**Total bloque E: 10 pantallas · 20 viñetas · 12.800 px**
+
+## Las viñetas del bloque E
+
+### S41 · T3R · 2 viñetas de 570
+
+**V80.** Plano medio. Los dos kaiyu restantes, decidiendo cuál embiste primero.
+- **PLANO:** medio
+- **COMPOSICION:** los dos, dudando
+- **ACCION:** la primera vez que los de línea dudan.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V81.** Primer plano. Goro, el escudo al frente, el guante apenas encendido, mordiendo la decisión.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro, la mandíbula
+- **ACCION:** los últimos dos, de una vez.
+- **GUTTER ABAJO:** 40
+
+### S42 · T4R · 3 viñetas de 380
+
+**V82.** Plano americano. El cuarto embiste, y Goro lo toma con el escudo deslizado, dejando pasar el golpe.
+- **PLANO:** americano
+- **COMPOSICION:** el desliz, el kaiyu pasando
+- **ACCION:** el gasto que se va notando en los brazos.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V83.** Plano medio. El brazo del guante, a medio encender, temblando de esfuerzo.
+- **PLANO:** medio
+- **COMPOSICION:** el antebrazo, la brasa irregular
+- **ACCION:** el fuego ama o no ama, y hoy ama en ráfagas.
+- **GUTTER ABAJO:** 35
+
+**V84.** Primerísimo. Goro, los dientes apretados, obligando al cuerpo a dar el último y pico.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la boca apretada, el brazo al borde
+- **ACCION:** rematar.
+- **GUTTER ABAJO:** 35
+
+### S43 · T2R · 1 viñeta de 1200
+
+**V85.** Plano general. Silencio. Los dos kaiyu, de nuevo quietos, la calle conteniendo el aire con ellos.
+- **PLANO:** general
+- **COMPOSICION:** la calle, los dos, Goro
+- **ACCION:** la tregua breve que se dan los que van a morir.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S44 · T3R · 2 viñetas de 570
+
+**V86.** Plano medio. El quinto embiste a la vez que el cuarto. Los dos juntos, la fila entera en ese último gesto.
+- **PLANO:** medio
+- **COMPOSICION:** los dos en paralelo
+- **ACCION:** la última lección de la noche: ya no embisten en fila.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V87.** Detalle. El escudo deslizando al primero; el viernes pasa de largo; Goro queda por un instante sin guardia, de frente al quinto.
+- **PLANO:** detalle
+- **COMPOSICION:** el desliz, el hueco, el quinto de frente
+- **ACCION:** el instante más peligroso de la noche.
+- **GUTTER ABAJO:** 40
+
+### S45 · T4R · 3 viñetas de 380
+
+**V88.** Plano medio. Goro se sostiene. Reacomoda el escudo en medio del movimiento, el guante saliendo de nuevo.
+- **PLANO:** medio
+- **COMPOSICION:** Goro reacomodándose, en movimiento
+- **ACCION:** no se cae. La pared no se cae.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V89.** Primer plano. El guante encendido de nuevo, al rojo blanco, respondiendo al único instante en que Goro la pidió de todo.
+- **PLANO:** primer plano
+- **COMPOSICION:** el guante encendido
+- **ACCION:** la brasa, que también tiene memoria.
+- **GUTTER ABAJO:** 35
+
+**V90.** Primerísimo. Goro, el pulso saltando, la mirada del que ya remató muchas noches y esta también.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, la luz, la fatiga
+- **ACCION:** se sostiene.
+- **GUTTER ABAJO:** 35
+
+### S46 · T2R · 1 viñeta de 1200
+
+**V91.** Plano entero. El remate. El quinto kaiyu cae contra la fachada del puesto del tomate, y la calle queda en silencio. Goro, de pie, el guante humeando, la mano tendida.
+- **PLANO:** entero
+- **COMPOSICION:** el kaiyu caído, Goro al centro, la mano humeante
+- **ACCION:** cinco. La jauría, terminada.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S47 · T3R · 2 viñetas de 570
+
+**V92.** Plano medio. Goro, jadeando, el casco ladeado, mirando la calle.
+- **PLANO:** medio
+- **COMPOSICION:** medio cuerpo, la respiración
+- **ACCION:** la calle en silencio, por fin a salvo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V93.** Plano de espaldas. Los cinco kaiyu caídos tras él; la calle del mercado, en silencio.
+- **PLANO:** espaldas
+- **COMPOSICION:** los cinco, la calle, Goro de espaldas
+- **ACCION:** el turno hecho.
+- **GUTTER ABAJO:** 40
+
+### S48 · T4R · 3 viñetas de 380
+
+**V94.** Plano medio. Goro se agacha, las manos en las rodillas, el guante apagándose despacio.
+- **PLANO:** medio
+- **COMPOSICION:** Goro agachado, la respiración
+- **ACCION:** jadea. Se agacha. Descansa un segundo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V95.** Primerísimo. La mano de Goro, el guante ya apagado, la piel enrojecida por el fuego.
+- **PLANO:** primerísimo
+- **COMPOSICION:** la mano, las marcas de la brasa
+- **ACCION:** el fuego que se lleva algo a cambio.
+- **GUTTER ABAJO:** 35
+
+**V96.** Detalle. El escudo arrastrando la punta por el asfalto, cansado como su dueño.
+- **PLANO:** detalle
+- **COMPOSICION:** la punta del escudo, el asfalto
+- **ACCION:** los dos, por fin, quietos.
+- **GUTTER ABAJO:** 35
+
+### S49 · T2R · 1 viñeta de 1200
+
+**V97.** Plano general. La calle del mercado, en silencio, con los cinco kaiyu caídos, el puesto tocado, la cinta amarilla en su rincón, y Goro en el centro de la calle rota.
+- **PLANO:** general
+- **COMPOSICION:** el plano completo, la calma después
+- **ACCION:** nadie lo vio. Nadie de la calle.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S50 · T3R · 2 viñetas de 570
+
+**V98.** Plano medio. **Alguien filmó el final.** De reojo, en la ventana del segundo piso del edificio del fondo, un móvil.
+- **PLANO:** medio
+- **COMPOSICION:** la ventana, el móvil, la mano temblando
+- **ACCION:** el zoom torcido, desde lejos, mal.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V99.** Primer plano. El móvil grabando a Goro: el guante humeando, la calle rota, el hombre de pie.
+- **PLANO:** primer plano
+- **COMPOSICION:** la pantalla del móvil, encuadre borroso
+- **ACCION:** la prueba del reojo de la ciudad, por fin en la mano de alguien.
+- **GUTTER ABAJO:** 40
+
+### BLOQUE F — EL VIDEO (S51–S60, gutter 40)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S51 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primer plano/medio | CORTE A: calle | Lo ve de reojo. |
+| S52 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No reacciona. |
+| S53 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Se agacha, respira. |
+| S54 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primerísimo/detalle | CORTE A: calle | El guante quema leve. |
+| S55 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | Silencio. |
+| S56 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Llegan los otros. |
+| S57 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Ren, Yui, Rika corren. |
+| S58 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: calle | **Viñeta de silencio T5.** |
+| S59 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | No hablan. |
+| S60 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | Se juntan. |
+
+**Total bloque F: 10 pantallas · 19 viñetas · 12.800 px**
+
+## Las viñetas del bloque F
+
+### S51 · T4R · 3 viñetas de 380
+
+**V100.** Detalle. De reojo, Goro ve el móvil en la ventana del segundo piso.
+- **PLANO:** detalle
+- **COMPOSICION:** la ventana, el reflejo del móvil
+- **ACCION:** alguien lo vio.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V101.** Primer plano. Goro, sin girarse, los ojos yéndose apenas hacia la ventana.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro, la mirada lateral
+- **ACCION:** lo nota. No responde.
+- **GUTTER ABAJO:** 35
+
+**V102.** Primer plano del reflejo: los kaiyu caídos, Goro humeando, todo dentro del encuadre del móvil.
+- **PLANO:** plano del reflejo
+- **COMPOSICION:** la pantalla temblando, el encuadre torcido
+- **ACCION:** el reojo de la ciudad, convertido en pantalla.
+- **GUTTER ABAJO:** 35
+
+### S52 · T2R · 1 viñeta de 1200
+
+**V103.** Plano entero. Goro no reacciona. Sigue jadeando, agachado, con la espalda a la ventana, dejando que lo filmen.
+- **PLANO:** entero
+- **COMPOSICION:** Goro agachado, la ventana arriba, la calle rota
+- **ACCION:** ya no servía de nada esconderse.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S53 · T3R · 2 viñetas de 570
+
+**V104.** Plano medio. Goro se agacha del todo, las manos en las rodillas, la respiración recomponiéndose golpe a golpe.
+- **PLANO:** medio
+- **COMPOSICION:** el cuerpo doblado, la respiración visible
+- **ACCION:** dejó que lo filmaran.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V105.** Plano de espaldas. La calle detrás de Goro: los cinco kaiyu caídos, la noche ganada.
+- **PLANO:** espaldas
+- **COMPOSICION:** el escenario desde la calle
+- **ACCION:** el turno, hecho.
+- **GUTTER ABAJO:** 40
+
+### S54 · T4R · 3 viñetas de 380
+
+**V106.** Plano medio. Goro se levanta cuando le entra el aire. El guante, apagado, todavía tibio en el brazo.
+- **PLANO:** medio
+- **COMPOSICION:** Goro enderezándose, el brazo a la luz
+- **ACCION:** se levanta.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V107.** Primerísimo. La brasa apagándose del todo, un último destello.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el guante, el último latido de luz
+- **ACCION:** el fuego que se guarda para mañana.
+- **GUTTER ABAJO:** 35
+
+**V108.** Detalle. El brazo de Goro, enrojecido, con las costuras del viejo guante de cuero marcadas como cicatrices que vuelven.
+- **PLANO:** detalle
+- **COMPOSICION:** la piel, las marcas
+- **ACCION:** el viejo guante, por fin, descansa.
+- **GUTTER ABAJO:** 35
+
+### S55 · T2R · 1 viñeta de 1200
+
+**V109.** Plano general. Silencio. La calle entera, el mercado cerrado, los cinco kaiyu caídos, Goro solo de pie. Por primera vez en la noche, nadie se mueve.
+- **PLANO:** general
+- **COMPOSICION:** el plano entero, quieto
+- **ACCION:** la calle, por fin, con su héroe.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S56 · T3R · 2 viñetas de 570
+
+**V110.** Plano medio. Los oye antes de verlos: el trote de tres, la voz de Yui dando órdenes cortas, el silencio de Ren.
+- **PLANO:** medio
+- **COMPOSICION:** Goro, la cabeza alzada hacia el sonido
+- **ACCION:** Llegan.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V111.** Primer plano. Goro, un gesto mínimo, la boca casi sonriendo.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro cansado, feliz a su manera
+- **ACCION:** "los otros."
+- **GUTTER ABAJO:** 40
+
+### S57 · T4R · 3 viñetas de 380
+
+**V112.** Plano grupo. Ren, Yui y Rika entrando corriendo a la calle del mercado, deteniéndose al ver la escena.
+- **PLANO:** grupo
+- **COMPOSICION:** los tres, en movimiento, frenando
+- **ACCION:** la escena del turno de Goro, vista por fin.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V113.** Plano medio. Yui baja la mira. Ren se guarda los auriculares en el bolsillo, despacio, como quien ya no los necesita.
+- **PLANO:** medio
+- **COMPOSICION:** los dos gestos, en paralelo
+- **ACCION:** el grupo entiende sin palabras.
+- **GUTTER ABAJO:** 35
+
+**V114.** Primerísimo. Los ojos de Rika, encendidos un momento al ver el brazo de Goro. La brasa, respondiendo, tibia.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el ojo, el reflejo del guante apagado
+- **ACCION:** lo reconoce. "Tú también."
+- **GUTTER ABAJO:** 35
+
+### S58 · T5 · 1 viñeta de 260
+
+**V115.** **Viñeta de silencio.** Estría negra vertical en el centro del lienzo: la calle del mercado, en la noche, con los cinco caídos y los cuatro de pie.
+- **PLANO:** silencio
+- **COMPOSICION:** la estría, el fondo de la calle
+- **ACCION:** ninguno dijo nada. No hacía falta.
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 1020
+
+### S59 · T2R · 1 viñeta de 1200
+
+**V116.** Plano entero. Goro, de pie, recogiendo el escudo, poniéndoselo a la espalda. Los cuatro, ya juntos, en la calle rota.
+- **PLANO:** entero
+- **COMPOSICION:** Goro al centro, los tres acercándose
+- **ACCION:** juntarse sin hablar.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S60 · T3R · 2 viñetas de 570
+
+**V117.** Plano medio. Los cuatro, casi tocándose en el centro de la calle, la ciudad mirando desde las ventanas.
+- **PLANO:** medio
+- **COMPOSICION:** los cuatro en corro, la noche
+- **ACCION:** se juntan. La primera vez en la noche que el grupo es grupo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+**V118.** Plano medio. Goro los mira a los tres y asiente, imperceptible. Rika mira el brazo de Goro y dice, bajito:
+> **Rika:** Tú también.
+- **PLANO:** medio
+- **COMPOSICION:** Goro de frente, Rika de costado
+- **ACCION:** el guante, el secreto, el fuego. Todo compartido.
+- **GUTTER ABAJO:** 40
+
+### BLOQUE G — EL TEMBLOR (S61–S70, cierra en negro)
+
+| S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
+|---|---|---:|---|---|---|---|---|
+| S61 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primer plano | CORTE A: calle | Goro sin guante, bajito. |
+| S62 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | El video corre por la ciudad. |
+| S63 | T3R | 2 | 570/570 | 40/60/40 | medio/primerísimo | CORTE A: calle | Caminan. |
+| S64 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: calle | Hacia el hueco. |
+| S65 | T2R | 1 | 1200 | 40/40 | entero | CORTE A: calle | El hueco, negro sobre negro. |
+| S66 | T3R | 2 | 570/570 | 40/60/40 | medio/espaldas | CORTE A: calle | **El temblor.** |
+| S67 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: calle | Lo ven temblar. |
+| S68 | T2R | 1 | 1200 | 40/40 | general | CORTE A: calle | "Cuando se abra, cruzamos." |
+| S69 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: calle | Goro: "Yo las puse." |
+| S70 | T6 | 0 | — | — | silencio | FUNDIDO A: negro | **Cierre (T).** |
+
+**Total bloque G: 10 pantallas · 18 viñetas · 12.800 px**
+
+**Total capítulo: 70 pantallas · 136 viñetas · 89.600 px**
+
+---
+
+## Las viñetas del bloque G
+
+### S61 · T4R · 3 viñetas de 380
+
+**V119.** Plano grupo. Los cuatro, en la calle rota, el guante apagado de Goro a la altura de la mano.
+- **PLANO:** grupo
+- **COMPOSICION:** los cuatro, la calle, la noche
+- **ACCION:** el grupo, completo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V120.** Plano medio. Goro, con el guante de brasa apagado, hablando bajito, como es su costumbre.
+> **Caja:** Nadie preguntó qué quería decir. No hacía falta.
+- **PLANO:** medio
+- **COMPOSICION:** Goro de frente, la boca baja
+- **ACCION:** se lo cuenta a los tres.
+- **GUTTER ABAJO:** 35
+
+**V121.** Primer plano. El brazo de Goro, sin guante, la luz de la luna sobre las marcas de la brasa.
+- **PLANO:** primer plano
+- **COMPOSICION:** el brazo, las marcas nuevas
+- **ACCION:** el fuego que vuelve.
+- **GUTTER ABAJO:** 35
+
+### S62 · T2R · 1 viñeta de 1200
+
+**V122.** Plano general. La ciudad, de noche, con ventanas encendidas: el móvil, temblando, pasando de mano en mano. El video corriendo por la ciudad dormida.
+- **PLANO:** general
+- **COMPOSICION:** la ciudad, las ventanas, el reflejo del video
+- **ACCION:** el reojo, por fin, con prueba.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S63 · T3R · 2 viñetas de 570
+
+**V123.** Plano medio. Los cuatro caminan, en fila, calle abajo, Goro delante, el escudo a la espalda.
+- **PLANO:** medio
+- **COMPOSICION:** la fila de cuatro
+- **ACCION:** la fila de siempre, en orden de siempre.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V124.** Primerísimo. Ren, sin auriculares, la cara tranquila, mirando el fondo de la calle.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el rostro, la mirada al hueco
+- **ACCION:** ya no necesita tapar nada.
+- **GUTTER ABAJO:** 40
+
+### S64 · T4R · 3 viñetas de 380
+
+**V125.** Plano medio. Fueron hacia el fondo de la calle, hacia el hueco grande, hacia el círculo del mapa.
+- **PLANO:** medio
+- **COMPOSICION:** los cuatro caminando, el hueco al fondo del encuadre
+- **ACCION:** la palabra de la madrugada.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V126.** Detalle. La mano de Rika, con la brasa quieta, tibia, en la palma, anticipando.
+- **PLANO:** detalle
+- **COMPOSICION:** la palma abierta, la brasa
+- **ACCION:** como si ya sintiera el temblor antes de verlo.
+- **GUTTER ABAJO:** 35
+
+**V127.** Primer plano. Rika, los ojos en el hueco.
+- **PLANO:** primer plano
+- **COMPOSICION:** el rostro, el hueco reflejado
+- **ACCION:** "cuando se abra, cruzamos."
+- **GUTTER ABAJO:** 35
+
+### S65 · T2R · 1 viñeta de 1200
+
+**V128.** Plano entero. El hueco grande, al fondo, negro sobre negro, cerrado, quieto, esperando como esperan todas las cosas de esos días.
+- **PLANO:** entero
+- **COMPOSICION:** el hueco, los cuatro delante, pequeños
+- **ACCION:** la puerta que sabe que su hora va a llegar.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S66 · T3R · 2 viñetas de 570
+
+**V129.** Plano medio. **El temblor.** El hueco tiembla: un temblor profundo, seco, como de algo que gira despacio por dentro.
+- **PLANO:** medio
+- **COMPOSICION:** el hueco, vibrando casi imperceptible
+- **ACCION:** no se abrió. Pero tembló.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V130.** Plano de espaldas. Los cuatro, de espaldas al encuadre, frente al hueco que tiembla.
+- **PLANO:** espaldas
+- **COMPOSICION:** las cuatro siluetas, el hueco delante
+- **ACCION:** la primera vez que la puerta se mueve desde el lunes.
+- **GUTTER ABAJO:** 40
+
+### S67 · T4R · 3 viñetas de 380
+
+**V131.** Plano grupo. Los cuatro, viendo temblar el hueco, sin decir nada un momento.
+- **PLANO:** grupo
+- **COMPOSICION:** los cuatro, el hueco temblando al fondo
+- **ACCION:** comprender, juntos, la misma cosa.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V132.** Plano medio. Rika, la voz baja, la mano cerrada sobre la brasa:
+> **Rika:** Cuando se abra, cruzamos.
+- **PLANO:** medio
+- **COMPOSICION:** Rika de frente, los ojos en el hueco
+- **ACCION:** la promesa de la madrugada, otra vez.
+- **GUTTER ABAJO:** 35
+
+**V133.** Primerísimo. Goro, más bajito aún, como era su costumbre:
+> **Goro:** Yo las puse. Yo las cerraré. Y cuando vuelvan a abrirse, pasaré yo delante.
+- **PLANO:** primerísimo
+- **COMPOSICION:** el rostro de Goro, la sombra del hueco
+- **ACCION:** la frase del guardián. Nadie preguntó qué quería decir.
+- **GUTTER ABAJO:** 35
+
+### S68 · T2R · 1 viñeta de 1200
+
+**V134.** Plano general. La noche del Sector Seis, quieta: el hueco temblando de vez en cuando, los cinco kaiyu caídos, el video corriendo por la ciudad dormida, el guante de brasa, apagado, tibio, esperando.
+- **PLANO:** general
+- **COMPOSICION:** el plano final de la calle entera
+- **ACCION:** el primer volumen termina con un temblor.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+
+### S69 · T3R · 2 viñetas de 570
+
+**V135.** Plano medio. Rika, mirando el hueco, el eco de la madrugada:
+> **Rika:** Todavía no era el momento.
+- **PLANO:** medio
+- **COMPOSICION:** Rika de costado, el hueco
+- **ACCION:** lo dice a los otros, y a ella.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+**V136.** Plano medio. Goro, asintiendo, la mano apoyada en el escudo:
+> **Goro:** Pero la puerta, por fin, se está moviendo.
+- **PLANO:** medio
+- **COMPOSICION:** Goro, el escudo, el hueco al fondo
+- **ACCION:** el temblor del cierre, a la vez miedo y esperanza.
+- **GUTTER ABAJO:** 40
+
+### S70 · T6 · RÓTULO
+
+Pantalla negra, **FUNDIDO A: negro.** Una línea blanca centrada:
+> *La puerta se estaba moviendo.*
+
+**FIN DEL CAPÍTULO 10.**
+
+---
+
+## LOS TEXTOS
+
+### Globos de diálogo (6)
+
+| Viñeta | Quién | Texto |
+|---|---|---|
+| V49 | Goro Arashi | Tú también. |
+| V118 | Rika Tsukimi | Tú también. |
+| V132 | Rika Tsukimi | Cuando se abra, cruzamos. |
+| V133 | Goro Arashi | Yo las puse. Yo las cerraré. Y cuando vuelvan a abrirse, pasaré yo delante. |
+| V135 | Rika Tsukimi | Todavía no era el momento. |
+| V136 | Goro Arashi | Pero la puerta, por fin, se está moviendo. |
+
+### Cajas de narración (5)
+
+| Viñeta | Texto |
+|---|---|
+| V7 | "Es mi turno." — y ninguno discutió. |
+| V13 | Primero. |
+| V14 | Segundo. |
+| V15 | Tercero. Cuarto. Quinto. |
+| V120 | Nadie preguntó qué quería decir. No hacía falta. |
+
+### SFX (español, dibujados)
+
+| Viñeta | SFX | Sentido |
+|---|---|---|
+| V1 | *…* | el silencio del turno |
+| V10 | *fuuu* | el viento de otro lado |
+| V22-26 | *THAM* | los bloqueos del escudo |
+| V38-39 | *tsst* | la brasa naciendo |
+| V46 | *CREC* | la brasa encendida del todo |
+| V65 | *CRAC* | el primer kaiyu cayendo |
+| V91 | *NAM* | el remate final |
+| V98 | *zumbido del móvil* | grabando desde la ventana |
+| V129 | *rrrrm* | el temblor del hueco |
+
+### Sonidos descritos (4)
+
+| Viñeta | Sonido |
+|---|---|
+| V10 | El viento seco, con olor a papel quemado y a tierra que no es esta tierra. |
+| V22-26 | El golpe sordo, contenido, del escudo que sabe el cuerpo de Goro palabra por palabra. |
+| V98 | El zumbido del móvil grabando, desde lejos, mal, con el zoom torcido. |
+| V129 | El temblor profundo, seco, como de algo que gira despacio por dentro. |
+
+---
+
+## Semillas y metas de guion
+
+- **El guante de brasa de Goro** (V38-39, V46, V91, V120): el fuego vuelve sin pedirlo; conecta con el cap5 (Goro arrojó el guante tras la descarga de Nomura Tatsuo) y con el canon puente del juego: Goro "yo puse estas puertas. Yo las cerraré" (V133). Su "tú también" (V49) es paralelo al "tú también" de Rika (V118).
+- **El video del móvil** (V98-99, V122): alguien filmó el final. El reojo de la ciudad, por fin con prueba. Semilla clave para la próxima entrega: romperá la falsa normalidad del cap9 ("nadie hace nada").
+- **El temblor del hueco** (V129, V133, V135): la puerta se mueve por primera vez desde el lunes. Es el cierre del volumen 1 y prepara "Cuando se abra, cruzamos" (V132). El círculo del mapa (cap08/09) empieza a cobrar sentido.
+- **Los cinco kaiyu amarillos** (V15-V18, y el huir del último kaiyu de cap09): el color amarillo se asoció a la quietud y ahora a la jauría. Reaparecerán en la siguiente entrega (el Ward).
+- **Ren sin auriculares** (V124): consolidado de cap9. Se mantendrá.
+- **Yui "alguien tendrá que hacerlo"** (heredado de cap09): este capítulo, "alguien" fue Goro. El grupo empieza a repartirse los alguien.
+
+---
+
+## Qué no hace este guion
+
+- No rompe la regla de 1-3 viñetas por pantalla (retícula: T2R=1, T3R=2, T4R=3, T5=1, T6=0).
+- No dibuja HUD, marcadores ni texto en inglés (cero kana/inglés/ideogramas; SFX en español).
+- No muestra a Goro perdiendo: la jauría de cinco es el arranque de su capítulo, no su trampa; el capítulo es su victoria y su reencuentro con el fuego.
+- No muestra al resto del grupo peleando: ellos llegan cuando el turno termina. El protagonista del capítulo es Goro solo.
+- No abre el hueco grande: solo tiembla. La apertura es el gancho de la siguiente entrega.
+- No usa la marca de agua de Pollinations en ilustraciones (nologo=true siempre).
+- Mantiene nombres oficiales: Ren Hayashi — El Relámpago · Yui Nakamura — La Distancia (rifle con mira telescópica) · Goro Arashi · Rika Tsukimi.

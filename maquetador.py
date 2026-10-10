@@ -3,7 +3,7 @@
 """
 maquetador.py — monta las pantallas del webtoon con Pillow (sin ImageMagick).
 
-Lee img/capNN/manifest.json (geometria + dialogo del capNN.md) y las viñetas
+Lee img/capNN/manifest.json (geometria + dialogo del capNN.txt) y las viñetas
 img/capNN/sNN_pX.png, y produce las pantallas 800x1280 (con gutter, marcos,
 cajas de narración y GLOBOS de diálogo automáticos) y el PDF del capítulo.
 
@@ -21,7 +21,10 @@ MARCO   = 2
 RAIZ    = os.path.dirname(os.path.abspath(__file__))
 IMG     = os.path.join(RAIZ, "img")
 SALIDA  = os.path.join(RAIZ, "pdf")
-FONT_OK = "/data/data/com.termux/files/usr/share/fonts/TTF/DejaVuSans-Bold.ttf"
+FONTS = ["/data/data/com.termux/files/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
+         "/system/fonts/DroidSans-Bold.ttf",
+         "/system/fonts/Roboto-Regular.ttf"]
+FONT_OK = next((f for f in FONTS if os.path.exists(f)), FONTS[0])
 FONDO   = {"blanco": (255, 255, 255), "gris pasado": (42, 42, 46),
            "negro de corte": (0, 0, 0)}
 
@@ -30,6 +33,17 @@ def fuente(pt):
     if pt not in _font_cache:
         _font_cache[pt] = ImageFont.truetype(FONT_OK, int(pt * 3))
     return _font_cache[pt]
+
+def texto_centrado(draw, cx, y, linea, font, relleno, ancho=None,
+                   stroke=0, stroke_fill=(0, 0, 0, 255)):
+    """Dibuja una línea centrada en cx (o dentro de ancho)."""
+    lw = draw.textlength(linea, font=font)
+    x = cx - lw / 2 if ancho is None else cx + (ancho - lw) / 2
+    if stroke:
+        draw.text((x, y), linea, font=font, fill=relleno,
+                  stroke_width=stroke, stroke_fill=stroke_fill)
+    else:
+        draw.text((x, y), linea, font=font, fill=relleno)
 
 def validar(m):
     if not m["paneles"]:
@@ -60,6 +74,20 @@ def resize_rellenar(img, w, h):
         img = img.crop((0, y, img.width, y + nh))
     return img.resize((w, h), Image.LANCZOS)
 
+def resize_contener(img, w, h, color=(0, 0, 0)):
+    """Encaja la imagen ENTERA dentro de w×h sin recortar (barras)."""
+    img = img.convert("RGB")
+    ar  = img.width / img.height
+    tar = w / h
+    if ar > tar:
+        nw = w; nh = int(w / ar)
+    else:
+        nh = h; nw = int(h * ar)
+    small = img.resize((nw, nh), Image.LANCZOS)
+    base = Image.new("RGB", (w, h), color)
+    base.paste(small, ((w - nw) // 2, (h - nh) // 2))
+    return base
+
 def medir(texto, font, draw, ancho_max):
     lineas = []
     for frag in texto.split("\n"):
@@ -75,7 +103,7 @@ def medir(texto, font, draw, ancho_max):
     return lineas
 
 INSET = 16
-BOL_TAM = 34
+BOL_TAM = 13
 BOL_MAX = 400
 def caja_texto(draw, texto, font, pt, ancho_max):
     lineas = medir(texto, font, draw, ancho_max)
@@ -122,7 +150,7 @@ def dibujar_narracion(base, m):
 def dibujar_caja(base, rect, texto, usado=None):
     """Caja de narración anclada al pie del panel (sin cola)."""
     draw = ImageDraw.Draw(base, "RGBA")
-    pt = 24
+    pt = 10
     font = fuente(pt)
     lineas, alto = caja_texto(draw, texto, font, pt, ANCHO - 52)
     alto += 14
@@ -148,7 +176,7 @@ def dibujar_sfx(base, rect, texto):
     linea = " ".join(palabras[:3])
     if len(palabras) > 3:
         linea += "…"
-    pt = 40
+    pt = 34
     font = fuente(pt)
     capa = Image.new("RGBA", (ANCHO, 300), (0, 0, 0, 0))
     d = ImageDraw.Draw(capa)
@@ -226,7 +254,10 @@ def componer_pantalla(carpeta, m, dest, dialogo):
     if bgi:
         ruta = os.path.join(carpeta, bgi)
         if os.path.exists(ruta):
-            base = resize_rellenar(Image.open(ruta), ANCHO, ALTO)
+            if m.get("bg_img_fit"):
+                base = resize_contener(Image.open(ruta), ANCHO, ALTO)
+            else:
+                base = resize_rellenar(Image.open(ruta), ANCHO, ALTO)
     rects = []
     y = 0
     npan = len(m["paneles"])

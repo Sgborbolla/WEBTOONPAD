@@ -1,0 +1,317 @@
+# CAPÍTULO 14 — "Cuatro kilómetros"
+
+> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
+> **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Fecha en la ficción:** sábado **20 de mayo de 2017**, 09:15–11:00 (Día 6, tras cap13). Presente: 2026 (9 años).
+> **Bloques:** A = No ganan (S01–S10) · B = La retirada (S11–S30) · C = Cuatro kilómetros (S31–S40) · D = Se detienen (S41–S48) · E = El alivio (S49–S60)
+> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Acción, tensión, drama silencioso |
+| Estructura | 6+6 más → retroceden caminando 4 km → se detienen → alivio sin palabras |
+| Fondo | Gris hormigón/vías muertas, terraplén, cielo nublado claro |
+| Personajes con nombre | Goro Arashi, Yui Nakamura, Rika Tsukimi, Ren Hayashi |
+| Viñetas | 120 |
+| Pantallas | 60 |
+| Globos de diálogo | 16 |
+| Cajas narración | 8 |
+| SFX | español (mínimos) |
+| Transiciones | CORTE A: / FUNDIDO A: negro (cierre) |
+
+> **Segundo gancho:** pantalla S42 (viñeta **V85, 35%**) — los seis kaiyu que los perseguían **se detienen** cuando los cuatro se paran.
+> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+> **Cierre:** emocional (E) — caminan juntos, hombro con hombro.
+
+---
+
+## 1. MAPA DE PANTALLAS
+
+## 2. DESARROLLO POR PANTALLAS
+
+### BLOQUE A: No ganan (S01–S10)
+
+#### S01 · T1 · 1 viñeta (1280)
+- **V1 (T1).** Ángulo lateral amplio. Explanada de la estación tras la muerte del naranja. Seis amarillos en el suelo, dos aún en pie. Seis más aparecen entre vagones. **Cámara lejana. Silencio.**
+- **GLOBOS:** ninguno
+- **CAJAS:** `[CAJA:NARR] No habían ganado la zona.`
+- **SFX:** ninguno
+- **SONIDO:** `[SON:aire quieto]`
+
+#### S02 · T2R · 2 viñetas (620,620) + gap 40
+- **V2.** Primer plano de Goro mirando hacia los vagones. Cuerpo tenso.
+- **V3.** Vista trasera: los seis nuevos forman semicírculo cubriendo la salida.
+- **GLOBOS:** V2 – Goro: *"No podemos quedarnos. Si nos quedamos, nos rodean."*
+- **SFX:** ninguno
+
+#### S03 · T3R · 2 viñetas (570,570) + gap 40
+- **V4.** Rika gira la cabeza, cubre flanco derecho.
+- **V5.** Yui baja un poco el rifle, calcula.
+- **GLOBOS:** V5 – Yui: *"Nos cortan la dársena tres."*
+- **SFX:** ninguno
+
+#### S04 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V6.** Ren mira atrás: huecos que se cierran.
+- **V7.** Goro señala con la barbilla hacia las vías.
+- **V8.** Los cuatro se colocan sin hablar.
+- **GLOBOS:** V7 – Goro: *"Atrás. Hacia la dársena tres."*
+- **SFX:** `[SFX:pasos quedos]`
+
+#### S05 · T3R · 2 viñetas (570,570) + gap 40
+- **V9.** Plano general. Formación cambiando en silencio.
+- **V10.** Ren toma posición en retaguardia.
+- **GLOBOS:** V9 – Goro: *"No corran. Caminamos."*
+
+#### S06 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V11.** Detalle: talones sobre balasto.
+- **V12.** Los seis que los persiguen empiezan a avanzar, sin correr.
+- **V13.** Los cuatro empiezan a retroceder juntos.
+
+#### S07 · T2R · 2 viñetas (620,620) + gap 40
+- **V14.** Rika cubre lateral, abanico entreabierto.
+- **V15.** Yui apunta corto, disuade flanco izquierdo.
+
+#### S08 · T3R · 2 viñetas (570,570) + gap 40
+- **V16.** Ren aparece entre Goro y Rika tapando hueco.
+- **V17.** Goro avanza hacia atrás con escudo firme.
+
+#### S09 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V18.** Semicírculo se ensancha sin cerrar del todo.
+- **V19.** Ninguno se separa. Formación compacta.
+- **V20.** Respiración contenida, mirada atenta.
+
+#### S10 · T1 · 1 viñeta (1280)
+- **V21 (T1).** Plano general en contrapicado leve. Cuatro retrocediendo, seis siguiendo a distancia prudente. **Bloque A cierra.**
+- **CAJAS:** `[CAJA:NARR] Si corrían, los perseguirían más. Así que caminaron hacia atrás.`
+
+### BLOQUE B: La retirada (S11–S20)
+
+#### S11 · T2R · 2 viñetas (620,620) + gap 40
+- **V22.** Detalle: pie resbala ligeramente en balasto.
+- **V23.** Goro corrige paso sin romper formación.
+
+#### S12 · T3R · 2 viñetas (570,570) + gap 40
+- **V24.** Ren cruza lateral para cubrir hueco.
+- **V25.** Intercambio de miradas fugaz entre Rika y Ren.
+
+#### S13 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V26.** Yui dispara corto, obliga a retroceder un par de metros.
+- **V27.** Los perseguidos no aceleran.
+- **V28.** El semicírculo mantiene distancia.
+
+#### S14 · T2R · 2 viñetas (620,620) + gap 40
+- **V29.** Plano lateral largo. Vías muertas, vagones oxidados.
+- **V30.** Formación vista desde detrás de los kaiyu.
+
+#### S15 · T3R · 2 viñetas (570,570) + gap 40
+- **V31.** Ren roza la manga de Goro al girar.
+- **V32.** Goro lo deja, sin mirarlo.
+
+#### S16 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V33.** Rika se pega un palmo al costado de Ren.
+- **V34.** Cubre retaguardia por un instante.
+- **V35.** Todo vuelve a su sitio.
+
+#### S17 · T2R · 2 viñetas (620,620) + gap 40
+- **V36.** Yui mide metros, espera el momento.
+- **V37.** No desperdicia tiro.
+
+#### S18 · T3R · 2 viñetas (570,570) + gap 40
+- **V38.** Goro gira escudo sutilmente para cubrir flanco.
+- **V39.** Ninguno habla.
+
+#### S19 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V40.** Fatiga empieza a notarse en piernas.
+- **V41.** Mandíbulas apretadas, concentración.
+- **V42.** Siguen caminando hacia atrás.
+
+#### S20 · T1 · 1 viñeta (1280)
+- **V43 (T1).** Panorámica: los cuatro alejándose por vías, seis tras ellos, sin cerrar.
+
+### BLOQUE C: Cuatro kilómetros (S21–S30)
+
+#### S21 · T2R · 2 viñetas (620,620) + gap 40
+- **V44.** Terraplén aparece a lo lejos.
+- **V45.** Avanzan metro a metro por balasto suelto.
+
+#### S22 · T3R · 2 viñetas (570,570) + gap 40
+- **V46.** Detalle: traviesa podrida bajo talón.
+- **V47.** Rika estabiliza sin romper fila.
+
+#### S23 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V48.** Silencio entre ellos. Solo respiración.
+- **V49.** Ren cubre hueco por tercera vez.
+- **V50.** Gestos mínimos, se entienden.
+
+#### S24 · T2R · 2 viñetas (620,620) + gap 40
+- **V51.** Vista aérea imaginativa: hilera de cuatro y media luna tras ellos.
+- **V52.** Distancia se mantiene constante.
+
+#### S25 · T3R · 2 viñetas (570,570) + gap 40
+- **V53.** Yui comprueba flanco derecho con mirada.
+- **V54.** Rika asiente casi imperceptible.
+
+#### S26 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V55.** Goro aguanta peso del escudo con paciencia.
+- **V56.** Ren no se aparta de su costado.
+- **V57.** Brazo roza manga otra vez.
+
+#### S27 · T2R · 2 viñetas (620,620) + gap 40
+- **V58.** Tramo elevado: terraplén abajo, muro de contención al otro lado.
+- **V59.** Goro calcula ruta mentalmente.
+
+#### S28 · T3R · 2 viñetas (570,570) + gap 40
+- **V60.** Los perseguidores siguen, a distancia.
+- **V61.** No se lanzan.
+
+#### S29 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V62.** Fatiga acumulada, pero nadie flaquea.
+- **V63.** Miradas cruzadas: resistencia mutua.
+- **V64.** Siguen.
+
+#### S30 · T1 · 1 viñeta (1280)
+- **V65 (T1).** Larga toma lateral. Cuatro kilómetros andados hacia atrás, aún juntos.
+
+### BLOQUE D: Se detienen (S31–S40)
+
+#### S31 · T2R · 2 viñetas (620,620) + gap 40
+- **V66.** Llegan a curva tras terraplén.
+- **V67.** Goro levanta mano imperceptible: *alto*.
+
+#### S32 · T3R · 2 viñetas (570,570) + gap 40
+- **V68.** Los cuatro se detienen al unísono.
+- **V69.** Guardan formación, alerta máxima.
+
+#### S33 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V70.** Los seis kaiyu llegan a unos treinta metros.
+- **V71.** Se frenan.
+- **V72.** Silencio absoluto.
+
+#### S34 · T2R · 2 viñetas (620,620) + gap 40
+- **V73.** Primer plano Ren: respiración entrecortada.
+- **V74.** Yui mantiene mira, tensa.
+
+#### S35 · T3R · 2 viñetas (570,570) + gap 40
+- **V75.** Rika entreabierta abanico, lista.
+- **V76.** Goro escudo firme, cubre grupo.
+
+#### S36 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V77.** El que va en cabeza ladea cabeza.
+- **V78.** No embiste.
+- **V79.** Mira a los cuatro.
+
+#### S37 · T2R · 2 viñetas (620,620) + gap 40
+- **V80.** Detalle: pie da un paso atrás.
+- **V81.** Otro lo imita.
+
+#### S38 · T3R · 2 viñetas (570,570) + gap 40
+- **V82.** Los cinco restantes retroceden.
+- **V83.** Formación se rompe sin atacar.
+
+#### S39 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V84.** Sin prisa, dan media vuelta.
+- **V85 (GANCHO 35%).** Se alejan por la vía muerta.
+- **V86.** Los cuatro no bajan guardia aún.
+
+#### S40 · T1 · 1 viñeta (1280)
+- **V87 (T1).** General: seis desaparecen tras curva. Cuatro inmóviles, jadeantes. **Segundo gancho marcado.**
+
+### BLOQUE E: El alivio (S41–S60)
+
+#### S41 · T2R · 2 viñetas (620,620) + gap 40
+- **V88.** Yui baja rifle lentamente.
+- **V89.** Mira la curva con desconfianza.
+
+#### S42 · T3R · 2 viñetas (570,570) + gap 40
+- **V90.** Rika cierra abanico con calma.
+- **V91.** Hombros se relajan un grado.
+
+#### S43 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V92.** Ren deja caer tensión de manos.
+- **V93.** Exhala largo.
+- **V94.** Mira a los demás.
+
+#### S44 · T2R · 2 viñetas (620,620) + gap 40
+- **V95.** Goro baja escudo, apoyándolo un instante.
+- **V96.** Fatiga visible en rostro.
+
+#### S45 · T3R · 2 viñetas (570,570) + gap 40
+- **V97.** Se apartan de vía, hacia terraplén con hierba.
+- **V98.** Se dejan caer con cuidado.
+
+#### S46 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V99.** Sentados en hierba, respirando.
+- **V100.** Silencio cómodo por primera vez.
+- **V101.** Ninguno habla aún.
+
+#### S47 · T2R · 2 viñetas (620,620) + gap 40
+- **V102.** Ren recuerda: *"Cuatro kilómetros. Hacia atrás. Y ninguno se quedó solo ni un solo paso."*
+- **V103.** Dice en voz baja.
+
+#### S48 · T3R · 2 viñetas (570,570) + gap 40
+- **V104.** Rika gira cabeza hacia él.
+- **V105.** Asiente sin palabras.
+
+#### S49 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V106.** Goro pone mano en hombro de Ren.
+- **V107.** Peso firme, cálido.
+- **V108.** Ren no se aparta.
+
+#### S50 · T1 · 1 viñeta (1280)
+- **V109 (T1).** Plano medio general. Cuatro sentados juntos, hombro con hombro, hierba, vías vacías.
+
+#### S51 · T2R · 2 viñetas (620,620) + gap 40
+- **V110.** Yui cierra ojos un instante.
+- **V111.** Suspiro largo.
+
+#### S52 · T3R · 2 viñetas (570,570) + gap 40
+- **V112.** Rika mira al suelo, piensa.
+- **V113.** Sin decir lo que piensa.
+
+#### S53 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V114.** Goro retira mano con suavidad.
+- **V115.** Mirada compartida entre todos.
+- **V116.** Silencio dice todo.
+
+#### S54 · T2R · 2 viñetas (620,620) + gap 40
+- **V117.** Se levantan con calma.
+- **V118.** Piernas aún cansadas.
+
+#### S55 · T3R · 2 viñetas (570,570) + gap 40
+- **V119.** Se colocan instintivamente juntos.
+- **V120.** Hombro con hombro.
+
+#### S56 · T1 · 1 viñeta (1280)
+- **V121 (T1).** Plano lateral. Cuatro caminan juntos de vuelta, sin mirar atrás con rabia.
+
+#### S57 · T2R · 2 viñetas (620,620) + gap 40
+- **V122.** Miran atrás con alivio.
+- **V123.** Vía vacía.
+
+#### S58 · T3R · 2 viñetas (570,570) + gap 40
+- **V124.** Paso acompasado.
+- **V125.** Formación natural.
+
+#### S59 · T4R · 3 viñetas (380,380,380) + gaps 35,35
+- **V126.** Rika junto a Yui.
+- **V127.** Ren entre Goro y Rika.
+- **V128.** Unidos sin hablar.
+
+#### S60 · T5 · 1 viñeta (1280)
+- **V129 (T1)**? Ajustado a T5 según retícula (T5=1). **V129.** Plano general alejándose hacia base. FUNDIDO A negro. Cierre.
+- **CAJAS:** `[CAJA:NARR] Caminaban juntos, hombro con hombro.`
+- **TRANSICIÓN:** `FUNDIDO A: negro`
+
+## 3. SEMILLAS Y METAS
+- **Escala humana:** mantener siluetas claras, leer cansancio sin sobreactuar.
+- **Silencios:** priorizar gestos sobre diálogos. Solo 16 globos.
+- **Coherencia:** sin correr, caminar hacia atrás, se detienen, se alejan, alivio.
+
+## 4. QUÉ NO HACE
+- No mostrar masacre innecesaria.
+- No acelerar ritmo en retirada.
+- No bajar guardia antes de verlos alejarse del todo.
+- Cero HUD, cero texto en japonés.
+

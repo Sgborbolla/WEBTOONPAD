@@ -14,19 +14,17 @@ Uso:
   python3 webtoon_arte.py todo             # caps 1-10 (reanuda donde faltan)
 """
 import json, os, re, sys, time, urllib.request, urllib.parse
+from io import BytesIO
+from PIL import Image
+import webtoon_estilo as est
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 IMG  = os.path.join(RAIZ, "img")
 W, H = 864, 1536
 
-ESTILO = ("cinematic korean manhwa webtoon art, dark muted colors, "
-          "detailed ink linework, 9:16 vertical page, no text, no letters, "
-          "no logo, no watermark, no watermark text, post-apocalyptic "
-          "japanese city, tense quiet atmosphere")
-
 def desc_viñetas(cap):
     """{viñeta:int -> descripcion} desde el guion (detalado o resumen)."""
-    s = open(os.path.join(RAIZ, "Guiones", "cap%02d.md" % cap), encoding="utf-8").read()
+    s = open(os.path.join(RAIZ, "Guiones", "cap%02d.txt" % cap), encoding="utf-8").read()
     out = {}
     for m in re.finditer(r"^\*\*[Vv]?(\d+)\.\*\*\s*(.+)$", s, re.M):
         n = int(m.group(1))
@@ -43,9 +41,18 @@ def prompt_pantalla(cap, vinheta_inicio, descs):
         for k in range(vinheta_inicio, vinheta_inicio + 3):
             if k in descs:
                 d = descs[k]; break
+    partes = []
     if d:
-        return d.capitalize()[:380] + ". " + ESTILO
-    return "Empty street on a grey morning. " + ESTILO
+        partes.append(d.capitalize()[:380])
+    fichas = est.desc_personajes(d or "")
+    if fichas:
+        for f in fichas:
+            partes.append(f)
+    else:
+        partes.append(est.ESCENA_VACIA)
+    partes.append(est.estilo())
+    partes.append(est.DESC_KI)
+    return ". ".join(p for p in partes if p)
 
 def pedir(url):
     timeout = 90
@@ -64,8 +71,8 @@ def generar_pagina(cap, n, prompt, dest):
             if len(data) < 5000:
                 print(f"    s{n:02d}: descarga corta ({len(data)}b), reintento")
                 time.sleep(8); continue
-            with open(dest, "wb") as f:
-                f.write(data)
+            img = Image.open(BytesIO(data))
+            est.grade(img).save(dest)
             print(f"    s{n:02d}: ok ({len(data)//1024}KB, seed {seed})")
             return True
         except Exception as e:

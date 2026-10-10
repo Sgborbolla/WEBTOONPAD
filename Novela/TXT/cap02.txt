@@ -1,6 +1,6 @@
 # CAP 02 — Día 1, tarde. La primera puerta
 
-**Prompt pegable.** Ancla de `estilo.md` al inicio de la conversacion de T1.
+**Prompt pegable.** Ancla de `estilo.txt` al inicio de la conversacion de T1.
 
 ---
 

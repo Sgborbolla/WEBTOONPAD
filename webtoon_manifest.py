@@ -363,7 +363,7 @@ def placeholder(cp, viñ, h, dest):
 # ---------------------------------------------------------------- orquestación
 
 def titulo_cap(cap):
-    s = open(os.path.join(RAIZ, "Guiones", "cap%02d.md" % cap), encoding="utf-8").read()
+    s = open(os.path.join(RAIZ, "Guiones", "cap%02d.txt" % cap), encoding="utf-8").read()
     primera = s.strip().splitlines()[0]
     m = RE_TITLE.search(primera)
     if m:
@@ -372,7 +372,7 @@ def titulo_cap(cap):
     return m.group(1).strip() if m else "Capítulo %d" % cap
 
 def generar(cap):
-    ruta = os.path.join(RAIZ, "Guiones", "cap%02d.md" % cap)
+    ruta = os.path.join(RAIZ, "Guiones", "cap%02d.txt" % cap)
     texto = open(ruta, encoding="utf-8").read()
     titulo = titulo_cap(cap)
     if "%02d" % cap in DETA:
