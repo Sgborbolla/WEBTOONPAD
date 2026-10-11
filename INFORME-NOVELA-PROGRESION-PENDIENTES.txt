@@ -1,0 +1,382 @@
+========================================================
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+INFORME NOVELA 1-10: PROGRESION DE HEROES + PENDIENTES
+Generado: revisión narrativa cap01-cap10 + crool de pendientes
+La novela es la fuente de verdad. Este informe es para DECIDIR antes de
+escribir guiones (webtoon y serie audiovisual).
+========================================================
+
+PARTE A - PROBLEMA DE FONDO (lo que el autor detectó)
+========================================================
+Los héroes salen YA REUNIDOS y parte con poderes desde el capítulo 1-2,
+cuando el diseño correcto es:
+
+  A. Conocerse con el paso de los capítulos (encuentros escalonados).
+  B. Poderes que salen DESPUÉS de contactar con las puertas.
+  C. Irse encontrando en el avance de la historia.
+  D. Ser reclutados/captados para formar el ESCUADRON.
+  E. Subir de RANGO con el tiempo.
+  F. Mejorar el CONTROL de sus poderes gradualmente.
+
+ESTADO REAL EN EL TEXTO (caps 1-10):
+------------------------------------
+1. PRIMERA APARICION
+   - Rika: cap01:263 (flashback 12-may) / cierre cap01:379.
+   - Goro: cap02:7 (ya en acción el 15-may tarde).
+   - Ren: cap04:99 (por primera vez, ya dentro del autobus militar).
+   - Yui: cap04:101 (igualmente, ya en el autobus).
+   => Ren y Yui NO tienen capitulo de origen ni presentacion individual:
+   aparecen sentados junto a Rika y Goro un dia despues del desastre.
+
+2. PRIMER CONTACTO ENTRE ELLOS
+   - TODO ocurre en UNA sola escena, el MISMO autobus, cap04:91-149.
+   - El propio texto lo dice: cap04:93 "Ninguno se conocia."
+   - Rika<->Yui cap04:103-119; Ren <-> los demas cap04:131-147;
+     Goro<->Rika/Yui cap04:121-129.
+   => No hay conocimiento gradual: es un unico encuentro simultaneo.
+
+3. GRUPO DE 4
+   - cap06:114 ">>> 05:12. Los cuatro, juntos."
+   - cap06:142 "Fueron una fila de cuatro a lo largo de la acera..."
+   - Formalizacion emocional cap07:180-186 ("-Juntos -dijo Yui").
+   - "El primer volumen... de los cuatro" ya citado en cap10:123.
+   => Del cap04 (desconocidos en un bus) al cap06/07 (equipo) hay solo
+   1-2 dias. Demasiado rapido.
+
+4. ORIGEN DE PODERES (B - "poder tras tocar puerta")
+   - GORO: aparece en cap02:207-237, DESPUES de que la puerta del Sector 6
+     se manifieste. Es el unico origen dramatizado EN PANTALLA.
+     PERO: cap04:129 Goro ya alude a un cruce previo nunca narrado
+     ("-En la puerta -dijo Goro-. Salimos los dos quemados y el otro salio
+     entero.", y cap04:137 "El que entro. El que no volvio.").
+   - RIKA: cap04:113 ya lleva la quemadura; su poder se explica
+     retrospectivamente cap08:35 ("se le habia encendido en la palma al
+     tocar el borde de una puerta"). El origen ("la vispera", dia 2)
+     quedo FUERA DE PANTALLA. En cap01:367-375 solo pasa de largo cerca
+     de una puerta sellada y NO la toca.
+   - REN y YUI: en caps 1-10 NO se les muestra ningun poder.
+     Solo se les implica la quemadura via cap05:246 ("Toda la tripulacion
+     la llevaba. Rika, el chico amarillo, el propio Goro: la misma
+     franja, la misma quemadura seca...").
+   => Para Rika y Ren, "poder tras tocar puerta" ocurrio FUERA DE ESCENA,
+   antes de que el lector los vea encontrarse. Goro es el unico visible.
+
+5. INDICIO DE PODER PREMATURO EN RIKA (cap 1)
+   - cap01:381-383: "No contaba numeros. Contaba los segundos que le
+     quedaban a la gente." (premonicion/conteo sugerida ANTES de cualquier
+     contacto con portal).
+   - cap01:267 y cap01:295-299: destreza/entrenamiento casi sobrenatural
+     sin haber tocado ninguna puerta.
+   => Convierte a Rika en "especial desde antes": choca con el diseño.
+
+6. RECLUTAMIENTO / ESCUADRON (D)
+   - NO hay escena de reclutamiento. cap04:91 ya estan subidos a un
+     "autobus militar"; cap04:112-119 la NSF los recoge a todos.
+   - Quedan "alojados" en la base: cap08:9 "la habitacion prestada".
+   - La formacion del equipo es AUTO-DECLARADA: cap07:180-186 y
+     cap08:208-214 (Rika traza el circulo: "Cuando se abra, cruzamos").
+   => No hay captacion progresiva ni proceso de seleccion.
+
+7. RANGO (E)
+   - Los rangos existen EN EL UNIVERSO pero NO tocan a los heroes:
+     Watanabe (general, cap04:11), Miura (capitan, cap04:47),
+     Shinozuka (sargento, cap04:65), Tokura (sargento, cap04:217).
+   - Los 4 protagonistas NO tienen rango: Goro es guardia civil
+     (cap02:7), Rika (15), Ren (16), Yui (22) son civiles.
+   - NO hay ninguna linea de "subir de rango" de los heroes en 1-10.
+
+8. CONTROL DE PODER (F)
+   - GORO: buen arco. cap05:250 lo rechaza ("No me lo vuelvo a poner"),
+     y en cap10:43-59 tiene control ("el guante de brasa le iba marcando
+     el camino... como un arma que por fin le hacia caso").
+     PERO todo comprimido en 2-4 dias.
+   - RIKA: control en cap08:35 y demostrado en el duelo cap08:43-65.
+   - REN y YUI: sin escenas de control (no tienen poder mostrado).
+   => Hay aprendizaje, pero comprimido. Ren y Yui quedan sin desarrollo.
+
+9. PROBLEMAS CONCRETOS (resumen)
+   P1. Los 4 juntos en el mismo transporte el dia 2, sin conocerse
+       (cap04:91-93).
+   P2. Ren y Yui aparecen por primera vez ya recluidos (cap04:99-101).
+   P3. Goro origina su poder en su primera escena, sin gradacion
+       (cap02:231).
+   P4. Los 4 ya portan la quemadura de portal cuando el lector los ve
+       juntos (cap05:246).
+   P5. Cruce de puerta previo de Goro nunca narrado (cap04:129-137).
+   P6. Poder prematuro de Rika en cap1 (cap01:381-383).
+   P7. Paso a grupo operativo en dia 3, rapidisimo (cap06:114).
+   P8. Sin reclutamiento narrado (cap04:91 + cap08:9).
+   P9. Recomendacion para corregir con la nueva vision:
+       - Dar a Ren y Yui capitulos de origen/encuentro propios.
+       - Escalonar los encuentros entre los 4 (no juntarlos en un bus).
+       - Dramatizar la obtencion del poder al tocar cada puerta (Rika,
+         Ren, Yui).
+       - Mostrar reclutamiento/escuadron real por la NSF.
+       - Mostrar ascenso de rango y mejora de control por fases.
+
+========================================================
+PARTE B - ERRORES DE COHERENCIA INTERNA DE LA NOVELA
+========================================================
+(De la revision pareada novela-interna cap1-10, 11-20, 21-30.)
+
+GRAVES (rompen la trama) - DECIDIR ANTES DE CORREGIR:
+----------------------------------------------------
+B1. Mio: LA EDAD/LINEA TEMPORAL NO CUADRA.
+    - cap01:261-327: Mio Tsukimi VIVA y con 19 anos el 12-may-2017
+      (menos de 3 dias antes del desastre), se encuentra con Rika.
+    - cap06:100-112: "Hacia NUEVE ANOS que no veia a su hermana" y Mio
+      sale del portal con 19 anos "y deberia ser mayor".
+    - cap18:31-39: desaparicion el 15-may-2008, "No ha envejecido".
+    - cap20:79-83: la rescatan como NIÑA "con la misma edad... Nueve
+      anos atras".
+    DECISION: definir cual es el canon. Opciones:
+      (a) Mio desaparecio 9 anos antes (2008) y el cap01 flashback debe
+          cambiarse (no puede estar viva el 12-may-2017).
+      (b) Mio desaparece el 15-may-2017 (el mismo Silencio) y toda la
+          trama de "nueve anos" y la edad-niña del cap20/25 se ajusta.
+      La biblia del juego (NOTAS: "Mio desaparecio 9 anios atras",
+      buscando a alguien en 2056) apoya (a). PENDIENTE AUTOR.
+
+B2. RIKA/EDAD: cap01:263 y cap06:102 la dan con 15 anos en ambas
+    escenas (12-may y 17-may). Si Mio desaparecio 9 anos antes, Rika
+    deberia haber crecido 9 anos entre ambas escenas. Incompatible.
+
+B3. DOBLE RESCATE DE MIO (cap20/21/22 vs cap25):
+    - cap20:105-149 la rescatan del bucle y "por fin habia vuelto a casa".
+    - cap21:5-7: "Tras dejarla con su madre en la base...".
+    - cap22:9-37: Mio lucida, dibujando y hablando.
+    - cap25:29-77: Mio de nuevo en el bucle, "Por primera vez en nueve
+      anos, su mirada era consciente". ES UNA REPETICION no justificada.
+    DECISION: mover el rescate a cap25 SOLO (y cap20-22 ajustarlos a
+    que Mio sigue atrapada), o cap20 saca a Mio y cap25 es otro bucle
+    (de otra niña/otro omega). PENDIENTE AUTOR.
+
+B4. OMEGA: cap20:57 dice "Era la guarderia. Pero distorsionada" (AULA 2)
+    vs cap25:27 "Era una vasta cavidad subterranea, con muros lisos azul
+    oscuro". Inconsistencia del espacio del omega. DECIDIR.
+    (cap18 define omega = "estado, no enemigo"; el interior debe ser
+    la guarderia distorsionada SIEMPRE, o la caverna SIEMPRE.)
+
+B5. EL ROJO (cap23 "de madrugada/mañana" vs cap24 "aquella misma
+    tarde"/"el rojo de la tarde"):
+    - cap23:3 "Martes 23 de mayo. 05:40" y cap23:7-9 (madrugada,
+      desayuno).
+    - cap24:9 "Tras lo que habian presenciado aquella misma tarde" y
+      cap24:15 "Este rojo era ligeramente distinto al de la tarde".
+    DECISION: mover cap23 a la tarde, o cap24 a referirse a otro rojo.
+
+B6. CAP29: cabecera "Domingo 28 de mayo. 09:00" vs cuerpo "Durante los
+    DOS dias siguientes" (cap29:7, el prisionero se capturo sabado 27,
+    asi que seria domingo 28 = 1 dia) y "Para el TERCER dia" (cap29:17,
+    seria lunes 30). Elegir: domingo 29 de mayo? o ajustar cuerpo.
+
+B7. DESAPARICION DEL PODER DE GORO EN 21-30:
+    - cap12:23: el guante "volvio. Salio de la piel, del antebrazo",
+      y cap10:95: "el guante de brasa... algo que le salia de la piel".
+    - En cap21-30 Goro combate SOLO con escudo; el guante/brasa nunca
+      se menciona ni se usa (cap21:21, cap24:51, cap25:87, cap27:21).
+    DECISION: mantener el poder pero tambien el canon "Goro sin guante"
+    (usa la brasa sin el guante), O reintroducir el guante. Alinear
+    heroes.txt:98 ("La brasa del GUANTE") con NOTAS.txt:43.
+
+MEDIOS:
+----------------------------------------------------
+B8. PUERTAS, CUANTAS SON?: cap01:249 "cincuenta y cinco puertas de
+    Kanto" vs cap04:19 "Cuatro puertas confirmadas en la provincia" vs
+    cap04:37 "mapa con siete marcas rojas" vs cap06:9 "Siete puertas.
+    Era lo que se sabia" vs cap06:82 "Catorce puertas en el mundo".
+    DECIDIR la jerarquia: 14 puertas en el mundo; 7 en Kanto; en la
+    provincia 4 confirmadas (cap04). "55" del cap01 debe cambiarse.
+
+B9. EDAD DE NOMURA: cap02:21 "cincuenta anos" vs cap05:52 "cuarenta y
+    nueve anos". Elegir una.
+
+B10. KUROSE: cap04:35 "quince anos entrando en esas reuniones" vs
+    cap06:74 y cap07:39 "nueve anos archivando". Elegir una (9).
+    Nota: 9 encaja con el motivo del proyecto.
+
+B11. LUGAR DE LA GUARDERIA: cap19:3 "Barrio norte de Yokohama" y
+    cap20:3 "Barrio norte, guarderia" vs cap22:3 "Guarderia, BASE NSF".
+    Nunca se narra el traslado. DECIDIR: la guarderia-refugio NO puede
+    ser la misma que la del barrio norte; o se muda a la base (narrar).
+
+B12. LIMPIEZA DE LA BASE: cap04:217 "el sargento Tokura Jun. 41 anos,
+    jefe de limpieza" (hombre) y cap13:137 "un hombre de limpieza con
+    bayeta" vs cap22:81 "Amano Rei... con su uniforme de limpieza... la
+    primera vez" y cap25:93-97 (Amano Rei mujer, "como siempre").
+    DECIDIR: Amano Rei es OTRO personaje (no Tokura); si va con uniforme
+    de limpieza, explicar, o convertirlo en camillero/otro rol.
+
+B13. ESTADOS UNIDOS: cap26:9 dice "Corea, Estados Unidos y Reino Unido"
+    en la OIDA; cap27:7 "recien llegados de Corea y del Reino Unido".
+    EEUU desaparece sin explicacion. DECIDIR si EEUU participa o no.
+
+B14. IDIOMA DEL PRISIONERO: cap28:37 Ren ensena "en español" y el kaiyu
+    repite "*Agua*"; cap27:31 el idioma puente del equipo es "ingles
+    basico". La novela esta en Japón. DECIDIR (recomendado: espanol
+    queda raro; usar japones-ingles, o mantener espanol EXCLUSIVO a
+    Ren por ser su idioma - justificarlo).
+
+B15. WATANABE: "Watanabe Raishirō" (con macron: cap04:11, cap06:60,
+    cap07:47) vs "Watanabe Raishiro" (sin macron: cap23:7, cap26:13,
+    cap30:7). Unificar (romaji sin macron, como el resto).
+
+B16. NICHO DEL "PODER" DE RIKA: cap15:13 vs cap12:31 vs cap22:41:
+    "los tres segundos" cambia de significado entre capitulos
+    (conteo de aparicion / sonido del disparo / instantes de Ren).
+    UNIFICAR la regla.
+
+MENORES / ESTILO:
+----------------------------------------------------
+B17. cap13 dice "el martes, cinco amarillos de linea en el Sector Seis"
+    pero cap10 es jueves 18 (Sector 6) y cap11 viernes 19 (guarderia).
+    Reconciliar dia de la semana del registro.
+B18. cap13: "catorce meses" (cap13:41,67,73,97) vs cap11/12 "la primera
+    vez en cinco dias" y el mismo cap13:41 "Seis dias conviviendo con la
+    puerta". Elegir una escala temporal (¿lleva meses o dias?).
+B19. cap13:151-153 "Los dos amarillos que quedaban... Los cuatro los
+    terminaron" y "los seis amarillos en sus seis montoncitos" vs
+    cap14:5-7 "Los seis amarillos caidos... y los dos que habian quedado
+    en pie" (8 amarillos). Unificar: la pelea fue de 6 o de 8.
+B20. cap13:101 "el naranja... no tenia ahi el corazon" vs cap15:37-45
+    Yui mata sola a un naranja con tres disparos limpios. Alinear la
+    regla de los naranjas (o se van matando solos o no).
+B21. cap14:3 "Sabado 20 de mayo. 09:15. Sector Ocho" vs cap13:161 el
+    equipo ya esta en la base a las 13:20 (mismo dia, horas antes la
+    pelea). El Sabado 20 vs Viernes 19 del cap13: reconciliar fechas.
+B22. cap16:9 herida de Rika "el corte le recorria el antebrazo" sin que
+    ninguna escena previa (13-15) se la muestre recibiendo el corte.
+    Añadir el origen, o quitarla.
+B23. cap16:11 "Jūmoji Tsuyoshi... Treinta y seis anos": dato nuevo no
+    armonizado con el resto de materiales.
+B24. cap17:33-39 "Entre carga y carga, su cuerpo se recargaba solo.
+    Apenas un parpadeo" vs cap11:263-265 "—Tienes tres. —Tenía tres."
+    y cap11:208/226 "Ren, sin carga" (las cargas se agotan y NO se
+    recargan). Unificar regla del dash de Ren.
+B25. cap19:15 "Las luces estaban apagadas" vs cap11:99/327 "la guarderia
+    seguia con las luces puestas". Unificar.
+B26. cap19:7 "lo ocurrido... dos dias atras" vs cap11:99 "hacia tres
+    dias habia salido Mio". Reconciliar dias.
+B27. cap19:45/75 y cap20:9/25/61/87: conteo "Uno... dos... tres...
+    cuatro..." vs cap11:112-116: "Uno. Dos. Tres." Unificar el conteo
+    del bucle (canon cap25: "es una hora: 04:58").
+B28. cap20:143 Yui se queda "petrificada al ver a la niña" vs cap06:116
+    Yui ya habia visto a Mio. O es primera vez (ajustar cap06) o no
+    (quitar el petrificarse).
+B29. cap22: "Momento intimo, café, amanecer" (guion) vs novela "Lunes 22
+    de mayo. 15:30". El GUION esta mal; la novela es 15:30 tarde.
+B30. cap25: cabecera "04:50" vs cuerpo "cuatro y media" (04:30). Elegir.
+B31. cap25:93-97 Amano Rei "en la base, observando desde una ventana que
+    daba hacia la sala de mando" mientras los 4 estan DENTRO del portal
+    (cavidad subterranea, Sector Nueve). Espacio imposible: o Rei ve
+    por otro conducto o mover la escena.
+B32. cap27:5 "La OIDA era aun un embrión. Apenas unas horas sobre el
+    papel" vs cap26:3 nace el jueves 25 y cap27 es viernes 26 (~24h).
+    Decir "un dia" en vez de "unas horas".
+B33. cap28:7-47 "un naranja" prisionero (cap28) que en cap29:23 ya se
+    llama Tharn - NO es error (solo se nombra en cap29-30), PERO el
+    canon de enemigos.txt:167 y arco-200.txt:200 lo ubica DESPUES del
+    cap 40. DECIDIR: reubicar Tharn despues del cap40 (y caps 28-30
+    reconsiderar) o actualizar el canon.
+B34. cap30:21 "recordando la pausa del naranja en el Sector Ocho":
+    si se refiere al prisionero reciente (cap28), el sector esta mal.
+B35. cap24:45 "Usaban la experiencia acumulada desde el cap13 hasta ese
+    dia" - metareferencia a "cap13" dentro de la narración. QUITAR
+    ("desde la estacion" o similar).
+B36. cap24:19-23: el Asesor mira a RIKA; canon arco-200:181 esperaba
+    que mirara a UNA NIÑA. DECIDIR (recomendado: mirar a una niña, o
+    que Rika le recuerde a una niña).
+B37. cap24:5 "La alarma llego cuando ya anochecia" vs cap23:3 "05:40"
+    (madrugada). Mismo choque de B5.
+B38. cap25:35: Mio repite "*Uno... dos... tres... cuatro...*" y canon
+    arco-200:188 dice "no es un nombre: es una hora. 04:58". Decidir
+    como se canta la hora en el bucle.
+B39. cap07:172 ">>> 05:28. El pasillo." y luego cap07:188 ">>> 05:25.
+    La calle." (retrocede la hora). Reordenar 05:25 -> 05:28.
+B40. cap01:68 "a los veintidos minutos" (05:02+22=05:24) cuando el
+    evento termina 05:12. Ajustar.
+B41. cap01:124 "a las cinco y cuarto todo estaba tranquilo" vs fin del
+    silencio 05:12. Y "catorce minutos" (04:58-05:12). Unificar. NOTA:
+    el proyecto decidio mantener el "05:12" final como eco (NOTAS:11).
+B42. cap01:199 y cap01:209: "A las 05:12, la ultima puerta se cerro."
+    REPETIDO literal. Eliminar duplicado.
+B43. cap01:72: "dieciseis hombres y dos mujeres" (18 soldados) vs
+    "dieciseis manos... sobre dieciseis culatas". Ajustar a 16+2 con
+    18 armas, o cambiar la frase.
+B44. cap02:5 "The Sector 6 no era una calle" -> ingles ("El Sector 6").
+B45. cap02:7 "llegó a las cuatro y veinte" vs cap02:157 "A las 17:20
+    empezaba oficialmente el turno" vs cap02:301 "A las 17:24... la
+    primera puerta". Goro llega 16:20 o 17:20? Unificar (16:20 llega,
+    17:20 turno, 17:24 puerta - decirlo claro).
+B46. cap03:108 "Kawano Shinichi tenia treinta y ocho anos, treinta y
+    ocho anos de trabajar en el turno de la noche" (trabaja desde los 0
+    anos). Reescribir ("ocho anos" o la cifra correcta).
+B47. cap04:19 "Cuatro puertas confirmadas... Cuarenta y seis kaiyu" vs
+    cap04:37-39 "mapa con siete marcas". Definir balance del parte.
+B48. cap05:156 "El guante DERECHO exploto" vs cap04:113 (quemadura en
+    antebrazo) y cap03:200 cap05:26 "el guante en la mano izquierda".
+    Unificar lado del guante y de la quemadura.
+B49. cap05:228 "Con Acero gris, tres personas. Dos salidas. Uno no
+    responde." (parte de Kiryu) - frase confusa; revisar redacción.
+B50. cap24:77/83 "Son dos" (segundo portal): coherente (cap21, cap25:7).
+    Sin error. (verificado)
+B51. cap06:82 "Catorce" y cap06:86 "Catorce puertas en el mundo":
+    coheren te con C8 y el canon del juego (14 puertas). Mantener.
+B52. cap26 "La OIDA dejo de bastarse sola" uso femenino de sigla: menor,
+    unificar (La OIDA / El OIDA - aconsejado "la").
+
+========================================================
+PARTE C - LISTA DE PENDIENTES DEL PROYECTO (crool)
+========================================================
+(De NOTAS.txt, TAREAS-MAÑANA.txt, arco-200.txt, enemigos.txt,
+biblion.txt.)
+
+P_W1. [prioridad] Corregir TODOS los errores de la Parte B en la novela.
+P_W2. Reescribir/ampliar la novela caps 1-10 para respetar la progresion:
+      encuentros escalonados, poderes tras tocar puerta, reclutamiento,
+      rango, control (Parte A).
+P_W3. Guiones webtoon cap03-05 RE-ESCRIBIR desde la novela (actualmente
+      tramas propias: evacuación/reagrupación) + cap03 corrupto.
+P_W4. Construir el cuerpo de guiones webtoon cap16-30 (solo esqueletos
+      de cabecera; check_guion.py daria FAIL - sin viñetas ni mapa).
+P_W5. Corregir guiones webtoon 06-15 (atribuciones Ren/Rika cap08,
+      horas cap11, conteos, tablas LOS TEXTOS desactualizadas, etc.
+      Se detalla en INFORME-COHERENCIA-NOVELA-GUION.txt).
+P_W6. Crear carpeta GUIONES-SERIE/ (formato audiovisual: animada o live
+      action) - 30 episodios derivados de la novela corregida.
+P_W7. Definir estilo de dibujo webtoon (NOTAS:97 "AUN SIN DECIDIR",
+      usuario se inclina coreano tipo Solo Leveling / Omniscient Reader).
+P_W8. Confirmar los 2 pendientes de canon del arco-200:204:
+      - inventar el IDIOMA kaiyu (la palabra unica del Asesor cap24 es
+        su primer sonido).
+      - los NUEVOS ENEMIGOS del mundo kaiyu con cargos y rangos.
+      Se cierran ANTES del arco del planeta (cap 40+). Redactar en
+      enemigos.txt / kaiyu-world.txt.
+P_W9. Push pendiente a GitHub (NOTAS:95): commit con QA completo.
+P_W10. Revision de ortografia pendiente heroes.txt (heroes.txt:301-304).
+P_W11. Cap11: el guion sigue "pendiente" (NOTAS:88); hay que escribirlo.
+P_W12. Granzar que el "soldado sin poder (tipo 7)" del sargento (arco
+      :206) se planifique (aparicion 59-64).
+P_W13. Decidir el rol de "Amano Rei" en la base (B12) y su "café" en
+      cap22/25 segun arco-200:171,189.
+P_W14. Definir el "Empatía"/regla de los kaiyu naranjas que "hacen una
+      pausa" (cap13 gancho) y por que el rojo de cap23 "acomoda" en vez
+      de romper (arco-200:176).
+
+========================================================
+PLAN DE ACCION RECOMENDADO (orden)
+========================================================
+1. El AUTOR decide los puntos marcados "DECISION/PENDIENTE AUTOR"
+   (especialmente B1 (Mio), B3 (doble rescate), B5/B37 (rojo/tarde),
+   B6 (cap29), B7 (Goro), B14 (idioma), B33 (Tharn), P_W7 (estilo)).
+2. Se corrigen los errores de la Parte B en la NOVELA.
+3. Se escribe la progresion gradual de heroes (Parte A) re-estructurando
+   caps 1-10 (nuevos caps de origen de Ren y Yui, encuentros
+   escalonados, reclutamiento y rango).
+4. Se generan los GUIONES-SERIE (audiovisual) desde la novela final.
+5. Se corrigen/reescriben los GUIONES WEBTOON desde la novela final.
+6. Cierre de pendientes P_W8-P_W14.
+
+========================================================
+FIN DEL INFORME
+========================================================

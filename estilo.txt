@@ -1,4 +1,5 @@
 # BLOQUE DE ANCLA — pegar en cada conversación de Stitch
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Este bloque va **palabra por palabra igual** en el primer mensaje de cada
 conversación de temporada. Es lo que hace que las 100 páginas pertenezcan a la
@@ -10,18 +11,68 @@ Copiar desde aquí hasta el final del bloque.
 
 ```
 HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
-ambientada en Japón contemporáneo, hoy. Pintada a plano, sombreado cel, línea de
-tinta negra gruesa y uniforme, alto contraste, lectura de webtoon vertical.
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
 
-ESTILO GENERAL. Dibujada a plano con sombreado en dos tonos (cel shading), línea
-de tinta negra gruesa y constante, sin degradados suaves, sin texturas de ruido.
-Colores vivos y saturados. Nada de curva suave: todo recto o biselado. El aire
-tiene volumen. Las sombras son planas y duras.
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
 
 FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
 por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
-Marcos de tinta negra fina entre viñetas, rectos. Nunca más de DOS viñetas por
-pantalla, y solo una cuando la escena sea un golpe o una revelación.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
 
 EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
 control de velocidad de la lectura. Hay tres valores y solo tres:
@@ -87,8 +138,8 @@ REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
 quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
 en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
 gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
-página y se le ve desde lejos. Proporción de niño de caricatura: cabeza enorme,
-cabeza es el 25% de su altura, cuerpo pequeño. Silueta corta y nerviosa. Marca
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
 única: las vendas y el amarillo.
 
 YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
@@ -116,6 +167,13 @@ LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
 números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
 paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
 firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
 ```
 
 ---

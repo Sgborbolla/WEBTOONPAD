@@ -1,4 +1,5 @@
 # HEROES — NPAD
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Los cuatro. Todos son gente normal con un poder que no eligieron. Ninguno viste
 armadura moderna. Todos visten lo que se ponian para trabajar.
@@ -123,8 +124,8 @@ vio por la mirilla. Y esa orden la firmo el hombre que hoy le paga.
 
 ### Fisico
 25 años cronologico, 19 aparentes. Delgado, nervioso, manos que no paran quietas.
-Ojos muy grandes, expresión de sorpresa permanente. Proporción de nino de
-caricatura: la cabeza es el 25% de su altura.
+Ojos muy grandes, expresión de sorpresa permanente. Proporción semi-realista de 8
+cabezas, delgado y nervioso.
 
 ### Ropa
 Agujero de escuela en una manga. Cinta blanca. Vendas atadas en las munecas.

@@ -1,4 +1,5 @@
 # MAPA DE PELEAS — dónde va cada combate en los 100 capítulos
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Este archivo responde a una sola pregunta: **en qué capítulo hay pelea, de qué
 tipo, y qué tiene que lograr**. Con eso `acciones.txt` se aplica siempre igual y

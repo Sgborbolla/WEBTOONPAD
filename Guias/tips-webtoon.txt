@@ -1,4 +1,5 @@
 # TIPS DE WEBTOON — todo lo que hay que saber
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Consolidado de las guías de publicación de la plataforma (WEBTOON Canvas Resource
 Handbook y Creator 101), las guías de producción de Clip Studio, Lemoon Studio,
@@ -26,7 +27,7 @@ historieta, porque se genera con IA.
 | 4 | **Storyboard**: bocetos sueltos que deciden encuadre, posición, expresión y dónde va el globo | El prompt de cada viñeta |
 | 5 | **Inking** | — (lo hace el modelo) |
 | 6 | **Fondos** | Declarados en el prompt, o assets fijos |
-| 7 | **Color** | Declarado en el ancla: color plano, cel, paleta fija |
+| 7 | **Color** | Declarado en el ancla: manhwa tipo Solo Leveling, cel-shading suave, paleta fija |
 | 8 | **Lettering**: globos, tamaño, posición, y los efectos | Texto literal en el prompt |
 | 9 | **Revisión editorial**: narrativa, calidad visual, cumplimiento | La checklist de `manual.txt` |
 | 10 | **Publicación** | Recorte a 800×1280 |
@@ -354,8 +355,9 @@ El color es herramienta narrativa, no decoración.
 | Última pasada | Brillos especulares, efectos atmosféricos, glow, **motion blur** |
 | Paleta | Fijada en la biblia de arte, seguida al pie de la letra |
 
-Para esta historieta: color plano, sombreado en dos tonos, sin degradados suaves,
-sin ruido. El ancla ya lo fija.
+Para esta historieta: estilo manhwa tipo Solo Leveling: cel-shading suave con
+gradientes, sombra cel fría + overlay cálido, rim light y glow, línea limpia y
+fina, color no plano. El ancla ya lo fija.
 
 ---
 

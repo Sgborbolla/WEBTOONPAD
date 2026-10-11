@@ -1,4 +1,5 @@
 # ARCO 200 — plan maestro de NPAD
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Documento rector. Todo guion nuevo (cap07 en adelante) se escribe contra este
 archivo. Si algo de un capítulo choca con este archivo, **manda este archivo**.

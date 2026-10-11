@@ -1,4 +1,5 @@
 # ENEMIGOS — NPAD
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Kaiyu. Vienen de un mundo de bestias que quiere conquistar la Tierra. No son
 fauna suelta: son un ejército.

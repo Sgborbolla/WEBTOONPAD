@@ -1,4 +1,5 @@
 # Medidas reales de referencia — 8 webtoons comerciales
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Medición automática con ImageMagick sobre las láminas JPEG embebidas en los PDF del
 usuario. No son estimaciones: sonConteos de píxeles.

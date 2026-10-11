@@ -1,4 +1,5 @@
 # MANUAL — cómo se hace esto
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Todo lo que hay que saber para producir "NPAD" en formato webtoon
 vertical. Las cifras vienen de las guías de publicación de la plataforma
@@ -200,7 +201,8 @@ quién es, se regenera esa viñeta.
 
 ## 7. Sobre generación con Stitch
 
-Lo que hace bien: composición, viñeta por viñeta, color plano, sombra dura.
+Lo que hace bien: composición, viñeta por viñeta, estilo manhwa full color
+(tipo Solo Leveling), cel-shading suave.
 
 Lo que no hace bien, y hay que diseñarle el trabajo alrededor:
 

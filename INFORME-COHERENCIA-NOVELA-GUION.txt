@@ -1,0 +1,640 @@
+========================================================
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+INFORME DE COHERENCIA NOVELA vs GUION — NPAD
+Generado: examen capítulo a capítulo (cap01-cap30)
+Fuente de verdad: Novela/novela_caps/capNN.txt
+Comparado contra: Guiones/capNN.txt
+========================================================
+
+ESTADO GENERAL
+- cap01-cap02: guiones detallados, PERO con errores de canon y de detalle.
+- cap03-cap05: los guiones NO son adaptaciones de la novela. Son esqueletos
+  con trama propia (evacuación, reagrupación, unión de sector). cap03 ademas
+  esta truncado/corrupto (volcado de shell "cat: /tmp/cap3.txt").
+- cap06-cap10: guiones detallados con errores de atribucion de dialogos,
+  horas y conteos. cap08 es el peor (intercambios Ren/Rika).
+- cap11-cap13: guiones detallados con errores puntuales.
+- cap14-cap15: guiones detallados casi correctos (cap14 omite dialogo clave).
+- cap16-cap30: los guiones son ESQUELETOS de cabecera (4-6 lineas), sin
+  vinietas ni cuerpo. Declaran 60 pantallas / 120 vinietas que NO existen.
+  check_guion.py los marcaria FAIL.
+
+PRIORIDAD DE ARREGLO MAÑANA
+1. Re-escribir cap03, cap04, cap05 desde la novela (son los mas rotos).
+2. Construir el cuerpo de cap16-cap30 desde la novela (esqueletos).
+3. Corregir canon cap01 (guante de Goro, hora 04:57/04:58, secuela 07:42,
+   Rika sin abanico, sin cicatriz, linea de Sato, Kenji).
+4. Corregir atribuciones cap08, cap10, cap12, cap11.
+5. Corregir horas y conteos (cap11, cap13, cap22) y fechas de cabecera
+   (cap04, cap05, cap06).
+6. Resolver contradicciones INTERNAS de la novela (ver Anexo 1) ANTES de
+   re-escribir, para saber cual es el canon correcto.
+7. Resolver contradicciones de canon en Guias/ (ver Anexo 2).
+
+========================================================
+DETALLE CAPITULO A CAPITULO
+========================================================
+
+CAPITULO 1 (El dia que no avisaron)
+-----------------------------------
+[PERSONAJE] Guante de Goro:
+- NOVELA: Goro conserva y usa el guante; lo pierde al final del cap5
+  (Novela/cap05.txt:240; aparece con guante en cap02:231, cap03:12,
+  cap04:97, cap05:26).
+- GUION: "Goro Arashi, El Yunque... Manos vacias, sin guantelete (lo dejo
+  caer hace anios)" (Guion cap01.txt:134-136). INCORRECTO (ver Anexo 2).
+
+[CRONOLOGIA] Hora de apertura:
+- NOVELA: "15 de mayo de 2017. 04:58. Costas de Kanto" (cap01.txt:3);
+  "Las puertas se abrieron a las 04:58" (cap01.txt:215).
+- GUION: "04:57 (apertura) · El Silencio 04:58-05:12" (cap01.txt:5, :183, :990).
+  CORREGIR a 04:58.
+
+[CRONOLOGIA] Escena "secuela" inexistente:
+- NOVELA: tras el cierre hay 06:00 (emisora), 07:00 (fotos), 08:00 (tren).
+  NO existe ninguna "07:42".
+- GUION: "secuela 07:42" (cap01.txt:5) y V60 "A las 07:42, la ciudad segui
+  de pie" (cap01.txt:499-500). BORRAR / sustituir por escenas 06:00-08:00.
+
+[PERSONAJE] Rika sin abanico en cap1:
+- NOVELA: Rika es una escolar con mochila, SIN arma, entra a la guarderia
+  (cap01.txt:275).
+- GUION: "Rika Tsukimi, La Hoja. El abanico cerrado en la mano derecha...
+  Sin espada: su hoja es la brasa que lleva en los punios"
+  (cap01.txt:122-126). Contradice la progresion del personaje.
+
+[PERSONAJE] Cicatriz de Rika:
+- NOVELA: NO menciona cicatriz en la ceja en cap1 (cap01.txt:263-303).
+- GUION: "Tiene la cicatriz vieja en la ceja izquierda" (cap01.txt:601).
+
+[DETALLE] Delantal:
+- NOVELA: "la cinta derecha arrancada. La izquierda segui atada, con un
+  nudo apretado" (cap01.txt:154).
+- GUION: solo "delantal amarillo palido con mancha de tempera seca en el
+  bolsillo" (cap01.txt:400-402). Omite cintas/atado.
+
+[HECHO] Linea de Sato eliminada:
+- NOVELA: Sato recoge el delantal y quiere avisar en la guarderia
+  (cap01.txt:152-162).
+- GUION: no existe Sato; el delantal aparece tirado sin portador.
+
+[HECHO] Fotografo Kenji eliminado:
+- NOVELA: el estudiante Kenji sube la primera foto (cap01.txt:172-174).
+- GUION: no aparece.
+
+[HECHO/FORMATO] Subtramas del cold open omitidas:
+- NOVELA: konbini (Kenji/Shiraishi), conductor que canta, Nakahara y sus
+  tres hijas, el hombre que busca a Hana, profecia del Estado Mayor.
+- GUION: solo soldados genericos, autobus y hueco.
+
+[DETALLE/FORMATO] Contradiccion interna del guion:
+- GUION: regla "Sin hiragana/katakana/kanji/ingles. Solo espanol" pero la
+  portada incluye "ニッポンポストアポカリプス" (cap01.txt:116).
+
+CAPITULO 2 (El turno de la tarde / La primera puerta)
+-----------------------------------------------------
+[CRONOLOGIA] Hora del turno:
+- NOVELA: Goro llega a las 4:20; turno oficial 17:20; primera puerta 17:24.
+- GUION: cabecera "lunes 15 de mayo de 2017, 15:00" (cap02.txt:5) aunque
+  su propio V3 dice "Cuatro y veinte". CORREGIR cabecera a 17:20.
+
+[HECHO] Quien combate:
+- NOVELA: Goro enfrenta SOLO al Embestidor; Kiryu huye a avisar; Nomura
+  esta arriba barriendo.
+- GUION: los cuatro (Goro/Kosuke/Nomura/Kiryu) forman equipo y luchan juntos.
+
+[DETALLE] Guante:
+- NOVELA: el guante de Goro se enciende solo y golpea al Embestidor.
+- GUION: no aparece guante; solo escudo.
+
+[HECHO] Destino del kaiyu:
+- NOVELA: el Embestidor NO muere; queda tirado bajo la puerta del cuatro.
+- GUION: el kaiyu se desintegra en polvo gris y desaparece.
+
+[PERSONAJE] Kosuke:
+- NOVELA: cocinero, 63 anios, harina en las manos, aparece tras la pelea.
+- GUION: fuma, da ordenes y pelea.
+
+[PERSONAJE] Nomura:
+- NOVELA: hombre de cincuenta anios que barria, no combate.
+- GUION: combatiente activo ("!Te cubro!", "!Sujetalo!").
+
+[PERSONAJE] Kiryu:
+- NOVELA: reporta el "soplido" y luego huye.
+- GUION: se queda y pelea.
+
+[DETALLE] Identidad de la puerta:
+- NOVELA: "puerta del cuatro" con sello metalico atornillado.
+- GUION: "puerta metalica de servicio" que se abre sola, sin numero ni sello.
+
+[HECHO] Cierre:
+- NOVELA: radio, marca en la palma, primer grito al amanecer.
+- GUION: polvo y fundido a negro.
+
+[FORMATO] Titulo:
+- NOVELA: "El turno de la tarde". GUION: "La primera puerta".
+  Decidir titulo oficial (la regla del proyecto: guion = novela).
+
+CAPITULO 3 (Dia 1, noche. La alarma / La calle)
+-----------------------------------------------
+[FORMATO] GUION CORRUPTO e incompleto:
+- Contiene volcado de shell "cat: /tmp/cap3.txt: No such file or directory"
+  (cap03.txt:24) y salta del encabezado al BLOQUE B; el Bloque A no existe.
+  => RE-ESCRIBIR ENTERO.
+
+[CRONOLOGIA] Hora:
+- NOVELA: "17:31. El Sector 6 sigue abierto" (cap03.txt:3).
+- GUION: "lunes 15 de mayo, 16:30 (Dia 1, tarde)" (cap03.txt:5).
+
+[HECHO] Trama distinta:
+- NOVELA: noche de la alarma: Goro llama por telefono, suena la sirena,
+  cae Kawano, mueren personas.
+- GUION: evacuacion de civiles y "primera defensa" del grupo, sin alarma
+  ni muertes.
+
+[PERSONAJE] Mitamura Setsuko (74 anios, carro de verduras): ausente del guion.
+[PERSONAJE] Kawano Shinichi (38 anios, muere aplastado por el Embestidor):
+  ausente del guion.
+[HECHO] La alarma sonora y el carro de verduras volcado: no existen en el guion.
+[FORMATO] El guion afirma "Coherente con novela cap03" sin serlo.
+
+CAPITULO 4 (Dia 2, manana. La respuesta / Reagrupados)
+------------------------------------------------------
+[CRONOLOGIA] Dia equivocado:
+- NOVELA: "Dia 2. 06:40. Base NSF" (martes 16-may).
+- GUION: "lunes 15 de mayo, 17:45 (Dia 1, tarde)". INCORRECTO.
+
+[HECHO] Escenario y trama distintos:
+- NOVELA: reuniones en la base NSF (Watanabe, Kurose), poligono de tiro de
+  Miura, reconocimiento aereo de Hayakawa.
+- GUION: reagrupamiento civil en un garaje y rescate del "bloque tres".
+
+[PERSONAJE] Rika, Ren y Yui ausentes del guion (en la novela viajan en el
+  autobus militar junto a Goro).
+[PERSONAJE] Elenco militar ausente (Watanabe Raishiro 54, Kurose Ken 52,
+  Miura Daigo 35, Hayakawa Saya 31, Tokura, Futaki).
+
+[DETALLE] Quemadura compartida:
+- NOVELA: la misma franja/quemadura recta en el antebrazo de Rika y en Goro
+  (cap04:113-129; cap05:246). No aparece en el guion.
+
+[HECHO] Numeros del balance:
+- NOVELA: "Cuatro puertas confirmadas... Cuarenta y seis kaiyu avistados".
+- GUION: sin cifras; "unos doce" rescatados.
+
+[DETALLE] Mapa con siete marcas rojas (Yokohama la mayor): ausente del guion.
+[FORMATO] Guion-esqueleto generico, sin escenas equivalentes.
+
+CAPITULO 5 (Dia 2, noche. La brasa / El primer grupo)
+-----------------------------------------------------
+[CRONOLOGIA] Hora:
+- NOVELA: "Dia 2. 21:10. El Sector 6".
+- GUION: "martes 16 de mayo, 08:00 (Dia 2)" => noche vs amanecer.
+
+[HECHO] Muerte de Nomura:
+- NOVELA: Nomura Tatsuo esta muerto (cap05:170-172), killado por Goro por
+  error (fuego amigo al disparar la brasa a la criatura-sombra).
+- GUION: Nomura VIVE y coordina ("Hay que contactar con otros puntos...").
+  CONTRADICCION GRAVE: tambien los cap2-4 lo muestran vivo.
+
+[HECHO/DETALLE] Perdida del guante:
+- NOVELA: Goro se arranca el guante y lo abandona: "No me lo vuelvo a
+  poner" (cap05:240-250).
+- GUION: no hay guante en todo el capitulo.
+
+[HECHO] La "sombra" y el fuego amigo:
+- NOVELA: Goro dispara la brasa contra una criatura plana y mata a Nomura.
+- GUION: no existe la criatura-sombra ni el accidente.
+
+[HECHO] Portal "Acero gris":
+- NOVELA: "Acero gris... un hueco... Tres de ellos, caminando hacia la ciudad".
+- GUION: no se menciona.
+
+[PERSONAJE] Apellido de Kosuke: NOVELA "Kosuke Tsumita, 63";
+  GUION solo "Kosuke".
+[PERSONAJE] Kiryu: NOVELA mide/parcha la puerta y graba con el telefono;
+  GUION solo organiza turnos.
+[FORMATO] Guion-esqueleto sin el climax del capitulo.
+
+CAPITULO 6 (Los catorce minutos)
+--------------------------------
+[PERSONAJE/DETALLE] Civil del portal:
+- NOVELA: solo susurra "No me ve" (cap06.txt:50). La idea "Huir ya no era
+  un movimiento util" es narracion (cap06.txt:46).
+- GUION: inventa y pone en boca del civil la linea "Ya no sirve de nada huir"
+  (guion cap06.txt:322, tabla 1092).
+
+[PERSONAJE] Goro:
+- NOVELA: al llegar su unica frase es "Yo crucé una de esas" (cap06:136-138);
+  no llama a Rika.
+- GUION: anade "Goro Arashi: —Rika." al entrar (guion cap06.txt:710).
+
+[PERSONAJE] Atribucion del "—¿Que?":
+- NOVELA: sin atribucion tras "Se van" de Ren (cap06:150-154).
+- GUION: lo asigna a Goro (guion cap06.txt:900).
+
+[DETALLE] Escena 05:13:
+- NOVELA: Rika solo levanta la mano al aire, sin hablar (cap06:156-158).
+- GUION: anade un segundo "Rika T.: —Mio." (guion cap06.txt:1012).
+  (OJO: refuerza o viola el misterio de "Mio" segun la novela — decidir.)
+
+CAPITULO 7 (Lo que quemo)
+-------------------------
+[CRONOLOGIA] Marcas de tiempo de la base NSF:
+- NOVELA: puerta de servicio 05:22 (cap07:23), sala de archivos 05:25
+  (cap07:35), pasillo 05:28 (cap07:172).
+- GUION: rotula todo el interior a las 05:20 (cap07.txt:5, 306, 314).
+
+[DETALLE] Bloque A:
+- NOVELA: abre con Ren "Se fue con la luz" y Rika "Se fue" (cap07:13-15).
+- GUION: el bloque A no recoge ese dialogo; muestra a los cuatro en silencio.
+
+CAPITULO 8 (Verde)
+------------------
+[PERSONAJE] Tres intercambios Ren/Rika INVERTIDOS (el peor capitulo):
+1. NOVELA: "Ren: No ibas a volver sola. / Rika: Volvi sola. / Ren: Y ganaste
+   sola." (cap08:93-97).
+   GUION: "Rika: No ibas a volver sola. / Ren: Volvi sola. / Ren: Y ganaste
+   sola." (tabla 1277-1279).
+2. NOVELA: Ren "Goro. Yui. Estan a dos calles. No saben. Yo no les dije."
+   (cap08:107).
+   GUION: Rika "Goro. Yui. ¿Sabes?" (tabla 1282).
+3. NOVELA: "Rika: No se lo digas. / Ren: No se lo digo." (cap08:111-115).
+   GUION: "Ren: No se lo digas. / Rika: No se lo digo." (tabla 1284-1285).
+   => INVERTIR la atribucion en toda la secuencia segun la novela.
+
+[DETALLE] "—No —dijo Rika" (cap08:61) vs guion "Rika: !No!" (tabla 1274):
+  matiz de intencion, revisar.
+
+[FORMATO] Ficha de globos desactualizada:
+- GUION ficha dice "Globos de dialogo | 8" y cabecera "(8)" frente a 35
+  globos reales (reconocido en su propio texto); "Cajas de narracion (6)"
+  frente a 13 listadas. RE-AUDITAR.
+
+CAPITULO 9 (Nadie hace nada)
+----------------------------
+[DETALLE] Caja inventada:
+- GUION: "Rika entendio que lo de aquella tarde no iba a depender de lo que
+  hiciera el mercado, sino de lo que hiciera ella." (guion cap09:430).
+- NOVELA: no existe esa reflexion (solo "el peso de la palabra de la noche"
+  y el circulo del mapa, cap09:157). Re-DECIDIR: mantener como caja de
+  narracion visual o suprimir.
+
+[FORMATO] Tabla de globos truncada:
+- NOVELA: Yui "...¿Quien ha cambiado las reglas? ¿Quien ha escrito el nuevo
+  reglamento...?" (cap09:131).
+- GUION: el cuerpo da la frase completa (guion cap09:780) pero la tabla la
+  trunca en "...¿Quien ha cambiado las reglas?" (tabla 1166).
+  CORREGIR la tabla.
+
+[FORMATO] Cabecera de tabla SFX: trae columna "Deutsch" (aleman) vacia en un
+  guion en espanol (guion cap09:1194) contra su propia ficha "SFX | espanol".
+  QUITAR columna.
+
+[FORMATO] Errata: "un vacio descrio" por "descrito" (guion cap09:1209).
+
+CAPITULO 10 (La jauria)
+-----------------------
+[CRONOLOGIA] Cierre:
+- NOVELA: escena final a las 22:10 (cap10:87).
+- GUION: fecha el capitulo "21:45-22:15" (cap10:5). Ajustar horario.
+
+[PERSONAJE] Cierre repartido como dialogo:
+- NOVELA: narracion sin hablante y en pasado: "Todavia no era el momento.
+  Pero la puerta, por fin, se estaba moviendo." (cap10:125).
+- GUION: Rika "Todavia no era el momento." + Goro "Pero la puerta, por fin,
+  se esta moviendo." (tabla 1152-1153). Decidir si son cajas de narracion
+  en vez de dialogos.
+
+[DETALLE] Orden de entrada:
+- NOVELA: "Rika llego primero, con el haori volando..." (cap10:89).
+- GUION: "Ren, Yui y Rika" con Rika en ultimo lugar (cap10:932).
+
+[DETALLE] Goro "—Bueno" antes del combate (cap10:33): omitido en el guion.
+
+CAPITULO 11 (El portal)
+-----------------------
+[CRONOLOGIA] Hora del video de la familia:
+- NOVELA: "a las SEIS de la manana" (cap11:23).
+- GUION: "ventanas encendidas a las CINCO de la manana" (cap11:100 V7).
+  CORREGIR a 06:00.
+
+[HECHO] Dialogo Yui/Goro/oficiales casi eliminado:
+- NOVELA: encadena "Goro: ¿Cuantos? / Yui: ...a las seis... Con la pregunta. /
+  Goro: Que pregunta. / Yui: Si el del video soy yo. Si el de la calle soy yo. /
+  Goro: ¿Y que le dijiste? / Yui: Que si era... eran tres mas. /
+  Ren: ¿Por que le dijiste eso? No sabes si vamos a estar todos." (cap11:21-35).
+- GUION: conserva solo "Yui: Esta por todas partes / Goro: ¿El que?".
+  RESTAURAR el dialogo completo.
+
+[HECHO] Renga omitido: NOVELA cap11:51 Ren "...Ya no les asusta el video...
+  Les asusta el brazo." No esta en el guion.
+
+[DETALLE] Guarderia:
+- NOVELA: Futaki "detras de una guarderia del barrio. La de vuestra calle."
+  (cap11:59) + identificacion "La calle de la guarderia" / "¿Quien llamo?"
+  (cap11:63-67). El guion omite "La de vuestra calle" y la identificacion.
+
+[HECHO] Conteo de kaiyu amarillos:
+- NOVELA: "Los TRES amarillos rodearon la guarderia" (cap11:190);
+  "Sobre la calle quedaron DOS" (cap11:237).
+- GUION: "Los DOS kaiyu restantes rodean la guarderia" (V66);
+  "queda UN SOLO kaiyu amarillo" (V86-87).
+  RE-CONTAR y cuadrar con la novela.
+
+[DETALLE] Nino: el guion anade "¿A que?" (V81); la novela solo "Uno", "Dos"
+  (cap11:220-224).
+
+CAPITULO 12 (Se cuentan)
+------------------------
+[PERSONAJE] Atribucion "¿Por los tres segundos?":
+- NOVELA: la pregunta es de REN (cap12:35).
+- GUION: el CUERPO la asigna a Ren (cap12:188) pero la TABLA de globos la
+  pone en boca de YUI (cap12:1066 V18). CORREGIR la tabla.
+
+[HECHO] Yui inventa version de la lancha:
+- GUION: "Yo vi la lancha. Vi el Portal Cuatro. Vi a Goro entrar. No vi a
+  nadie saliendo." (cap12:446, 1087). La novela NO le da esa version
+  (cap12:99: Yui solo dice "Yo no vi ninguna fila"). REVISAR si se mantiene.
+
+[DETALLE] Lapsus de Ren con "Mio":
+- NOVELA: "Vi a Mio —y el nombre le salio sin querer... vi a una chica."
+  (cap12:91). GUION: solo "Vi a una chica" (cap12:430/1085). Es INFO CLAVE
+  (conecta con cap06/25). NO omitir.
+
+[DETALLE] Ren omitido:
+- NOVELA cap12:63 "Y cuando llega alguien que no soy yo, se apaga y me dice
+  que vaya." El guion corta la replica antes de esa frase.
+
+[HECHO] Bloque E "El cuaderno" ANADIDO:
+- GUION: Yui "La anoto. Para que no se nos escape..." + Goro "Alguien tendra
+  que vigilar esa noche." (cap12:656-798). NO existe en la novela cap12.
+  Decidir: es material nuevo; validar coherencia con la novela cap15
+  (la linea del cuaderno coincide ahi).
+
+CAPITULO 13 (Omega)
+-------------------
+[CRONOLOGIA] Contradiccion interna del guion:
+- GUION: "La mesa del archivo, 18:00" (V105, cap13:911) vs "archivado a las
+  veintidos" (V114, cap13:993). La novela dice "se archivo a las veintidos"
+  (cap13:219). CORREGIR el 18:00 a 22:00.
+
+[DETALLE] "catorce meses" (cap13:41, :73, :97): no aparece en el guion.
+
+CAPITULO 14 (Cuatro kilometros)
+-------------------------------
+[HECHO] Adicion: GUION "Yui: Nos cortan la dasena tres." (V5); la novela solo
+  tiene "Goro: Atras. Hacia la dasena tres." (cap14:17). Revisar.
+[HECHO] Omision: NOVELA cap14:57-61 Rika "Podriamos haberlos matado",
+  Goro "Pero hoy no era el dia para eso", Yui "Hoy era el dia para volver".
+  El guion solo conserva la replica de Ren (V102). RESTAURAR.
+
+CAPITULO 15 (El rifle)
+----------------------
+- OK. Sin discrepancias: rifle con mira, un unico kaiyu naranja, los tres
+  segundos y la linea del cuaderno coinciden.
+
+CAPITULOS 16-20 — FORMATO (esqueletos vacios)
+---------------------------------------------
+- cap16: novela 87 lineas (escena Rika/Jumoji) vs guion 19 lineas (solo ficha).
+- cap17: novela 79 vs guion 19 (solo ficha).
+- cap18: novela 93 vs guion 9.
+- cap19: novela 117 vs guion 7.
+- cap20: novela 149 vs guion 7.
+=> RE-ESCRIBIR cuerpo completo desde la novela.
+
+[DETALLE] cap18 - datos clave omitidos (no perder):
+- Fecha/hora de la desaparicion: "15 de mayo de 2008. Hora: 04:58".
+- Lugar: "Guarderia municipal, distrito norte de Yokohama".
+- "Sujeto permanece en el mismo espacio-tiempo... no ha envejecido".
+- "anomalia tipo omega".
+
+CAPITULO 21 (El Portero Encabezado)
+-----------------------------------
+[FORMATO] Esqueleto de 6 lineas; declara 120 vinietas que no existen.
+[PERSONAJE] NOVELA: "el Portero Encabezado. Era uno de los ocho grandes"
+  (cap21:17). GUION: solo "jefe". Usar el nombre/clase.
+[DETALLE] Portal estable y sala subterranea: NOVELA "un portal rectangular
+  de color azulado oscuro flotaba inmobil" + "dejando el portal tal como lo
+  habian encontrado" (cap21:61, :75). No en el guion (solo "Señala adentro").
+[DETALLE] Armas usadas: abanico de brasa (Rika), escudo (Goro), rifle
+  (Yui), zigzag (Ren) (cap21:23-43). Incluir en la pelea.
+[DETALLE] Dialogos: "—Este es distinto —murmuro Goro" (cap21:21); los demas.
+[FORMATO] Falta la linea de nombres/canon que cierran los guiones cap07-13.
+
+CAPITULO 22 (Yui cuenta)
+------------------------
+[FORMATO] Esqueleto de 4 lineas vs 97 de novela.
+[CRONOLOGIA] GUION "amanecer silencioso" vs NOVELA "Lunes 22 de mayo de
+  2017. 15:30. Guarderia, Base NSF". CORREGIR a media tarde.
+[LUGAR] GUION sugiere exterior al amanecer; NOVELA fija interior
+  (guarderia-refugio, puerta cerrada).
+[DETALLE] Nucleo del capitulo omitido: los TRES SEGUNDOS de Yui
+  ("—Tres. ... siempre hay tres segundos de silencio. Los he aprendido a oir",
+  cap22:27, :35) y el contrapunto de Ren ("huecos"/"instantes", cap22:41, :49).
+[PERSONAJE] Omite a Tsukimi Shino (madre de Mio) y a Amano Rei (primer cruce
+  Yui-Rei, cap22:81-85).
+[DETALLE] Frase-gancho "aun no pasa" (cap22:69) omitida.
+[HECHO/canon] Guarderia con ninos + "un nombre tachado" (Guias/arco-200.txt:
+  168, 170): novela y guion no los tienen; decidir si aplicarlo segun canon.
+
+CAPITULO 23 (El rojo)
+---------------------
+[FORMATO] Esqueleto de 4 lineas vs 139 de novela.
+[HECHO/canon] GUION reticuliza "Rojo protege nina", pero el CANON queria al
+  rojo "sin aparecer" (arco-200.txt:174; mapa-peleas.txt:113). NOVELA: "El
+  rojo la vio. Y se quedo petrificado... retrocedio... dio media vuelta y se
+  alejo" (cap23:97, 117-119). OJO: no "protege", se RETIRA. Alinear guion
+  con novela Y con el canon (aparece pero no ataca — decide si eso cuenta
+  como "aparecer").
+[PERSONAJE] Watanabe Raishiro y Futaki Saeri presentes en la novela
+  (cap23:7, :15), ausentes del guion.
+[DETALLE] Conducta clave del rojo: endereza un tablon con cuidado, esquiva
+  escombros (cap23:73-79). NOVELA tambien lo describe: alto, esbelto, piel
+  casi granate, ojos ambar (cap23:61).
+[CRONOLOGIA] NOVELA "Martes 23 de mayo de 2017. 05:40" sin registrar en guion.
+
+CAPITULO 24 (El Asesor)
+-----------------------
+[FORMATO] Esqueleto de 6 lineas vs 101 de novela.
+[HECHO] Composicion enemiga: NOVELA "Tres naranjas y un rojo" (cap24:7).
+  Guion sin enemigos.
+[HECHO] SEGUNDO portal estable (clave): NOVELA "habia otro portal azul
+  oscuro... —Son dos —murmuro Yui" (cap24:77, :83). NOVELA continua:
+  "—Hay algo ahi abajo... Algo relacionado con omega" (cap24:87). Incluir.
+[CRONOLOGIA] Contradiccion interna de NOVELA: cap23 = 05:40 pero cap24 lo
+  llama "aquella misma tarde" (cap24:9) y "al de la tarde" (cap24:15).
+  DECIDIR cual es la hora correcta al re-escribir (Anexo 1).
+[DETALLE] Asesor: fija la mirada en RIKA antes de hablar (cap24:19-23);
+  canon esperaba la mirada a una nina (arco-200.txt:181). Decidir.
+[DETALLE/PERSONAJE] Palabra unica = "primera fonetica ajena a cualquier
+  idioma humano" (cap24:25) y es "el primer sonido de su idioma"
+  (arco-200.txt:201). El guion solo dice "Habla palabra ajena": darle el
+  peso correcto en la vineta.
+
+CAPITULO 25 (Corte de Un Destello)
+----------------------------------
+[FORMATO] Esqueleto de 6 lineas vs 103 de novela.
+[CRONOLOGIA] Contradiccion interna de NOVELA: cabecera 04:50 (cap25:3) vs
+  cuerpo "cuatro y media" (cap25:11). Decidir (Anexo 1).
+[HECHO/canon] La palabra que repite Mio: NOVELA "*Uno... dos... tres...
+  cuatro...*" (cap25:35); CANON dice "no es un nombre: es una hora. Cuatro y
+  cincuenta y ocho" (arco-200.txt:188). ALINEAR novela para que Mio cante
+  las horas y apunte a 04:58.
+[DETALLE] Mio: misma postura, vestido y coletas (cap25:33); "no quedo ningun
+  portal flotando" (cap25:101). Incluir compo.
+[HECHO] Rei observa desde una pequena ventana (cap25:93-95): coincide con
+  el gancho del guion ("Rompe bucle, Rei observa desde cristal"). OK.
+
+CAPITULO 26 (La OIDA)
+---------------------
+[FORMATO] Esqueleto de 4 lineas vs 41 de novela (reunion fundacional).
+[HECHO] Internacionalizacion: bomberos/equipos/enlaces militares y civiles
+  de Corea, EEUU y Reino Unido (cap26:9). Nombre completo:
+  "Organizacion Internacional de Desastres Anomalos" (cap26:31).
+[PERSONAJE] Watanabe Raishiro habla (cap26:13); Kurose Ken "—Porque
+  nadie... —murmuro" (cap26:21). Incluir.
+[CRONOLOGIA] NOVELA "Jueves 25 de mayo de 2017. 10:00". Guion sin fecha.
+
+CAPITULO 27 (Operaciones mixtas)
+--------------------------------
+[FORMATO] Esqueleto de 4 lineas vs 37 de novela.
+[HECHO] Lugar + enemigos: "Sector Diez... un grupo de SEIS amarillos y DOS
+  naranjas" (cap27:3, :17).
+[DETALLE] Formacion tactica: Rika flanco derecho, Goro centro con escudo,
+  Yui atras con rifle, Ren cubre huecos (cap27:21).
+[DETALLE] Gestos de confianza: barritas energeticas del britanico, charla
+  del coreano con Yui (cap27:29-31).
+
+CAPITULO 28 (El primer prisionero)
+----------------------------------
+[FORMATO] Esqueleto de 4 lineas vs 57 de novela.
+[PERSONAJE] GUION adelanta el nombre "Tharn": la NOVELA NO lo nombra en cap28
+  (se revela en cap29:23 "Su nombre era Tharn"). NO revelar antes.
+[HECHO] Hecho central omitido: la rendicion ("Se rindio. Bajo los brazos. Se
+  agacho", cap28:11-13) y el primer hito de comunicacion ("consiguio repetir
+  una palabra... *Agua*", cap28:45-47).
+[CRONOLOGIA] NOVELA "Sabado 27 de mayo de 2017. 16:00". Guion sin fecha.
+[HECHO/canon] CANON: "El prisionero (T2, DESPUES del cap 40)" (enemigos.txt:
+  167); "se captura al primer kaiyu... (39-44)" (arco-200.txt:200). La novela
+  lo adelanta al cap28. DECISIÓN GLOBAL: o se retrasa el arco Tharn, o se
+  actualiza el canon. (Impacta caps 28-30 y la temporada 2.)
+
+CAPITULO 29 (Aprendiendo a hablar)
+----------------------------------
+[FORMATO] Esqueleto de 4 lineas vs 65 de novela.
+[CRONOLOGIA] Contradiccion interna de NOVELA: "Domingo 28 de mayo, 09:00"
+  (cap29:3) vs "los DOS dias siguientes" (cap29:7) y "Para el TERCER dia"
+  (cap29:17). Decidir (Anexo 1).
+[HECHO] Revelacion del mundo kaiyu: "un rey tirano... su mundo se estaba
+  muriendo... Conquistar... La Tierra" (cap29:25-37). Incluir.
+[PERSONAJE] Tharn lider rebelde: "Formaba parte de un movimiento rebelde"
+  (cap29:23). Retirar el nombre del cap28; mantener para cap29.
+[HECHO/canon] Mismo conflicto de canon que cap28 (arco despues de cap 40).
+
+CAPITULO 30 (Puente entre mundos)
+---------------------------------
+[FORMATO] Esqueleto de 4 lineas vs 61 de novela.
+[HECHO] Reunion restringida autorizada por Watanabe Raishiro; asistentes:
+  Kurose Ken, Futaki Saeri, mandos de OIDA (cap30:7-9).
+[DETALLE] Frase titulo: "tender un puente entre ambos mundos" (cap30:45);
+  Goro "—No vamos a ayudar a conquistar vuestro mundo..." (cap30:35).
+[DETALLE] Referencias de continuidad: "la pausa del naranja en el Sector
+  Ocho" (cap30:21) y "el rojo protegio a la nina" (cap30:23) — conectar con
+  cap13 y cap23.
+[CRONOLOGIA] NOVELA "Lunes 29 de mayo de 2017. 16:00". Guion sin fecha.
+
+========================================================
+ANEXO 1 — CONTRADICCIONES INTERNAS DE LA NOVELA
+(decidir canon ANTES de re-escribir)
+========================================================
+1. Edad del kaiyu... (no). Edad de Nomura: cap02:21 "cincuenta anios" vs
+   cap05:52 "cuarenta y nueve". Elegir una.
+2. cap24 llama "aquella misma tarde" (cap24:9, :15) a eventos que en cap23
+   suceden a las 05:40. Elegir hora correcta (¿la pelea es de tarde y la
+   cabecera del cap23 esta mal?).
+3. cap25: cabecera 04:50 vs cuerpo "cuatro y media". Elegir (04:50 o 04:30).
+4. cap29: "Domingo 28 de mayo, 09:00" vs "dos dias siguientes" (7) y
+   "tercer dia" (17). Reconciliar fecha con los dias contados.
+5. Mio: novela cap1 la presenta sin vinculo con Goro (Mine Hoshino, 5 anos,
+   nina de la guarderia). canon inicial la queria hija de Goro (~4.5-5).
+   Decidir el vinculo final (afecta cap22, 25 y la T2).
+6. "Mio"/"Mine": dos nombres. Confirmar cual es el canon (en cap06 Rika
+   dice "Mio" y la guarderia cap1 es de Mine Hoshino). ¿La hija de Shino?
+   Verificar coherencia global antes de escribir guiones 22/25.
+
+========================================================
+ANEXO 2 — CONFLICTOS DE CANON EN Guias/ (bloquean escribir)
+========================================================
+1. Guante de Goro: heroes.txt:98 llama a su poder "La brasa del GUANTE" y la
+   novela cap10:121 menciona "el guante de brasa"; pero NOTAS.txt:43 fija
+   "Goro sin guante desde el final del cap5". DECIDIR:
+   (a) el guante se queda como origen del poder pero Goro lo pierde en cap5 y
+   usa bracelet/poder sin el, o
+   (b) actualizar heroes.txt. NO dejar ambos.
+   Impacta: guion cap1 (guion dice "lo dejo caer hace anios" — ERROR, fue en
+   cap5) y toda la iconografia.
+2. Asesor (cap24): canon arco-200.txt:181 esperaba mirada a una nina; la
+   novela fija la mirada en Rika. Elegir. arco-200:201 confirma palabra
+   unica = primer sonido de su idioma (ok con novela).
+3. Prisionero Tharn: canon enemigos.txt:167 y arco-200.txt:200 lo ubican
+   despues del cap 40 / T2; la novela lo trae en cap28. Decidir si se
+   reubica la novela (caps 28-30) o se actualiza el canon.
+4. Rojo (cap23): canon "se oye. No aparece" (arco-200:174, mapa-peleas:113)
+   vs novela "la vio y se retiro". Decidir nivel de aparicion permitido.
+5. Mio y "la hora": arco-200:188 "no es un nombre: es una hora. 04:58" vs
+   novela cap25 repite "*Uno... dos... tres... cuatro...*". Marcar si Mio
+   cuenta horas.
+
+========================================================
+PLAN DE ACCION (orden sugerido de trabajo mañana)
+========================================================
+FASE 1 - DECIDIR CANON (todas las opciones de Anexo 1 y 2): sin estos
+  acuerdos NO se pueden re-escribir capitulos. Anotar cada decision en
+  NOTAS.txt y actualizar Guias/.
+FASE 2 - REWORK DE GUIONES DEL 1 AL 15 (ya detallados):
+  - cap01: guante, 04:58, borrar secuela 07:42, Rika sin abanico/cicatriz,
+    restaurar Sato y Kenji, decision titulo cap2.
+  - cap02: hora cabecera 17:20, pelea de Goro SOLO, guante, Embestidor vivo,
+    Kosuke/Nomura/Kiryu segun novela, puerta del cuatro con sello.
+  - cap03: RE-ESCRIBIR completo (esta corrupto).
+  - cap04: RE-ESCRIBIR (base NSF, elenco militar, balance 4 puertas/46 kaiyu,
+    quemadura compartida, mapa 7 marcas).
+  - cap05: RE-ESCRIBIR (21:10, Nomura MUERTO, sombra/fuego amigo, guante
+    abandonado, Acero gris).
+  - cap06: restaurar texto novela, quitar lineas inventadas.
+  - cap07: marcas de tiempo 05:22/05:25/05:28, dialogo de apertura.
+  - cap08: INVERTIR atribuciones Ren/Rika (3 sitios), re-auditar globos.
+  - cap09: caja "entendio" opcional, tabla de globos completa, quitar
+    columna Deutsch, errata.
+  - cap10: cierre como narracion, orden (Rika primero), "Bueno" de Goro,
+    horario 22:10.
+  - cap11: 06:00 no 05:00, restaurar dialogo completo, "Les asusta el brazo",
+    guarderia "de vuestra calle", conteo amarillos (3 y 2), nino sin "¿A que?".
+  - cap12: atribucion REN en tabla, version lancha revisar, NO omitir lapsus
+    "Mio", restaurar replica Ren.
+  - cap13: 22:00 no 18:00, agregar "catorce meses".
+  - cap14: decidir los "omas" del orden... restaurar dialogo Rika/Goro/Yui.
+  - cap15: nada que hacer.
+FASE 3 - CONSTRUIR GUIONES 16-30 desde la novela (esqueletos vacios).
+  Respetar: tono, retícula de 60 pantallas, auditaria de globos (cap10) y
+  la estructura de guiones detallados cap07-13 (con linea de nombres/canon
+  al final). No perder los datos clave listados (cap18, 22, 23, 24, 25, 26,
+  27, 28, 29, 30).
+FASE 4 - VALIDAR:
+  - correr check_guion.py sobre todos los guiones (debe dar PASS).
+  - correr webtoon_manifest.py / maquetador.py para que no se rompan.
+  - commit + push cuando haya conexion (conectar.sh).
+
+========================================================
+NOTAS DE ESTADO (recordatorio)
+========================================================
+- Guiones cap11-14 detallados, cap15-30 esqueletos (TAREAS-MAÑANA / NOTAS).
+- Todos los archivos ya pasaron de .md a .txt (commit c74b70a).
+- Los guiones cap01-cap13 son los unicos con cuerpo real.
+- check_guion.py exige: "MAPA DE PANTALLAS", bloques "### Snn" y vinietas
+  "**Vn.**" — los esqueletos 16-30 no cumplen y darian FAIL.
+
+========================================================
+FIN DEL INFORME
+========================================================

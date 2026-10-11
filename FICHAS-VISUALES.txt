@@ -1,0 +1,342 @@
+# FICHAS VISUALES — NPAD (estilo Solo Leveling)
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+Biblia de arte para prompts. Construida desde `heroes.txt`, `enemigos.txt`,
+`estilo.txt` y la hoja de personajes. Render: manhwa coreano tipo Solo Leveling
+(DUBU / Redice Studio). Si tus fotos difieren, mandan las fotos.
+
+---
+
+## 0. CÓMO USAR + ESTILO APLICADO (SOLO LEVELING)
+
+Uso: en cada viñeta se adjunta la hoja de referencia del personaje + su ANCLA de
+texto (palabra por palabra). La imagen sola deriva; imagen + texto se mantiene fiel.
+
+RENDER OBLIGATORIO (Solo Leveling)
+- Full color. Cel-shading SUAVE con gradientes y bordes difuminados. Nunca plano duro.
+- Tres pasadas: base plana → sombra cel FRÍA (azul-gris / violeta) → overlay CÁLIDO
+  (ámbar/coral) que separa figura de fondo.
+- Línea fina, limpia y constante, coloreada en los bordes. Nunca tinta negra gruesa.
+- RIM LIGHT fuerte en pelo y contornos. Brillos especulares en pelo y metal.
+- BRILLO EMISIVO (glow) en poderes, ojos activados y color de peligro de enemigos.
+- Piel semi-realista con gradiente suave en pómulos y puente de nariz.
+- Temperatura por viñeta: diálogo y tensión = frío y desaturado; acción y clímax =
+  cálido y saturado. Motion blur y aberración cromática SOLO en los golpes.
+- Proporción semi-realista: 8 cabezas en adultos. Nada caricaturesco.
+- Viñeta de impacto: viñeta a sangre, viñeta baja, rim light a contraluz, partículas.
+
+Prohibido: HUD, barras, niveles, menús, "LEVEL UP", texto en inglés, marcas de agua,
+firmas, glifos de otros idiomas. Los glifos Kaikoru SÍ se conservan.
+
+Glow de poder por héroe (firma de energía, tipo Jinwoo):
+- Rika = carmesí #E23B3B · Goro = ámbar #FF6A2A · Ren = amarillo eléctrico #FFE23B ·
+  Yui = azul acero #5AC8FA.
+
+---
+
+## 1. HÉROES
+
+### 1.1 RIKA TSUKIMI — «La Hoja»
+
+IDENTIDAD
+- Rol: la que corta. Protagonista. Edad: 24 (15 el Día 1). Altura: 158 cm.
+- Poder: dash que atraviesa y daña; se recarga con cada enemigo atravesado.
+
+CUERPO
+- Delgada, fibrosa, hombros estrechos, caderas pequeñas. Fuerza de esgrima.
+- 7,5 cabezas. Manos algo grandes (agarre de espada). Piel pálida y fría.
+- Cicatriz vieja y fina en la CEJA IZQUIERDA. Corte claro en el dorso de la mano
+  derecha. Uñas cortas, alguna astillada. Durezas en codos y rodillas.
+- Pelo ROJO carmesí (#B22B2B), largo a la cintura, COLETA ALTA, mechones sueltos.
+  En Solo Leveling: strand highlights luminosos y rim light rojo.
+- Ojos marrón oscuro, hundidos y MUV ABIERTOS. Con el poder activo, destello rojo.
+
+ROPA (de dentro a fuera)
+- Kimono corto NEGRO (#14130F) de rayas verticales finas gris (#3A3A38).
+- OBI negro ancho (#0E0E0C). HAORI corto HUESO (#E8E2D2): prenda más clara de la
+  página, mangas anchas, abierto. Vendas BLANCAS (#EDEAE0) en antebrazos y manos.
+- ZORI negras con cinta simple. Sin joyas.
+
+ARMA
+- Sable corto de un filo, hoja mate, empuñadura de cordel negro gastado.
+- Solo recibe un FILO DE LUZ (rim carmesí) al atacar: la estela del dash es una
+  línea de luz roja con motion blur.
+
+RENDER (Solo Leveling)
+- Sombra cel azul-violeta, overlay cálido en el haori. Rim light blanco-carmesí.
+- El HAORI con volumen y pliegues luminosos: se lee como una vela de luz.
+
+PALETA
+- Rojo pelo #B22B2B · Negro ropa #14130F · Hueso #E8E2D2 · Piel #E7C9B0 ·
+  Glow #E23B3B.
+
+MARCA ÚNICA: el HAORI ondeando por detrás.
+
+MOVIMIENTO: pies ligeros, medio cuerpo adelantado, desenvaina antes del golpe.
+
+CAMBIO: Cap 1 (15 años) más niña y ropa más gastada; mismo haori.
+
+---
+
+### 1.2 GORO ARASHI — «El Yunque»
+
+IDENTIDAD
+- Rol: el que aguanta. Edad: 41 (32 el Día 1). Altura: 195 cm.
+- Poder: carga larga (3x), empuja; escudo aguanta golpes letales.
+
+CUERPO
+- Enorme, ancho de espalda, pecho grueso, brazos como troncos, manos grandes,
+  cuello corto. Panza firme. Cabeza pequeña HUNDIDA entre los hombros.
+- Piel curtida, bronceada, porosa, vello en antebrazos.
+- QUEMADURA vieja y ancha en MEDIO DEL CUELLO. Dos cicatrices en el cráneo calvo.
+  Nudillos deformados, nariz rota, labio partido antiguo, diente astillado.
+- Pelo: NINGUNO. Sombra de barba gris. Ceño permanente. Un párpado más caído.
+
+ROPA (armadura reensamblada)
+- Camiseta negra (#1A1A19) sudada debajo.
+- CORAZA de planchas OXIDADAS (#8A3D1E con metal #6B4A34): peto + hombreras
+  asimétricas remachadas, parches de distinto metal. Óxido y desgaste visibles.
+- Guantes gruesos de cuero negro. Cinturón con cartucheras. Rodilleras metálicas.
+  Pantalón cargo oscuro. Botas militares pesadas.
+- ESCUDO redondo OXIDADO atado a la espalda. CASCO de obra gris en la mano (Día 1).
+
+ARMA
+- Maza/martillo industrial pesado. Golpe descendente, área circular.
+- El ESCUDO como segunda arma. Al impactar, onda de choque ámbar con distorsión.
+
+RENDER (Solo Leveling)
+- Metal con especular y óxido texturado. Sombra cel fría; overlay cálido de la brasa.
+- BRASA del guante derecho: único punto CÁLIDO (#FF6A2A) y EMISIVO. Vapor que sale
+  cuando pierde el control. En su clímax, grietas de calor recorren la armadura.
+
+PALETA
+- Óxido #8A3D1E · Metal #6B4A34 · Negro #1A1A19 · Piel curtida #A9784F ·
+  Glow/Brasa #FF6A2A.
+
+MARCA ÚNICA: el ESCUDO a la espalda (mancha que nadie más tiene).
+
+MOVIMIENTO: lento, pesado, deliberado; el suelo se nota al entrar en combate.
+
+---
+
+### 1.3 REN HAYASHI — «El Relámpago»
+
+IDENTIDAD
+- Rol: velocidad. Edad: 25 cronológico, 19 aparentes (16 el Día 1). Altura: 172 cm.
+- Poder: dash que no gasta carga; tres cargas que se recargan solas.
+
+CUERPO
+- Delgado, hombros caídos, poco músculo, cuello fino. 8 cabezas REALISTA
+  (resuelto: ya NO es caricaturesco).
+- Piel clara y joven. Manos con TICS, no paran quietas. Uñas mordidas.
+- Pelo NEGRO (#0E0E10) revuelto, despeinado, largo por encima de las orejas,
+  mechón rebelde. Rim light frío.
+- Ojos grandes, negros, muy abiertos, expresión de SORPRESA permanente. Ojeras
+  leves. Con el poder activo, destello amarillo eléctrico en los ojos.
+
+ROPA
+- CHAQUETA AMARILLO INTENSO (#FFFF00) con UN AGUJERO en un costado. Su firma.
+- Debajo: SUDADERA NEGRA con capucha (#111111), capucha caída. Correa cruzada.
+- Pantalón CARGO negro. Vendas sucias en manos y muñecas. Cinta blanca usada.
+  Zapatillas BLANCAS gastadas. Auriculares al cuello (Día 1).
+
+ARMA
+- Cuchillo corto / herramienta improvisada. La más débil.
+
+RENDER (Solo Leveling)
+- El amarillo es el ÚNICO color saturado del grupo: que brille, pero sin fluorecer
+  en exceso. Rim light blanco. Al moverse, estela con motion blur y leves arcos
+  eléctricos #FFE23B.
+
+PALETA
+- Amarillo #FFFF00 · Negro #111111 · Blanco sucio #D9D6CE · Piel #E9CBAA ·
+  Glow #FFE23B.
+
+MARCA ÚNICA: el AMARILLO + vendas. Los enemigos NUNCA usan amarillo chillón.
+
+MOVIMIENTO: zigzag, se cuela entre huecos; no toca el suelo en una horda apretada.
+
+---
+
+### 1.4 YUI NAKAMURA — «La Distancia»
+
+IDENTIDAD
+- Rol: distancia. Edad: 31 (22 el Día 1). Altura: 172 cm.
+- Poder: teletransporte corto (2-3 pasos) + arma de largo alcance.
+
+CUERPO
+- Atlética y erguida, hombros rectos de quien carga equipo. Casi rígida, militar.
+  8 cabezas. Piel morena clara. Manos con roce de arma.
+- Pelo NEGRO (#0C0B0E) muy largo, liso, COLETA ALTA (el mono más alto de los cuatro).
+  Strand highlights y rim light azul acero.
+- Ojos oscuros, tranquilos, serios. La ÚNICA que cambia de expresión.
+- Cara alargada, mentón definido, cejas rectas y finas. Belleza sobria.
+
+ROPA (uniforme de guardia)
+- Camisa/MONO gris-azulado (#5A6B7A), mangas remangadas. CHALECO táctico NEGRO
+  con cargadores. Pantalón gris-azulado con RODILLERAS negras. Guantes BLANCOS.
+  Botas negras altas. Parches sin texto.
+
+ARMA
+- RIFLE DE CERROJO con culata de MADERA (#6E4A2E), mira metálica, correa de cuero.
+  Al disparar: fogonazo y onda azul acero #5AC8FA. Al teletransportarse: remolino
+  de partículas azules.
+
+RENDER (Solo Leveling)
+- Telas mate con sombra cel azul-gris; metal con especular. Overlay frío dominante
+  (es la más "fría" del grupo). Glow #5AC8FA solo en el poder.
+
+PALETA
+- Gris-azulado #5A6B7A · Negro #111111 · Guantes #E9E6DE · Madera #6E4A2E ·
+  Piel #C69263 · Glow #5AC8FA.
+
+MARCA ÚNICA: el MONO ALTO + el RIFLE.
+
+MOVIMIENTO: disciplinada; se para a apuntar; oye el silencio antes.
+
+---
+
+## 2. SECUNDARIOS CLAVE (aspecto mínimo)
+
+- MIO TSUKIMI — 19, hermana de Rika. Pelo ROJO recogido (#A32C2C), abrigo largo
+  oscuro. En el bucle: misma edad siempre. Como Omega NO tiene glow: parece humana.
+- AMANO REI — 22, limpieza, reparte café. Delantal de trabajo, pelo recogido,
+  cálida y cansada. Interés de Yui.
+- KUROSE KEN — 52, director de contención. Gafas, gris, mirada baja, cansado.
+- WATANABE RAISHIRO — 54, gobernador sin poder. Uniforme de gala sobrio, canas.
+- TSUMITA KOSUKE — 63, vecino/cocinero de Goro. Delantal sucio, sonrisa fácil.
+- TSUKIMI SHINO — 47, madre de Rika. Pelo recogido, delantal, callada.
+- NOMURA TATSUO — 49, operador de puerta. Es a quien Goro quema (cap 5).
+- KAWANO SHINICHI — 38, sale del metro. Al que los cuatro no pueden salvar.
+
+---
+
+## 3. ENEMIGOS — KAIYU (render Solo Leveling)
+
+Regla base: FEOS, GRANDES, VISIBLES. Nadie se disfraza de persona. Silueta distinta
+por tipo. En Solo Leveling: cuerpo OSCURO (casi silueta) con el COLOR DE PELIGRO
+EMISIVO, glifo o núcleo brillante, humo/partículas alrededor, contorno DOBLE con rim
+light. No producen sonido propio. No hablan japonés.
+
+### 3.1 Tamaño por rango
+
+| Color | Rango | Tamaño real | Glow (emisión) |
+|---|---|---|---|
+| Verde | Exploración | 0,6-0,9 m | #6FE24C |
+| Azul | Mínimo | 0,3-0,5 m | #3D8BFF |
+| Amarillo | Línea | 2,0-2,5 m | #D9B02A (nunca chillón) |
+| Naranja | Choque | 8-12 m | #FF7A1A |
+| Rojo | Oficiales | 15-30 m | #E02424 |
+| Negro | Mando | +30 m | núcleo violeta #7A2BFF en grietas |
+
+### 3.2 Los 5 ARQUETIPOS (amarillo)
+
+1. CARRILERO — Largo y bajo, 4 patas cortas, corre recto, embiste sin frenar.
+   Glow en la TESTUZ frontal.
+2. EMBESTIDOR — Hombro enorme, cabeza hundida, CUELLO CASI NULO. Bípedo. Glow en
+   el HOMBRO.
+3. LANZADOR — Vertical, BRAZOS LARGOS, SIN CUELLO. Lanza proyectiles. Glow en los
+   ANTEBRAZOS.
+4. BLINDADO — Cuadrado, PLACAS, sin cuello. No se mueve. Glow en una ranura del pecho.
+5. RESUCITADO — Encorvado, con un CUERPO HUMANO DEBAJO. Glow en la ESPALDA.
+
+### 3.3 Los 6 SUBJEFES (naranja)
+
+- PORTERO ENCABEZADO — Una PUERTA CON PATAS. Lento. El primero. Glow en el dintel.
+- CALDERA — Redondo, partido en DOS MITADES, humea por la junta.
+- PRY — Alto y delgado, MUCHOS MIEMBROS.
+- MIRAGE — No se ve: solo el SUELO emisivo donde va a aparecer.
+- SOMBRA LARGA — Horizontal, PEGADA AL SUELO, sin patas.
+- HIELO NEGRO — Translúcido: se ve a través y no está donde parece.
+
+### 3.4 Los 6 JEFES (rojo, edificio pequeño)
+
+- PORTERO — Portero Encabezado gigante. La 1ª vez se ve de frente.
+- FUENTE — Se abre; viene agua de una grieta.
+- NIDO — Múltiples, se mueven en grupo.
+- ASESOR — Racional, CAMINA COMO UNA PERSONA, habla con los suyos. El importante
+  de T1. Se DETIENE A MIRAR antes de decidir.
+- CENICERO — Deja ceniza. Todo lo que toca se vuelve GRIS.
+- ANCLAJE — No se mueve. La oleada se organiza a su alrededor.
+
+### 3.5 Los 6 de MANDO (negro, mayor que un edificio)
+
+- NÚCLEO — El más grande, al fondo. ARCHIVISTA — recoge cosas (T2: documentos).
+- ASESOR MAYOR — habla por los negros. FUENTE MADRE — sale lo informe.
+- CENICERO MAYOR — su zona queda gris. ANCLAJE MADRE — centro de la red.
+
+### 3.6 Los de CUERPO HUMANO
+
+Repartidos por TODOS los colores. Se distinguen por conducta, no por color:
+- Se detiene a mirar a un niño = todavía recuerda.
+- Ataca a un vehículo, no a una persona = táctico.
+- Ataca a una persona primero = ya no recuerda.
+
+---
+
+## 4. OMEGA
+
+- Qué es: una PERSONA. Mio Tsukimi, 19 años. No es enemigo: es un ESTADO.
+- Aspecto: chica de 19 normal. Lo ÚNICO que no parece kaiyu, y ese es el problema:
+  **no se ve como enemigo**. SIN glow, SIN humo, SIN contorno doble.
+- Conducta: se detiene a mirar antes de atacar. Voz: no habla; repite una palabra
+  que oyó en el edificio donde entró. No envejeció (mismo segundo, hace 9 años).
+- Cap 6: cuatro siluetas = CUATRO PERSONAS CON UN CUERPO ENCIMA; caminan como personas.
+- El Catálogo pide una fila que no existe y da error. Goro escribe el símbolo Kaikoru
+  a mano en una casilla vacía. Sigue vacía: es una pregunta.
+
+---
+
+## 5. ARMAS Y OBJETOS
+
+| Personaje/uso | Objeto | Detalle visual (Solo Leveling) |
+|---|---|---|
+| Rika | Sable corto de un filo | hoja mate, estela de luz carmesí |
+| Goro | Maza/martillo industrial | onda de choque ámbar + distorsión |
+| Goro | Escudo industrial oxidado | redondo, rim light, atado atrás |
+| Goro | Brasa (guante derecho) | glow #FF6A2A, vapor al perder control |
+| Ren | Cuchillo corto improvisado | estela con motion blur, arcos eléctricos |
+| Yui | Rifle de cerrojo | culata de madera, fogonazo azul acero |
+| Guardias | Máscaras de gas (cap 1) | goma, filtro, ojos de plástico |
+| Sistema | Símbolos Kaikoru | glifos emisivos, NO texto latino ni kana |
+
+---
+
+## 6. PALETA MAESTRA (Solo Leveling: vívida + cinematográfica)
+
+| Nombre | Hex | Uso |
+|---|---|---|
+| Rojo pelo (Rika/Mio) | #B22B2B / #A32C2C | pelo |
+| Negro ropa | #14130F | kimono, cueros |
+| Hueso (haori) | #E8E2D2 | prenda más clara de Rika |
+| Amarillo Ren | #FFFF00 | SOLO Ren |
+| Gris-azulado (Yui) | #5A6B7A | uniforme Yui |
+| Óxido (Goro) | #8A3D1E | armadura oxidada |
+| Metal (Goro) | #6B4A34 | planchas |
+| Brasa | #FF6A2A | único cálido emisivo de Goro |
+| Madera (rifle) | #6E4A2E | culata Yui |
+| Glow héroes | #E23B3B / #FF6A2A / #FFE23B / #5AC8FA | Rika/Goro/Ren/Yui |
+| Sombra fría (cel) | #2E3A52 | sombra común a todos |
+| Overlay cálido | #C0714B (25%) | separar figura/fondo |
+| Peligro verde | #6FE24C | exploración |
+| Peligro azul | #3D8BFF | mínimo |
+| Peligro amarillo | #D9B02A (no chillón) | línea |
+| Peligro naranja | #FF7A1A | choque |
+| Peligro rojo | #E02424 | oficiales |
+| Peligro negro | #0A0A0A + núcleo #7A2BFF | mando |
+| Gris pasado | #2A2A2E | fondos del pasado |
+| Negro corte | #000000 | cierre de capítulo |
+
+---
+
+## 7. RESUELTO / PENDIENTE
+
+RESUELTO por esta versión:
+1. Ren = REALISTA 8 cabezas (fin del conflicto caricaturesco).
+2. Paleta = Solo Leveling: vívida y cinematográfica, con overlay cálido/frío por
+   escena (fin del conflicto "apagado").
+3. Enemigos: cuerpo oscuro + color de peligro EMISIVO, con humo y contorno doble.
+
+PENDIENTE:
+4. Edades en guion: la mayoría sigue en "día 1"; unificar títulos de edad.
+5. Tus fotos (si difieren de esta hoja) mandan sobre este documento.

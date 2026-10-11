@@ -1,4 +1,5 @@
 # ACCIONES — manual de combate visual
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Cómo se dibuja una pelea para que el lector la vea como un video, no como una
 tira de dibujos. Este archivo es la referencia técnica. `pelea-modelo.txt` la

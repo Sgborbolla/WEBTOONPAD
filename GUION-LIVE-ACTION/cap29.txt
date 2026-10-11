@@ -1,0 +1,28 @@
+# EPISODIO 29 — CAPÍTULO 29 — Aprendiendo a hablar
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## APERTURA (crédito de apertura recurrente — idéntico en todos los capítulos)
+> Cabecera fija de la serie audiovisual. ~70 s · 16:9 · híbrido imagen real + animación.
+> Música: taiko + cuerdas con metrónomo que cuenta 1→7 (calla en el 7). El OP no habla;
+> subtítulos (español) solo para el diálogo del capítulo. Los nombres de poder nunca van
+> en audio. Autoría total: Sergio Grabiel Borbolla Verdecia.
+
+| Tiempo | Imagen | Rótulo de crédito |
+|---|---|---|
+| 0:00–0:08 | Negro; latido + tic; macro real de un "1" de polvo en el asfalto. | — |
+| 0:08–0:20 | Dron real sobre la ciudad al amanecer (frío); animación de las puertas abriéndose como costuras de luz; la cámara entra en una grieta y el cuadro se quema a blanco. | TÍTULO DE LA SERIE (hueso #E8E2D2) |
+| 0:20–0:34 | Los cuatro, planos cortos reales; a cada corte, glow + rótulo del nombre en su color: Rika #E23B3B · Goro #FF6A2A · Ren #FFE23B · Yui #5AC8FA. | Creada por / Dirigida por — Sergio Grabiel Borbolla Verdecia |
+| 0:34–0:52 | Montaje de acción real + VFX (motion blur y aberración cromática solo en impactos); enemigos con color de peligro; escuadra en cuña; metrónomo 1→7. | Guion / Reparto — Sergio Grabiel Borbolla Verdecia |
+| 0:52–1:04 | Los cuatro en fila, reales, de espaldas; el título se re-traza; golpe de taiko seco en el "7". | Música / Montaje / Diseño de producción — Sergio Grabiel Borbolla Verdecia |
+| 1:04–1:15 | Rika sola en el callejón de la puerta gris; el glow baja a gris y se apaga; corte a negro. | Producción / Una producción de — Sergio Grabiel Borbolla Verdecia |
+
+> Reglas: sin HUD/niveles/inglés en los rótulos; crédito fijo dentro de la temporada.
+> En el cap01 la apertura va DESPUÉS del cold open de los catorce minutos; del cap02 en
+> adelante abre el episodio directamente.
+
+---
+
+## GUION DE ESCENAS (pendiente de desarrollo)
+> **Fuente de verdad:** Novela/novela_caps/cap29.txt
+> **Idioma:** diálogos en japonés; los textos en español son los SUBTÍTULOS.
+> **Nombres de poder:** nunca en audio; solo como rótulo con el color del héroe.

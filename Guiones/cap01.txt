@@ -1,10 +1,181 @@
 # CAPÍTULO 1 — "El día que no avisaron"
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
-> **Estilo artístico:** Cyberpunk neón oscuro, postapocalíptico japonés. Ward japonés 2017. Cinematográfico, realista con tono duro. Iluminación atmosférica. Sin moe chibi, sin shoujo. Sin hiragana/katakana/kanji/inglés. Solo español. SFX gráfico solo cuando indicado. Sin HUD/logo/marca.
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja y fina en la ceja izquierda y corte
+en el dorso de la mano derecha. Pelo rojo largo en coleta alta. Kimono corto
+negro con rayas verticales gris y un haori corto color hueso, que es la prenda
+más clara de la página. Vendas blancas en los antebrazos. Zori negras de suela
+de rejilla. Sable corto de un filo, hoja mate, empuñadura de cordel negro.
+Silueta larga y estrecha, como una vela. Marca única: el haori, que ondea y es
+lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guantelete derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 04:57 (apertura) · El Silencio 04:58–05:12 · secuela 07:42. Presente: 2026 (9 años).
-> **Bloques:** Portada (S01) + A = cold open (S02–S28, gutter cerrado) · A2 = respuesta aérea y secuela (S29A–S29F + rótulo) · B = 3 días antes (45 pantallas, gutter abierto)
-> **Total:** 80 pantallas de 800×1280 (S01 portada incluida) · 137 viñetas · 102.400 px de scroll
+> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 04:58 (apertura) · El Silencio 04:58–05:12 · secuela 07:00. Presente: 2026 (9 años).
+> **Bloques:** Portada (S01) + A = cold open (S02–S28, gutter cerrado) · A1b = El Reloj (S28A–S28L, los testigos de la novela) · A2 = respuesta aérea y secuela (S29A–S29F + rótulo) · A3 = Lo que no se dijo (S29G–S29M, la secuela que sigue la novela) · B = 3 días antes (49 pantallas, gutter abierto)
+> **Total:** 103 pantallas de 800×1280 (S01 portada incluida) · 184 viñetas · 131.840 px de scroll
 
 ## Ficha
 
@@ -14,18 +185,24 @@
 | Estructura | Cold open hacia delante → flashback de 3 días |
 | Fondo del bloque A | Blanco |
 | Fondo del bloque B | Gris oscuro #2a2a2e (marca de pasado) |
-| Personajes con nombre | Rika Tsukimi, Mine Hoshino, Mio Tsukimi, Shino Tsukimi, Takagi |
-| Viñetas | 137 |
-| Pantallas | 80 (S01 = portada, sin viñetas) |
-| Globos de diálogo | 13 (9 firmados + 4 de una línea) |
-| Cajas de narración | 9 |
+| Personajes con nombre | Rika Tsukimi, Shino Tsukimi, Takagi, Mei, Sato, Kenji, Shiraishi, Nakahara, Hana, Sora, Aoki, Rui |
+| Viñetas | 184 |
+| Pantallas | 103 (S01 = portada, sin viñetas) |
+| Globos de diálogo | 59 (51 de diálogo + 8 de una palabra) |
+| Cajas de narración | 18 |
 | SFX | 11 marcas, 11 sonidos, todos en español |
 | Enemigos visibles | Línea amarilla. Los 5 arquetipos. 21 en pantalla |
 
 > **Por qué solo Rika:** la guía de estructura webtoon marca como error común
 > presentar elenco grande en los primeros capítulos. El cold open atrae por el
-> desastre; Rika entra después y es la única que el lector sigue.
-> Mine es la excepción: es el corazón emocional del bloque B.
+> desastre (bloque A, sin rostros) y después se asoma a los testigos de la novela
+> (A1b, con nombres): Sato, Kenji, Shiraishi, Nakahara, Hana, Sora, Aoki y el
+> teniente; y a la secuela que sigue la novela (A3): el Estado Mayor, el locutor,
+> Rui y el chico de la rueda. Ninguno de
+> ellos vuelve a tomar el mando; Rika entra al final y es la única que el lector
+> sigue.
+> En el bloque B la ausencia de Mio (la hermana que falta desde hace nueve años)
+> es el corazón emocional; Mio NO aparece en escena: desapareció en 2008.
 
 ---
 
@@ -74,10 +251,20 @@
 | S29E | T5 | 1 | 260 | 0/1020 |
 | S29F | T2R | 1 | 1200 | 40/40 |
 | S29 | T6 | 0 | — | rótulo negro |
+| S29G | T2R | 1 | 1200 | 40/40 |
+| S29H | T3R | 2 | 570/570 | 40/60/40 |
+| S29I | T3R | 2 | 570/570 | 40/60/40 |
+| S29J | T3R | 2 | 570/570 | 40/60/40 |
+| S29K | T3R | 2 | 570/570 | 40/60/40 |
+| S29L | T3R | 2 | 570/570 | 40/60/40 |
+| S29M | T2R | 1 | 1200 | 40/40 |
 
 **Total bloque A: 28 pantallas · 51 viñetas · 35.840 px** (S01 portada + S02–S28)
+**Total bloque A1b (El Reloj, S28A–S28L): 12 pantallas · 25 viñetas · 15.360 px**
+**Total bloque A3 (Lo que no se dijo, S29G–S29M): 7 pantallas · 12 viñetas · 8.960 px**
+**Total A + A1b + A3: 47 pantallas · 88 viñetas · 60.160 px**
 
-**Suma de la retícula, bloque A:**
+**Suma de la retícula, bloque A (y A1b):**
 T2R = 1200 + 80 = 1280 · T3R = 570 + 570 + 140 = 1280 · T4R = 380×3 + 35×4 = 1140 + 140 = 1280 · T5 = 260 + 1020 = 1280 · T1 = 1280 · T6 = 1280
 
 ---
@@ -108,22 +295,18 @@ De arriba abajo:
    ```
 
    La línea de arriba en tipografía condensada y fina. **NPAD** en grande, con las
-   cuatro letras separadas y muy marcadas. Debajo del conjunto, el título corto en
-   japonés, más pequeño y en un tono de gris:
-
-   ```
-   ニッポンポストアポカリプス
-   ```
+   cuatro letras separadas y muy marcadas. Nada más: la portada no lleva ni un
+   carácter no latino.
 
 3. **Los cuatro héroes.** Tercio medio, de pie en fila, mirando al lector, cada uno
    con su marca única, del más bajo al más alto. Siluetas legibles por la forma, no por
    el color:
 
-   - **Rika Tsukimi, La Hoja.** El **abanico cerrado** en la mano derecha, punta hacia
-     abajo, y las vendas blancas en los antebrazos. Coleta
-     roja alta, yukata gris oscuro, haori color hueso. Es la más pequeña y la única
-     con el pelo reconocible de un vistazo. Sin espada: su hoja es la brasa que lleva
-     en los puños.
+   - **Rika Tsukimi, La Hoja.** El **sable corto de un filo** en la mano derecha,
+     punta hacia abajo, hoja mate, empuñadura de cordel negro, y las vendas blancas
+     en los antebrazos. Coleta roja alta, kimono corto negro con rayas verticales
+     gris, haori color hueso. Es la más pequeña y la única con el pelo reconocible
+     de un vistazo. Su hoja es un filo: la estela carmesí solo al atacar.
    - **Ren Hayashi, El Relámpago.** Delgado, hombros caídos, **amarillo chillón sobre
      negro**, vendas blancas en las muñecas y cinta blanca. Las manos a los costados,
      sin arma: lo que lo marca es el color y el brillo.
@@ -133,8 +316,9 @@ De arriba abajo:
      largo hacia arriba y atrás: la única con el arma lista para la distancia.
    - **Goro Arashi, El Yunque.** El más alto y el más ancho de los cuatro, brazos
      cruzados, **escudo industrial atado a la espalda** asomando por encima de los
-     hombros. **Manos vacías, sin guantelete** (lo dejó caer hace años). Sin pelo en la
-     cabeza, mandíbula cuadrada, casco de obra sin visor colgado del cinturón.
+     hombros. El **guantelete derecho encendido**, con la brasa carmesí, el único
+     punto cálido y emisivo. Sin pelo en la cabeza, mandíbula cuadrada, casco de obra
+     sin visor colgado del cinturón.
 
 4. **Autor.** En la franja inferior, sobre una banda negra estrecha, texto blanco
    pequeño y centrado, con las cuatro letras del nombre separadas:
@@ -156,17 +340,17 @@ De arriba abajo:
 - Los cuatro héroes van de pie, enteros, de la cabeza a los pies, sin recorte y sin
   que ninguno tape a otro. Es una foto de grupo de cercados, no un collage.
 - La ciudad destruida está **detrás** y **un paso más apagada en valor tonal** que
-  los héroes, nunca borrosa ni con niebla por encima de ellos. No hay desenfoque en
-  esta historieta: la profundidad se consigue con aplanado, no con blur. Los héroes
+  los héroes, nunca borrosa ni con niebla por encima de ellos. La profundidad se
+  consigue con valor tonal y perspectiva; el motion blur solo se usa en acción e
+  impacto (Solo Leveling). Los héroes
   se leen contra ella; ella no se lee por encima de ellos.
 - El kaiyu del fondo es el único elemento de la escena que puede estar más arriba
   que la silueta de los héroes, y aun así pequeño.
-- **El texto de la portada no se dibuja en la imagen.** Título, siglas, japonés,
-  autor y temporada van como HTML superpuesto, en un tipo que lea limpio. Sin
-  embargo: las rayas de velocidad, el humo y los bordes quemados **sí** van en la
-  imagen, porque son parte del dibujo y no son texto.
-- Ni un solo carácter japonés fuera del título corto de la línea 2. Ni coreano, ni
-  chino, ni cirílico.
+- **El texto de la portada no se dibuja en la imagen.** Título, siglas, autor y
+  temporada van como HTML superpuesto, en un tipo que lea limpio. Sin embargo: las
+  rayas de velocidad, el humo y los bordes quemados **sí** van en la imagen, porque
+  son parte del dibujo y no son texto.
+- Ni un solo carácter japonés, ni coreano, ni chino, ni cirílico en la portada.
 - En la señalética del fondo se lee **YOKOHAMA**, en mayúsculas, sobre una valla
    publicitaria rota o el rótulo de un edificio. La palabra aparece en la portada
   y es el único texto que va **dibujado dentro de la imagen**, con el resto del
@@ -175,12 +359,12 @@ De arriba abajo:
 
 ### S02 · T2R · 1 viñeta de 1200
 
-**V01.** Plano general aéreo. Yokohama a las 04:57 de un lunes de mayo. Tejados,
+**V01.** Plano general aéreo. Yokohama a las 04:58 de un lunes de mayo. Tejados,
 antenas, depósitos de agua, el monte Fuji cortado por la niebla al fondo. Todo gris
 azul claro, limpio, tranquilo. Nadie en la calle. Cero tensión: hay que ver la
 ciudad antes de perderla.
 > **Caja de narración**, esquina superior izquierda, caja fina, tres líneas:
-> *Mayo de 2017.* / *Yokohama.* / *04:57.*
+> *15 de mayo de 2017.* / *Yokohama.* / *04:58.*
 
 ### S03 · T4R · 3 viñetas de 380
 
@@ -399,7 +583,9 @@ casco. No se lo quita. Solo toca el metal, una vez, con dos dedos.
 
 **V44.** Viñeta de silencio. Detalle. Una prenda de niño tirada en el suelo mojado:
 un delantal de guardería, **amarillo pálido**, con una mancha de témpera seca en el
-bolsillo. El cuadro entero arriba. Debajo, nada: 1020 px en blanco.
+bolsillo y la **cinta derecha arrancada**; la izquierda sigue atada, con el nudo
+apretado que alguien le enseñó a hacer hacía dos días, en una azotea, con las manos
+cubiertas de pintura azul. El cuadro entero arriba. Debajo, nada: 1020 px en blanco.
 
 ### S25 · T4R · 3 viñetas de 380
 
@@ -437,13 +623,232 @@ en dirección contraria. Se cruzan sin rozarse.
 El vapor ha bajado de altura. La calle, vacía. En el asfalto, la marca de polvo blanco
 que dejó la grieta, todavía recta.
 
+# BLOQUE A1b — EL RELOJ (los que contaron)
+
+> Del estruendo se baja a los rostros. Montaje con rótulo de hora en cada pantalla,
+> del 04:58 al 05:09, gutter cerrado: el tiempo no da tregua. Son los testigos de la
+> novela, en su orden exacto, con sus nombres y sus palabras.
+> **Un solo silencio** como respiro: S28J (el refugio); sale de él con una sola palabra.
+
+## Mapa de pantallas del bloque A1b
+
+| S | Tipo | Viñetas | Alturas de viñeta | Gaps |
+|---|---:|---:|---|
+| S28A | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S28B | T2R | 1 | 1200 | 40/40 |
+| S28C | T3R | 2 | 570/570 | 40/60/40 |
+| S28D | T2R | 1 | 1200 | 40/40 |
+| S28E | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S28F | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S28G | T3R | 2 | 570/570 | 40/60/40 |
+| S28H | T3R | 2 | 570/570 | 40/60/40 |
+| S28I | T3R | 2 | 570/570 | 40/60/40 |
+| S28J | T2R | 1 | 1200 | 40/40 |
+| S28K | T3R | 2 | 570/570 | 40/60/40 |
+| S28L | T4R | 3 | 380/380/380 | 35/35/35/35 |
+
+**Total bloque A1b: 12 pantallas · 25 viñetas · 15.360 px**
+
+## Las viñetas
+
+### S28A · T4R · 3 viñetas de 380 — 04:58, SATO
+
+**V51A.** INT. PISO DE SATO, segundo piso junto al puerto. SATO, 50, en camiseta y con
+la cara de no haber dormido, de pie con una taza humeante. No mira la taza: mira la
+ventana. La calle, abajo, tiene más luz de la que debería. En el marco de la puerta, a
+media luz, JUNKO, 48, el pelo suelto y la cara dormida, recién llegada del dormitorio.
+> **Rótulo de hora, arriba-derecha, pequeño:** *04:58.*
+> **Globo:** Sato, abajo-izquierda, cola arriba-derecha: *Junko, despierta.*
+> **Globo:** Junko, arriba-derecha, cola abajo-izquierda: *¿Qué pasa?*
+> **Globo:** Sato, abajo-izquierda, cola arriba-derecha: *No sé qué pasa. Salgamos.*
+
+**V51B.** La luz es blanca y viene de abajo, de entre el asfalto, como si la calle
+estuviera respirando. Recorta las persianas contra el techo del piso. No salieron: en el
+pasillo, la manilla de la puerta de la calle quedó en la mano de Sato. Junko se acerca a
+la ventana de la cocina y mira hacia abajo, entre las persianas.
+> **Globo:** Junko, arriba-derecha, cola abajo-izquierda, con una voz que no es la suya:
+> *Sato. Hay un animal ahí abajo.*
+
+**V51C.** Detalle. La taza a medias, abandonada en la mesa. De fondo, fuera de foco, un
+hilo blanco de polvo subiendo por la calle lateral.
+
+### S28B · T2R · 1 viñeta de 1200 — 05:01, EL PRIMER GRITO
+
+**V51D.** Viñeta de silencio. El quinto piso de un edificio del barrio: una ventana
+abierta al este, las luces encendidas, el hueco vacío. Nadie se asoma. Sin boca, sin
+ruido: solo la ventana y el silencio de después.
+> **Caja de narración**, esquina superior izquierda, tres líneas:
+> > *05:01. El primer grito no vino de la calle.*
+> > *Vino de esta ventana.*
+> > *Nadie volvió a ver al profesor.*
+
+### S28C · T3R · 2 viñetas de 570 — 05:02, KENJI
+
+**V51E.** INT. KONBINI DE LA ESQUINA. KENJI, 21, agazapado tras el mostrador, los ojos
+cerrados, las manos apretadas alrededor de un paquete de fideos que no sabe que sujeta.
+Detrás del cristal, la forma oscura y larga, detenida.
+> **Globo:** Shiraishi (desde la trastienda, fuera de cuadro), arriba-derecha, cola
+> abajo-izquierda: *¡Kenji! ¿Qué es ese ruido?*
+> **Globo:** Kenji, abajo-izquierda, cola abajo-derecha: *No lo sé. Quédese ahí.*
+
+**V51F.** La forma a través del cristal: sin ojos, sin cara, solo masa oscura que no se
+mueve. En el borde del cuadro, una mano de Kenji contando en el aire, sin abrir los
+ojos.
+> **Globo:** Shiraishi (fuera de cuadro), arriba-derecha, cola abajo-izquierda: *¿Cómo
+> que no lo sabe? Yo oigo pisadas.*
+> **Globo:** Kenji, abajo-izquierda, cola abajo-derecha: *Quédese ahí, jefe.*
+> **Caja de narración**, abajo-izquierda, una línea:
+> > *Diecisiete. Kenji las contó todas.*
+
+**V51G.** La puerta del konbini cerrándose sola detrás de SHIRAISHI, 50, que avanza con
+la escoba en la mano y la cara a medio girar hacia el cristal. El pestillo, quieto.
+Cero SFX: este cierre no suena. La calle, fuera, está llena de silencio.
+> **Globo:** Shiraishi, arriba-derecha, cola abajo-izquierda: *¿Y tú de qué te escondes,
+> inútil?*
+> **Globo:** Shiraishi, abajo-derecha, cola arriba-izquierda, apagado por el cristal:
+> *¿Kenji?*
+
+### S28E · T4R · 3 viñetas de 380 — 05:03, LA LÍNEA
+
+**V51H.** Dieciséis hombres y dos mujeres en fila de a cuatro, el manual en la cabeza y
+el silbato al cuello. El TENIENTE, la única barba de la línea, da la señal con la mano
+sin hablar: dieciocho manos sobre dieciocho culatas.
+> **Globo:** el teniente, abajo-izquierda, cola arriba-derecha: *Vamos a hacer esto como
+> en el papel. Apuntan. Disparan en abanico. No hablan. No bajan el arma hasta que yo lo
+> diga.*
+
+**V51I.** Plano de bocas. AOKI, 22, el más joven, a un lado, con el arma contra el
+hombro. Disparan en abanico: las carcasas salen ordenadas contra la luz, una tras otra,
+como si obedecieran a una regla de dibujo.
+> **Globo:** Aoki, arriba-derecha, cola abajo-izquierda: *¿Y si no paran, mi teniente?*
+> **Globo:** el teniente, abajo-izquierda, cola arriba-derecha: *Paran.*
+> **Globo (fuera de cuadro), arriba-derecha, cola abajo-izquierda:** *¡Marcado al tres!*
+
+**V51J.** El blindado se parte por la cintura como yeso seco, con el corte limpio. De la
+mitad de arriba no sale nadie: en la ventanilla del conductor, una mano que no se mueve.
+> **Globo:** el teniente, abajo-izquierda, cola arriba-derecha: *Las grandes no caen. A
+> todos, a la grande.*
+
+### S28F · T4R · 3 viñetas de 380 — 05:03, LA CANCIÓN
+
+**V51K.** INT. OTRO BLINDADO. No se mueve: espera. Dentro, la tripulación oye el golpe de
+las balas contra el blindaje y el silencio del otro lado. Una mano con los nudillos
+blancos en la palanca.
+> **Globo:** el artillero, abajo-izquierda, cola arriba-derecha: *¿Por qué no nos
+> dispara?*
+> **Globo:** el comandante, arriba-derecha, cola abajo-izquierda: *No dispara. Escucha.*
+> **Globo:** el artillero, abajo-izquierda, cola arriba-derecha: *¿Qué escucha?*
+> **Globo:** el comandante, arriba-derecha, cola abajo-izquierda: *A nosotros.*
+
+**V51L.** El CONDUCTOR cantando: los ojos cerrados, la boca abierta en una canción de
+cuna baja y desafinada, la única que recordaba de su hijo. Los otros tres lo miran y no
+dicen nada. Lo dejan cantar.
+
+**V51M.** Desde fuera, la criatura espera quieta lo que dura la canción. Cuando acaba,
+gira la cabeza hacia otro lado y sigue su camino, como si aquella caja de metal no valiera
+la pena. Dentro, el conductor llora con las dos manos en el volante, y nadie le dice que
+deje de cantar. Sin SFX en las tres: la canción no se dibuja.
+
+### S28G · T3R · 2 viñetas de 570 — 05:03, NAKAHARA
+
+**V51N.** Plano entero. NAKAHARA, 26, la segunda de la derecha y la de las tres hijas,
+cae de rodillas sin que nadie la haya tocado. No está herida: se queda en el suelo con
+el arma apoyada en los muslos, mirando la masa de criaturas que no se abre. La boca
+abierta en una pregunta sin voz.
+> **Globo:** Nakahara, abajo-izquierda, cola arriba-derecha: *¿De dónde salen?*
+> **Globo:** el teniente, arriba-derecha, cola abajo-izquierda: *¡Nakahara! ¡Levanta el
+> arma!*
+
+**V51O.** El teniente la levanta él mismo: la pone de pie, le endereza las correas y le
+señala la masa con el índice.
+> **Globo:** Nakahara, abajo-izquierda, cola arriba-derecha: *¿De dónde salen, mi
+> teniente?*
+> **Globo:** el teniente, arriba-derecha, cola abajo-izquierda: *Dispara, Nakahara.
+> Dispara y después te dejo llorar.*
+> Nakahara dispara. Sostiene el hueco de la línea mientras Aoki tiembla con el arma
+> contra el hombro.
+
+### S28H · T3R · 2 viñetas de 570 — 05:05, HANA
+
+**V51P.** EXT. EDIFICIO DE OFICINAS. El HOMBRE DEL TRAJE, 40s, golpea la puerta con la
+palma abierta, la cartera de cuero en la otra mano. Repite un nombre con los labios:
+Hana. Un VECINO se asoma a una ventana.
+> **Rótulo de hora, arriba-izquierda, pequeño:** *05:05.*
+> **Globo:** el vecino, arriba-derecha, cola abajo-izquierda: *¡Su hija no está ahí! ¡La
+> oficina está cerrada!*
+> **Globo:** el hombre del traje, abajo-izquierda, cola arriba-derecha: *Entonces me voy
+> a la estación.*
+
+**V51Q.** Caminando por la calle principal, el teléfono en la oreja, la cartera en la
+mano, explicándole a nadie que el tren va a llegar y que papá ya va de camino.
+> **Caja de narración**, abajo-izquierda, una línea:
+> > *Nunca llegó.*
+
+### S28I · T3R · 2 viñetas de 570 — 05:06, SORA
+
+**V51R.** EXT. CRUCE. El charco de vapor separa la vereda. La MUJER y su hijo SORA, 4,
+quedan uno a cada lado; la manga de la chaqueta se le cruje en el puño cuando lo levanta
+en vilo. El niño contaba con los dedos las cosas que pasaban detrás.
+
+**V51S.** Sora al cuello de la madre, con la voz de las cosas verdaderas.
+> **Globo:** Sora, arriba-derecha, cola abajo-izquierda: *Mamá, hay una puerta en el
+> suelo.*
+> **Globo:** la madre, abajo-izquierda, cola arriba-derecha: *No mires, Sora.*
+> **Globo:** Sora, arriba-derecha, cola abajo-izquierda: *Pero hay una.*
+> **Globo:** la madre, abajo-izquierda, cola arriba-derecha: *Ya sé. No mires.*
+
+### S28J · T2R · 1 viñeta de 1200 — EL REFUGIO
+
+**V51T.** Viñeta de silencio. A la derecha, bajo el techo de una pachinko, la MADRE JOVEN
+amamanta al bebé y la ANCIANA, con la foto plastificada de tres nietos, le pone la mano
+en la cabeza. El pañuelo entre las dos, alrededor de la boca. Es la única luz de la
+noche. A la izquierda, las dos salen por la puerta trasera: la anciana señala el mar,
+donde el vapor ya no llega.
+> Sin rótulo de hora. El silencio de esta pantalla es el respiro del bloque.
+> **Globo (susurro, contorno punteado):** las dos, a la vez, abajo-izquierda, cola
+> abajo-derecha: *Después.*
+
+### S28K · T3R · 2 viñetas de 570 — 05:07, EL DELANTAL
+
+**V51U.** EXT. KIOSCO DE PERIÓDICOS. SATO se agacha y recoge del asfalto mojado el
+delantal amarillo pálido, con la mancha de témpera seca en el bolsillo y la cinta
+izquierda atada con el nudo que alguien le enseñó en una azotea, con las manos
+cubiertas de pintura azul.
+> **Globo:** Sato, abajo-izquierda, cola arriba-derecha: *¿De quién es?*
+
+**V51V.** Dentro del kiosco, SATO con el delantal apretado contra el pecho, como quien
+esconde una cosa que no sabe a quién devolver. La guardería, a dos manzanas, fuera de
+foco por la ventana.
+> **Caja de narración**, abajo-izquierda, una línea:
+> > *Había que avisar en la guardería.*
+
+### S28L · T4R · 3 viñetas de 380 — 05:09, LA AZOTEA
+
+**V51W.** EXT. AZOTEA CERCANA. Tres vecinos que nunca se han hablado coinciden al borde:
+el ESTUDIANTE, 21, con el teléfono apuntando a la masa que avanza por la avenida; la
+FARMACÉUTICA, 41, apretando un paquete de gasas caducado; el TAXISTA JUBILADO, 65, con
+las llaves del coche que no está en la calle. Ninguno se mira.
+> **Rótulo de hora, arriba-derecha, pequeño:** *05:09.*
+
+**V51X.** El taxista habla sin girarse, mirando la masa.
+> **Globo:** el taxista, arriba-izquierda, cola abajo-derecha: *Sabes que te van a
+> conseguir, ¿no?*
+> **Globo:** el estudiante, arriba-derecha, cola abajo-izquierda: *Lo sé. Pero alguien
+> tiene que verlo.*
+
+**V51Y.** La foto sale: mal enfocada, las manos temblando, la masa de criaturas al fondo
+y una sola farola de testigo. El estudiante la sube sin título.
+> **Caja de narración**, abajo-izquierda, dos líneas:
+> > *Tres comentarios. Uno era de su madre: baja de esa azotea, Kenji.*
+> > *El estudiante era Kenji, el del konbini.*
+
 # BLOQUE A2 — LA RESPUESTA DESDE EL AIRE
 
-> Se inserta entre la llegada de la última puerta grande (S28) y el rótulo (S29).
+> Se inserta entre el final de El Reloj (S28L) y el rótulo (S29).
 > El lector abandona el nivel del suelo y ve el mapa: la batalla se lee desde arriba.
 > **Gutter cerrado (35 px)**: todo es una sola máquina de sonido.
 > Un solo IMPACTO: la caída del helicóptero.
-> El cierre del bloque es **S29F**: la secuela a las 07:42, la ciudad de pie y vacía.
+> El cierre del bloque es **S29F**: la secuela a las 07:00, la ciudad de pie y vacía.
 
 ## Mapa de pantallas del bloque A2
 
@@ -495,10 +900,12 @@ que dejó la grieta, todavía recta.
 
 ### S29F · T2R · 1 viñeta de 1200
 
-**V60.** Secuela, a las 07:42 de la misma mañana. Plano general al nivel del suelo, la misma calle de antes, pero quieta. En primer plano, una carcasa de kaiyu seca, arrugada como piel de serpiente, con las costuras blancas todavía visibles; detrás, un semáforo caído con el cristal molido, un autobús urbano partido por la mitad, y en el asfalto la primera grieta, todavía recta, todavía sin reparar. Columnas de humo finas y lejanas. Sol bajo de la mañana entrando de lado. Nadie en la calle.
-> **Caja de narración**, esquina inferior izquierda, dos líneas:
-> > *A las 07:42, la ciudad seguía de pie.*
-> > *Las mismas calles. Nadie dentro.*
+**V60.** Secuela, a las 07:00 de la misma mañana. Plano general al nivel del suelo, la misma calle de antes, pero quieta. En primer plano, una carcasa de kaiyu seca, arrugada como piel de serpiente, con las costuras blancas todavía visibles; detrás, un semáforo caído con el cristal molido, un autobús urbano partido por la mitad, y en el asfalto la primera grieta, todavía recta, todavía sin reparar. Columnas de humo finas y lejanas. Sol bajo de la mañana entrando de lado. Nadie en la calle.
+> **Caja de narración**, esquina inferior izquierda, cuatro líneas:
+> > *A las 07:00 las fotos empezaron a circular: borrosas, todas de lo mismo: puertas.*
+> > *En una, el delantal amarillo pálido, doblado en las manos de Sato.*
+> > *La ciudad seguía de pie. Las mismas calles. Nadie dentro.*
+> > *En Kanto se habían abierto siete puertas. Siete avisos que nadie supo leer.*
 > Sin SFX, sin globos: el silencio empieza en V08 y sigue aquí.
 
 ---
@@ -511,6 +918,123 @@ centrada, en el tercio superior, sin caja:
 > *Ese día duró catorce minutos.*
 
 Silencio. Corte.
+
+---
+
+# BLOQUE A3 — LO QUE NO SE DIJO
+
+> La respuesta aérea no cierra la mañana: la novela y el live-action siguen a la
+> ciudad después del cierre de las puertas. Aquí está, en su orden exacto, lo que el
+> arte no había mostrado: el Estado Mayor que dejó hacer, la sirena que no sonó, la
+> emisora que se calló sola, Rui en el apartamento, el tren que no llegó, el frigorífico de
+> la foto y el chico de la rueda.
+> **Gutter cerrado (35/40 px):** el tiempo corre igual que en A1b.
+
+## Mapa de pantallas del bloque A3
+
+| S | Tipo | Viñetas | Alturas de viñeta | Gaps |
+|---|---:|---:|---|
+| S29G | T2R | 1 | 1200 | 40/40 |
+| S29H | T3R | 2 | 570/570 | 40/60/40 |
+| S29I | T3R | 2 | 570/570 | 40/60/40 |
+| S29J | T3R | 2 | 570/570 | 40/60/40 |
+| S29K | T3R | 2 | 570/570 | 40/60/40 |
+| S29L | T3R | 2 | 570/570 | 40/60/40 |
+| S29M | T2R | 1 | 1200 | 40/40 |
+
+**Total bloque A3: 7 pantallas · 12 viñetas · 8.960 px**
+
+## Las viñetas
+
+### S29G · T2R · 1 viñeta de 1200 — MESES ANTES, EL ESTADO MAYOR
+
+**V60A.** FLASHBACK, MESES ANTES. INT. DESPACHO DEL ESTADO MAYOR. La madrugada. En una
+pantalla, la lectura de una base costera: una anomalía sorda, sin origen terrestre, que
+recuerda a un pulso o a la sombra de un pulso. El informe llega a una mesa con TRES
+HOMBRES que no hacen ningún comentario; se archiva bajo una clave que no significa nada.
+El GENERAL a cargo escribe en el margen, con letra menuda, la única frase que quedará de
+esa noche.
+> **Caja de narración**, esquina superior izquierda, tres líneas:
+> > *Meses antes de las puertas, una base costera registró un pulso sin origen.*
+> > *El informe llegó a una mesa con tres hombres.*
+> > *El general escribió en el margen: «No hará falta decirlo. No habrá pánico.»*
+> **Letrilla sobre la viñeta, arriba-derecha, pequeña:** *APERTURA · MESES ANTES.*
+
+### S29H · T3R · 2 viñetas de 570 — 05:00, SIN SIRENA
+
+**V60B.** EXT. CIUDAD. Cuando las puertas se abren, no suena ninguna sirena. El país
+entero escucha el silencio y no lo sabe leer. Los postes de alarma, sin voz.
+> **Letrilla sobre la viñeta, arriba-izquierda, pequeña:** *05:00.*
+
+**V60C.** Detalle. El panel del sistema de alarma: encendido, todos los indicadores en
+verde, la aguja quieta. Esperando una orden que nunca llega, porque la orden depende de
+una confirmación que alguien decidió no pedir.
+> **Caja de narración**, abajo-derecha, dos líneas:
+> > *Durante catorce minutos, el sistema esperó una orden*
+> > *que dependía de una confirmación que nadie quiso pedir.*
+
+### S29I · T3R · 2 viñetas de 570 — 06:00, LA EMISORA NACIONAL
+
+**V60D.** INT. EMISORA NACIONAL. Cabina de radio, 06:00. Una emisora nacional corta la
+música y pone un aviso grabado: una voz de hombre, serena, con pausas medidas, que no
+menciona la palabra «puertas» ni la palabra «decreto». El LOCUTOR, de pie ante el
+micrófono, sostiene la hoja del comunicado.
+> **Letrilla sobre la viñeta, arriba-derecha, pequeña:** *06:00.*
+
+**V60E.** El locutor lee el comunicado dos veces; la segunda, al final, se le quiebra la
+voz. En la cabina, nadie le dice nada: todos miran el mismo papel.
+> **Globo:** el locutor, abajo-izquierda, cola arriba-derecha: *Un incidente en la región de
+> Kanto. Mantengan la calma y no se acerquen a las zonas señalizadas.*
+> Al salir, el locutor se encierra en el almacén y se queda una hora sentado en el suelo.
+
+### S29J · T3R · 2 viñetas de 570 — 07:09, RUI
+
+**V60F.** INT. APARTAMENTO DE LA ZONA VIEJA, 07:09. RUI, 4, señala la televisión, donde
+pasan las fotos borrosas, a contraluz, de las puertas. La madre, de espaldas, no mira la
+pantalla.
+> **Letrilla sobre la viñeta, arriba-derecha, pequeña:** *07:09.*
+
+**V60G.** La madre se sienta con él al apagar la televisión.
+> **Globo:** Rui, arriba-izquierda, cola abajo-derecha: *Mamá, hay una costura en el cielo.*
+> **Globo:** la madre, abajo-derecha, cola arriba-izquierda: *No digas tonterías, Rui.*
+> **Globo:** Rui, arriba-izquierda, cola abajo-derecha: *Pero hay una.*
+> La madre le pone la mano en la cabeza, como la anciana de la pachinko, y le dice que el
+> cielo está entero. Rui no insiste: se mete las dos manos en los bolsillos para contarse
+> los dedos y cuenta hasta diez, que es hasta donde le han enseñado a contar.
+
+### S29K · T3R · 2 viñetas de 570 — 08:00, EL TREN
+
+**V60H.** EXT. ESTACIÓN DE YOKOHAMA, 08:00. El primer tren vuelve a salir. Vacío de gente,
+no de silencio: los pocos que suben se sientan cada uno a una distancia que nadie decidió.
+> **Letrilla sobre la viñeta, arriba-izquierda, pequeña:** *08:00.*
+
+**V60I.** El revisor, quince años en la línea, baja las luces del vagón una a una y no
+anuncia nada. El tren sale como si nada, porque la línea tiene que correr.
+
+### S29L · T3R · 2 viñetas de 570 — 08:00, EL FRIGORÍFICO
+
+**V60J.** INT. COCINA DE LA ZONA NORTE, 08:00. Una MUJER DE CINCUENTA cuelga la foto del
+delantal en la puerta del frigorífico, sujeta con un imán de fresa. No sabe por qué: le
+recuerda a un uniforme que vio de pequeña.
+> **Letrilla sobre la viñeta, arriba-derecha, pequeña:** *08:00.*
+
+**V60K.** Detalle. El imán de fresa y el borde de la foto, que se queda en la puerta mucho
+después de que las noticias pasen a otra cosa.
+> **Caja de narración**, abajo-izquierda, dos líneas:
+> > *Años más tarde, cuando preguntaron por el primer aviso del país,*
+> > *a nadie se le ocurrió abrir ese frigorífico.*
+
+### S29M · T2R · 1 viñeta de 1200 — 10:00, EL CHICO DE LA RUEDA
+
+**V60L.** EXT. AVENIDA. 10:00. Un CHICO DE ONCE AÑOS que repartía periódicos encuentra la
+rueda del autobús sola en la esquina. La empuja con el pie: rueda dos metros y se para. La
+empuja otra vez. La rueda tarda toda la mañana en llegar a la esquina de la guardería, y
+allí se queda, con el chico sentado encima, mirando la verja cerrada de la guardería y
+contando en silencio.
+> **Letrilla sobre la viñeta, arriba-izquierda, pequeña:** *10:00.*
+> **Caja de narración**, esquina inferior derecha, dos líneas:
+> > *Alguien le había dicho que esa tarde no había clase.*
+> > *No sabía qué más contar.*
 
 ---
 
@@ -535,15 +1059,19 @@ Silencio. Corte.
 | S40 | T3 | 2 | 430/430 | 115/190/115 |
 | S41 | T2 | 1 | 1060 | 190/30 |
 | S42 | T3 | 2 | 430/430 | 115/190/115 |
+| S42A | T3 | 2 | 430/430 | 115/190/115 |
 | S43 | T3 | 2 | 430/430 | 115/190/115 |
 | S44 | T4 | 3 | 300/300/300 | 90/100/100/90 |
+| S44A | T4 | 3 | 300/300/300 | 90/100/100/90 |
 | S45 | T2 | 1 | 1060 | 190/30 |
 | S46 | T3 | 2 | 430/430 | 115/190/115 |
+| S46A | T4 | 3 | 300/300/300 | 90/100/100/90 |
 | S47 | T5 | 1 | 260 | 0/1020 |
 | S48 | T3 | 2 | 430/430 | 115/190/115 |
 | S49 | T2 | 1 | 1060 | 190/30 |
 | S50 | T3 | 2 | 430/430 | 115/190/115 |
 | S51 | T4 | 3 | 300/300/300 | 90/100/100/90 |
+| S51A | T3 | 2 | 430/430 | 115/190/115 |
 | S52 | T2 | 1 | 1060 | 190/30 |
 | S53 | T3 | 2 | 430/430 | 115/190/115 |
 | S54 | T2 | 1 | 1060 | 190/30 |
@@ -568,7 +1096,7 @@ Silencio. Corte.
 | S73 | T2 | 1 | 1060 | 190/30 |
 | S74 | T6 | 0 | — | rótulo gris final |
 
-**Total bloque B: 45 pantallas · 77 viñetas · 57.600 px**
+**Total bloque B: 49 pantallas · 87 viñetas · 62.720 px**
 
 ---
 
@@ -587,7 +1115,7 @@ pasado. Texto blanco centrado, dos líneas, sin caja:
 
 ### S31 · T2 · 1 viñeta de 1060
 
-**V61.** Plano entero, de espaldas. Azotea de una guardería, 07:50. **Rika
+**V61.** Plano entero, de espaldas. Azotea de una guardería, 08:30. **Rika
 Tsukimi**, 15 años, de espaldas al lector, mirando la ciudad. Pelo rojo largo en
 coleta alta, movido por el viento. Su **haori color hueso** ondea: es la prenda más
 clara de la imagen y lo primero que se ve de ella. Detrás, la barandilla de metal, y
@@ -615,8 +1143,8 @@ mueve el pelo hacia un lado.
 **V65.** Plano entero. Rika baja por una escalera exterior de metal, un peldaño por
 uno, con la mano en el pasamanos. El sol le da en la cara. No hay prisa en ella.
 
-**V66.** Detalle. Sus sandalias de rejilla sobre una rejilla de metal. El mismo dibujo
-repetido dos veces, uno encima del otro.
+**V66.** Detalle. Sus zori negras de suela de rejilla sobre una rejilla de metal. El
+mismo dibujo repetido dos veces, uno encima del otro.
 
 ### S35 · T2 · 1 viñeta de 1060
 
@@ -640,13 +1168,18 @@ Núcleo blanco en el centro exacto, ráfaga radial detrás. La tubería se dobla
 **V71.** Viñeta de ruido. Un frame de estela: el antebrazo estirado y semitransparente,
 las bordes deshilachadas en siete ecos. La tubería ya doblada dos veces.
 
-**V72.** Viñeta de silencio. La tubería doblada. Su mano, quieta al lado. No repite
-el golpe: lo sostiene.
+**V72.** Viñeta de silencio, con un susurro. La tubería doblada. Su mano, quieta al lado.
+No repite el golpe: lo sostiene.
+> **Globo (susurro, contorno punteado):** Rika, abajo-derecha, cola abajo-izquierda:
+> *Otra vez. Que no se te olvide.*
 
 ### S38 · T3 · 2 viñetas de 430
 
 **V73.** Plano entero. Rika de pie, respirando, con las manos en las rodillas. El
-haori parado. El solar alrededor: una mazorca, tres contenedores, una verja.
+haori parado. El solar alrededor: una mazorca, tres contenedores, una verja. Desde la
+primera fila de casas, un vecino mira por la ventana.
+> **Globo:** el vecino (fuera de cuadro), arriba-derecha, cola abajo-izquierda: *Esa
+> niña le pega a un poste.*
 
 **V74.** Detalle. El haori de Rika solo, moviéndose en un cuadro donde ella no está.
 Es su marca: se mueve antes que ella.
@@ -681,20 +1214,31 @@ espalda recta. Los niños se inclinan hacia ella. Empieza a contar con los dedos
 Las vendas blancas de los antebrazos contra la lana.
 > **Globo:** Rika, abajo-izquierda, cola abajo-derecha: *Uno, dos, tres…*
 
+### S42A · T3 · 2 viñetas de 430
+
+**V80A.** Plano medio. Una niña del círculo, **Mei**, cuatro años y medio, se mira las
+palmas abiertas. Es la que corrige todo, incluso las cuentas de Rika, y el ceño
+fruncido de quien corrige le queda de fábrica.
+> **Globo:** Mei, arriba-derecha, cola abajo-izquierda: *Cuatro.*
+
+**V80B.** Plano medio. Rika levanta la vista y mira a la niña, no a la cuenta. La deja
+corregir, verifica, y asiente una vez.
+> **Globo:** Rika, abajo-izquierda, cola abajo-derecha: *Cuatro. Muy bien.*
+
 ### S43 · T3 · 2 viñetas de 430
 
-**V81.** Plano medio. **Mine Hoshino**, 5 años, con el delantal amarillo pálido, tira
-de la manga de Rika para enseñarle las manos. Las tiene abiertas, cargadas de témpera
-azul y amarilla hasta la muñeca. Está orgullosa.
-> **Globo:** Mine, arriba-derecha, cola abajo-izquierda: *¡Mine, mira!*
+**V81.** Plano medio. La niña más pequeña del círculo, 5 años, con el delantal
+amarillo pálido, tira de la manga de Rika para enseñarle las manos. Las tiene
+abiertas, cargadas de témpera azul y amarilla hasta la muñeca. Está orgullosa.
+> **Globo:** la niña, arriba-derecha, cola abajo-izquierda: *¡Mira!*
 
-**V82.** Detalle. Las dos manos abiertas de Mine: témpera azul, amarilla y roja en
+**V82.** Detalle. Las dos manos abiertas de la niña: témpera azul, amarilla y roja en
 las líneas de la palma. Debajo, la mano de Rika, sin tocar.
 
 ### S44 · T4 · 3 viñetas de 300
 
 **V83.** Viñeta de ruido. Cuatro manos de niños abiertas alrededor de las manos de
-Mine. Todo el cuadro lleno de color.
+la niña. Todo el cuadro lleno de color.
 
 **V84.** Viñeta de ruido. La cara de Rika. Sonríe con la boca cerrada. Es la primera
 vez que la vemos sonreír en el capítulo.
@@ -702,6 +1246,22 @@ vez que la vemos sonreír en el capítulo.
 
 **V85.** Viñeta de ruido. La marca de una palma abierta de niño, azul, en la mejilla
 de Rika. Ella quieta, sin limpiarse.
+
+### S44A · T4 · 3 viñetas de 300
+
+**V85A.** Plano medio. La niña de las manos azules toca la mejilla de Rika con la
+punta de un dedo limpio, sin mancharla. Pregunta, curiosa.
+> **Globo:** la niña, abajo-derecha, cola arriba-izquierda: *¿Qué haces con la mano así?*
+
+**V85B.** Plano de bocas de Rika. La marca azul en la mejilla, quieta. Responde sin
+apartar la cara.
+> **Globo:** Rika, arriba-izquierda, cola abajo-derecha: *Sostengo.*
+
+**V85C.** Plano medio. La niña lo piensa mucho, con el ceño fruncido, y decide que
+ella también quiere sostenerlo. Al fondo, **Takagi**, en la mesa de las tazas, mira
+sin decir nada.
+> **Globo:** la niña, arriba-derecha, cola abajo-izquierda: *¿Qué sostenías?*
+> **Globo:** Rika, abajo-izquierda, cola abajo-derecha: *El número cinco.*
 
 ### S45 · T2 · 1 viñeta de 1060
 
@@ -719,6 +1279,22 @@ el cristal, muy tenue, se refleja una farola que ahora no importa.
 **V88.** Detalle. El cristal de la ventana. La farola reflejada, casi perdida. Y
 detrás del cristal, la silueta de Rika superpuesta a las macetas del alfizar.
 
+### S46A · T4 · 3 viñetas de 300
+
+**V87A.** Plano medio. Un mostrador con las sábanas de la siesta. Rika y **Takagi** las
+doblan en cuadrados exactos y las apilan por tamaño. Las sábanas huelen a pintura y a
+sol. Takagi, de perfil, habla sin dejar de doblar.
+> **Globo:** Takagi, arriba-derecha, cola abajo-izquierda: *¿Por qué vienes los viernes, Rika?*
+
+**V87B.** Plano detalle. Las manos de Rika verificando una esquina con la vista, exacta,
+antes de apilar. Aprieta el doblez con la palma.
+> **Globo:** Rika, abajo-izquierda, cola abajo-derecha: *Porque es el único día que puedo.*
+
+**V87C.** Plano medio. Rika mira a Takagi, que ha dejado de doblar. La pila de sábanas
+queda perfectamente cuadrada entre las dos.
+> **Globo:** Takagi, arriba-derecha, cola abajo-izquierda: *A las chicas de tu edad no les gusta estar con niños pequeños.*
+> **Globo:** Rika, abajo-izquierda, cola arriba-derecha: *Los niños no te piden que verifiques nada. Te piden que cuentes. Yo sé contar.*
+
 ### S47 · T5 · 1 viñeta de 260
 
 **V89.** Viñeta de silencio. Detalle. Un reloj de pared de un pasillo, encima de una
@@ -728,9 +1304,8 @@ con un horario escrito, demasiado borroso para leer. 1020 px de blanco debajo.
 
 ### S48 · T3 · 2 viñetas de 430
 
-**V90.** Plano medio. Rika se pone las sandalias de rejilla en un rellano. Mochila
-escolar en un hombro. Al fondo, el marco de la puerta del aula con cuatro niños
-mirando.
+**V90.** Plano medio. Rika se pone las zori negras en un rellano. Mochila escolar en
+un hombro. Al fondo, el marco de la puerta del aula con cuatro niños mirando.
 
 **V91.** Detalle. La mochila en su hombro y el haori detrás. La cinta blanca de la
 mochila, gastada.
@@ -740,26 +1315,36 @@ mochila, gastada.
 **V92.** Plano entero. Rika en el rellano, de perfil, con un pie puesto y otro sin
 poner. Gira la cabeza hacia atrás, hacia los niños de la puerta. El sol le entra por
 detrás.
-> **Globo:** Mine, fuera de cuadro, arriba-derecha, cola saliendo a la derecha: *¡Mine!*
+> **Globo:** una niña, fuera de cuadro, arriba-derecha, cola saliendo a la derecha: *¡Espera!*
 
 ### S50 · T3 · 2 viñetas de 430
 
 **V93.** Plano entero. Los cuatro niños en la puerta, mirando, uno con una mano alzada.
-> **Globo:** un niño, arriba-izquierda, cola abajo-derecha: *¡Mine!*
+> **Globo:** un niño, arriba-izquierda, cola abajo-derecha: *¡Eh!*
 
-**V94.** Detalle. La mano de Rika sujetando la correa de la mochila. El nudo del yukata,
-gris oscuro, y el borde del haori color hueso. La mano se queda ahí un segundo.
+**V94.** Detalle. La mano de Rika sujetando la correa de la mochila. El nudo del
+kimono, negro, y el borde del haori color hueso. La mano se queda ahí un segundo.
 
 ### S51 · T4 · 3 viñetas de 300
 
 **V95.** Viñeta de ruido. Rika se gira entera hacia atrás y saluda con la mano, una vez.
-> **Globo:** Mine, arriba-derecha, cola abajo-izquierda: *¡Adiós!*
+> **Globo:** una niña, arriba-derecha, cola abajo-izquierda: *¡Adiós!*
 
 **V96.** Viñeta de ruido. Takagi, en el pasillo, le devuelve la mirada y asiente una
 vez. No dice nada.
 
-**V97.** Viñeta de ruido. El delantal amarillo de Mine en el marco de la puerta, medio
+**V97.** Viñeta de ruido. El delantal amarillo de la niña en el marco de la puerta, medio
 dentro, y Rika ya en la calle, más lejos.
+
+### S51A · T3 · 2 viñetas de 430
+
+**V97A.** Plano entero. En la verja de la guardería, un niño muy pequeño, el único que no
+dormía la siesta, la mira desde el otro lado con los dedos metidos en la boca. Rika se
+agacha a su altura.
+
+**V97B.** Plano medio. Rika le pone la mano en la cabeza, con la marca azul todavía en
+la mejilla, y le promete algo que cumplirá una sola vez.
+> **Globo:** Rika, abajo-izquierda, cola abajo-derecha: *El viernes te enseño a contar hasta siete.*
 
 ### S52 · T2 · 1 viñeta de 1060
 
@@ -795,93 +1380,85 @@ con el haori al viento. Shino no se ha movido del sitio.
 **V104.** Viñeta de ruido. Rika cruza un paso de cebra sola, con el semáforo en verde y
 nadie más esperando.
 
-**V105.** Viñeta de ruido. Rika pasa al lado de **Mio Tsukimi**, 19 años, que la espera
-en el portal de un edificio de oficinas. Abrigo largo oscuro, pelo recogido, bolsa de
-hombro. **Mio es más alta.**
+**V105.** Viñeta de ruido. Rika pasa al lado del **portal vacío** de un edificio de
+oficinas: el hueco donde, años atrás, alguien solía esperarla. No hay nadie. El mármol
+del portal, gastado a la altura de una espalda que ya no vuelve.
 
-**V106.** Viñeta de ruido. Mio de perfil, inclinándose un poco hacia abajo. No la toca.
-Solo le habla desde arriba. El haori y el abrigo largo, los dos tonos distintos de
-claro, enfrentados.
+**V106.** Viñeta de ruido. Detalle del portal vacío. Una marca clara en la pared, a la
+altura de unos hombros. Debajo, la acera con sol. Nadie.
 
 ### S57 · T2 · 1 viñeta de 1060
 
-**V107.** Plano entero, dos figuras. Mio en el portal, con la bolsa de hombro, hablando
-con Rika. La diferencia de estatura es obvia. Luz de mañana. El edificio detrás tiene
-un banco, un buzón y un árbol sin hojas.
-> **Globo:** Mio, arriba-izquierda, cola abajo-derecha: *Otra vez sin desayunar. Tienes la misma cara de siempre.*
+**V107.** Plano entero. Rika, sola, frente al portal vacío. El edificio detrás tiene un
+banco, un buzón y un árbol sin hojas. Es pequeña en el encuadre.
+> **Caja de narración:** *Nadie la esperaba ya. Hacía nueve años.*
 
 ### S58 · T3 · 2 viñetas de 430
 
-**V108.** Plano medio. Mio, un escalón más abajo, con la bolsa al hombro y las manos
-dentro de los bolsillos. El hombro del abrigo caído.
+**V108.** Plano medio. Rika de pie frente al portal, las manos en las correas de la
+mochila. El hombro caído. La luz de la mañana le entra de lado.
 
 **V109.** Detalle. Rika de perfil, los ojos en el suelo. El pelo rojo en coleta, con
 la base atada por detrás. La cicatriz vieja de la ceja izquierda, en su sitio exacto.
 
 ### S59 · T2 · 1 viñeta de 1060
 
-**V110.** Plano entero de Rika. Baja de estatura en el encuadre. Haori al viento. No
-mira a Mio: mira el suelo.
-> **Globo:** Rika, medio-derecha, cola izquierda: *Tengo hambre. Que es distinto.*
+**V110.** Plano entero de Rika, sola y baja de estatura en el encuadre. Haori al viento.
+Mira el portal vacío.
 
 ### S60 · T3 · 2 viñetas de 430
 
-**V111.** Plano de bocas de Mio. La primera sonrisa, muy corta, solo en la comisura. La
-bolsa colgada.
+**V111.** Plano de bocas de Rika. La boca cerrada, sin sonrisa. La mandíbula apretada
+un segundo y suelta.
 
-**V112.** Detalle. La mano de Mio en el hombro de Rika, un segundo, y suelta. Las dos
-mangas distintas: la de Mio, oscura, y la venda blanca del antebrazo de Rika.
+**V112.** Detalle. La sombra de Rika sola en el portal, alargada por la mañana. Ocupa
+el sitio de una figura que no está.
 
 ### S61 · T4 · 3 viñetas de 300
 
-**V113.** Viñeta de ruido. Primer plano de Mio, la boca casi cerrada.
-> **Globo:** Mio, abajo-izquierda, cola arriba-derecha: *Es peor.*
+**V113.** Viñeta de ruido. Primer plano de Rika, la boca casi cerrada, mirando el hueco.
 
-**V114.** Viñeta de ruido. Las dos riéndose. Mio con dos dedos en la frente de Rika,
-empujándola. Rika con los ojos cerrados riéndose. Es la primera vez que las dos se
-ríen juntas en el capítulo.
+**V114.** Viñeta de ruido. Rika sola, los ojos cerrados un segundo. El haori quieto.
 
-**V115.** Viñeta de ruido. Las dos, quietas, en el portal, con la luz de la mañana por
-detrás. Un segundo de silencio. Se quedan así.
-> **Globo:** Rika, medio-izquierda, cola abajo-derecha: *¿Qué?*
+**V115.** Viñeta de ruido. Rika, quieta, en el portal vacío, con la luz de la mañana por
+detrás. Un segundo de silencio. Se queda así.
 
 ### S62 · T5 · 1 viñeta de 260
 
-**V116.** Viñeta de silencio. Primer plano de Rika mirando hacia arriba a su hermana. La
-mandíbula y el abrigo de Mio arriba; los ojos de Rika abajo. La mitad superior del
-cuadro es el abrigo largo.
+**V116.** Viñeta de silencio. Primer plano de Rika mirando hacia arriba, al hueco del
+portal. La mitad superior del cuadro es la pared vacía donde antes había alguien.
 
 ### S63 · T2 · 1 viñeta de 1060
 
-**V117.** Plano medio, las dos. Mio empujándole la cabeza a Rika con dos dedos, casi sin
-ganas. Rika con los ojos cerrados, resistiéndose, sin mover los pies.
-> **Globo:** Rika, arriba-izquierda, cola abajo-derecha: *Mañana traigo los termos. No se te olvida.*
+**V117.** Plano medio. Rika sola, dando un paso atrás del portal. La mochila al hombro.
+Los dedos, sin apretar.
+> **Caja de narración:** *Los viernes, la tercera taza del escurridor seguía sin usar.*
 
 ### S64 · T3 · 2 viñetas de 430
 
-**V118.** Plano medio de las dos, ya separadas. Mio se pasa la bolsa al otro hombro y
-mira el reloj del edificio. Rika de pie, con la mochila.
+**V118.** Plano medio. Rika se pasa la mochila al otro hombro y mira el reloj del
+edificio. Se va.
 
 **V119.** Detalle. La cara de Rika un segundo, girada hacia arriba, el haori detrás. La
 marca de témpera azul de la sien, que se le va lavando con el calor.
 
 ### S65 · T3 · 2 viñetas de 430
 
-**V120.** Plano entero. Mio se va andando calle abajo, de espaldas. El abrigo largo, la
-bolsa. Sin mirar atrás.
+**V120.** Plano entero. Rika se va andando calle abajo, de espaldas. La mochila, el
+haori. Sin mirar atrás.
 
-**V121.** Plano entero. Rika, de pie, viendo irse a Mio. El haori por encima del
-hombro. La calle entre las dos, vacía, con sol.
+**V121.** Plano entero. Rika, de pie, al borde del portal. El haori por encima del
+hombro. La calle, vacía, con sol.
 
 ### S66 · T4 · 3 viñetas de 300
 
-**V122.** Viñeta de ruido. Rika, ya sola, girándose hacia el otro lado de la calle.
+**V122.** Viñeta de ruido. Rika, girándose hacia el otro lado de la calle.
 Empieza a andar hacia el sur.
 
 **V123.** Viñeta de ruido. Su estela. El haori moviéndose un segundo después que ella.
-Y en el cristal de unarogería, el reflejo del haori, siguiendo.
+Y en el cristal de una tienda, el reflejo del haori, siguiendo.
 
-**V124.** Viñeta de ruido. Rika ya a media manzana, pequeña. Un señora se detiene a
+**V124.** Viñeta de ruido. Rika ya a media manzana, pequeña. Una señora se detiene a
 mirarla pasar y sigue andando. Nadie la conoce.
 
 ### S67 · T3 · 2 viñetas de 430
@@ -916,7 +1493,9 @@ sello parece viejo, no de hoy. Nadie lo ha tocado.
 
 **V130.** Plano entero. La puerta de servicio, entera, en el centro del callejón. La
 luz de la mañana entra por la boca del callejón y cae en diagonal sobre el suelo, no
-sobre la puerta. Nadie mira la puerta. Nadie la abre.
+sobre la puerta. En primer término, Rika, de espaldas, detenida. No la abre.
+> **Globo (susurro, contorno punteado):** Rika, abajo-derecha, cola abajo-izquierda:
+> *Rika. Rika.*
 
 **V131.** Plano entero. El otro extremo del callejón. Un contenedor, una escalera de
 hierro, el final de la calle con tráfico lejano. La puerta queda fuera de cuadro.
@@ -926,7 +1505,7 @@ hierro, el final de la calle con tráfico lejano. La puerta queda fuera de cuadr
 **V132.** Plano medio. Rika, de perfil, en la acera de su calle, esperando el semáforo.
 El haori por encima del hombro. Mira hacia el sur, hacia el monte.
 
-**V133.** Detalle. Sus vendajes en los antebrazos, desde abajo, con la manga del yukata
+**V133.** Detalle. Sus vendajes en los antebrazos, desde abajo, con la manga del kimono
 caída. La luz de la mañana los vuelve casi blancos: son lo más claro de la imagen
 después del haori.
 
@@ -957,45 +1536,104 @@ Corte a negro y a capítulo 2.
 
 # LOS TEXTO
 
-## Globos de diálogo (9)
+## Globos de diálogo (51)
 
 | Viñeta | Quién | Posición | Cola | Texto |
 |---|---|---|---|---|
+| V51A | Sato | abajo-izquierda | arriba-derecha | *Junko, despierta.* |
+| V51A | Junko | arriba-derecha | abajo-izquierda | *¿Qué pasa?* |
+| V51A | Sato | abajo-izquierda | arriba-derecha | *No sé qué pasa. Salgamos.* |
+| V51B | Junko | arriba-derecha | abajo-izquierda | *Sato. Hay un animal ahí abajo.* |
+| V51E | Shiraishi (desde la trastienda, fuera de cuadro) | arriba-derecha | abajo-izquierda | *¡Kenji! ¿Qué es ese ruido?* |
+| V51E | Kenji | abajo-izquierda | abajo-derecha | *No lo sé. Quédese ahí.* |
+| V51F | Shiraishi (fuera de cuadro) | arriba-derecha | abajo-izquierda | *¿Cómo que no lo sabe? Yo oigo pisadas.* |
+| V51F | Kenji | abajo-izquierda | abajo-derecha | *Quédese ahí, jefe.* |
+| V51G | Shiraishi | arriba-derecha | abajo-izquierda | *¿Y tú de qué te escondes, inútil?* |
+| V72 | Rika | abajo-derecha | abajo-izquierda | *Otra vez. Que no se te olvide.* |
+| V73 | el vecino (fuera de cuadro) | arriba-derecha | abajo-izquierda | *Esa niña le pega a un poste.* |
+| V51H | el teniente | abajo-izquierda | arriba-derecha | *Vamos a hacer esto como en el papel. Apuntan. Disparan en abanico. No hablan. No bajan el arma hasta que yo lo diga.* |
+| V51I | Aoki | arriba-derecha | abajo-izquierda | *¿Y si no paran, mi teniente?* |
+| V51I | el teniente | abajo-izquierda | arriba-derecha | *Paran.* |
+| V51I | fuera de cuadro | arriba-derecha | abajo-izquierda | *¡Marcado al tres!* |
+| V51J | el teniente | abajo-izquierda | arriba-derecha | *Las grandes no caen. A todos, a la grande.* |
+| V51K | el artillero | abajo-izquierda | arriba-derecha | *¿Por qué no nos dispara?* |
+| V51K | el comandante | arriba-derecha | abajo-izquierda | *No dispara. Escucha.* |
+| V51K | el artillero | abajo-izquierda | arriba-derecha | *¿Qué escucha?* |
+| V51K | el comandante | arriba-derecha | abajo-izquierda | *A nosotros.* |
+| V51N | Nakahara | abajo-izquierda | arriba-derecha | *¿De dónde salen?* |
+| V51N | el teniente | arriba-derecha | abajo-izquierda | *¡Nakahara! ¡Levanta el arma!* |
+| V51O | Nakahara | abajo-izquierda | arriba-derecha | *¿De dónde salen, mi teniente?* |
+| V51O | el teniente | arriba-derecha | abajo-izquierda | *Dispara, Nakahara. Dispara y después te dejo llorar.* |
+| V51P | el vecino | arriba-derecha | abajo-izquierda | *¡Su hija no está ahí! ¡La oficina está cerrada!* |
+| V51P | el hombre del traje | abajo-izquierda | arriba-derecha | *Entonces me voy a la estación.* |
+| V51S | Sora | arriba-derecha | abajo-izquierda | *Mamá, hay una puerta en el suelo.* |
+| V51S | la madre | abajo-izquierda | arriba-derecha | *No mires, Sora.* |
+| V51S | Sora | arriba-derecha | abajo-izquierda | *Pero hay una.* |
+| V51S | la madre | abajo-izquierda | arriba-derecha | *Ya sé. No mires.* |
+| V51U | Sato | abajo-izquierda | arriba-derecha | *¿De quién es?* |
+| V51X | el taxista | arriba-izquierda | abajo-derecha | *Sabes que te van a conseguir, ¿no?* |
+| V51X | el estudiante | arriba-derecha | abajo-izquierda | *Lo sé. Pero alguien tiene que verlo.* |
+| V60E | el locutor | abajo-izquierda | arriba-derecha | *Un incidente en la región de Kanto. Mantengan la calma y no se acerquen a las zonas señalizadas.* |
+| V60G | Rui | arriba-izquierda | abajo-derecha | *Mamá, hay una costura en el cielo.* |
+| V60G | la madre | abajo-derecha | arriba-izquierda | *No digas tonterías, Rui.* |
+| V60G | Rui | arriba-izquierda | abajo-derecha | *Pero hay una.* |
 | V80 | Rika | abajo-izquierda | abajo-derecha | *Uno, dos, tres…* |
-| V81 | Mine | arriba-derecha | abajo-izquierda | *¡Mine, mira!* |
+| V80B | Rika | abajo-izquierda | abajo-derecha | *Cuatro. Muy bien.* |
+| V81 | la niña | arriba-derecha | abajo-izquierda | *¡Mira!* |
 | V84 | Rika | abajo-izquierda | arriba-derecha | *Sí. Muy bien. Estás manchada entera.* |
-| V92 | Mine, fuera de cuadro | arriba-derecha | sale a la derecha | *¡Mine!* |
+| V85A | la niña | abajo-derecha | arriba-izquierda | *¿Qué haces con la mano así?* |
+| V85C | la niña | arriba-derecha | abajo-izquierda | *¿Qué sostenías?* |
+| V85C | Rika | abajo-izquierda | abajo-derecha | *El número cinco.* |
+| V87A | Takagi | arriba-derecha | abajo-izquierda | *¿Por qué vienes los viernes, Rika?* |
+| V87B | Rika | abajo-izquierda | abajo-derecha | *Porque es el único día que puedo.* |
+| V87C | Takagi | arriba-derecha | abajo-izquierda | *A las chicas de tu edad no les gusta estar con niños pequeños.* |
+| V87C | Rika | abajo-izquierda | arriba-derecha | *Los niños no te piden que verifiques nada. Te piden que cuentes. Yo sé contar.* |
+| V92 | la niña, fuera de cuadro | arriba-derecha | sale a la derecha | *¡Espera!* |
+| V97B | Rika | abajo-izquierda | abajo-derecha | *El viernes te enseño a contar hasta siete.* |
 | V101 | Shino | medio-izquierda | abajo-derecha | *Sin el cuenco se te cae la cabeza. Otra vez.* |
-| V107 | Mio | arriba-izquierda | abajo-derecha | *Otra vez sin desayunar. Tienes la misma cara de siempre.* |
-| V110 | Rika | medio-derecha | izquierda | *Tengo hambre. Que es distinto.* |
-| V113 | Mio | abajo-izquierda | arriba-derecha | *Es peor.* |
-| V117 | Rika | arriba-izquierda | abajo-derecha | *Mañana traigo los termos. No se te olvida.* |
 
-> Los cuatro globos de la tabla siguiente son líneas cortas de los niños del aula,
-> en viñetas sin personaje nombreado. Cuentan para el total de 13.
+> Los 51 globos de arriba son de diálogo (31 del bloque A1b + 4 del bloque A3 + 16
+> del aula y el bloque B). Los 8 de la tabla siguiente son líneas de una sola palabra;
+> con ellos, el total de globos de diálogo del capítulo es 59.
 
-## Globos de una palabra (4)
+## Globos de una palabra (8)
 
 | Viñeta | Quién | Texto |
 |---|---|---|
+| V51G | Shiraishi | *¿Kenji?* |
+| V51T | las dos, a la vez | *Después.* |
 | V77 | un niño | *¡Ya!* |
-| V93 | un niño | *¡Mine!* |
-| V95 | Mine | *¡Adiós!* |
-| V115 | Rika | *¿Qué?* |
+| V80A | Mei | *Cuatro.* |
+| V85B | Rika | *Sostengo.* |
+| V93 | un niño | *¡Eh!* |
+| V95 | una niña | *¡Adiós!* |
+| V130 | Rika | *Rika. Rika.* |
 
-## Cajas de narración (9)
+## Cajas de narración (18)
 
 | Viñeta | Texto |
 |---|---|
-| V01 | *Mayo de 2017. Yokohama. 04:57.* |
+| V01 | *15 de mayo de 2017. Yokohama. 04:58.* |
+| V51D | *05:01. El primer grito no vino de la calle. / Vino de esta ventana. / Nadie volvió a ver al profesor.* |
+| V51F | *Diecisiete. Kenji las contó todas.* |
+| V51Q | *Nunca llegó.* |
+| V51V | *Había que avisar en la guardería.* |
+| V51Y | *Tres comentarios. Uno era de su madre: baja de esa azotea, Kenji. / El estudiante era Kenji, el del konbini.* |
 | V58 | *Las puertas se estaban cerrando.* |
-| V60 | *A las 07:42, la ciudad seguía de pie. / Las mismas calles. Nadie dentro.* |
+| V60 | *A las 07:00 las fotos empezaron a circular: borrosas, todas de lo mismo: puertas. / En una, el delantal amarillo pálido, doblado en las manos de Sato. / La ciudad seguía de pie. Las mismas calles. Nadie dentro. / En Kanto se habían abierto siete puertas. Siete avisos que nadie supo leer.* |
+| V60A | *Meses antes de las puertas, una base costera registró un pulso sin origen. / El informe llegó a una mesa con tres hombres. / El general escribió en el margen: «No hará falta decirlo. No habrá pánico.»* |
+| V60C | *Durante catorce minutos, el sistema esperó una orden / que dependía de una confirmación que nadie quiso pedir.* |
+| V60K | *Años más tarde, cuando preguntaron por el primer aviso del país, / a nadie se le ocurrió abrir ese frigorífico.* |
+| V60L | *Alguien le había dicho que esa tarde no había clase. / No sabía qué más contar.* |
 | V61 | *Tres días antes.* |
 | V87 | *Nueve años después, esa cara fue el primer aviso. Nadie lo leyó.* |
+| V107 | *Nadie la esperaba ya. Hacía nueve años.* |
+| V117 | *Los viernes, la tercera taza del escurridor seguía sin usar.* |
 | V129 | *La puerta estaba ahí. Nadie la abrió.* |
 | V137 | *Tres días. Eso fue todo el aviso que tuvo.* |
-| rótulo S29 | *Ese día duró catorce minutos.* (sobre negro) |
-| rótulo S30 | *TRES DÍAS ANTES / 12 de mayo de 2017* (rótulo gris) |
+
+> Aparte de las 18 cajas de viñeta, hay dos rótulos de pantalla: S29
+> (*Ese día duró catorce minutos.*, sobre negro) y S30 (*TRES DÍAS ANTES / 12 de mayo de 2017*, rótulo gris).
 
 ## SFX (11)
 
@@ -1036,7 +1674,11 @@ Corte a negro y a capítulo 2.
 | El kaiyu de V20, en detalle | Cap 4: la misma escena repetida, ahora larga |
 | *Nadie lo leyó* (V87) | Cap 6: el Estado Mayor sabía y calló |
 | *Catorce minutos* (S29) | Cap 6: el Silencio dura exactamente eso |
-| Mio y los termos (V117) | Cap 7 y en adelante |
+| *Siete avisos que nadie supo leer* (V60) | Cap 6: las siete puertas de Kanto |
+| La promesa al niño de la verja, "contar hasta siete" (V97B) | Cap 7: el niño cuenta hasta el infinito |
+| La foto de la azotea de Kenji (V51W) y el delantal amarillo pálido de Sato (V51U) | Cap 6: las fotos del día 15 circulan; alguien reconoce el delantal |
+| Las diecisiete pisadas que Kenji contó (V51F) | Cap 7 y en adelante: su manera de contar el desastre |
+| La ausencia de Mio y la tercera taza sin usar (V107, V117) | Cap 7 y en adelante |
 
 # Lo que este capítulo NO hace
 
@@ -1045,7 +1687,8 @@ Corte a negro y a capítulo 2.
    promete como promesa de temporada.
 - **No muestra a los cuatro quemándose.** El cold open es cámara objetiva.
 - **No explica qué son los portales.** Solo que se abren.
-- **No dice que hubo un aviso.** Al contrario: planta que no lo hubo.
+- **No dice que el Estado avisara.** Al contrario: planta que no lo hizo. (Las
+   puertas, en cambio, sí eran avisos: siete, y nadie los supo leer.)
 - **No pone ningún carácter japonés.** Latín y puntuación española, nada más.
 - **No dibuja chrome de lector** dentro de ninguna viñeta: nada de barras, menús,
   barras de direcciones, marcos de móvil ni manos sosteniendo la página.

@@ -1,0 +1,35 @@
+# FICHA DE CONSISTENCIA — CAP 02
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+Pegar este bloque en la IA junto al guion del cap 02. Fuente: ANCLA-CONSISTENCIA.txt + FICHAS-VISUALES.txt.
+
+## BLOQUE GLOBAL DE ESTILO (copiar igual)
+Estilo manhwa coreano tipo Solo Leveling (DUBU/Redice). Full color. Cel-shading suave con gradientes, nunca plano duro. Tres pasadas: base plana, sombra cel FRIA azul-gris/violeta, overlay CALIDO ambar/coral. Linea fina, limpia y coloreada en los bordes. Rim light fuerte en pelo y contornos. Brillos especulares en pelo y metal. Glow emisivo en poderes, ojos activados y color de peligro enemigo. Piel semi-realista con gradiente en pomulos y nariz. Proporcion semi-realista de 8 cabezas en adultos. Formato 800x1280 vertical, max 2 vinetas por pantalla. Una sola direccion de luz por escena. Accion/climax calido y saturado con motion blur y aberracion cromatica; dialogo/tension frio y desaturado. Prohibido: HUD, barras, niveles, menus, LEVEL UP, texto en ingles, marcas de agua, firmas, glifos de otros idiomas (los glifos Kaikoru SI se usan).
+
+## HEROES QUE APARECEN
+- GORO ARASHI: hombre, 41 (32 el Dia 1), 195 cm, el mas grande. Enorme, ancho de espalda, manos grandes, cuello corto, cabeza pequena hundida entre los hombros, CALVO, sombra de barba gris, ceno permanente. Piel curtida #A9784F. QUEMADURA ancha en medio del cuello, dos cicatrices en el craneo, nariz rota, labio partido. Camiseta negra #1A1A19, coraza de planchas oxidadas #8A3D1E con metal #6B4A34, hombreras asimetricas remachadas, guantes gruesos, cinturon con cartucheras, rodilleras metalicas, botas militares, ESCUDO redondo oxidado atado a la espalda, casco de obra gris en la mano. Maza industrial pesada. Marca: el escudo a la espalda. BRASA del guante derecho, unico punto calido y emisivo #FF6A2A.
+
+## SECUNDARIOS QUE APARECEN
+- TSUMITA KOSUKE: 63, vecino cocinero de Goro, delantal sucio, sonrisa facil.
+- NOMURA TATSUO: 49, operador de puerta, uniforme de operador. Es a quien Goro quema (cap 5).
+- KIRYU RYO: 30, operador de puerta, trabaja con Goro.
+
+## ENEMIGOS QUE APARECEN
+Regla comun: feos, grandes, visibles; nadie se disfraza de persona; silueta distinta por tipo; cuerpo OSCURO casi silueta con el COLOR DE PELIGRO EMISIVO, glifo o nucleo brillante, humo/particulas alrededor, contorno DOBLE con rim light; no producen sonido propio; no hablan japones.
+
+Rangos: Verde (exploracion) 0.6-0.9 m glow #6FE24C | Azul (minimo) 0.3-0.5 m glow #3D8BFF | Amarillo (linea) 2.0-2.5 m glow #D9B02A (nunca chillon) | Naranja (choque) 8-12 m glow #FF7A1A | Rojo (oficiales) 15-30 m glow #E02424 | Negro (mando) +30 m nucleo violeta #7A2BFF.
+
+- EMBESTIDOR (arquetipo amarillo, 2-2.5 m, glow #D9B02A): hombro enorme, cabeza hundida, CUELLO CASI NULO, bipedo. Embestida con el hombro. Glow en el hombro.
+- KAIYU (generico): aplica la regla comun y la tabla de rangos.
+
+CHECKLIST POR IMAGEN (si algo falla, se regenera la vinetta):
+1) Proporcion 8 cabezas (Ren realista, no caricatura).
+2) Color de pelo y ojos correctos y constantes.
+3) Cicatrices exactas (Rika ceja izq., Goro cuello).
+4) Ropa y marca unica presentes (haori, escudo, amarillo, mono alto).
+5) Arma correcta en cada uno (sable, maza, cuchillo, rifle).
+6) Paleta y hex respetados; nadie mas usa el amarillo de Ren.
+7) Glow del poder con el color del heroe.
+8) Cel-shading suave + rim light + overlay calido/frio, no color plano.
+9) Max 2 vinetas; 800x1280; sin HUD/niveles/ingles.
+10) El personaje se ve identico al de la vinetta anterior.

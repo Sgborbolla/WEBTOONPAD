@@ -1,4 +1,5 @@
 # BIBLE DE PRODUCCIÓN WEBTOON — NPAD
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Basada en WEBTOON Canvas Resource Handbook (Creator 101), Clip Studio Tips, Comistitch, Lemoon Studio, Multic y análisis profesional 2026.
 
@@ -152,11 +153,11 @@ Descripción **corta, fija y literal** por personaje. Se repite **palabra por pa
 
 ## 8. COLOR, ILUMINACIÓN Y ARTE
 
-- **Color plano + cel-shaded (2 tonos)**. Sin degradados suaves, sin ruido excesivo.
+- **Cel-shading suave con gradientes (estilo manhwa tipo Solo Leveling)**. Tres pasadas: base plana, sombra cel fría azul-gris, overlay cálido ámbar. Rim light y glow. Sin ruido excesivo.
 - **Dirección de luz consistente por escena.** Misma dirección en toda la pantalla/escena.
 - **Paleta narrativa:** fríos = tensión/misterio, cálidos = emoción/calidez. Amarillo chillón solo para Ren (marca).
 - **Fondos:** funcionales, no compiten con personajes. Usar fondos simples cuando hay acción, detallados en establecimiento.
-- **Sin desenfoque (blur).** Profundidad por aplanado/contraste.
+- **Motion blur y aberración cromática permitidos SOLO en acción** (velocidad, impacto, estilo Solo Leveling). Fondos estáticos sin desenfoque; profundidad por contraste y perspectiva.
 - **Sin chrome de lector** (HUD, barras, menús, LEVEL UP, manos sosteniendo móvil, URL). Prohibido.
 
 ---

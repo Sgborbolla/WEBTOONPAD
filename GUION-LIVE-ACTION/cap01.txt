@@ -1,0 +1,673 @@
+# CAPÍTULO 1 — EL DÍA QUE NO AVISARON
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+## GUION DE LIVE ACTION (serie)
+
+> **Fuente de verdad:** Novela/novela_caps/cap01.txt (versión revisada).
+> **Formato:** guion de rodaje, escena por escena. Los diálogos se rodan en JAPONÉS; el
+> texto en español de este guion es el SUBTÍTULO.
+> **Idioma:** audio en japonés. La pista de subtítulos (español) se reserva SOLO para el
+> diálogo hablado. Nada más entra ahí.
+> **Nombres de poder:** NO se dicen en voz alta (ni en japonés). Se muestran como RÓTULO
+> aparte (chyrón), con tipografía propia y el color del glow del héroe (Rika #E23B3B,
+> Goro #FF6A2A, Ren #FFE23B, Yui #5AC8FA), solo en el instante de activación y solo la
+> primera vez que se ve cada técnica; después, solo el glow. Nunca en un globo de diálogo
+> ni con stats/niveles: no es HUD.
+> **Estilo visual:** Manhwa coreano tipo Solo Leveling llevado a imagen real. Full color,
+> realce de luces emisivas (glow) en poderes y en el color de peligro de los kaiyu,
+> contraste frío (diálogo/tensión) / cálido (acción/clímax), cámara cinematográfica.
+> **Invariantes de producción:** nada de HUD, menús, niveles, texto en inglés ni sound
+> effects dibujados. Sin kana/kanji como TEXTO EN PANTALLA (rótulos y carteles solo en
+> español); el japonés es hablado, no rotulado. Los glifos
+> Kaikoru (ʌ ⬡ ⊏ ∤ ⏚) SÍ aparecen grabados en la piedra y el metal donde se indique.
+> **Canon de personajes:** ver FICHAS-VISUALES.txt y Guias/ficha-cap01.txt.
+> **Nota de continuidad:** Mio Tsukimi desapareció en 2008 (hace nueve años). NO aparece
+> en imagen en este capítulo; solo su ausencia (portal vacío, tercera taza, sombra).
+> Goro, Ren y Yui no aparecen.
+
+---
+
+## REPARTO (por orden de aparición)
+
+- SATO, 50, oficinista, insomne. Ve el primer aviso y no lo entiende.
+- JUNKO, 48, su mujer.
+- KENJI, 21, dependiente de konbini de noche y luego cronista del amanecer.
+- SHIRAISHI, 50, jefe del konbini; la prepotencia como forma del miedo.
+- TENIENTE, 40s, única barba y dos guerras; manda la línea.
+- AOKI, 22, soldado joven.
+- NAKAHARA, 26, soldado, tres hijas.
+- SOLDADO QUIETO, 20s, rompe la formación, toca el casco.
+- HOMBRE DEL TRAJE, 40s, busca a su hija Hana.
+- MUJER DEL CRUCE y su hijo SORA, 4.
+- ANCIANA de la pachinko y MADRE JOVEN con bebé.
+- FARMACÉUTICA (41), TAXISTA JUBILADO (65) y ESTUDIANTE (21) en la azotea (el estudiante es Kenji).
+- RUI, 4, mira la televisión.
+- RIKA TSUKIMI, 15. (Presente: 24.)
+- SHINO TSUKIMI, 47, madre de Rika.
+- TAKAGI, guardería.
+- MEI, 4 y medio, y LA NIÑA DE LAS MANOS AZULES, 5.
+
+---
+
+## ACTO I — LOS CATORCE MINUTOS
+
+### 1. EXT. YOKOHAMA, CALLEJÓN JUNTO AL PUERTO — 04:58 (previo al amanecer)
+
+Aire que huele a sal y a hierro frío. La ciudad duerme con las persianas bajas. Mar en
+calma detrás de los depósitos de agua. Nada que esperar.
+
+En el asfalto de una calle lateral, una grieta se abre **sin ruido**. De la línea sube un
+hilo blanco de polvo, recto, sin prisa. Las farolas hacen su ronda de luz cada tres
+segundos y no notan que la calle ya no es una calle.
+
+**Rotulación (abajo, gris):** *Mayo de 2017. Yokohama. 04:58.*
+
+### 2. INT. PISO DE SATO — 04:58
+
+SATO, 50, no puede dormir. Se levanta a hacerse un té. La primera taza, mirando la
+ventana. Le parece que la calle tiene más luz de la que debería. La luz es blanca y no
+viene de las farolas: viene de abajo, de entre el asfalto.
+
+**SATO (bajo, hacia el dormitorio):**
+Junko. Junko, despierta.
+
+JUNKO, 48, aparece en la puerta con el pelo suelto y la cara dormida.
+
+**JUNKO:**
+¿Qué pasa?
+
+**SATO:**
+No sé qué pasa. Salgamos.
+
+La manilla de la puerta se le queda en la mano. Junko se acerca a la ventana y mira
+entre las persianas.
+
+**JUNKO (voz que no es la suya):**
+Sato. Hay un animal ahí abajo.
+
+### 3. EXT. AVENIDA — 05:00
+
+Del vapor que corre por el suelo —más bajo que los coches aparcados— salen cosas. Unos
+como perros sin cráneo, la boca abierta hasta el cuello, las patas demasiado largas.
+Avanzan en línea recta, con una prisa que no es hambre. Detrás, las grandes, que tardan
+dos minutos en sacar la mitad de la cabeza del vapor.
+
+Un AUTOBÚS intenta girar y **se dobla por la mitad**. La mitad de arriba sale despedida
+contra el cielo limpio. Una rueda rueda sola hasta la esquina. En el asfalto queda el
+surco de la frenada y, encima, quieta, la sombra del autobús que ya no está.
+
+**KAIYU (regla visual):** cuerpo OSCURO casi silueta, color de peligro emisivo (glow), humo
+y contorno doble. No rugen.
+
+### 4. INT. PISO QUINTO / VENTANA AL ESTE — 05:01
+
+El primer grito no viene de la calle. Viene de aquí: un señor al que todos llamaban el
+profesor, que corregía exámenes en el balcón. Un grito corto y redondo. Después, silencio.
+Su ventana queda abierta al este, con las luces encendidas.
+
+### 5. INT. KONBINI DE LA ESQUINA — 05:02
+
+KENJI, 21, repone bentos. Por el cristal pasa una forma oscura y larga **sin romperlo**.
+No siente miedo: siente que no debe hacer ruido. Se agacha tras el mostrador y cuenta
+pisadas. Cuenta diecisiete. La forma se detiene delante del cristal. Kenji cierra los ojos.
+
+**SHIRAISHI (desde la trastienda):**
+¡Kenji! ¿Qué es ese ruido?
+
+**KENJI:**
+No lo sé. Quédese ahí.
+
+**SHIRAISHI:**
+¿Cómo que no lo sabe? Yo oigo pisadas.
+
+**KENJI:**
+Quédese ahí, jefe.
+
+Shiraishi sale con una escoba, prepotente, que es su manera de tener miedo. Abre la puerta
+y mira la calle. La criatura grande —la del peso de un edificio— está a catorce metros,
+con la cabeza ladeada hacia el edificio de enfrente. Respira sin mover la caja del pecho.
+
+La puerta del konbini se cierra **suavemente** detrás de él.
+
+**SHIRAISHI (apagado por el cristal):**
+¿Kenji?
+
+La criatura no se vuelve. Le da igual. Diez minutos después, la patrulla encuentra a
+Shiraishi abrazado a la escoba detrás del mostrador, temblando de frío.
+
+### 6. EXT. AVENIDA — 05:03
+
+La línea llega en formación: dieciséis hombres y dos mujeres, fila de a cuatro, el manual
+en la cabeza. Silbatos colgados, apuntadores enrollados sin usar. El TENIENTE —único con
+barba y dos guerras— da el silencio con la mano. Dieciocho manos sobre dieciocho culatas.
+
+**TENIENTE (en voz baja):**
+Vamos a hacer esto como en el papel. Apuntan. Disparan en abanico. No hablan. No bajan el
+arma hasta que yo lo diga.
+
+**AOKI, 22:**
+¿Y si no paran, mi teniente?
+
+**TENIENTE:**
+Paran.
+
+Disparan. Abanico de tres líneas, carcasas en arco limpio. Aoki cuenta: cuatro, cinco,
+ocho. Cree que tienen el manual de su parte.
+
+**VOZ:**
+¡Marcado al tres!
+
+**TENIENTE (sin parpadear):**
+Las grandes no caen. A todos, a la grande.
+
+Las balas entran en la grande y se quedan dentro, como lluvia en un estanque. La grande
+mueve la cabeza una vez. Del cuello le sale un **quejido metálico largo** —no un rugido—,
+y a los soldados se les aflojan las manos en las culatas.
+
+### 7. EXT. AVENIDA — 05:04
+
+Un BLINDADO se parte por la cintura como yeso seco. El corte, limpio. De la mitad de
+arriba no sale nadie. Aoki ve, una fracción de segundo, una mano que asoma por la
+ventanilla del conductor y no se mueve.
+
+Otro blindado no se mueve. Espera. Dentro, la tripulación oye el golpe de las balas y el
+silencio del otro lado.
+
+**ARTILLERO (nudillos blancos en la palanca):**
+¿Por qué no nos dispara?
+
+**COMANDANTE (por la mirilla):**
+No dispara. Escucha.
+
+**ARTILLERO:**
+¿Qué escucha?
+
+**COMANDANTE:**
+A nosotros.
+
+Silencio dentro. Y entonces, sin que nadie lo ordene, el CONDUCTOR empieza a cantar. Una
+canción de cuna, baja y desafinada, la única que recuerda de su hijo. Los otros tres lo
+miran. No dicen nada. Lo dejan cantar. La criatura espera lo que dura la canción y
+después gira la cabeza y sigue su camino. Dentro, el conductor llora con las dos manos en
+el volante.
+
+Aoki ve caer de rodillas a NAKAHARA, 26, sin que nadie la toque. Tres hijas. Sin heridas.
+
+**NAKAHARA (voz pequeña):**
+¿De dónde salen?
+
+**TENIENTE:**
+¡Nakahara! ¡Levanta el arma!
+
+**NAKAHARA:**
+¿De dónde salen, mi teniente?
+
+El teniente la levanta él mismo. Le endereza las correas y apunta a la masa.
+
+**TENIENTE (bajo):**
+Dispara, Nakahara. Dispara y después te dejo llorar.
+
+Nakahara dispara. Sostiene el hueco de la línea mientras Aoki tiembla con el arma contra
+el hombro.
+
+### 8. EXT. MEDIA CALLE — 05:04
+
+El SOLDADO QUIETO, en medio de la calle, con el fuego naranja detrás y la sombra larga
+hacia delante. Rompió la formación la primera vez que vio a la criatura del autobús. Solo,
+sin arma, entre la línea y la masa. Cuando las criaturas pasan a su lado, se lleva la mano
+al casco, una vez, con dos dedos. No se lo quita. Toca el metal como quien comprueba que
+sigue ahí. Después baja la mano y la aprieta contra la pierna. Un temblor pequeño que
+tarda mucho en perderse.
+
+### 9. EXT. CIUDAD, VARIAS CALLES — 05:05 a 05:07
+
+**A) El hombre del traje.** Golpea con la palma abierta la puerta de un edificio de
+oficinas. Traje desabrochado, cartera de cuero. Repite un nombre: **Hana**. Nadie le abre;
+el edificio está vacío desde las ocho y media de la tarde anterior.
+
+**VECINO (desde una ventana):**
+¡Su hija no está ahí! ¡La oficina está cerrada!
+
+El hombre se detiene a mitad de un golpe, la mano en el aire.
+
+**HOMBRE DEL TRAJE (a nadie):**
+Entonces me voy a la estación.
+
+Última vez que lo ven: caminando por la calle principal, hablando con su hija por un
+teléfono que no contesta, explicándole con toda la calma de que es capaz que el tren va a
+llegar y que papá ya va de camino.
+
+**B) La mujer y el niño en el cruce.** El charco de vapor separa la vereda. El niño, SORA,
+4, queda del otro lado, mirándola, sin llorar, contando con los dedos las cosas que pasan
+detrás. La mujer cruza, lo levanta, la manga de la chaqueta cruje en su puño.
+
+**SORA:**
+Mamá, hay una puerta en el suelo.
+
+**MUJER:**
+No mires, Sora.
+
+**SORA:**
+Pero hay una.
+
+**MUJER:**
+Ya sé. No mires.
+
+Esa conversación de cuatro segundos se repite, esa madrugada, en cinco idiomas: niños que
+ven las puertas antes que los adultos, adultos que dicen "no mires" y se llevan a los
+niños sin mirar.
+
+**C) Refugio bajo el techo de una pachinko.** Una MADRE JOVEN con un bebé y una ANCIANA
+con una foto plastificada de tres nietos se turnan un pañuelo para taparse la boca. No
+hablan. Cuando el bebé llora, la madre lo amamanta sin decir nada y la anciana le pone la
+mano en la cabeza. Es la única luz de la noche.
+
+### 10. EXT. KIOSCO DE PERIÓDICOS — 05:07
+
+Sato cruza hasta el kiosco —siempre fue por el periódico ahí. Delante de la persiana, en
+el asfalto mojado, un **delantal amarillo pálido**. Mancha de témpera seca en el bolsillo,
+la cinta derecha arrancada. La izquierda sigue atada, con un nudo apretado que alguien le
+enseñó a hacer hacía dos días, en una azotea, con las manos cubiertas de pintura azul.
+
+Sato se agacha, lo recoge, se queda con él en las manos.
+
+**SATO (a nadie):**
+¿De quién es?
+
+La guardería está a dos manzanas. No le da tiempo. La última puerta grande se abre a media
+altura en la fachada de enfrente. Del vapor sale la criatura que cierra las puertas. Sato
+mira el delantal, mira el bloque, y se mete dentro del kiosco con el delantal apretado
+contra el pecho, como quien esconde una cosa que no sabe a quién devolver.
+
+A las siete lo encuentran con el delantal en las manos y el teléfono apagado en el
+bolsillo. No contesta si está bien: contesta que hay que avisar en la guardería. Alguien
+apunta el nombre de la guardería en un cuaderno. Ese cuaderno es la primera lista de la
+mañana.
+
+### 11. EXT. AZOTEA CERCANA — 05:09
+
+Tres vecinos que nunca se han hablado coinciden. ESTUDIANTE, 21; FARMACÉUTICA, 41 (un
+paquete de gasas caducado en el bolsillo); TAXISTA JUBILADO, 65 (las llaves del coche que
+no está en la calle). Miran la masa que avanza por la avenida.
+
+**TAXISTA:**
+Sabes que te van a conseguir, ¿no?
+
+**ESTUDIANTE:**
+Lo sé. Pero alguien tiene que verlo.
+
+La foto sale: mal enfocada, manos temblando, la masa al fondo y una farola de testigo. La
+sube sin título. Tres comentarios. Uno es de su madre: *baja de esa azotea, Kenji.* El
+estudiante es Kenji, el del konbini.
+
+---
+
+## ACTO II — LA RESPUESTA
+
+### 12. EXT. CIELO DEL SUR / AVENIDA — 05:09
+
+La ciudad, desde el aire, como un mapa recién derramado: avenidas que son vetas oscuras,
+todas en la misma dirección. La respuesta viene del sur, del cielo de la base: primero
+**tres helicópteros**, después el zumbido grave de los aviones cruzando en dos grupos y
+dejando sendas blancas, rectas, como una costura sobre el amanecer.
+
+La primera decisión del ejército se toma **por analogía**: se dispara a lo que se mueve.
+Trazadoras bajan en dos haces exactos. Algunas criaturas caen de lado, arrastrando asfalto
+tres metros; las de detrás las esquivan sin bajar la marcha, como el agua esquiva una
+piedra.
+
+Kenji, desde la azotea, ve todo como un tablero que nadie le enseñó a jugar: la columna de
+tanques entrando por el oeste, las flores negras de las explosiones entre los edificios,
+el cristal de los escaparates lloviendo sobre los coches. Y ese sonido que la ciudad
+aprenderá a reconocer: los gritos. Todos a la vez, ninguno por encima del otro.
+
+### 13. EXT. AVENIDA — 05:09
+
+Una criatura sale a la avenida desde la fachada del bloque: más alta que dos pisos, cuello
+corto, el cuerpo como un almacén andando. Los aviones pasan bajos en pareja; las balas la
+vuelven lenta e irritada. Cuando levanta una extremidad larga hacia el cielo, el
+helicóptero que estaba demasiado bajo viene a buscarla contra los tejados, con un quejido
+metálico y largo, y **se lleva un edificio en la caída**. La columna de humo negro sube
+recta. Nadie sale de ella.
+
+Los tanques vuelven a disparar. El primero de la columna arde con la torreta girando
+todavía.
+
+### 14. EXT. VARIOS PUNTOS DE LA AVENIDA — 05:09
+
+- Un soldado arrastra a otro hacia un portal, gritando una serie de números que no son una
+  orden: el número de su calle, el de su casa, el del teléfono de su madre. El único
+  inventario que le queda.
+- En un parque a la izquierda del hospital, una MUJER DE CINCUENTA se sienta entre los
+  macizos de flores, con el bolso en las piernas, mirando los aviones girar como dos
+  agujas. La única cosa quieta de esa parte del mapa. No grita.
+- Soldados caen contra una columna publicitaria. Un artillero cae con la mano todavía en
+  la palanca. Civiles corren hacia el humo, porque el humo es el único sitio donde se ve
+  algo. Ninguno de los muertos tiene nombre esa mañana.
+
+### 15. EXT. AVENIDA — 05:10 a 05:12
+
+Las puertas empiezan a cerrarse **una por una**, con un golpe seco que suena a disparo para
+los que están lejos. La criatura enorme de la avenida levanta la cabeza hacia el mar,
+mira las puertas cerrándose y, por primera vez, **duda**. No porque la batalla le importe:
+como dudan los relojes, porque el tiempo de abrir ha terminado. Da la espalda al humo y da
+un paso hacia el vapor, y se hunde en él despacio, como quien entra en su casa después de
+un viaje. Las demás la siguen.
+
+A las 05:12, la última puerta se cierra. El vapor retrocede hacia las grietas. Los que
+están cerca saben, sin que nadie lo diga, que la herida se está cerrando.
+
+Dentro de la pachinko, la madre y la anciana salen por la puerta trasera. La anciana señala
+el mar, donde el vapor ya no llega.
+
+**LAS DOS (a la vez):**
+Después.
+
+### 16. EXT. AVENIDA — 05:12
+
+Catorce minutos exactos. La masa ya no está. Quedan las carcasas ordenadas en el asfalto,
+como si un mismo dibujo las hubiera trazado. El autobús partido en dos, la rueda en la
+esquina. El kiosco con la persiana caída y el delantal doblado dentro. El quinto piso del
+profesor, la ventana abierta al este, las luces encendidas, sin nadie que las apague.
+
+Y queda la ciudad. De pie. Con los semáforos cambiando de color aunque no haya nadie para
+cruzarlos.
+
+**VOZ EN OFF (soldado, después):**
+Las puertas se abrieron a las 04:58 y se cerraron a las 05:12. Catorce minutos exactos.
+Nadie los avisó.
+
+---
+
+## ACTO III — LO QUE NO SE DIJO
+
+### 17. INT. DESPACHO DEL ESTADO MAYOR — FLASH (meses antes)
+
+Técnicos de una base costera registran, a la misma hora de la madrugada, una anomalía sorda
+sin origen terrestre. Recuerda a un pulso, o a la sombra de un pulso. La anotan, la miden,
+la suben. El informe llega a una mesa con tres hombres que no hacen comentarios. Se archiva
+bajo una clave que no significa nada. El GENERAL a cargo escribe en el margen, con letra
+menuda: **"No hará falta decirlo. No habrá pánico."**
+
+Todos los meses, durante casi un año, alguien le recuerda esa nota. El general no la
+recuerda. Tiene tres pantallas en la oficina y en ninguna un calendario.
+
+Por eso, cuando las puertas se abren, **no suena ninguna sirena**. El sistema de alarma
+está encendido, todos los indicadores en verde, esperando una orden que nunca llega.
+
+### 18. INT. EMISORA NACIONAL — 06:00
+
+Una voz de hombre, serena, con pausas medidas. No menciona la palabra "puertas". No
+menciona la palabra "decreto". Habla de "un incidente en la región de Kanto" y pide
+"mantener la calma y no acercarse a las zonas señalizadas".
+
+El LOCUTOR lee el comunicado dos veces. La segunda, al final, se le quiebra la voz. En la
+cabina nadie le dice nada: todos miran el mismo papel. Al salir, el locutor se encierra en
+el almacén y se queda una hora sentado en el suelo.
+
+### 19. EXT./INT. CIUDAD — 07:00 a 10:00
+
+Las fotos empiezan a circular: malas, borrosas, a contraluz, con el temblor de las manos.
+Pero se entienden. La forma de las puertas, la exactitud de las fachadas, la puntería de
+las grietas. En una, el delantal amarillo pálido doblado en las manos de Sato dentro del
+kiosco abierto de par en par. El general ordena localizar al hombre del kiosco; Sato no la
+tomó. La tomó el estudiante de la azotea.
+
+**A) INT. APARTAMENTO ZONA VIEJA — 07:09.** Un niño, RUI, 4, señala la televisión.
+
+**RUI:**
+Mamá, hay una costura en el cielo.
+
+**MADRE (sin mirar):**
+No digas tonterías, Rui.
+
+**RUI:**
+Pero hay una.
+
+La madre apaga la televisión y se sienta con él. Le pone la mano en la cabeza, como la
+anciana de la pachinko, y le dice que el cielo está entero, que no hay ninguna costura.
+Rui no insiste. Se mete las dos manos en los bolsillos para contarse los dedos y cuenta
+hasta diez, que es hasta donde le han enseñado a contar.
+
+**B) EXT. ESTACIÓN DE YOKOHAMA — 08:00.** El primer tren vuelve a salir. Vacío de gente,
+no de silencio: los pocos que suben se sientan cada uno a una distancia que nadie decidió.
+El revisor, quince años en la línea, baja las luces y no anuncia nada.
+
+**C) INT. COCINA DE LA ZONA NORTE — 08:00.** Una MUJER DE CINCUENTA cuelga la foto del
+delantal en la puerta del frigorífico, sujeta con un imán de fresa. No sabe por qué. Le
+recuerda a un uniforme que vio de pequeña.
+
+**D) EXT. AVENIDA — 10:00.** Un CHICO DE ONCE AÑOS que repartía periódicos encuentra la
+rueda del autobús sola en la esquina. La empuja con el pie; rueda dos metros y se para. La
+empuja otra vez. La rueda tarda toda la mañana en llegar a la esquina de la guardería, y
+allí se queda, con el chico sentado encima, mirando la verja cerrada de la guardería y
+contando en silencio, porque alguien le dijo que esa tarde no había clase.
+
+La ciudad sigue de pie. Pone los semáforos en verde y los trenes en hora y la gente abre
+las persianas como si el día lo hubiera dejado la noche anterior.
+
+---
+
+## APERTURA (crédito de apertura recurrente — idéntico en todos los capítulos)
+> Cabecera fija de la serie audiovisual. ~70 s · 16:9 · híbrido imagen real + animación.
+> Música: taiko + cuerdas con metrónomo que cuenta 1→7 (calla en el 7). El OP no habla;
+> subtítulos (español) solo para el diálogo del capítulo. Los nombres de poder nunca van
+> en audio. Autoría total: Sergio Grabiel Borbolla Verdecia.
+
+| Tiempo | Imagen | Rótulo de crédito |
+|---|---|---|
+| 0:00–0:08 | Negro; latido + tic; macro real de un "1" de polvo en el asfalto. | — |
+| 0:08–0:20 | Dron real sobre la ciudad al amanecer (frío); animación de las puertas abriéndose como costuras de luz; la cámara entra en una grieta y el cuadro se quema a blanco. | TÍTULO DE LA SERIE (hueso #E8E2D2) |
+| 0:20–0:34 | Los cuatro, planos cortos reales; a cada corte, glow + rótulo del nombre en su color: Rika #E23B3B · Goro #FF6A2A · Ren #FFE23B · Yui #5AC8FA. | Creada por / Dirigida por — Sergio Grabiel Borbolla Verdecia |
+| 0:34–0:52 | Montaje de acción real + VFX (motion blur y aberración cromática solo en impactos); enemigos con color de peligro; escuadra en cuña; metrónomo 1→7. | Guion / Reparto — Sergio Grabiel Borbolla Verdecia |
+| 0:52–1:04 | Los cuatro en fila, reales, de espaldas; el título se re-traza; golpe de taiko seco en el "7". | Música / Montaje / Diseño de producción — Sergio Grabiel Borbolla Verdecia |
+| 1:04–1:15 | Rika sola en el callejón de la puerta gris; el glow baja a gris y se apaga; corte a negro. | Producción / Una producción de — Sergio Grabiel Borbolla Verdecia |
+
+> Reglas: sin HUD/niveles/inglés en los rótulos; crédito fijo dentro de la temporada.
+> En el cap01 la apertura va DESPUÉS del cold open de los catorce minutos; del cap02 en
+> adelante abre el episodio directamente.
+
+## ACTO IV — TRES DÍAS ANTES
+
+### 20. EXT. AZOTEA Y SOLAR DE LA GUARDERÍA — 12 DE MAYO DE 2017, mañana
+
+**Rotulación:** *Tres días antes. 12 de mayo de 2017.*
+
+La guardería: tres pisos, una verja baja, un cartel de plástico con los bordes doblados por
+el sol. En la azotea, RIKA TSUKIMI, 15, se queda **de espaldas al vacío**, mirando los
+depósitos de agua y el cielo. Pelo rojo en coleta alta; el viento se lo mueve por delante
+de la cara. Su haori color hueso ondea a destiempo, siempre un segundo después que ella.
+
+En el solar vacío —una verja, tres contenedores— entrena sola. Golpea una tubería de acero
+montada en un caballete hasta doblarla. Y entonces no repite el golpe: **lo sostiene**.
+Hace hueco, quieta, respirando con las manos en las rodillas. Las rodillas le arden. Los
+nudillos han perdido el color. Cuando termina, se pone en pie y mira la tubería doblada
+como quien mira un documento firmado.
+
+**RIKA (baja, a nadie):**
+Otra vez. Que no se te olvide.
+
+No es un ritual de rabia. Es un ritual de cuenta. Cada golpe es una cosa que quiere poder
+sostener. El undécimo golpe es para el solar. El duodécimo, para el olor del
+bloque. El decimotercero es para su hermana, **Mio**, aunque nunca lo diga en voz
+alta: en esa familia las palabras se miden en comida y en silencio. Su hermana lleva nueve
+años sin estar, y nueve años es la cifra que Rika ha aprendido a sostener sin que se le
+note.
+
+Un VECINO de la primera fila la ha visto dos veces. Le dice a su mujer:
+
+**VECINO:**
+Esa niña le pega a un poste.
+
+Su mujer no mira. Son las ocho y media y no hay ninguna razón para pegarle a un poste. Y,
+sin embargo, todos los viernes, ahí está.
+
+### 21. INT. GUARDERÍA, AULA DE LA ALFOMBRA — 12 DE MAYO, mañana
+
+Rika entra por la puerta grande con la mochila escolar en un hombro. TAKAGI, la mujer del
+delantal azul, la recibe sin preguntarle por qué falta a clase los viernes. DOCE NIÑOS la
+miran desde el círculo. Rika se sienta con ellos, se arremanga y empieza a contar con los
+dedos.
+
+**RIKA:**
+Uno, dos, tres…
+
+Tiene una voz que los niños escuchan sin mirarla. No les habla como una adulta pequeña:
+como quien cuenta en serio, con la mirada puesta en el siguiente número.
+
+**MEI, 4 y medio (mirándose las manos):**
+Cuatro.
+
+**RIKA:**
+Cuatro. Muy bien.
+
+Mei tiene la manía de corregirlo todo, incluso las cuentas de Rika. Rika la deja. Es su
+manera de entrenar: dejar que alguien le diga que se equivocó, no discutir, solo verificar,
+y cuando la cuenta es cierta, decir muy bien.
+
+La niña más pequeña del círculo le tira de la manga con las manos abiertas, cargadas de
+témpera azul y amarilla hasta la muñeca.
+
+**NIÑA:**
+¡Mira!
+
+Rika mira esas manos y sonríe con la boca cerrada. Es la primera vez que sonríe en todo el
+día. La niña, orgullosa, le deja una palma abierta y azul en la mejilla. Rika no se la
+limpia. Se queda así, con la marca azul en la piel, contando el siguiente número.
+
+**NIÑA (tocándole la mejilla con un dedo limpio):**
+¿Qué haces con la mano así?
+
+**RIKA:**
+Sostengo.
+
+**NIÑA:**
+¿Qué sostenías?
+
+**RIKA:**
+El número cinco.
+
+La niña lo piensa mucho, con el ceño fruncido, y dice que entonces ella también quiere
+sostener el número cinco. Takagi, desde la mesa de las tazas, las mira sin decir nada. En
+quince años ha visto pasar generaciones, y aun así le cuesta una hora al día no mirar a
+esa niña de pelo rojo que cuenta números como quien vigila la puerta de una casa.
+
+Fuera, por la ventana, una farola se refleja en el cristal.
+
+### 22. INT. GUARDERÍA, PASILLO Y ENTRADA — 12 DE MAYO, 10:30 a 10:50
+
+Rika ayuda a Takagi a doblar las sábanas de la siesta. Huelen a pintura y a sol. Rika las
+dobla en cuadrados exactos, verifica las esquinas con la vista y las apila por tamaño.
+Takagi le habla de su hijo, que estudia en Sapporo y le manda fotos de la nieve. Rika
+escucha sin corregir nada.
+
+**TAKAGI:**
+¿Por qué vienes los viernes, Rika?
+
+**RIKA:**
+Porque es el único día que puedo.
+
+**TAKAGI:**
+A las chicas de tu edad no les gusta estar con niños pequeños.
+
+**RIKA:**
+Los niños no te piden que verifiques nada. Te piden que cuentes. Yo sé contar.
+
+Takagi no sabe qué decir. Guarda la última sábana y dice, con suavidad, que allí siempre
+tendrá sitio.
+
+A las 10:50 —Rika tiene sus horarios, y los horarios se cumplen— la niña de las manos
+azules la despide desde el marco de la puerta con un adiós que se oye por todo el pasillo.
+Rika saluda una vez, con la mano, sin girarse. En la verja, un NIÑO MUY PEQUEÑO, el único
+que no duerme la siesta, la mira desde el otro lado con los dedos en la boca. Rika se
+agacha y le pone la mano en la cabeza.
+
+**RIKA:**
+El viernes te enseño a contar hasta siete.
+
+El niño asiente sin saber lo que acepta.
+
+### 23. EXT. CALLE — 12 DE MAYO, mañana
+
+A dos manzanas de la guardería, Rika no tiene a nadie esperándola, y hace nueve años que no
+lo tiene.
+
+**VOZ EN OFF (Rika, presente):**
+Mio se fue cuando yo era una niña. No hubo despedida, ni portal, ni una última frase que
+guardar: hubo una tarde en que mi hermana salió y no volvió. Desde entonces, en casa se
+habla de ella en voz baja, sin nombrarla.
+
+Sobre la mesa de la cocina, SHINO, 47, la madre de Rika, deja dos tazas, un tupper y una
+nota doblada con las horas de estudio. La tercera taza queda siempre en el escurridor, sin
+usar. **Es la taza de Mio.** Nadie se ha atrevido a guardarla. La dejan un punto más
+abierta que las demás, como si esperaran que algún día algo viniera a buscarla.
+
+**VOZ EN OFF (Rika):**
+Aprendí a sostener esa ausencia igual que sostengo el golpe contra la tubería: sin decirlo.
+Cuando cuento con los niños, a veces cuento un número de más, y me corrijo, y sigo. Los
+números que se pasan de la cuenta son la única forma que tengo de echarla de menos.
+
+Rika cruza el paso de cebra sola, con el semáforo en verde y nadie esperando, y toma el
+atajo por el callejón de los bloques.
+
+### 24. EXT. CALLEJÓN DE LOS BLOQUES — 12 DE MAYO, mañana
+
+No sabe por qué se detiene.
+
+El callejón es estrecho, huele a humedad y a pintura vieja. Al fondo, en la pared de
+bloques, una **puerta de servicio de metal gris** con un **sello atornillado** sobre el
+marco: un rectángulo de metal opaco, sin brillo, con la pintura comida alrededor de los
+tornillos. Alrededor del marco, grabada en el hormigón, una **marca vieja de quemadura**,
+oscurecida, recubierta de pintura dos veces, agrietada en escamas. (Sobre el metal, muy
+gastados, se adivinan glifos Kaikoru: ʌ ⬡ ⊏.)
+
+Rika la mira y no piensa nada. Pero no se mueve. Se queda quieta el tiempo de una
+respiración y media, mirando el sello. Siente algo que no sabe poner en palabras: no es
+miedo. Es una cosa más parecida a una verificación. Como cuando uno mira un número ya
+escrito y comprueba, sin querer, que sigue ahí.
+
+**RIKA (baja, a sí misma, como quien verifica el estado de un objeto en un inventario):**
+Rika. Rika.
+
+Después sigue andando. Pasa de largo por la puerta, nota el frío del metal en el costado y
+no gira la cabeza. A los quince años ha decidido que las cosas sin explicación se dejan
+fuera: uno las reconoce y sigue.
+
+**VOZ EN OFF (Rika, presente):**
+La puerta estaba ahí. Nadie la abrió.
+
+### 25. EXT. AZOTEA DE LA GUARDERÍA — 15 DE MAYO DE 2017, 04:58 (cierre)
+
+**Rotulación:** *Tres días después. 15 de mayo de 2017. 04:58.*
+
+Rika, 15, está en la azotea de la guardería cuando la primera grieta se abre **debajo de
+toda la ciudad**. El pelo rojo entre el viento y los depósitos de agua. El haori, un
+segundo tarde, como siempre.
+
+**VOZ EN OFF (Rika):**
+Entendí, con una calma que no me pareció mía, que había estado contando mal.
+
+Pausa. La grieta sigue creciendo, silenciosa, en el asfalto de abajo.
+
+**VOZ EN OFF (Rika):**
+No contaba números.
+
+**VOZ EN OFF (Rika):**
+Contaba los segundos que le quedaban a la gente.
+
+Corte a negro.
+
+**RÓTULO FINAL (sobre negro):**
+*Eso fue todo el aviso que tuvo.*
+
+---
+
+# NOTAS DE ADAPTACIÓN (seguimiento)
+
+- **Fuente:** novela cap01 revisada. Se conservan los nombres de la novela (Sato, Junko,
+  Kenji, Shiraishi, Aoki, Nakahara, Hana, Sora, Mei, Shino, Rui).
+- **Unidad de tiempo:** el cold open usa rótulos de hora (04:58 → 08:00) como en la novela.
+- **Mio:** NO aparece en imagen. Su ausencia se resuelve con la taza del escurridor y el
+  portal vacío (callejón/paso de cebra). Cero inserciones de su rostro.
+- **Continuidad de 9 años:** Mio desapareció en 2008.
+- **Puertas:** siete en Kanto (mencionadas en off, nunca rotuladas en pantalla).
+- **Pendiente de continuar:** caps 02→30 (novela → webtoon → live action).

@@ -1,0 +1,44 @@
+# FICHA DE CONSISTENCIA — CAP 01
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+Pegar este bloque en la IA junto al guion del cap 01 (revisado: fuente de verdad = Novela/novela_caps/cap01.txt + Guiones/cap01.txt). Fuente de estilo: ANCLA-CONSISTENCIA.txt + FICHAS-VISUALES.txt.
+
+## BLOQUE GLOBAL DE ESTILO (copiar igual)
+Estilo manhwa coreano tipo Solo Leveling (DUBU/Redice). Full color. Cel-shading suave con gradientes, nunca plano duro. Tres pasadas: base plana, sombra cel FRIA azul-gris/violeta, overlay CALIDO ambar/coral. Linea fina, limpia y coloreada en los bordes. Rim light fuerte en pelo y contornos. Brillos especulares en pelo y metal. Glow emisivo en poderes, ojos activados y color de peligro enemigo. Piel semi-realista con gradiente en pomulos y nariz. Proporcion semi-realista de 8 cabezas en adultos. Formato 800x1280 vertical, max 2 vinetas por pantalla. Una sola direccion de luz por escena. Accion/climax calido y saturado con motion blur y aberracion cromatica; dialogo/tension frio y desaturado. Prohibido: HUD, barras, niveles, menus, LEVEL UP, texto en ingles, marcas de agua, firmas, glifos de otros idiomas (los glifos Kaikoru SI se usan).
+
+## PERSONAJES QUE APARECEN
+- RIKA TSUKIMI (unica protagonista con nombre): mujer, 15 anos en este capitulo (24 en presente), 158 cm, la mas baja. Delgada y fibrosa, hombros estrechos, 7.5 cabezas, manos algo grandes. Piel palida #E7C9B0. Pelo ROJO carmesi #B22B2B largo a la cintura en COLETA ALTA, mechones sueltos. Ojos marron oscuro hundidos y muy abiertos. Cicatriz vieja y fina en la CEJA IZQUIERDA y corte en el dorso de la mano derecha. Kimono corto negro #14130F con rayas verticales gris, OBI negro ancho, HAORI corto color hueso #E8E2D2 (su prenda mas clara), vendas blancas #EDEAE0 en antebrazos y manos, zori negras. Sable corto de un filo, hoja mate, empunadura de cordel negro. Marca: el haori ondeando detras. Al atacar, estela de luz carmesi #E23B3B.
+- SHINO TSUKIMI: 47, madre de Rika, pelo recogido, delantal, callada. Cocina sola; la tercera taza del escurridor sin usar.
+- TAKAGI: mujer, delantal azul, guarderia. No habla; asiente.
+- (sin nombre) La nina pequena del aula, 5 anos, delantal amarillo palido, manos con tempera.
+
+## PERSONAJES AUSENTES (clave emocional)
+- MIO TSUKIMI: hermana de Rika. **Desaparecio en 2008, hace nueve anos.** NO aparece en escena en este capitulo: solo su AUSENCIA (el portal vacio, la tercera taza, la sombra que ocupa el sitio de alguien). No dibujar su cara en ninguna vinetta. Como Omega (mas adelante): SIN glow, SIN humo, SIN contorno doble; parece humana.
+- GORO, REN, YUI: NO aparecen en la historia. Solo la portada los promete como promesa de temporada (sin nombres en bocadillos, sin siluetas reconocibles).
+
+## ENEMIGOS QUE APARECEN
+Regla comun: feos, grandes, visibles; nadie se disfraza de persona; silueta distinta por tipo; cuerpo OSCURO casi silueta con el COLOR DE PELIGRO EMISIVO, glifo o nucleo brillante, humo/particulas alrededor, contorno DOBLE con rim light; no producen sonido propio; no hablan japones.
+
+Rangos: Verde (exploracion) 0.6-0.9 m glow #6FE24C | Azul (minimo) 0.3-0.5 m glow #3D8BFF | Amarillo (linea) 2.0-2.5 m glow #D9B02A (nunca chillon) | Naranja (choque) 8-12 m glow #FF7A1A | Rojo (oficiales) 15-30 m glow #E02424 | Negro (mando) +30 m nucleo violeta #7A2BFF.
+
+Los cinco arquetipos (cold open, linea amarilla, 21 en pantalla):
+- CARRILERO: bajo y largo, corre en linea recta.
+- LANZADOR: vertical; dos de ellos.
+- EMBESTIDOR: 2.80 m, hombros enormes hacia delante, cabeza hundida, cuello casi inexistente, antebrazos cortos que no usa; su cabeza supera el primer balcon de un edificio de seis pisos. Glow #D9B02A.
+- BLINDADO (2.0-2.5 m, glow #D9B02A): cuadrado con placas, sin cuello, no se mueve, hay que rodearlo. Glow en una ranura/junta del pecho. En V37-V38 queda cortado por la cintura como yeso seco.
+- RESUCITADO: encorvado, hombros por encima de la cabeza, debajo un cuerpo humano con ropa doblado mal; amarillo solo en los antebrazos humanos.
+
+Los kaiyu NO rugen (el estruendo de V20 es peso sobre el asfalto, no garganta).
+
+## CHECKLIST POR IMAGEN (si algo falla, se regenera la vinetta)
+1) Proporcion correcta (Rika 7.5 cabezas; adultos 8).
+2) Color de pelo y ojos correctos y constantes (Rika rojo #B22B2B, ojos marron oscuro).
+3) Cicatrices exactas (Rika ceja izquierda + dorso mano derecha).
+4) Ropa y marca unica presentes (haori hueso #E8E2D2, kimono negro, coleta alta, vendas).
+5) Arma correcta (sable corto de un filo, hoja mate, cordel negro).
+6) Paleta y hex respetados; nadie mas usa el amarillo chillón (aqui solo glow #D9B02A de la linea).
+7) Glow del kaiyu con el color de peligro; Rika, si actua, estela carmesi #E23B3B.
+8) Cel-shading suave + rim light + overlay calido/frio, no color plano.
+9) Max 2 vinetas; 800x1280; sin HUD/niveles/ingles.
+10) El personaje se ve identico al de la vinetta anterior.
+11) Mio NO aparece: la ausencia se cuenta con el portal vacio, la sombra y la tercera taza.

@@ -1,0 +1,159 @@
+# ANCLA DE CONSISTENCIA — NPAD
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+Objetivo: que la IA dibuje SIEMPRE los mismos rasgos, ropa, armas, colores y
+proporciones, viñeta por viñeta, capítulo por capítulo, hasta el mínimo detalle,
+SIN fotos. Solo texto. Este archivo se pega en cada generación.
+
+---
+
+## 0. INSTRUCCIÓN A LA IA (va SIEMPRE, textual)
+
+"Genera la imagen manteniendo EXACTAMENTE los rasgos descritos abajo. No cambies
+color de pelo, ojos, cicatrices, proporciones, ropa, armas ni paleta. Trata cada
+descripción como un contrato fijo: si un dato no está aquí, no lo inventes; si lo
+está, respétalo al mínimo detalle. Mantén el mismo personaje idéntico en todas las
+viñetas. Estilo: manhwa coreano tipo Solo Leveling."
+
+Regla de fidelidad: los rasgos NO cambian por escena. Solo cambia la pose, el
+encuadre, la luz y la expresión; nunca el diseño.
+
+---
+
+## 1. BLOQUE GLOBAL DE ESTILO (copiar palabra por palabra)
+
+Estilo manhwa coreano tipo Solo Leveling (DUBU/Redice). Full color. Cel-shading
+suave con gradientes y bordes difuminados, nunca plano duro. Tres pasadas: base
+plana, sombra cel FRÍA azul-gris/violeta, overlay CÁLIDO ámbar/coral. Línea fina,
+limpia y constante, coloreada en los bordes. Rim light fuerte en pelo y contornos.
+Brillos especulares en pelo y metal. Glow emisivo en poderes, ojos activados y
+color de peligro enemigo. Piel semi-realista con gradiente en pómulos y nariz.
+Proporción semi-realista de 8 cabezas en adultos. Formato 800x1280 vertical, máx.
+2 viñetas por pantalla. Una sola dirección de luz por escena. Acción/clímax cálido
+y saturado con motion blur y aberración cromática; diálogo/tensión frío y
+desaturado. Prohibido: HUD, barras, niveles, menús, LEVEL UP, texto en inglés,
+marcas de agua, firmas, glifos de otros idiomas (los glifos Kaikoru SÍ se usan).
+
+---
+
+## 2. ANCLAS DE HÉROES (pegar solo el que aparece en la viñeta)
+
+### RIKA TSUKIMI — pegar cuando aparece
+"Rika Tsukimi, mujer, 24 años (15 el Día 1), 158 cm, la más baja. Delgada y
+fibrosa, hombros estrechos, 7.5 cabezas, manos algo grandes. Piel pálida #E7C9B0.
+Pelo ROJO carmesí #B22B2B, largo a la cintura, COLETA ALTA, mechones sueltos. Ojos
+marrón oscuro, hundidos y muy abiertos. Cicatriz vieja y fina en la CEJA IZQUIERDA
+y corte en el dorso de la mano derecha. Kimono corto negro #14130F con rayas
+verticales gris, OBI negro ancho, HAORI corto color hueso #E8E2D2 (su prenda más
+clara), vendas blancas #EDEAE0 en antebrazos y manos, sandalias zori negras.
+Sable corto de un filo de hoja mate, empuñadura de cordel negro. Su marca: el
+haori ondeando por detrás. Cuando ataca, estela de luz carmesí #E23B3B."
+
+### GORO ARASHI — pegar cuando aparece
+"Goro Arashi, hombre, 41 años (32 el Día 1), 195 cm, el más grande. Enorme, ancho
+de espalda, manos grandes, cuello corto, cabeza pequeña hundida entre los hombros,
+calvo, sombra de barba gris, ceño permanente. Piel curtida #A9784F. QUEMADURA
+ancha en medio del cuello, dos cicatrices en el cráneo, nariz rota, labio partido.
+Camiseta negra #1A1A19, coraza de planchas oxidadas #8A3D1E con metal #6B4A34,
+hombreras asimétricas remachadas, guantes gruesos, cinturón con cartucheras,
+rodilleras metálicas, botas militares, ESCODO redondo oxidado atado a la espalda,
+casco de obra gris en la mano. Maza industrial pesada. Su marca: el escudo a la
+espalda. La BRASA del guante derecho es el único punto cálido y emisivo #FF6A2A."
+
+### REN HAYASHI — pegar cuando aparece
+"Ren Hayashi, hombre, 25 cronológico, 19 aparentes (16 el Día 1), 172 cm. Delgado,
+hombros caídos, 8 cabezas REALISTA (no caricaturesco), cuello fino, manos con
+tics. Piel clara #E9CBAA. Pelo NEGRO #0E0E10 revuelto y despeinado con mechón
+rebelde. Ojos grandes negros muy abiertos, expresión de sorpresa permanente,
+ojeras leves. CHAQUETA AMARILLO INTENSO #FFFF00 con un agujero en un costado (el
+ÚNICO color saturado del grupo), sudadera negra con capucha #111111 debajo,
+correa cruzada, pantalón cargo negro, vendas sucias en manos y muñecas, cinta
+blanca, zapatillas blancas gastadas, auriculares al cuello. Cuchillo corto
+improvisado. Su marca: el amarillo #FFFF00 y las vendas. Al moverse, arcos
+eléctricos #FFE23B. Los enemigos NUNCA usan amarillo chillón."
+
+### YUI NAKAMURA — pegar cuando aparece
+"Yui Nakamura, mujer, 31 años (22 el Día 1), 172 cm. Atlética, erguida, casi
+rígida, hombros rectos, 8 cabezas. Piel morena clara #C69263. Pelo NEGRO #0C0B0E
+muy largo y liso en COLETA ALTA (el mono más alto del grupo, 5 px sobre la
+cabeza). Ojos oscuros tranquilos y serios; es la única que cambia de expresión.
+Mono gris-azulado #5A6B7A con mangas remangadas, chaleco táctico negro con
+cargadores, pantalón gris-azulado con rodilleras negras, guantes blancos #E9E6DE,
+botas negras altas. RIFLE DE CERROJO con culata de MADERA #6E4A2E siempre a la
+espalda. Su marca: el mono alto y el rifle. Al disparar, fogonazo azul acero
+#5AC8FA."
+
+---
+
+## 3. ANCLAS DE SECUNDARIOS (pegar cuando aparecen)
+
+- MIO TSUKIMI: 19, hermana de Rika, pelo ROJO recogido #A32C2C, abrigo largo
+  oscuro. Como Omega: SIN glow, SIN humo, SIN contorno doble; parece humana.
+- AMANO REI: 22, limpieza, reparte café, delantal de trabajo, pelo recogido, cálida.
+- KUROSE KEN: 52, director de contención, gafas, gris, mirada baja, cansado.
+- WATANABE RAISHIRO: 54, gobernador sin poder, uniforme de gala sobrio, canas.
+- TSUMITA KOSUKE: 63, vecino cocinero de Goro, delantal sucio, sonrisa fácil.
+- TSUKIMI SHINO: 47, madre de Rika, pelo recogido, delantal, callada.
+- NOMURA TATSUO: 49, operador de puerta, uniforme de operador.
+- KAWANO SHINICHI: 38, sale del metro.
+
+---
+
+## 4. ANCLAS DE ENEMIGOS (regla común + por rango)
+
+Regla común: feos, grandes, visibles; nadie se disfraza de persona; silueta
+distinta por tipo; cuerpo OSCURO casi silueta con el COLOR DE PELIGRO EMISIVO,
+glifo o núcleo brillante, humo/partículas alrededor, contorno DOBLE con rim light;
+no producen sonido propio; no hablan japonés.
+
+| Rango | Tamaño | Glow emisivo |
+|---|---|---|
+| Verde (exploración) | 0.6-0.9 m | #6FE24C |
+| Azul (mínimo) | 0.3-0.5 m | #3D8BFF |
+| Amarillo (línea) | 2.0-2.5 m | #D9B02A (nunca chillón) |
+| Naranja (choque) | 8-12 m | #FF7A1A |
+| Rojo (oficiales) | 15-30 m | #E02424 |
+| Negro (mando) | +30 m | núcleo violeta #7A2BFF en grietas |
+
+Arquetipos amarillos (silueta): Carrilero (largo y bajo, 4 patas) · Embestidor
+(hombro enorme, cuello nulo) · Lanzador (vertical, brazos largos) · Blindado
+(cuadrado con placas) · Resucitado (encorvado con cuerpo humano debajo).
+
+---
+
+## 5. QUÉ NUNCA CAMBIA (invariantes por personaje)
+
+| Personaje | Invariante de color/rasgo | No negociable |
+|---|---|---|
+| Rika | pelo rojo + haori hueso + cicatriz ceja izq. | nunca cambia de ropa |
+| Goro | calvo + escudo atrás + quemadura cuello | siempre sin pelo |
+| Ren | amarillo #FFFF00 + vendas | el amarillo es solo suyo |
+| Yui | mono alto + rifle de cerrojo | siempre el rifle |
+| Mio/Omega | parece humana, sin glow | nunca brilla ni humea |
+
+---
+
+## 6. CHECKLIST POR IMAGEN (revisar antes de aceptar)
+
+1. ¿Proporción 8 cabezas? (Ren realista, no caricatura).
+2. ¿Color de pelo y ojos correctos y constantes?
+3. ¿Cicatrices exactas en el lugar exacto (Rika ceja izq., Goro cuello)?
+4. ¿Ropa y marca única presentes (haori, escudo, amarillo, mono alto)?
+5. ¿Arma correcta en cada uno (sable, maza, cuchillo, rifle)?
+6. ¿Paleta y hex respetados? ¿Nadie más usa el amarillo de Ren?
+7. ¿Glow del poder con el color del héroe?
+8. ¿Cel-shading suave + rim light + overlay cálido/frío, no color plano?
+9. ¿Máx. 2 viñetas? ¿800x1280? ¿Sin HUD/niveles/inglés?
+10. ¿El personaje se ve idéntico al de la viñeta anterior?
+
+Si algo falla: se regenera esa viñeta, no se acepta.
+
+---
+
+## 7. FUENTE DE VERDAD
+
+- Rasgos detallados: `FICHAS-VISUALES.txt`
+- Estilo general: `estilo.txt` (+ `Guias/estilo.txt`)
+- Personajes largos: `heroes.txt`
+- Enemigos largos: `enemigos.txt`
+Este archivo es el resumen ejecutable que se pega en la IA.

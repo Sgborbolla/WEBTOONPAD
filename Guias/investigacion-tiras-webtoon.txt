@@ -1,4 +1,5 @@
 # Investigación: cómo se hacen las tiras webtoon (NPAD)
+> **Autor:** Sergio Grabiel Borbolla Verdecia
 
 > Guardada el 2026-10-07. Fuentes: Clip Studio (Art Rocket / Tips), Nicole Finch
 > (ContentCurve), S-Morishita Studio, Gootaku, + experiencia propia del pipeline NPAD.

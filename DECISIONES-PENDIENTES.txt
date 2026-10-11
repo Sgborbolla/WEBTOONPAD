@@ -1,0 +1,214 @@
+================================================================
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+DECISIONES PENDIENTES — NPAD
+Lista priorizada de decisiones del AUTOR para desbloquear la reescritura.
+Fuente: INFORME-COHERENCIA-NOVELA-GUION.txt (Anexos 1 y 2) +
+        INFORME-NOVELA-PROGRESION-PENDIENTES.txt (Partes A, B, C).
+Regla: sin cerrar el BLOQUE 1 y 2 no se puede reescribir la novela de forma limpia.
+Marcar cada decisión con [ ] y anotarla luego en NOTAS.txt / Guias/.
+
+ESTADO (actualizado)
+RESUELTAS:
+  [x] D1  Mio: desaparece en 2008 (9 anos antes). Opcion A.
+  [x] D9  Tharn (prisionero): aparece despues del cap 40 (T2). Opcion A.
+  [x] D10 Goro: pierde el guante en cap5 y usa la brasa SIN guante. Opcion A.
+  [x] D39 Progresion de heroes: SI, reestructurar 1-30 (conocerse escalonado,
+          poder por contacto con puerta, reclutamiento NSF, subir de rango,
+          control por fases).
+  [x] D40 Estilo: manhwa coreano tipo Solo Leveling. CERRADO.
+  [x] Ren: porcion REALISTA 8 cabezas (corregido en heroes.txt y estilo.txt).
+  [x] Estilo: estilo.txt y duplicados en Guias/ reescritos a Solo Leveling.
+CERRADAS con recomendado (D2-D8, D11-D16):
+  [x] D2  Mio Tsukimi; retirar "Mine Hoshino".  [x] D3  Mio = hermana de Rika.
+  [x] D4  rescate de Mio solo en cap25.  [x] D5  omega = guarderia distorsionada.
+  [x] D6  El Rojo: tarde; "se siente/acomoda", no se ve la cara.
+  [x] D7  Asesor mira a una nina.  [x] D8  Mio cuenta hasta "04:58".
+  [x] D11 titulo cap2 = "La primera puerta".  [x] D12 idioma = japones-ingles.
+  [x] D13 puertas: 14 mundo / 7 Kanto / 4 provincia; corregir el "55".
+  [x] D14 EEUU no participa en la OIDA.  [x] D15 Amano Rei = mujer de limpieza.
+  [x] D16 guarderia en barrio norte de Yokohama.
+APLICAR en pasada mecanica: D17-D38 (edades, horas, conteos, "The Sector 6").
+Ya aplicados aqui como referencia en la reescritura de cap01.
+NO se generan fichas definitivas ni guiones de serie hasta reescribir 1-30.
+Las 30 fichas en Guias/ficha-capNN.txt son PROVISIONALES (novela sin arreglar).
+
+================================================================
+BLOQUE 1 — CANON MAYOR (bloquea TODO)
+================================================================
+
+D1. MIO: linea temporal y edad.  [CRITICA]
+    - El cap01 la muestra viva con 19 anos el 12-may-2017 (3 dias antes del
+      desastre). Pero cap06/cap18/cap20 dicen que desaparecio hace NUEVE anos
+      (2008) y que "no ha envejecido".
+    - Opcion A: desaparecio en 2008 (nueve anos antes). Hay que REESCRIBIR el
+      flashback del cap01 (no puede estar viva en 2017). Apoya la biblia del
+      juego (Rika la busca en 2056).
+    - Opcion B: desaparece el mismo 15-may-2017 (durante el Silencio) y se
+      ajusta toda la trama de "nueve anos" y la edad-nina de cap20/25.
+    -> Recomendado: A (coincide con el juego y con el arco emocional).
+    Impacta: cap01, 06, 18, 20, 22, 25, T2.
+
+D2. MIO: nombre canon: "Mio" o "Mine".  [CRITICA]
+    - cap01 la llama "Mine Hoshino" (nina de la guarderia). cap06 y ss. la
+      llaman "Mio". Hay que unificar.
+    -> Recomendado: "Mio Tsukimi" (hermana de Rika) en toda la obra; retirar
+      "Mine Hoshino".
+
+D3. MIO: vinculo con Goro.  [alta]
+    - Novela cap01: nina de la guarderia sin vinculo. Canon inicial la queria
+      hija de Goro (~4,5-5 anos).
+    - Opcion A: hermana de Rika (sin vinculo con Goro). Opcion B: hija de Goro.
+    -> Recomendado: A (es lo que ya sostienen cap06-25).
+    Impacta: cap22, 25, T2.
+
+D4. MIO: rescate / doble bucle (cap20 y cap25).  [CRITICA]
+    - cap20 la rescatan del bucle; cap21-22 Mio ya libre; cap25 vuelve a estar
+      atrapada y Rika la saca otra vez. Repeticion no justificada.
+    - Opcion A: el rescate ocurre SOLO en cap25; cap20-22 se ajustan (Mio sigue
+      atrapada). Opcion B: cap20 saca a una Mio y cap25 es OTRO bucle (otra nina
+      / otro omega).
+    -> Recomendado: A.
+
+D5. OMEGA: espacio interior.  [alta]
+    - cap20: "era la guarderia, pero distorsionada" (aula).
+    - cap25: "vasta cavidad subterranea, muros lisos azul oscuro".
+    -> Elegir UNO (recomendado: guarderia distorsionada siempre; la cavidad es
+      otra capa, no el mismo omega).
+
+D6. EL ROJO (cap23 cap24): hora y conducta.  [CRITICA]
+    - Hora: cap23 cabecera 05:40 (madrugada) vs cap24 "aquella misma tarde".
+    - Conducta: canon "se oye, NO aparece" (arco-200:174; mapa-peleas:113) vs
+      novela "la vio y se retiro / deja las cosas mejores" (acomoda).
+    -> Elegir hora (recomendado: tarde, unificar cap23 y cap24) y nivel de
+      aparicion (recomendado: "se siente/acomoda, no se ve la cara").
+
+D7. ASESOR (cap24): a quien mira.  [alta]
+    - Canon: se detiene a mirar a UNA NINA (arco-200:181).
+    - Novela: mira a RIKA.
+    -> Elegir (recomendado: una nina, o que Rika le recuerde a una nina).
+
+D8. MIO y "la hora".  [alta]
+    - Canon arco-200:188: la palabra que repite "no es un nombre: es una hora.
+      04:58".
+    - Novela cap25: repite "*Uno... dos... tres... cuatro...*".
+    -> Elegir como se canta el bucle (recomendado: que cuente hasta llegar a
+      04:58 / "cuatro y cincuenta y ocho").
+
+D9. PRISIONERO THARN: cuando aparece.  [CRITICA]
+    - Canon: enemigos.txt:167 y arco-200:200 lo ubican DESPUES del cap 40 / T2.
+    - Novela: lo trae en cap28 (y se nombra en cap29).
+    -> Opcion A: reubicar Tharn despues del cap40 (reescribir 28-30).
+       Opcion B: actualizar el canon y dejarlo en cap28.
+    -> Recomendado: A (respeta el arco del planeta 40+).
+    Impacta: caps 28, 29, 30 y T2.
+
+D10. GUANTE / PODER DE GORO.  [CRITICA]
+    - heroes.txt:98 "La brasa del GUANTE" y novela cap10:121 "el guante de
+      brasa" vs NOTAS:43 "Goro sin guante desde el final del cap5".
+    - Ademas, en caps 21-30 Goro combate solo con escudo: la brasa desaparece.
+    -> Opcion A: el guante es el origen, lo pierde en cap5 y usa la brasa SIN
+       guante (escribir la brasa sin guante en 21-30).
+       Opcion B: se queda el guante para siempre y se actualiza heroes.txt.
+    -> Recomendado: A + corregir heroes.txt:98.
+
+================================================================
+BLOQUE 2 — CONFLICTOS Guias vs novela (bloquean escribir)
+================================================================
+
+D11. TITULO del cap2: "El turno de la tarde" (novela) vs "La primera puerta"
+     (guion). Elegir titulo oficial.  [media]
+
+D12. IDIOMA del prisionero (cap28): novela en espanol; el idioma puente del
+     equipo es "ingles basico". Elegir (recomendado: japones-ingles; o espanol
+     SOLO de Ren, justificado).  [media]
+
+D13. PUERTAS, cuantas: cap01 "55 puertas" vs cap04 "4 confirmadas" y "mapa con
+     7 marcas" vs cap06 "7 en Kanto" y "14 en el mundo". Fijar jerarquia
+     (14 mundo / 7 Kanto / 4 provincia) y corregir el "55".  [media]
+
+D14. EEUU en la OIDA: cap26 incluye EEUU; cap27 solo Corea y RU. Decidir si
+     EEUU participa.  [baja]
+
+D15. AMANO REI: rol y genero. cap04/13 la tratan como hombre de limpieza;
+     cap22/25 como mujer. Es OTRO personaje distinto de Tokura. Definir su rol
+     (limpieza / camillera) y su escena del cafe.  [media]
+
+D16. LUGAR de la guarderia: "barrio norte de Yokohama" (cap19/20) vs "guarderia,
+     BASE NSF" (cap22). Decidir si se muda (narrar) o si son dos sitios.  [media]
+
+================================================================
+BLOQUE 3 — Datos a unificar (elegir uno; rapido)
+================================================================
+
+D17. Nomura: 50 anos (cap02) vs 49 (cap05). Elegir.
+D18. Kurose: "15 anos en reuniones" (cap04) vs "9 anos archivando" (cap06/07).
+     Elegir (recomendado: 9).
+D19. cap25 cabecera 04:50 vs cuerpo "cuatro y media" (04:30). Elegir.
+D20. cap29 fecha: "domingo 28, 09:00" vs "dos dias siguientes" y "tercer dia".
+     Reconciliar (recomendado: lunes 29).
+D21. cap13 "catorce meses" vs "seis dias conviviendo con la puerta": elegir
+     escala temporal.
+D22. cap13 pelea de 6 amarillos vs cap14 "los seis + los dos que quedaron"
+     (8). Unificar el conteo.
+D23. Naranjas: cap13 "no tenian corazon ahi" vs cap15 "Yui mata uno con tres
+     disparos". Alinear la regla.
+D24. Ren: cargas que NO se recargan (cap11) vs cap17 "se recarga solo". Unificar.
+D25. Guarderia: luces apagadas (cap19) vs luces puestas (cap11). Unificar.
+D26. cap13 "el martes, cinco amarillos en el Sector Seis": reconciliar dia de la
+     semana con el registro (cap10 jueves).
+D27. Watanabe: "Raishiro" con/sin macron. Unificar (sin macron).
+D28. cap16 herida de Rika en el antebrazo sin escena de origen. Anadir origen o
+     quitar.
+D29. cap16 "Jumoji Tsuyoshi, 36 anos": armonizar con el resto.
+D30. cap24:45 metareferencia "desde el cap13": quitar de la narracion.
+D31. cap01: "dieciseis hombres y dos mujeres" vs "dieciseis culatas". Cuadrar
+     a 16+2 con 18 armas.
+D32. cap03:108 Kawano "38 anos de trabajar en el turno de la noche" (desde los
+     0). Reescribir.
+D33. cap05:156 "guante DERECHO exploto" vs guante izquierdo (cap03/05). Unificar
+     lado del guante y de la quemadura.
+D34. cap01 "05:12" repetido en :199 y :209. Eliminar duplicado.
+D35. cap01: "a los veintidos minutos" (05:02+22=05:24) cuando termina 05:12.
+     Ajustar.
+D36. cap02:5 "The Sector 6": ingles -> "El Sector 6".
+D37. cap02: Goro llega 16:20 o 17:20? Dejar claro 16:20 llega / 17:20 turno /
+     17:24 puerta.
+D38. cap29 "Amano Rei en ventana imposible" (los 4 dentro del portal). Mover.
+
+================================================================
+BLOQUE 4 — Progresion de heroes (Parte A) y estilo
+================================================================
+
+D39. PROGRESION (Parte A): aceptar la reestructuracion de caps 1-10 para que:
+     (a) se conozcan escalonadamente, (b) el poder salga al tocar cada puerta,
+     (c) haya reclutamiento real por la NSF, (d) suban de rango, (e) ganen
+     control por fases. Decidir SI/NO y a que nivel (reescritura total o
+     parches).  [CRITICA]
+
+D40. ESTILO DE DIBUJO webtoon: aun sin decidir. El usuario se inclina a coreano
+     tipo Solo Leveling / Omniscient Reader, historieta en japones con escuela
+     coreana. Cerrar antes del arte.  [bloquea el arte]
+
+D41. GUIONES-SERIE (audiovisual): crear carpeta GUIONES-SERIE/ con 30 episodios
+     derivados de la novela corregida (P_W6). Decidir SI/NO y cuando.  [media]
+
+D42. IDIOMA KAIYU y NUEVOS ENEMIGOS del mundo kaiyu (P_W8): idioma ya redactado
+     en LENGUAJE KAIYU.txt; faltan los nuevos enemigos con cargos y rangos.
+     Cerrar antes del arco del planeta (cap40+).  [media, no urgente]
+
+D43. Regla de los naranjas ("hacen una pausa") y del rojo que "acomoda"
+     (P_W14): definir.  [media]
+
+================================================================
+ORDEN RECOMENDADO DE CIERRE
+================================================================
+1) D1-D4 (Mio) y D9 (Tharn): deciden la estructura de caps 1-30.
+2) D6, D7, D8 (rojo / Asesor / hora de Mio).
+3) D10 (guante de Goro) + D39 (progresion) + D40 (estilo).
+4) D11-D16 (canon de Guias).
+5) D17-D38 (datos, en una pasada de correccion).
+6) D41-D43 (produccion futura).
+Al cerrar cada punto: anotar en NOTAS.txt y, si toca lore, actualizar Guias/.
+================================================================
+FIN
+================================================================
