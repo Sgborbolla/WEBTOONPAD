@@ -1,6 +1,94 @@
 # CAPÍTULO 1 — "El día que no avisaron"
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
+## ESTILO DE MUESTRA OFICIAL (portada — referencia «Estilo 2»)
+
+Este es el estilo de referencia que manda. La portada S01 generada en la carpeta
+`Estilo 2 historieta` es el patrón: composición, técnica, tipografía y los cuatro
+héroes. Describe capa por capa la imagen de muestra.
+
+Además, la IMAGEN DE PORTADA se adjunta en cada generación como patrón gráfico: las
+demás imágenes deben ser fieles a ella (paleta, grosor y color de línea, cel-shading
+y rim light, proporción y diseños de personaje). Si una viñeta no encaja con la
+portada, se regenera.
+
+### 1. Estilo artístico y composición general
+- Formato vertical tipo webtoon / cartel publicitario; lectura de arriba abajo.
+- Ilustración digital a todo color con estética de manhwa coreano moderno
+  (estilo Solo Leveling / Redice Studio).
+- Cel-shading suave con gradientes difuminados; líneas de tinta finas, limpias y
+  definidas, coloreadas en los bordes (nunca negras gruesas).
+- Fuerte contraste entre las zonas frías de la ciudad y los acentos cálidos de la
+  iluminación del fondo.
+
+### 2. Cielo y fondo (ciudad destruida)
+- **Cielo:** degradado de ámbar, naranja quemado y ocre sucio (amanecer teñido por
+  el fuego). Grandes nubes de humo negro, espeso y texturizado, en la parte superior
+  y los costados.
+- **Avenida central:** asfalto destruido y cuarteado que converge al centro en
+  perspectiva de un punto de fuga; escombros, cemento roto, metal retorcido y restos
+  de alambre de espino.
+- **Edificios laterales:** bloques de hormigón con ventanas reventadas, paredes
+  agrietadas, balcones derruidos y pequeños focos de fuego con columnas de humo.
+- **Kaiyu del fondo:** en el punto de fuga, silueta oscura a contraluz de un monstruo
+  gigante con placas/espinas dorsales y cabeza de formas aterradoras.
+- **Izquierda:** farolas dobladas hacia el centro, cables de tendido cruzando, coches
+  abandonados y calcinados en fila.
+- **Derecha:** valla publicitaria metálica derrumbada y retorcida sobre bastidor, en
+  la que se lee **YOKOHAMA**; más vehículos destrozados al fondo.
+
+### 3. Tipografía y textos superpuestos
+- **Franja del cielo:** "Nippon Post-Apocalyptic Disaster" en sans-serif fina y
+  blanca; debajo las siglas "N P A D" en mayúsculas gigantes, de blanco puro, muy
+  separadas y con gran peso; debajo el rótulo katakana ニッポンポストアポカリプス en
+  gris suave.
+- **Franja negra inferior (pie):** el autor "Sergio Grabiel Borbolla Verdecia" en
+  tipografía blanca; debajo, en gris más pequeño y discreto,
+  "TEMPORADA 1".
+
+### 4. Los cuatro héroes (de izquierda a derecha)
+
+**A. Rika Tsukimi (extremo izquierdo).** De pie, semi-girada, peso en una pierna,
+firme y contenida. Ojos grandes y muy abiertos, oscuros, mirada seria y fría; cejas
+finas con la traza de una cicatriz muy fina en la ceja izquierda; pómulos afilados y
+mandíbula fina. Pelo largo rojo intenso en coleta alta que cae por su hombro derecho,
+con mechones sueltos enmarcando el rostro. Kimono corto gris oscuro/negro con sutiles
+rayas verticales, haori corto color hueso abierto (la prenda más luminosa del grupo),
+vendas blancas en los antebrazos desnudos, zori negras de suela de rejilla con los
+dedos al aire. En la mano derecha, un sable corto (wakizashi/ninjato) de un solo filo,
+hoja gris mate y empuñadura envuelta en cordel negro, punta hacia el suelo.
+
+**B. Goro Arashi (segundo).** De pie, hombros extremadamente anchos, brazos separados
+del cuerpo, planta imponente y sólida. Calvo por completo; facciones rudas, mandíbula
+cuadrada exagerada, nariz ancha, expresión pétrea; ojos pequeños hundidos bajo cejas
+prominentes; marcas de quemadura/cicatrices texturizadas en los laterales del cuello.
+Armadura de guardia industrial pesada y desgastada: placas de metal grisáceo oscuro
+con remaches visibles y correas de cuero, hombreras robustas, coderas y rodilleras
+reforzadas; pantalones tácticos oscuros; botas militares de combate. Sostiene con la
+mano derecha un casco de obra metálico gris apagado y lleva, atado a la espalda y
+sobresaliendo por encima de los hombros, un escudo industrial circular y pesado.
+
+**C. Ren Hayashi (tercero).** De pie, algo encorvado y nervioso, brazos caídos, alerta
+constante. Ojos muy grandes, redondos y oscuros, de sorpresa y tensión permanentes.
+Cabello negro desordenado con flequillo abundante que roza las cejas. Sudadera/chaqueta
+con capucha amarillo chillón sobre camiseta negra ajustada, con un pequeño roto en la
+manga derecha; pantalones cargo negros; zapatillas de running gris claro con cordones
+blancos y suelas gastadas; vendas blancas apretadas en las muñecas. En la mano derecha,
+un cuchillo táctico de combate de hoja plateada, brillante y de filo recto.
+
+**D. Yui Nakamura (extremo derecho).** Erguida, rígida, postura marcial impecable
+(disciplina militar). Facciones finas pero firmes, mirada directa, fría y calculadora;
+ojos oscuros y almendrados. Pelo negro, lacio y largo, en moño alto muy pulcro y
+elevado sobre la coronilla. Uniforme militar táctico gris-azulado (slate blue) de corte
+impecable; chaleco táctico portaplacas oscuro con múltiples bolsillos y anclajes;
+guantes tácticos claros; pantalones militares entubados dentro de botas de combate
+altas y negras. Un pañuelo/cinta rojo intenso como contraste visual. Apoyado sobre el
+hombro derecho, un rifle de cerrojo de precisión de cañón largo, con mira telescópica
+metálica y culata de madera oscura.
+
+> **Nota de canon:** en la valla del fondo se lee **YOKOHAMA** (el capítulo ocurre en
+> Yokohama). No es Tokio ni ninguna otra ciudad.
+
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
 ```
 HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
@@ -295,8 +383,12 @@ De arriba abajo:
    ```
 
    La línea de arriba en tipografía condensada y fina. **NPAD** en grande, con las
-   cuatro letras separadas y muy marcadas. Nada más: la portada no lleva ni un
-   carácter no latino.
+   cuatro letras separadas y muy marcadas. Debajo del conjunto, el título corto en
+   japonés, más pequeño y en un tono de gris:
+
+   ```
+   ニッポンポストアポカリプス
+   ```
 
 3. **Los cuatro héroes.** Tercio medio, de pie en fila, mirando al lector, cada uno
    con su marca única, del más bajo al más alto. Siluetas legibles por la forma, no por
@@ -331,7 +423,7 @@ De arriba abajo:
    gris claro:
 
    ```
-   TEMPORADA 1  ·  CAPÍTULOS 1 A 200
+   TEMPORADA 1
    ```
 
 **Reglas de la portada:**
@@ -346,11 +438,12 @@ De arriba abajo:
   se leen contra ella; ella no se lee por encima de ellos.
 - El kaiyu del fondo es el único elemento de la escena que puede estar más arriba
   que la silueta de los héroes, y aun así pequeño.
-- **El texto de la portada no se dibuja en la imagen.** Título, siglas, autor y
+- **El texto de la portada no se dibuja en la imagen.** Título, siglas, japonés, autor y
   temporada van como HTML superpuesto, en un tipo que lea limpio. Sin embargo: las
   rayas de velocidad, el humo y los bordes quemados **sí** van en la imagen, porque
   son parte del dibujo y no son texto.
-- Ni un solo carácter japonés, ni coreano, ni chino, ni cirílico en la portada.
+- Ni un solo carácter japonés fuera del título corto de la línea 2. Ni coreano, ni
+  chino, ni cirílico.
 - En la señalética del fondo se lee **YOKOHAMA**, en mayúsculas, sobre una valla
    publicitaria rota o el rótulo de un edificio. La palabra aparece en la portada
   y es el único texto que va **dibujado dentro de la imagen**, con el resto del

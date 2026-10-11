@@ -2,8 +2,9 @@
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 Objetivo: que la IA dibuje SIEMPRE los mismos rasgos, ropa, armas, colores y
-proporciones, viñeta por viñeta, capítulo por capítulo, hasta el mínimo detalle,
-SIN fotos. Solo texto. Este archivo se pega en cada generación.
+proporciones, viñeta por viñeta, capítulo por capítulo, hasta el mínimo detalle.
+Este archivo se pega en cada generación; además se adjunta la IMAGEN DE PORTADA
+como referencia gráfica (ver sección 0.1).
 
 ---
 
@@ -17,6 +18,15 @@ viñetas. Estilo: manhwa coreano tipo Solo Leveling."
 
 Regla de fidelidad: los rasgos NO cambian por escena. Solo cambia la pose, el
 encuadre, la luz y la expresión; nunca el diseño.
+
+### 0.1 REFERENCIA GRÁFICA — IMAGEN DE PORTADA (va con cada generación)
+
+Además del texto, se adjunta SIEMPRE la IMAGEN DE PORTADA de la obra como patrón
+gráfico. Todas las demás imágenes (viñetas y pantallas) deben ser FIELES
+gráficamente a esa portada: misma paleta, mismo grosor y color de línea, mismo
+cel-shading y rim light, misma proporción, y los mismos diseños de personaje (pelo,
+ojos, cicatrices, ropa, armas). La portada es la referencia que manda: si una viñeta
+no encaja gráficamente con ella, se regenera.
 
 ---
 
@@ -154,6 +164,7 @@ Si algo falla: se regenera esa viñeta, no se acepta.
 
 - Rasgos detallados: `FICHAS-VISUALES.txt`
 - Estilo general: `estilo.txt` (+ `Guias/estilo.txt`)
+- Estilo de muestra oficial (portada «Estilo 2»): sección final de `Guias/estilo.txt`
 - Personajes largos: `heroes.txt`
 - Enemigos largos: `enemigos.txt`
 Este archivo es el resumen ejecutable que se pega en la IA.
