@@ -1,0 +1,21 @@
+INSTRUCCIONES PARA STITCH - GENERAR SOLO IMÁGENES PNG
+
+Estilo: Solo Leveling (DUBU/Redice Studio). Manhwa coreano.
+- Full color, cel-shading suave, líneas finas, rim light
+- 800×1280 px vertical (webtoon)
+- Solo PNG. Sin HTML, sin web, sin código
+
+Globos:
+- normal: óvalo blanco, borde negro, cola al hablante
+- grito: dentado zigzag, grande, mayúsculas
+- narración: caja rectangular gris claro
+- lugar-hora: caja fina para hora/lugar
+
+PROHIBIDO: inglés, kana, kanji, hangul, cirílico, HUD, barras, marcas de agua, logos.
+
+En cada archivo capXX_stitch.txt:
+- Imagen 1: PORTADA (transformar portada existente a estilo Solo Leveling, con kaiyu jefe rango rojo en silueta detrás de los 4 héroes, ángulo heroico desde abajo, sin texto)
+- Imagen 2: S00 SEPARADOR (texto CAPÍTULO XX + título centrado, sin personajes, solo fondo)
+- Imágenes 3+: viñetas en orden numérico exacto (capXX_sXX_vXXX.png)
+
+NO GENERAR divisiones de cuadrícula, NO poner mediciones px, NO poner "S01 · T2R", NO poner globos explicando qué va. Solo pegar el diálogo tal cual en español con su tipo. Ser lo más fiel a Solo Leveling posible.

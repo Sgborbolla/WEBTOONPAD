@@ -1,0 +1,619 @@
+# STITCH — CAPÍTULO 02 — «La primera puerta»
+
+## INSTRUCCIONES PARA STITCH (GENERAR SÓLO PNG)
+
+**ESTILO:** Solo Leveling (DUBU / Redice Studio). Full color, cel-shading suave, línea fina, rim light en poderes.
+**TAMAÑO:** 800×1280 px (webtoon vertical). Un archivo PNG por imagen.
+
+**TIPOS DE GLOBO:**
+- normal: óvalo blanco, borde negro, cola al hablante. Conversación.
+- grito: zigzag, grande, mayúsculas. Gritos/urgencia.
+- narración: caja gris claro, texto negro.
+- lugar-hora: caja fina para hora/lugar.
+
+**PROHIBIDO:** texto en inglés, kana, kanji, hangul, cirílico, HUD, barras, logos, marcas de agua.
+**SOLO TEXTO EN ESPAÑOL.** Los términos técnicos de la cuadrícula NO van en la imagen.
+
+---
+
+## 1. PORTADA (cap02_portada.png)
+
+Tomando la portada ya existente como base, transformarla a estilo Solo Leveling.
+Fondo: Atardecer en Yokohama. A lo lejos, detrás de los cuatro héroes (Rika, Goro, Ren, Yui), KAIYU RANGO ROJO (jefe) en silueta. Cuerpo oscuro, contorno doble, placas óseas, color emisivo rojo #E02424, humo fino. Solo hombros/forma, apenas visible.
+Protagonistas al frente, ángulo heroico desde abajo. Rika con kimono corto negro, haori hueso, sable corto, coleta roja.
+Sin texto, sin logo.
+
+---
+
+## 2. SEPARADOR (cap02_s00.png)
+**Fondo:** Plano general. El Sector 6: un bloque de concreto de cuatro pisos, las ventanas cubiertas de malla, un pasillo exterior largo.
+**Texto:** `CAPÍTULO 02` y `«La primera puerta»` centrados. Solo texto sobre fondo.
+
+---
+
+## ORDEN DE IMÁGENES (3 en adelante)
+
+### 1. cap02_s01_v001.png
+**Pantalla:** S01 | **Viñeta:** V001
+**Descripción:** Plano general. El Sector 6: un bloque de concreto de cuatro pisos, las ventanas cubiertas de malla, un pasillo exterior largo. El sol de la tarde entra bajo y sucio.
+**Narración:** hora
+
+### 2. cap02_s02_v002.png
+**Pantalla:** S02 | **Viñeta:** V002
+**Descripción:** El pasillo exterior, largo y vacío. Puertas cerradas a ambos lados.
+
+### 3. cap02_s02_v003.png
+**Pantalla:** S02 | **Viñeta:** V003
+**Descripción:** Detalle. La malla de una ventana; el óxido comido alrededor de los tornillos.
+
+### 4. cap02_s02_v004.png
+**Pantalla:** S02 | **Viñeta:** V004
+**Descripción:** Detalle. Una franja de sol sucio avanza despacio por el cemento del suelo.
+
+### 5. cap02_s03_v005.png
+**Pantalla:** S03 | **Viñeta:** V005
+**Descripción:** Goro Arashi entra en cuadro por el fondo del pasillo. 195 cm, la armadura reensamblada a mano, calvo, el casco de obra sin visor, el escudo atado a la espalda.
+
+### 6. cap02_s04_v006.png
+**Pantalla:** S04 | **Viñeta:** V006
+**Descripción:** Goro se apoya contra el marco de la puerta de servicio y se cruza de brazos.
+
+### 7. cap02_s04_v007.png
+**Pantalla:** S04 | **Viñeta:** V007
+**Descripción:** Detalle. El metal del guante muerde la armadura y suena, corto, siempre igual.
+**SFX:** TAC
+
+### 8. cap02_s05_v008.png
+**Pantalla:** S05 | **Viñeta:** V008
+**Descripción:** Goro mira las rejas.
+
+### 9. cap02_s05_v009.png
+**Pantalla:** S05 | **Viñeta:** V009
+**Descripción:** Primer plano. Lo dice en voz baja, para nadie.
+**Diálogo (normal):** Goro: «Cuatro y veinte. Cuatro y media abre el otro. Seis y ahí se van todos.»
+
+### 10. cap02_s05_v010.png
+**Pantalla:** S05 | **Viñeta:** V010
+**Descripción:** Goro, quieto, con la mirada puesta en el pasillo.
+**Diálogo (normal):** Goro: «Menudo turno.»
+
+### 11. cap02_s06_v011.png
+**Pantalla:** S06 | **Viñeta:** V011
+**Descripción:** Silencio. Las rejas, la franja de sol, el pasillo sin nadie.
+
+### 12. cap02_s07_v012.png
+**Pantalla:** S07 | **Viñeta:** V012
+**Descripción:** Al otro lado de la puerta, una escoba arrastra el suelo: barrido lento, cansino. Nomura, de espaldas.
+**SFX:** SHHH
+
+### 13. cap02_s08_v013.png
+**Pantalla:** S08 | **Viñeta:** V013
+**Descripción:** Goro, sin despegar la espalda del marco.
+**Diálogo (normal):** Goro: «Oye. ¿Está el de arriba?»
+
+### 14. cap02_s08_v014.png
+**Pantalla:** S08 | **Viñeta:** V014
+**Descripción:** La voz llega del otro lado de la puerta.
+**Diálogo (normal):** Nomura: «Todavía no, Arashi-san.»
+
+### 15. cap02_s09_v015.png
+**Pantalla:** S09 | **Viñeta:** V015
+**Descripción:** Goro, hablándole a la pared.
+**Diálogo (normal):** Goro: «Nombre.»
+
+### 16. cap02_s09_v016.png
+**Pantalla:** S09 | **Viñeta:** V016
+**Descripción:** Primer plano. Goro no pregunta: se dice los nombres como quien pasa lista.
+
+### 17. cap02_s09_v017.png
+**Pantalla:** S09 | **Viñeta:** V017
+**Descripción:** Detalle de sus ojos. Los cuenta en silencio, uno detrás de otro.
+
+### 18. cap02_s10_v018.png
+**Pantalla:** S10 | **Viñeta:** V018
+**Descripción:** Kiryu llega por el pasillo. 30 años, mono de trabajo, una cinta métrica golpeándole la rodilla al andar, un cuaderno del tamaño de una palma.
+**Narración:** hora
+
+### 19. cap02_s11_v019.png
+**Pantalla:** S11 | **Viñeta:** V019
+**Descripción:** Kiryu, con el aire de quien corrió sin correr.
+**Diálogo (normal):** Kiryu: «Arashi-san. La puerta del cuatro hace un ruido raro.»
+
+### 20. cap02_s11_v020.png
+**Pantalla:** S11 | **Viñeta:** V020
+**Descripción:** Goro no mueve la cabeza. Mira la puerta del cuatro, al fondo del pasillo.
+
+### 21. cap02_s12_v021.png
+**Pantalla:** S12 | **Viñeta:** V021
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Raro cómo.»
+
+### 22. cap02_s12_v022.png
+**Pantalla:** S12 | **Viñeta:** V022
+**Descripción:** Kiryu busca la palabra con las manos.
+**Diálogo (normal):** Kiryu: «Como un… soplido. Cada cierto minutos.»
+
+### 23. cap02_s12_v023.png
+**Pantalla:** S12 | **Viñeta:** V023
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Cada cuanto.»
+
+### 24. cap02_s13_v024.png
+**Pantalla:** S13 | **Viñeta:** V024
+**Descripción:** Kiryu.
+**Diálogo (normal):** Kiryu: «No sé. Dos, tres minutos.»
+
+### 25. cap02_s13_v025.png
+**Pantalla:** S13 | **Viñeta:** V025
+**Descripción:** Goro en silencio: cuenta el intervalo en la cabeza.
+
+### 26. cap02_s14_v026.png
+**Pantalla:** S14 | **Viñeta:** V026
+**Descripción:** La mancha de sol se mueve despacio por el suelo. El tubo fluorescente zumba bajo.
+**SFX:** ZZZ
+
+### 27. cap02_s15_v027.png
+**Pantalla:** S15 | **Viñeta:** V027
+**Descripción:** Kosuke baja por la escalera con el delantal puesto, aunque ya no le toca el turno de cocina.
+
+### 28. cap02_s15_v028.png
+**Pantalla:** S15 | **Viñeta:** V028
+**Descripción:** Detalle. Las manos manchadas de harina.
+
+### 29. cap02_s16_v029.png
+**Pantalla:** S16 | **Viñeta:** V029
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Llegas tarde.»
+
+### 30. cap02_s16_v030.png
+**Pantalla:** S16 | **Viñeta:** V030
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Llego a mi hora.»
+
+### 31. cap02_s16_v031.png
+**Pantalla:** S16 | **Viñeta:** V031
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Todos llegan a su hora.»
+
+### 32. cap02_s17_v032.png
+**Pantalla:** S17 | **Viñeta:** V032
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «¿Eso es un elogio?»
+
+### 33. cap02_s18_v033.png
+**Pantalla:** S18 | **Viñeta:** V033
+**Descripción:** Kosuke deja la bolsa de basura en el umbral.
+
+### 34. cap02_s18_v034.png
+**Pantalla:** S18 | **Viñeta:** V034
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Bajar eso al contenedor.»
+
+### 35. cap02_s18_v035.png
+**Pantalla:** S18 | **Viñeta:** V035
+**Descripción:** Goro mira la bolsa.
+**Diálogo (normal):** Goro: «Está pesado.»
+
+### 36. cap02_s19_v036.png
+**Pantalla:** S19 | **Viñeta:** V036
+**Descripción:** Kosuke se limpia una mancha imaginaria del delantal.
+**Diálogo (normal):** Kosuke: «Por eso lo bajamos.»
+
+### 37. cap02_s20_v037.png
+**Pantalla:** S20 | **Viñeta:** V037
+**Descripción:** Kosuke, en el tono de quien informa de algo feo.
+**Diálogo (normal):** Kosuke: «Aparte, hay un bicho raro en el dos.»
+
+### 38. cap02_s20_v038.png
+**Pantalla:** S20 | **Viñeta:** V038
+**Descripción:** Goro parpadea una vez. Es su manera de preguntar.
+
+### 39. cap02_s21_v039.png
+**Pantalla:** S21 | **Viñeta:** V039
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «¿Un bicho?»
+
+### 40. cap02_s21_v040.png
+**Pantalla:** S21 | **Viñeta:** V040
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Grande. Amarillo. No es perro.»
+
+### 41. cap02_s21_v041.png
+**Pantalla:** S21 | **Viñeta:** V041
+**Descripción:** Goro mira la puerta del dos, al fondo del pasillo, cerrada como siempre.
+
+### 42. cap02_s22_v042.png
+**Pantalla:** S22 | **Viñeta:** V042
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «¿En el pasillo? ¿O no estaba?»
+
+### 43. cap02_s22_v043.png
+**Pantalla:** S22 | **Viñeta:** V043
+**Descripción:** Kosuke, con la calma de treinta años.
+**Diálogo (normal):** Kosuke: «En el pasillo. O no estaba. Esa es la cosa, Goro. Estaba y no estaba.»
+
+### 44. cap02_s23_v044.png
+**Pantalla:** S23 | **Viñeta:** V044
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «No me lies, viejo.»
+
+### 45. cap02_s24_v045.png
+**Pantalla:** S24 | **Viñeta:** V045
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Te estoy avisando, no te estoy liando.»
+
+### 46. cap02_s24_v046.png
+**Pantalla:** S24 | **Viñeta:** V046
+**Descripción:** Goro se agacha y agarra la bolsa. La pesa con el brazo, como todo lo que sostiene.
+
+### 47. cap02_s24_v047.png
+**Pantalla:** S24 | **Viñeta:** V047
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Subo yo.»
+
+### 48. cap02_s25_v048.png
+**Pantalla:** S25 | **Viñeta:** V048
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Y yo hago de comer. Guiso bien hoy.»
+
+### 49. cap02_s25_v049.png
+**Pantalla:** S25 | **Viñeta:** V049
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Guisas bien todos los días.»
+
+### 50. cap02_s26_v050.png
+**Pantalla:** S26 | **Viñeta:** V050
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «Y nunca te lo comes. Una persona que guisa necesita que se lo coman.»
+
+### 51. cap02_s27_v051.png
+**Pantalla:** S27 | **Viñeta:** V051
+**Descripción:** Vestíbulo. El cuadro de guardias, los nombres a marcador, las horas tapadas a medias.
+**Narración:** hora
+
+### 52. cap02_s27_v052.png
+**Pantalla:** S27 | **Viñeta:** V052
+**Descripción:** La puerta del Sector 6, a su hora: cerrada, con el sello, una franja de luz negra por debajo.
+
+### 53. cap02_s27_v053.png
+**Pantalla:** S27 | **Viñeta:** V053
+**Descripción:** Goro la ve desde el primer momento.
+
+### 54. cap02_s28_v054.png
+**Pantalla:** S28 | **Viñeta:** V054
+**Descripción:** Goro no se acerca. Se queda a un metro de la franja.
+
+### 55. cap02_s28_v055.png
+**Pantalla:** S28 | **Viñeta:** V055
+**Descripción:** Mira la puerta como se mira un fuego que aún no está encendido.
+**Diálogo (normal):** Goro: «Uno.»
+
+### 56. cap02_s29_v056.png
+**Pantalla:** S29 | **Viñeta:** V056
+**Descripción:** Kiryu aparece a su espalda con el cuaderno abierto en la mano.
+
+### 57. cap02_s29_v057.png
+**Pantalla:** S29 | **Viñeta:** V057
+**Descripción:** Kiryu, mirando la puerta.
+**Diálogo (normal):** Kiryu: «Yo no veo nada.»
+
+### 58. cap02_s29_v058.png
+**Pantalla:** S29 | **Viñeta:** V058
+**Descripción:** Goro, sin girarse.
+**Diálogo (normal):** Goro: «Espera.»
+
+### 59. cap02_s30_v059.png
+**Pantalla:** S30 | **Viñeta:** V059
+**Descripción:** Kiryu.
+**Diálogo (normal):** Kiryu: «Arashi-san, no se ve nada.»
+
+### 60. cap02_s30_v060.png
+**Pantalla:** S30 | **Viñeta:** V060
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Espera.»
+
+### 61. cap02_s31_v061.png
+**Pantalla:** S31 | **Viñeta:** V061
+**Descripción:** Esperan. La franja negra no se mueve.
+
+### 62. cap02_s31_v062.png
+**Pantalla:** S31 | **Viñeta:** V062
+**Descripción:** La base de la puerta: un hueco del ancho de una mano que no estaba antes. De dentro sale un aire frío.
+**SFX:** FIUU
+
+### 63. cap02_s31_v063.png
+**Pantalla:** S31 | **Viñeta:** V063
+**Descripción:** Goro lo siente en el casco abierto, en la piel del cuello, en la parte de atrás de las manos.
+
+### 64. cap02_s32_v064.png
+**Pantalla:** S32 | **Viñeta:** V064
+**Descripción:** Kiryu no lo siente. Mira la puerta y no ve nada.
+
+### 65. cap02_s32_v065.png
+**Pantalla:** S32 | **Viñeta:** V065
+**Descripción:** Kiryu retrocede un paso, con el cuaderno apretado contra el pecho.
+**Diálogo (normal):** Kiryu: «Bueno. Yo… voy a avisar.»
+
+### 66. cap02_s33_v066.png
+**Pantalla:** S33 | **Viñeta:** V066
+**Descripción:** Goro no gira la cabeza. No le quita los ojos a la franja.
+**Diálogo (normal):** Goro: «Corre.»
+
+### 67. cap02_s33_v067.png
+**Pantalla:** S33 | **Viñeta:** V067
+**Descripción:** Kiryu corre por el pasillo.
+**SFX:** TAP TAP TAP
+
+### 68. cap02_s33_v068.png
+**Pantalla:** S33 | **Viñeta:** V068
+**Descripción:** La puerta de la escalera se cierra de golpe.
+
+### 69. cap02_s34_v069.png
+**Pantalla:** S34 | **Viñeta:** V069
+**Descripción:** Goro, solo, de espaldas a todo, con la puerta del Sector 6 al fondo.
+
+### 70. cap02_s34_v070.png
+**Pantalla:** S34 | **Viñeta:** V070
+**Descripción:** La franja negra crece despacio por el suelo, como una mancha que se seca al revés.
+**Diálogo (normal):** Goro: «No me llamen.»
+
+### 71. cap02_s35_v071.png
+**Pantalla:** S35 | **Viñeta:** V071
+**Descripción:** La franja negra toca el pie de su bota.
+
+### 72. cap02_s35_v072.png
+**Pantalla:** S35 | **Viñeta:** V072
+**Descripción:** Goro no se mueve.
+
+### 73. cap02_s35_v073.png
+**Pantalla:** S35 | **Viñeta:** V073
+**Descripción:** La puerta deja de ser una puerta.
+
+### 74. cap02_s36_v074.png
+**Pantalla:** S36 | **Viñeta:** V074
+**Descripción:** El hueco: un rectángulo de negro plano, sin marco, sin bisagras, tan limpio que parece pintado en la pared.
+
+### 75. cap02_s36_v075.png
+**Pantalla:** S36 | **Viñeta:** V075
+**Descripción:** La luz del pasillo se refleja en los bordes y se apaga en el centro.
+
+### 76. cap02_s37_v076.png
+**Pantalla:** S37 | **Viñeta:** V076
+**Descripción:** Goro, con la voz plana de las comprobaciones.
+**Diálogo (normal):** Goro: «Una puerta no se abre así. Se coloca.»
+
+### 77. cap02_s37_v077.png
+**Pantalla:** S37 | **Viñeta:** V077
+**Descripción:** Da un paso atrás.
+
+### 78. cap02_s37_v078.png
+**Pantalla:** S37 | **Viñeta:** V078
+**Descripción:** Lo mira desde dos puntos distintos. El hueco sigue ahí, plano, enorme.
+**Diálogo (normal):** Goro: «Cosas raras.»
+
+### 79. cap02_s38_v079.png
+**Pantalla:** S38 | **Viñeta:** V079
+**Descripción:** Del hueco sale un brazo.
+
+### 80. cap02_s38_v080.png
+**Pantalla:** S38 | **Viñeta:** V080
+**Descripción:** El brazo: largo, de dedos finos, amarillo pálido en el codo, la piel arrugada como una hoja doblada muchas veces.
+
+### 81. cap02_s38_v081.png
+**Pantalla:** S38 | **Viñeta:** V081
+**Descripción:** Detrás, sin prisa, sale el resto.
+
+### 82. cap02_s39_v082.png
+**Pantalla:** S39 | **Viñeta:** V082
+**Descripción:** El Embestidor: amarillo, del tamaño de un caballo, hombro grande, cabeza hundida entre las patas delanteras, sin cara ni ojos. Avanza sin moverse; el suelo tiembla un dedo.
+
+### 83. cap02_s39_v083.png
+**Pantalla:** S39 | **Viñeta:** V083
+**Descripción:** Goro no mira al kaiyu: mira la mano, lo más humano que tiene, y por eso le habla.
+**Diálogo (normal):** Goro: «Oye. ¿Estás bien?»
+
+### 84. cap02_s39_v084.png
+**Pantalla:** S39 | **Viñeta:** V084
+**Descripción:** El Embestidor se coloca, como se coloca el tiro de una piedra. El hombro se levanta; el pasillo entero parece doblarse hacia delante.
+**Diálogo (normal):** Goro: «No vengas. Te digo que no vengas.»
+
+### 85. cap02_s40_v085.png
+**Pantalla:** S40 | **Viñeta:** V085
+**Descripción:** IMPACTO. Los pies de Goro se mueven antes que su cuerpo. El guante se enciende solo, con una brasa naranja que le sube por los nudillos. La brasa cruza el aire como una costura y golpea el hombro grande. El Embestidor se detiene contra la pared del fondo, el polvo del techo cayendo en goteo.
+**SFX:** PUM
+
+### 86. cap02_s41_v086.png
+**Pantalla:** S41 | **Viñeta:** V086
+**Descripción:** Tres segundos. Goro no se movió.
+
+### 87. cap02_s41_v087.png
+**Pantalla:** S41 | **Viñeta:** V087
+**Descripción:** Goro mira su guante: la brasa se apaga; del cuero sube un hilo de humo fino.
+
+### 88. cap02_s41_v088.png
+**Pantalla:** S41 | **Viñeta:** V088
+**Descripción:** El Embestidor no se levanta. El pasillo vuelve a estar silencioso; arriba, todavía suena una radio de cocina.
+
+### 89. cap02_s42_v089.png
+**Pantalla:** S42 | **Viñeta:** V089
+**Descripción:** Detrás de Goro, una puerta de cocina se abre.
+
+### 90. cap02_s42_v090.png
+**Pantalla:** S42 | **Viñeta:** V090
+**Descripción:** Kosuke, con el tenedor en la mano y la camisa a medio abotonar.
+**Diálogo (normal):** Kosuke: «Arashi. ¿Comes ahora o…»
+
+### 91. cap02_s42_v091.png
+**Pantalla:** S42 | **Viñeta:** V091
+**Descripción:** Kosuke mira el pasillo: el polvo, y la base de la puerta partida en dos.
+
+### 92. cap02_s43_v092.png
+**Pantalla:** S43 | **Viñeta:** V092
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «¿Qué pasó ahí.»
+
+### 93. cap02_s43_v093.png
+**Pantalla:** S43 | **Viñeta:** V093
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Nada.»
+
+### 94. cap02_s43_v094.png
+**Pantalla:** S43 | **Viñeta:** V094
+**Descripción:** Kosuke arruga el entrecejo: ve el guante, el humo, el kaiyu amarillo contra la pared.
+
+### 95. cap02_s44_v095.png
+**Pantalla:** S44 | **Viñeta:** V095
+**Descripción:** Kosuke no grita. No es un hombre de gritos: es un hombre de sesenta y tres años que vio crecer a Goro.
+
+### 96. cap02_s44_v096.png
+**Pantalla:** S44 | **Viñeta:** V096
+**Descripción:** Kosuke.
+**Diálogo (normal):** Kosuke: «¿Nada. Nada de qué.»
+
+### 97. cap02_s44_v097.png
+**Pantalla:** S44 | **Viñeta:** V097
+**Descripción:** Goro.
+**Diálogo (normal):** Goro: «Nada que me coma nada.»
+
+### 98. cap02_s45_v098.png
+**Pantalla:** S45 | **Viñeta:** V098
+**Descripción:** Goro gira sobre los talones y se pone de espaldas al hueco. La franja se ha partido en dos como una costura que cedió.
+
+### 99. cap02_s45_v099.png
+**Pantalla:** S45 | **Viñeta:** V099
+**Descripción:** La radio de la cocina sigue sonando, bajito, con la canción de siempre.
+
+### 100. cap02_s45_v100.png
+**Pantalla:** S45 | **Viñeta:** V100
+**Descripción:** Goro, con la mirada en el suelo.
+**Diálogo (normal):** Goro: «Pon la cena dentro.»
+
+### 101. cap02_s46_v101.png
+**Pantalla:** S46 | **Viñeta:** V101
+**Descripción:** Kosuke, en el marco de la puerta.
+**Diálogo (normal):** Goro: «No. Dentro.»
+
+### 102. cap02_s46_v102.png
+**Pantalla:** S46 | **Viñeta:** V102
+**Descripción:** Kosuke da la vuelta y cierra la puerta de la cocina.
+**Diálogo (normal):** Kosuke: «Cuando puedas, Goro. La comida no espera a nadie.»
+
+### 103. cap02_s47_v103.png
+**Pantalla:** S47 | **Viñeta:** V103
+**Descripción:** Goro, solo en el pasillo, de espaldas al hueco negro, el guante todavía tibio y la brasa apagada subiendo en un hilo de humo por delante del casco.
+**Narración:** narrador
+
+### 104. cap02_s48_v104.png
+**Pantalla:** S48 | **Viñeta:** V104
+**Descripción:** Esa noche, nadie en el bloque gritó.
+
+### 105. cap02_s48_v105.png
+**Pantalla:** S48 | **Viñeta:** V105
+**Descripción:** En el vestíbulo, los turnos se cambian de manos sin mirarse.
+**Narración:** narrador
+
+### 106. cap02_s49_v106.png
+**Pantalla:** S49 | **Viñeta:** V106
+**Descripción:** El cuadro de guardias, con una cinta nueva sobre la puerta de servicio.
+
+### 107. cap02_s49_v107.png
+**Pantalla:** S49 | **Viñeta:** V107
+**Descripción:** Vecinos que suben las escaleras y pasan por delante del hueco sin mirarlo, porque mirarlo era darle una forma.
+
+### 108. cap02_s49_v108.png
+**Pantalla:** S49 | **Viñeta:** V108
+**Descripción:** Arriba, Nomura barre el pasillo de verdad, sacando el polvo de debajo de las puertas.
+
+### 109. cap02_s50_v109.png
+**Pantalla:** S50 | **Viñeta:** V109
+**Descripción:** Nomura se agacha ante el hueco, la cabeza ladeada, el tiempo de una respiración.
+**Diálogo (normal):** Nomura: «El de abajo tiene razón. Las puertas no se abren así.»
+
+### 110. cap02_s51_v110.png
+**Pantalla:** S51 | **Viñeta:** V110
+**Descripción:** Nomura vuelve a barrer. Barrer es lo único que le queda de no preguntar.
+
+### 111. cap02_s51_v111.png
+**Pantalla:** S51 | **Viñeta:** V111
+**Descripción:** En la cocina, Goro sentado ante el plato que Kosuke le dejó, sin comer. Mira su guante.
+
+### 112. cap02_s52_v112.png
+**Pantalla:** S52 | **Viñeta:** V112
+**Descripción:** Detalle del guante. En la palma hay una marca. No es una quemadura.
+
+### 113. cap02_s52_v113.png
+**Pantalla:** S52 | **Viñeta:** V113
+**Descripción:** Goro la mira mucho tiempo.
+**Diálogo (normal):** Goro: «Que no te lo pidan.»
+
+### 114. cap02_s52_v114.png
+**Pantalla:** S52 | **Viñeta:** V114
+**Descripción:** Goro, en la oscuridad, tarda mucho en dormirse.
+
+### 115. cap02_s53_v115.png
+**Pantalla:** S53 | **Viñeta:** V115
+**Descripción:** Sueño. El hueco: un rectángulo plano sin marco, la luz del pasillo reflejada en los bordes, un silencio dentro.
+**Narración:** narrador
+
+### 116. cap02_s54_v116.png
+**Pantalla:** S54 | **Viñeta:** V116
+**Descripción:** En el sueño, el hueco no tenía fondo.
+
+### 117. cap02_s54_v117.png
+**Pantalla:** S54 | **Viñeta:** V117
+**Descripción:** En el sueño, él no tenía escudo.
+
+### 118. cap02_s55_v118.png
+**Pantalla:** S55 | **Viñeta:** V118
+**Descripción:** A las cinco de la mañana, el sol empieza a entrar de lleno por la ventana de la cocina.
+
+### 119. cap02_s56_v119.png
+**Pantalla:** S56 | **Viñeta:** V119
+**Descripción:** Silencio. En otro bloque, a tres calles del Sector 6, se oye el primer grito de la mañana.
+**Narración:** hora
+
+### 120. cap02_s57_v120.png
+**Pantalla:** S57 | **Viñeta:** V120
+**Descripción:** Nadie en ese bloque sabe todavía que la matanza empieza por esa calle.
+
+### 121. cap02_s58_v121.png
+**Pantalla:** S58 | **Viñeta:** V121
+**Descripción:** Placa negra, texto centrado.
+**Narración:** hora
+
+### 122. cap02_s59_v122.png
+**Pantalla:** S59 | **Viñeta:** V122
+**Descripción:** El Sector 6, a las 5:24: la puerta de servicio, cerrada como siempre.
+**Narración:** narrador
+
+### 123. cap02_s59_v123.png
+**Pantalla:** S59 | **Viñeta:** V123
+**Descripción:** La puerta, sola.
+**Narración:** narrador
+
+### 124. cap02_s61_v124.png
+**Pantalla:** S61 | **Viñeta:** V124
+**Descripción:** Esa noche, en el cuartel de guardia, ya nadie cuenta las puertas.
+**Narración:** narrador
+
+### 125. cap02_s62_v125.png
+**Pantalla:** S62 | **Viñeta:** V125
+**Descripción:** Goro con el guante encima de la mesa, la brasa apagada.
+
+### 126. cap02_s62_v126.png
+**Pantalla:** S62 | **Viñeta:** V126
+**Descripción:** Goro, con la pregunta que ya no le va a soltar.
+**Diálogo (normal):** Goro: «¿De dónde salió el brazo?»
+
+### 127. cap02_s63_v127.png
+**Pantalla:** S63 | **Viñeta:** V127
+**Descripción:** Nadie le contesta.
+
+### 128. cap02_s64_v128.png
+**Pantalla:** S64 | **Viñeta:** V128
+**Descripción:** El hueco del Sector 6, cerrado otra vez como si nunca hubiera estado abierto, la mancha oscura de su base recortada contra el suelo gris, como una boca que se acuerda.
+
+### 129. cap02_s65_v129.png
+**Pantalla:** S65 | **Viñeta:** V129
+**Descripción:** Silencio. En el pasillo, el polvo vuelve a formarse, muy despacio, debajo de la puerta del cuatro.
+**Narración:** narrador
