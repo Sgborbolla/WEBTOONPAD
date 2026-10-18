@@ -361,7 +361,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V8 | — | Que el enemigo sabe dónde está la OIDA |
 | V10 | — | No está probando nuestra defensa |
 | V11 | — | ¿Para qué? |
-| V12 | — | Para contar. —Kurose se volvió—. Cada vez que no abrimos fuego, anotan que no abrimos fuego. Cada vez que no mandamos refuerzos, anotan que no mandamos refuerzos. Los catorce ataques no son catorce derrotas. Son catorce anotaciones. |
+| V12 | — | Para contar. Cada vez que no abrimos fuego, anotan. |
 | V14 | — | ¿Anotaciones de qué? |
 | V15 | — | De hasta qué punto la OIDA está dispuesta a mirar para otro lado. |
 | V20 | Rika | ¿Quién los subrayó? |

@@ -411,10 +411,10 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V3 | — | Firma aquí, aquí y aquí |
 | V5 | Yui | Aquí hay una casilla que no tiene nombre. |
 | V6 | Yui | ¿Cuál? |
-| V7 | Yui | Esta. —Yui puso el dedo en el renglón vacío, en medio de la página, donde debería ir lo que siempre va en medio de una página: la clasificación—. Dice *clasificación del enemigo*, y al lado no hay nada. Ni color, ni rango, ni número. Nada. |
+| V7 | Yui | Esta. El renglón vacío. |
 | V9 | Yui | Esa casilla no la llena Japón. |
 | V10 | Yui | ¿Quién la llena? |
-| V11 | Yui | Nadie. —Oda Sara juntó las carpetas—. Cada país trae su propio catálogo. En el de Japón, el enemigo se clasifica por color: verde, azul, amarillo, naranja, rojo, negro. En el de Corea, por tamaño. En el del Reino Unido, por la manera de moverse. Cuando dos catálogos se juntan y ninguno reconoce la casilla del otro, la casilla se queda vacía, y el Sistema la archiva vacía, y el día que alguien la llene va a ser porque encontró algo que no cabe en ningún catálogo. |
+| V11 | Yui | Nadie. Cada país trae su propio catálogo. |
 | V13 | Yui | Como omega |
 | V14 | Yui | Como omega |
 | V19 | Ren | Dice el informe que se paró delante de usted en la pantalla veintisiete. |

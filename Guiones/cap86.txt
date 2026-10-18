@@ -444,7 +444,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V35 | Rika | Podemos esconderlo |
 | V36 | Goro | No |
 | V37 | Rika | No nos separamos |
-| V39 | Yui | Tiene sentido. Mientras lo llevemos encima, todo el cerco va dirigido a nosotros. Si lo escondemos, pueden pensar que ya lo hemos hecho llegar a algún sitio y aflojar la presión. |
+| V39 | Yui | Tiene sentido. Mientras lo llevemos encima, todo el cerco va dirigido a nosotros. |
 | V41 | Ren | Sí. |
 | V43 | Goro | De acuerdo. Pero lo escondemos entre los cuatro. Y lo marcamos para que solo nosotros lo encontremos. |
 

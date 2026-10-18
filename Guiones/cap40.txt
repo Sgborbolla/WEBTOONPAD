@@ -482,7 +482,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V43 | Rika | *O-rok-má var-kor-váth...* |
 | V50 | Ren | Lo ha dicho |
 | V51 | Yui | Ha dicho su nombre |
-| V62 | Rika | y la fábrica del Sector Cuatro ya no existía, ni la OIDA, ni el verano, ni la guerra de la superficie, y solo quedaba la voz del que no era una bestia contando lo que nadie, de este lado, había sabido nunca. |
+| V62 | Rika | La fábrica del Sector Cuatro ya no existía. Ni la OIDA. Ni el verano. |
 
 ## Cajas de narración (2)
 

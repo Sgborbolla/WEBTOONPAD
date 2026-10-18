@@ -500,7 +500,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V32 | Ren | ¿Usted firmó eso? |
 | V34 | Ren | Sí. |
 | V36 | Rika | ¿Por qué? |
-| V38 | Rika | Porque aquella mañana me ordenaron firmarlo. Me dijeron que si no firmaba, se abrían más puertas. Me dijeron que era para contenerlo. Me dijeron que, si emitíamos el aviso, el pánico abriría todas las puertas a la vez y no quedaría nadie en Tokio. |
+| V38 | Rika | Aquella mañana me ordenaron firmarlo. Me dijeron que si no firmaba... |
 | V39 | Goro | ¿Y usted lo creyó? |
 | V40 | Rika | Quise creerlo |
 | V42 | Rika | Firmé. A las cuatro y cincuenta de la mañana firmé la orden de no avisar. |
@@ -513,7 +513,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V53 | Rika | Nos ha mentido durante nueve años. |
 | V54 | Rika | Sí |
 | V56 | Rika | No voy a pedirles que me perdonen. No lo merezco. |
-| V58 | Rika | Esta es la llave del armario de seguridad del archivo central. Ahí dentro está todo lo que queda del expediente original. Las trece páginas y esta. Pueden sacarlo todo si quieren. Pueden hacerlo público si quieren. |
+| V58 | Rika | Esta es la llave del armario de seguridad del archivo central. |
 | V60 | Rika | Yo ya no voy a seguir impidiéndolo. |
 | V62 | Arashi | Señorita Tsukimi... |
 | V64 | Rika | Lo siento muchísimo |

@@ -450,7 +450,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V15 | Rika | Pasen. Está lleno de kaiyu, pero pasen. |
 | V18 | Rika | No entraron |
 | V19 | Rika | ¿Por qué no salen? |
-| V20 | Rika | Porque los de adentro ya lo intentaron una vez. —Señaló las marcas—. A esa hora el más chico tenía la mano en la pared. Lo llevaron de vuelta. Nadie más ha querido salir. |
+| V20 | Rika | Los de adentro ya lo intentaron una vez. |
 | V22 | Yui | Los usan de cebo |
 | V23 | Rika | Los usan de cebo |
 | V24 | Rika | Ya no |

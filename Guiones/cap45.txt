@@ -398,9 +398,9 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V20 | — | *Tharok!* |
 | V35 | — | La voz |
 | V36 | — | Sí. |
-| V37 | — | No la busques aquí. Aquí ya no queda nadie que escuche. —Alzó una mano y se la puso a Vrak'thul sobre la mandíbula cosida, sobre el alambre, sobre la mitad de la cara que ya no cerraría nunca—. Tú estás roto, pero estás roto *por fuera*. Por dentro todavía puedes hablar. Por eso vas a cruzar tú. |
+| V37 | — | No la busques aquí. Ya no queda nadie que escuche. |
 | V38 | — | No puedo cerrar las brechas. |
-| V39 | — | No. No puedes cerrar las brechas. —Tharok sonrió, o hizo el ruido que en Gar-Máth hacía las veces de sonrisa—. Pero puedes cruzar y decirles la verdad. Que no venimos por guerra. Que venimos porque un rey quiere llevarse el techo. Que si abren las dos orillas, se caen las dos. Y a lo mejor, si se lo dices bien, con sus palabras, no con las nuestras, alguien del otro lado te cree. |
+| V39 | — | No puedes cerrar las brechas. Solo puedes elegir en cuál te quedas. |
 | V40 | — | ¿Y si no me creen? |
 | V41 | — | Entonces morirás lejos de casa |
 

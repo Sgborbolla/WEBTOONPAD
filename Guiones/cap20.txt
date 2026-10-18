@@ -528,9 +528,9 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V14 | Rika | Entramos juntos. |
 | V16 | Goro | Tú entras la primera. Nosotros cubrimos la entrada. |
 | V17 | Rika | No pienso dejarlos fuera |
-| V18 | Yui | Si ese portal se cierra con nosotros dentro, nadie podrá volver a abrirlo —repuso Yui con calma, aunque sus ojos traicionaban su preocupación—. Alguien tiene que quedarse vigilando la salida. |
+| V18 | Yui | Si ese portal se cierra con nosotros dentro, nadie podrá volver a abrirlo. |
 | V20 | Rika | Yo voy con Rika. |
-| V21 | Goro | Los tres cubrimos —decidió Goro con firmeza—. Rika busca a Mio. En cuanto la encuentres, vuelven los dos. No se queden ni un segundo de más. |
+| V21 | Goro | Rika busca a Mio. En cuanto la encuentre, salimos. |
 | V34 | Ren | Va en círculos |
 | V35 | Rika | Lo sé |
 | V48 | Rika | Mio... |

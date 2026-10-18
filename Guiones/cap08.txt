@@ -1480,7 +1480,7 @@ Pantalla negra, **FUNDIDO A: negro.** Una línea blanca centrada:
 
 ## LOS TEXTOS
 
-### Globos de diálogo (34)
+### Globos de diálogo (33)
 
 | Viñeta | Quién | Texto |
 |---|---|---|
@@ -1505,10 +1505,9 @@ Pantalla negra, **FUNDIDO A: negro.** Una línea blanca centrada:
 | V70 | Rika Tsukimi | ¿Lo has visto? |
 | V71 | Ren Hayashi | Lo he visto. Ahora, al volver. Está un poco más allá del portal. |
 | V72 | Ren Hayashi | Es como si esperara. |
-| V79 | Goro Arashi | Hay un hueco grande al fondo. |
+| V79 | Goro Arashi | Hay un hueco al fondo. No se abre. |
 | V79 | Rika Tsukimi | Ya lo sé. |
-| V79 | Goro Arashi | No se abre. |
-| V79 | Rika Tsukimi | Todavía. |
+| V79 | Goro Arashi | Todavía. |
 | V82 | Yui Nakamura | Estás bien. |
 | V82 | Rika Tsukimi | Estoy bien. |
 | V84 | Yui Nakamura | Te llevé el pelo recogido. |

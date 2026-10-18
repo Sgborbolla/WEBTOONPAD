@@ -473,23 +473,23 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V12 | Rika | Lo han traído |
 | V13 | Rika | Tráiganoslo usted a nosotros |
 | V14 | Rika | No existe un expediente. |
-| V15 | Rika | Kurose, por favor. —Rika se sentó, sin que la invitaran—. Llevamos nueve años. Yo vi a mi hermana entrar en un edificio que no volvió a abrirse y salir de él sin haber envejecido un día. Tú lo sabes desde el día tres. El Estado Mayor lo sabe desde antes. Hay una carpeta. Hay trece páginas. Y las tres personas que hay en esta sala saben que están ahí. |
+| V15 | Rika | Llevamos nueve años juntos. No necesito que me trates como intrusa. |
 | V17 | Rika | Nadie niega que exista una carpeta. |
 | V18 | Rika | Entonces enséñela. |
 | V19 | Rika | No puedo. |
 | V20 | Rika | ¿Por qué? |
 | V21 | Rika | Porque el que la abre |
 | V23 | Ren | Usted la escribió |
-| V24 | Rika | Yo la escribí. No me la dictó nadie. No la firmé por otro. La redacté yo, con mis manos, siete años antes de conocerlos a ustedes. —Kurose cerró el informe anual—. Y el Estado Mayor la aprobó, y el general recibió la orden, y la orden decía lo que dicen las órdenes: no avisar. No evacuar. No alarmar. Esperar. |
+| V24 | Rika | Yo la escribí. No me la dictó nadie. La firmé yo. |
 | V25 | Yui | ¿Esperar a qué? |
 | V26 | Rika | A que se cumpliera el protocolo. |
 | V27 | Rika | ¿Y cuál era el protocolo, Kurose? —Rika se puso de pie—. ¿Esperar a que catorce minutos mataran a un sesenta por ciento del país? |
 | V28 | Rika | El protocolo era mío |
 | V31 | Rika | Voy a reportar omega |
 | V32 | Rika | Omega no es una clasificación. —Kurose se puso rígido—. Lo sabes. |
-| V33 | Rika | Lo sé. Por eso lo reporto. —Rika abrió la libreta en la hoja donde la casilla seguía vacía—. Vamos a reportar, los cuatro, que hay un enemigo sin clasificar. Un enemigo que se detiene a mirar. Un enemigo que no se ve como un enemigo porque no lo es. Y vamos a reportar que ese enemigo existe desde el día uno y que el Sistema no tiene una fila para ponerlo. Y cuando el Sistema no tenga la fila, alguien va a tener que abrir las carpetas viejas para buscar cómo se clasificaba, y en las carpetas viejas, Kurose, está el expediente. |
+| V33 | Rika | Lo sé. Por eso lo reporto. Protocolo de Exposición Involuntaria. |
 | V34 | Rika | Estás usando a tu hermana de palanca. |
-| V35 | Rika | No. —Rika lo miró sin parpadear—. Estoy usando lo único que el papeleo no puede contestar. El papeleo de la invasión no tiene fila para omega. Y cuando el papeleo no tiene fila, el papeleo se rompe. Y cuando el papeleo se rompe, se abren los cajones. |
+| V35 | Rika | No. Estoy usando lo único que el papeleo me deja: el papel. |
 | V38 | Rika | Está bien |
 | V41 | Rika | ¿Es cierta esta clasificación? ¿Un enemigo sin clasificar, sostenido por los cuatro portadores? |
 | V42 | Rika | Es cierta |

@@ -474,7 +474,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V15 | Yui | A la prensa. A gente fuera de la cadena de mando |
 | V17 | Rika | Pero para eso necesitamos tiempo. Y necesitamos que alguien dentro quiera hablar. |
 | V19 | Tanaka | El General Tanaka |
-| V21 | Ren | En Tokio, en aquella sala... —continuó Ren—. Cuando le dijiste que habíamos visto suficiente, él dijo que tenías razón. Que tenía toda la razón. Lo dijo en voz baja. Se le notaba el peso. |
+| V21 | Ren | En Tokio, en aquella sala... Cuando le dijiste que habías visto el portal. |
 | V22 | Rika | Sí |
 | V23 | Goro | No estaba de acuerdo con la orden |
 | V24 | Yui | Está en lo más alto del Estado Mayor |
@@ -489,7 +489,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V47 | Tanaka | Hoy me doy cuenta de que durante nueve años he estado protegiendo a quienes lo traicionaron, mientras otros pagaban por ello con sus vidas. |
 | V49 | Tanaka | Esto es mi declaración escrita |
 | V51 | Rika | ¿Va a arriesgarlo todo? |
-| V53 | Tanaka | Ya lo he arriesgado todo al no haber dado la orden de detenerlos cuando volvían a entrar. —Respiró hondo—. Es hora de que alguien cargue con la verdad. Me toca a mí. |
+| V53 | Tanaka | Ya lo he arriesgado todo al no haber dado la orden de detenerlos. |
 | V55 | Rika | Gracias |
 | V57 | Tanaka | No. Gracias a ustedes. Por no haber dejado que se enterrara. |
 

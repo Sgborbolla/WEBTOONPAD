@@ -404,10 +404,10 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V14 | Yui | No sabían que fueran a ser kaiyu |
 | V15 | Rika | Por eso no avisaron |
 | V16 | Goro | ¿Y eso qué cambia? |
-| V17 | Rika | Cambia que ahora hay dos versiones. —Rika juntó las trece páginas y golpeó el borde de la mesa para alinearlas—. La de este papel. Y la de él. |
+| V17 | Rika | Cambia que ahora hay dos versiones. |
 | V20 | Rika | Tengo un papel |
 | V22 | Rika | *T-rok-uk... k-zarr-kósh... var-má* |
-| V24 | Rika | Ya. —Rika se sentó en el suelo, al otro lado del vidrio, a la altura de él—. Pero mira lo que tienes, Vrak'thul. Tú tienes una historia que explica a mi gente. Yo tengo un papel que predijo a la tuya. Es la misma historia, contada por dos manos distintas, y las dos manos escribieron lo mismo: *que había que hacerlo y que valía el precio.* |
+| V24 | Rika | Hola, hermana. Vengo a buscarte. |
 | V26 | Rika | *Kor-váth...* |
 | V28 | Rika | Sí |
 | V31 | Rika | *K-vár-uk* |

@@ -392,7 +392,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 |---|---|---|
 | V16 | Rika | El capitán Kurose se entregó voluntariamente al mediodía |
 | V18 | Rika | ¿Se entregó? |
-| V19 | Rika | Sí. Se presentó en la base de Kanto, ante quienes aún obedecían al Estado Mayor, y se entregó sin resistencia. Dijo que él era el único responsable directo de la orden de no emitir el aviso. |
+| V19 | Rika | Sí. Se presentó en la base de Kanto, ante quienes aún obedecían al Estado. |
 | V20 | Rika | Pero eso no es cierto |
 | V21 | Rika | Lo sabe todo el mundo |
 | V23 | Ren | Quiere cargar con todo él solo. |

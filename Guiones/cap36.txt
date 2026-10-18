@@ -384,14 +384,14 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V4 | Park | ¿Sabes lo que dijo mi analista el primer día que vio una piedra amarilla? |
 | V6 | Goro | Un soldado hace lo que le mandan |
 | V7 | Rika | ¿Y qué dedujo? |
-| V8 | Goro | Que había alguien que mandaba. —Dmitri sopló el té—. Eso fue lo peor. Un bicho es un bicho. Un bicho con órdenes es un ejército. Y un ejército tiene coroneles. |
+| V8 | Goro | Que había alguien que mandaba. Eso fue lo peor. |
 | V10 | Yui | ¿Y los verdes? |
 | V12 | Yui | Los verdes son los que todavía están aprendiendo |
 | V14 | Yui | En mi país |
 | V15 | Goro | ¿Y qué decía? |
 | V17 | Park | No lo sabemos |
 | V18 | Rika | Pero algo diría |
-| V19 | Park | Algo diría. —Dmitri movió la cabeza—. Yo solo sé lo que me dejaron saber. Sé que dijo tres palabras. Y sé que la tercera palabra la hemos vuelto a oír, después, muchas veces. Siempre la misma palabra, en sitios donde no había manera de que estuviera. |
+| V19 | Park | Yo solo sé lo que me dejaron saber. |
 | V21 | Rika | Nosotros también tenemos una |
 | V22 | Rika | Entonces es la misma |
 | V23 | Rika | ¿Cómo sabes que es la misma? |

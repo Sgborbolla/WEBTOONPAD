@@ -392,7 +392,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V22 | Rika | No. |
 | V23 | Rika | Nada. Vale nada. —Levantó la cabeza—. Y por eso me suspendieron. No por haber disparado. Por haber dicho que valía algo. |
 | V25 | Rika | ¿Lo volverías a hacer? |
-| V26 | Rika | Sí. —Sakamoto se limpió la cara—. El primer día que entré a esto, un sargento me dijo una cosa. Me dijo: *cuando tengas que elegir entre un objetivo y una persona, elige la persona, y después busca a alguien que te firme el parte.* —Bajó la voz—. Nunca encontré a nadie que me lo firmara. Por eso lo escribí yo. Y por eso me suspendieron. |
+| V26 | Rika | Sí. El primer día que entré a esto, un sargento me dijo algo. |
 | V28 | Rika | Yo conozco a alguien que firma partes |
 | V29 | Rika | ¿Sí? |
 | V30 | Rika | Sí. Se llama Kurose. Y lleva nueve años firmando lo que nadie más quiere firmar. |

@@ -475,7 +475,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V48 | Goro | Cuántos |
 | V49 | Ren | Tú no quieres saber cuántos |
 | V50 | Ren | Sí quiero. |
-| V51 | Goro | Cuarenta y uno nuestros. Doscientos once de ellos. —Ren se limpió la cara con el antebrazo, y el antebrazo le dejó una raya de tierra en la frente—. Cuarenta y uno contra doscientos once, Goro, y todavía no sabemos si ganamos. |
+| V51 | Goro | Cuarenta y uno nuestros. Doscientos once de ellos. |
 | V53 | Rika | ¿Cómo lo pongo? |
 | V55 | Rika | Pon contacto |
 | V59 | Rika | *Zuk-uk... mak-kósh* |

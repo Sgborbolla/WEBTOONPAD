@@ -380,7 +380,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V20 | — | ¿Qué viene? |
 | V22 | — | El rey se muere |
 | V25 | — | Ya lo sabía |
-| V26 | — | Lo sabías leyendo. Ahora lo sabes de verdad. —Tharok se inclinó sobre él—. Cuando las abra todas, la que se cae no es solo la orilla de ellos. Es la nuestra también. El rey no huye. El rey se lleva el mundo consigo. |
+| V26 | — | Lo sabías leyendo. Ahora lo sabes de verdad. |
 | V35 | — | Necesitamos una voz |
 | V36 | — | ¿Una voz? —Tharok lo miró—. ¿Para qué, si aquí nadie escucha a nadie? |
 | V37 | — | No aquí. |

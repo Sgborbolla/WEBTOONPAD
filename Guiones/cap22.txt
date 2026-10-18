@@ -398,7 +398,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 |---|---|---|
 | V8 | Yui | Hoy he contado hasta tres |
 | V10 | Rika | ¿Tres? |
-| V11 | Rika | Antes de que aparezcan... siempre hay tres segundos de silencio. Los he aprendido a oír. Si disparo dentro de esos tres, los alcanzo. Si dudo aunque sea un instante, es tarde. |
+| V11 | Rika | Siempre hay tres segundos de silencio. Los humanos lo usan para mirarse. |
 | V13 | Ren | Yo también... noto los huecos |
 | V15 | Yui | ¿Instantes entre golpes? |
 | V17 | Ren | Entre lo que va a pasar y lo que pasa... hay un hueco muy pequeño. Ahí es por donde paso. |

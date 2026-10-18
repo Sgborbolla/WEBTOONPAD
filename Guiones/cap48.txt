@@ -506,10 +506,10 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V29 | Rika | *K-vár-uk* |
 | V33 | Goro | No podemos confiar en él |
 | V34 | Yui | Goro |
-| V35 | Goro | No. Piensa. Nos separó de la base, nos metió en un valle, nos quitó el agua y ahora tiene a sus cuarenta amigos arriba esperando una señal. —Goro miró al prisionero—. Si esto es una trampa, es la trampa más completa que he visto en nueve años. |
+| V35 | Goro | Nos separó de la base. Nos quitó el mapa. Nos está jugando. |
 | V40 | Yui | Déjenlo |
 | V41 | Rika | Rika... |
-| V42 | Rika | Déjenlo. Si quería matarnos, ya lo habría hecho. —Rika lo miró subir por la tierra roja, enorme a la luz del fuego—. Quiero ver qué hace. |
+| V42 | Rika | Déjenlo. Si quería matarnos, ya lo habría hecho. |
 | V44 | Yui | *K-vár-uk!* |
 | V48 | Yui | *K-vár-uk.* |
 | V51 | Yui | *K-vár-uk.* |
@@ -520,7 +520,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V60 | Rika | ¿Y qué es él, Rika? —la voz de Kurose sonó, por primera vez en nueve años, sin fórmula—. ¿Qué es el prisionero? |
 | V63 | Rika | Uno de los nuestros |
 | V64 | Rika | No entiendo. |
-| V65 | Rika | Ni yo, Kurose. —Rika empezó a caminar—. Por eso vamos a la base, y por eso ustedes van a abrir ese expediente. El de las trece páginas. El que llevan nueve años sin enseñarle a nadie. |
+| V65 | Rika | Ni yo. Por eso vamos a la base sin decirle a nadie. |
 | V66 | Rika | Ese expediente no existe. |
 | V67 | Rika | Entonces enséñenme el que no existe |
 

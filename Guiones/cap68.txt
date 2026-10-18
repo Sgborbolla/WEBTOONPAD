@@ -365,11 +365,11 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V8 | Rika | Noda era el cuatrocientos treinta y uno. |
 | V9 | Rika | Noda era el cuatrocientos treinta y uno. |
 | V10 | Rika | Y en el parte, cuatro. |
-| V11 | Rika | En el parte del sector 4, cuatro. —Kurose se acercó—. El resto está repartido en otros sectores, otras categorías, otras casillas. La OIDA cuenta las bajas por sector, no por oficio. Por eso nunca hay un número alto en un solo sitio. Por eso nunca parece que pase nada. |
+| V11 | Rika | En el parte del sector 4, cuatro. El resto está rellenado. |
 | V13 | Rika | ¿Por qué me lo enseña ahora? |
 | V14 | Rika | Porque usted va a querer forzar el Legajo |
 | V15 | Rika | Existe porque el Estado Mayor no quería avisar. |
-| V16 | Rika | Existe porque alguien hizo la cuenta. —Kurose sacó un cuaderno del bolsillo y lo abrió—. Hace nueve años, la OIDA hizo una estimación: si Japón avisaba antes del Silencio, si dejaba de abrir compuertas a ciegas, si trataba cada brecha como un incendio y no como un trámite, cuántas bajas se evitaban. La estimación salió altísima. Y la OIDA no tenía presupuesto ni autoridad para cambiar nada. Así que hizo lo único que podía hacer: guardó la estimación. La metió en una carpeta. Y esperó a que alguien, algún día, la encontrara. |
+| V16 | Rika | Existe porque alguien hizo la cuenta. |
 | V17 | Rika | El Legajo |
 | V18 | Rika | Trece páginas |
 | V20 | Rika | ¿Y esas trece personas dónde están? |

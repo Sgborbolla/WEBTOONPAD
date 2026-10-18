@@ -1266,22 +1266,22 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 |---|---|---|
 | V2 | Goro Arashi | Nos sentamos. Y nos contamos lo que nos pasa. |
 | V8 | Goro Arashi | Yo empiezo. |
-| V11 | Goro Arashi | El guante. El que arrojé el martes, después de Nomura. Anoche volvió. Sin que yo lo pidiera. Salió de la piel, del antebrazo, como si el cuero hubiera estado guardado ahí dentro todo este tiempo, esperando. |
+| V11 | Goro Arashi | El guante. El que arrojé el martes. Anoche volvió. |
 | V12 | Goro Arashi | Y no me dolió. Eso es lo peor. Casi me gusta. |
 | V14 | Ren Hayashi | El fuego de Goro es de Goro. |
 | V15 | Yui Nakamura | Yo tengo lo del tiro. |
-| V16 | Yui Nakamura | Desde el martes, el tiro me sale sin casi pensarlo. La bala cruza el aire de una manera que no es la de las balas. Y cada vez que disparo oigo tres segundos antes de que el sonido llegue. Tres. Siempre tres. |
+| V16 | Yui Nakamura | Desde el martes, el tiro me sale sin pensarlo. |
 | V17 | Yui Nakamura | No me tiembla la mano al disparar. Ni antes ni después. Eso también es raro. Porque antes del lunes, la mano me temblaba siempre. |
 | V18 | Ren Hayashi / Yui Nakamura | Yui: ¿Por los tres segundos? / Ren: No sé. Nunca supe por qué la mano me temblaba. |
 | V20 | Rika Tsukimi | Yo tengo la brasa. |
 | V21 | Rika Tsukimi | El martes, en la calle del portal, cuando la brasa se me encendió en los puños por primera vez, no fue un arma. Fue una quemadura. |
 | V23 | Rika Tsukimi | No sé si eso es fuerza o es debilidad. Y no sé si quiero saberlo. |
-| V24 | Rika Tsukimi | Se me encendió porque mi hermana había salido por esa puerta. Desde entonces, el fuego sale cuando me importa algo. Y me importan demasiadas cosas. |
+| V24 | Rika Tsukimi | Se me encendió porque mi hermana había salido por esa puerta. |
 | V25 | Rika Tsukimi | Hoy en la guardería, cuando el niño contaba, la brasa salió sola. Igual que la tuya, Goro. Sin pedirla. |
 | V26 | Goro Arashi | ¿Y te gustó? |
 | V27 | Rika Tsukimi | No lo sé. Todavía no lo sé. |
 | V30 | Ren Hayashi | Lo del dash. Lo de las tres cargas. |
-| V31 | Ren Hayashi | Desde el martes puedo moverme entre los momentos. No entre los espacios. Voy a un sitio y no estoy viendo el sitio: estoy viendo el momento anterior y el siguiente a la vez. |
+| V31 | Ren Hayashi | Puedo moverme entre los momentos. No entre espacios. |
 | V32 | Ren Hayashi | Y hoy, en la guardería, la carga se me apagó. En el patio. Delante del niño. Nunca me había pasado. Nunca me había fallado. |
 | V33 | Ren Hayashi | Creo que no fue un fallo. Creo que se apagó porque me importaba. |
 | V34 | Ren Hayashi | La velocidad no es para mí. Es para llegar. |
@@ -1292,7 +1292,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V41 | Yui Nakamura | Yo no lo llamaría así. |
 | V44 | Goro Arashi | La noche del lunes. Yo bajé al Portal Cuatro con la lancha. Había una fila. De gente que salía. Con termos. |
 | V45 | Ren Hayashi | Yo estaba arriba. No vi ninguna fila. Vi la lancha. Vi la puerta abierta. Vi a una chica. Que entraba. |
-| V46 | Rika Tsukimi | Yo vi el portal del fondo. Vi a Mio entrar. Y vi otra cosa: una ventana, arriba, con la luz encendida. Y detrás de la ventana, una figura. Mirándonos. |
+| V46 | Rika Tsukimi | Vi el portal. Vi a Mio entrar. Y vi una ventana que no estaba ahí. |
 | V47 | Yui Nakamura | Yo vi la lancha. Vi el Portal Cuatro. Vi a Goro entrar. No vi a nadie saliendo. |
 | V48 | Goro/Yui/Rika | Yo no vi ninguna ventana. / Yo no vi ninguna fila. / Yo no vi ninguna lancha. |
 | V50 | Ren Hayashi | Es como si cada uno mirara la noche desde un lugar distinto. Como si la noche no fuera una. Como si fuera cuatro. |

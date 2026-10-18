@@ -408,7 +408,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V14 | Goro | Se quedarán allí. Les daremos lo que podamos, mientras podamos. No hay forma de volver a bajar ahora. |
 | V16 | Goro | Hay algo más |
 | V18 | Yui | ¿Por qué por nosotros? |
-| V19 | Yui | Porque desde Matsumoto, la cifra de "los cuatro" ha dejado de ser un apodo de la base para pasar a aparecer en los partes que llegan directamente al Estado Mayor. |
+| V19 | Yui | Desde Matsumoto, la cifra de «los cuatro» ha dejado de ser una hipótesis. |
 | V21 | Rika | ¿Qué partes? |
 | V23 | Rika | Lean esto. Pero no lo comenten fuera de esta habitación. |
 | V27 | Goro | Trasladarlos. Es una forma educada de decir "apartarlos". |
@@ -418,7 +418,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V33 | Yui | ¿Vamos a ir? |
 | V34 | Rika | Sí |
 | V36 | Yui | El helicóptero sale para Tokio a las seis de la mañana. |
-| V38 | Yui | Lo de Matsumoto y Norikura... |
+| V38 | Yui | Los cuatro somos un solo objetivo ahora. |
 | V40 | Rika | Tampoco nosotros |
 
 ## Cajas de narración (1)

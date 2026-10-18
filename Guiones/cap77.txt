@@ -528,7 +528,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V9 | Yui | Sigue sin haberse recuperado del todo |
 | V10 | Rika | No quiso recuperarse del todo |
 | V11 | Goro | ¿Qué quieres decir? |
-| V12 | — | El Silencio empezó aquí. Aquí fue donde más puertas se abrieron. Aquí fue donde más gente murió en los catorce minutos. Y, desde entonces, Tokio ha vivido con un pie dentro y otro fuera. |
+| V12 | — | El Silencio empezó aquí. Aquí fue donde más puertas se abrieron. |
 | V24 | Tanaka | Siéntense |
 | V26 | Tanaka | Gracias por venir |
 | V27 | Rika | No nos han traído aquí para darnos las gracias |
@@ -546,12 +546,12 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V46 | Rika | Ustedes quieren apartarnos del frente para tenernos lejos del Legajo, ¿verdad? |
 | V49 | Tanaka | Sí |
 | V50 | Tanaka | ¿Por qué? |
-| V51 | Tanaka | Porque esas trece páginas, si se filtran tal como están, van a romper lo poco que queda de la cadena de mando. Y si se rompe la cadena de mando ahora, lo que queda de Japón se deshace en una semana. |
+| V51 | Tanaka | Esas trece páginas, si se filtran, van a romper todo. |
 | V53 | Goro | ¿Y qué hay en esas trece páginas que es tan peligroso? |
 | V55 | Tanaka | Hay cosas que todavía no han visto |
-| V57 | Rika | Nosotros ya hemos visto suficiente para saber que mentir sobre lo que pasó aquella mañana no ha salvado a nadie. Ha costado dieciocho mil vidas en Matsumoto. Y ha costado medio frente centro. |
+| V57 | Rika | Ya hemos visto suficiente para saber que mentir sobre lo que pasa no sirve. |
 | V59 | Tanaka | Tiene razón |
-| V61 | Tanaka | Aun así, les ordeno, como General del Estado Mayor, que se queden aquí, en Tokio, bajo custodia administrativa, hasta nueva orden. No volverán al frente centro. |
+| V61 | Tanaka | Les ordeno, como General del Estado Mayor, que se queden aquí. |
 | V64 | Rika | No vamos a obedecer esa orden |
 | V66 | Tanaka | Lo esperaba. |
 | V67 | Rika | Volveremos al frente —continuó Rika—. Donde sigue habiendo huecos que defender. Donde sigue habiendo gente. |

@@ -389,11 +389,11 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V5 | — | Han perdido media ciudad |
 | V6 | Rika | Es culpa nuestra |
 | V8 | — | Nadie la ha detenido nunca |
-| V10 | — | La mancha del Cenicero mayor se ha detenido. No avanza. Pero mientras ustedes frenaban en Matsumoto, tres brechas más se abrieron al norte del río. Una oleada de doscientos kaiyu viene por Omachi. Otra de ciento cincuenta por Hakuba. Y la tercera viene directa hacia aquí. |
+| V10 | — | La mancha del Cenicero mayor se ha detenido. No avanza. |
 | V11 | Goro | Tres a la vez |
 | V12 | — | Tres a la vez —asintió Kurose—. Nos están partiendo el frente centro en tres pedazos para que no podamos cubrir ninguno. |
 | V14 | Ren | ¿Cuánta gente queda por evacuar al norte? |
-| V15 | Ren | Veintidós mil de Matsumoto, más doce mil de los pueblos entre Azumino y Omachi. Si perdemos Azumino hoy, pierden la única carretera que les queda para subir hacia las montañas. |
+| V15 | Ren | Veintidós mil de Matsumoto, más doce mil de los pueblos. |
 | V21 | Ren | No podemos cubrir las tres |
 | V22 | Ren | No tenemos que cubrir las tres |
 | V23 | Rika | Tiempo para que salgan —asintió Rika. |

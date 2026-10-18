@@ -399,7 +399,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V34 | Goro | Le habló a un jefe |
 | V36 | Rika | Las he oído |
 | V37 | Rika | ¿Y qué significan? |
-| V39 | Rika | Yo recuerdo...» —leyó—. Las dos primeras van juntas: «Yo recuerdo». La tercera... la tercera es la que no tengo. Es una palabra que no está en la lista. Pero por cómo la dijo —Kurose levantó la vista—, no era una orden. Era un aviso. |
+| V39 | Rika | Las dos primeras: «Yo recuerdo». La tercera: «no». |
 
 ## Cajas de narración (1)
 

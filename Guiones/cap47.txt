@@ -529,20 +529,20 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 |---|---|---|
 | V4 | Rika | Que lo traigan vivo |
 | V5 | — | Eso dijo. |
-| V6 | Rika | Kurose lleva nueve años diciendo que a los naranjas se les mata sin preguntar. —Rika se ajustó el arma al hombro, sin necesidad—. Ahora quiere uno vivo y con cadena corta. ¿Tú sabes qué cambió, Ren? |
+| V6 | Rika | Kurose lleva nueve años diciendo que a los naranjas se les mata sin preguntar. |
 | V7 | Ren | Sí |
 | V14 | Yui | ¿Por qué no habla? |
 | V15 | Rika | Habla |
 | V16 | Yui | No puedo dejar de verlo |
 | V17 | Goro | Nadie te pide que lo dejes de ver. |
-| V18 | Rika | Es que además lo entiendo, Rika. —Yui tenía la vista fija—. No sé cómo, pero lo entiendo. Es como si me lo hubieran contado mil veces y yo me hubiera olvidado de que me lo contaron. |
+| V18 | Rika | Es que además lo entiendo. No sé cómo explicarlo. |
 | V21 | Goro | *O-máth kósh... zuk-uk mak-kósh.* |
 | V30 | Rika | Nos esperan |
 | V31 | Ren | No |
 | V34 | Rika | *Kor-váth rash* |
 | V36 | Rika | Kurose |
 | V37 | Rika | Retrocedan. |
-| V38 | Rika | No podemos retroceder, Kurose, venimos por una carretera con el mar a un lado. —Rika miró el mapa del tablero—. Y hay otros veinte detrás. Nos han cerrado. |
+| V38 | Rika | No podemos retroceder. Venimos por una carretera con el mar a un lado. |
 | V41 | Rika | Prioridad uno: el prisionero no llega a la base. Si no lo pueden traer, no lo dejen. |
 | V42 | Rika | ¿Que lo matemos? —Rika apretó la radio—. ¿Otra vez? |
 | V43 | Rika | Que no lo dejen |

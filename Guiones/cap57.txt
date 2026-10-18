@@ -386,7 +386,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V5 | Rika | ¿Y esa columna? |
 | V6 | Rika | Los portadores |
 | V7 | Rika | ¿Nuestro contador? |
-| V8 | Rika | El de ustedes cuatro y el de los otros equipos. —El operador pasó la hoja—. Llevamos la cuenta individual, por si algún día alguien quiere saber cuántos mató cada uno. |
+| V8 | Rika | El de ustedes cuatro y el de los otros equipos. |
 | V10 | Rika | ¿Para qué sirve esto? |
 | V11 | Rika | Para el informe anual |
 | V12 | Rika | ¿Y a los muertos quién los cuenta? |
@@ -394,7 +394,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V17 | Rika | ¿Se puede estimar a un muerto? |
 | V21 | Rika | ¿Va a la puerta? —le preguntó Tokura, sin dejar de barrer. |
 | V22 | Rika | Sí. |
-| V23 | Rika | Entonces llévele esto a los muchachos de la garita. —Le tendió un paquete de onigiri envueltos en un trapo—. Anoche no comieron. Se me olvidó decírselo a nadie importante. |
+| V23 | Rika | Llévele esto a los muchachos de la garita. |
 | V25 | Rika | ¿Usted cómo sabe quién no comió? |
 | V27 | Rika | Porque los cuento |
 | V29 | Rika | ¿Y cuántos faltan, Tokura? |

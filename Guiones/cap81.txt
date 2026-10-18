@@ -434,14 +434,14 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V21 | Rika | No nos van a atrapar |
 | V22 | Goro | Tenemos que hacerlo llegar a alguien que no esté bajo el mando directo del Estado Mayor |
 | V23 | Ren | ¿A quién? |
-| V25 | Rika | Hay bases de la NSF que ya se han puesto de nuestro lado. Los que leyeron el comunicado y decidieron no obedecer la orden de detenernos. Podemos intentar contactar con alguna de ellas. |
+| V25 | Rika | Hay bases de la NSF que ya se han puesto de nuestro lado. |
 | V26 | Yui | Pero las comunicaciones están siendo vigiladas |
 | V27 | Ren | Entonces usamos uno civil |
 | V28 | Goro | Quedan pocos que funcionen |
 | V36 | Yui | Se han dividido |
 | V37 | Ren | Nos han visto el rastro |
 | V38 | Goro | O adivinan adónde vamos |
-| V40 | Rika | No vamos a seguir subiendo recto. Damos un rodeo por el oeste, bajamos por un barranco y cruzamos hacia otro valle. Así los despistamos. |
+| V40 | Rika | La NSF ya no es enemiga. Al menos, no toda. |
 | V43 | Yui | Ahí abajo siguen discutiendo entre ellos |
 | V44 | Rika | Bien |
 

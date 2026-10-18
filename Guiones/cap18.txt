@@ -406,7 +406,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V6 | Rika | Mio Tsukimi |
 | V8 | Futaki | Te acompaño. |
 | V21 | Rika | ¿Qué significa «permanece en el mismo espacio-tiempo»? |
-| V23 | Futaki | Significa que, según lo poco que sabemos, Mio no ha seguido avanzando con el tiempo. Sigue allí. En el mismo segundo en el que entró. |
+| V23 | Futaki | Mio no ha seguido avanzando en el tiempo. |
 | V25 | Rika | ¿Allí dónde? |
 | V28 | Rika | Omega |
 | V29 | Futaki | Es la designación que le dimos a los casos... especiales |

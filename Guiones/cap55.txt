@@ -393,7 +393,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V22 | Yui | Este cuaderno |
 | V25 | Goro | No son catorce puertas |
 | V26 | Goro | ¿Qué? |
-| V27 | Goro | Catorce puertas que se abren a la vez no son catorce puertas. Son una puerta grande. —Se pasó la mano por la cabeza rapada—. Por eso hay catorce. No para entrar más gente. Para hacer un hueco más grande con la misma gente. |
+| V27 | Goro | Catorce puertas que se abren a la vez no son catorce puertas. Son una sola. |
 | V29 | Goro | Siempre lo supimos |
 | V32 | Rika | *O-vur kósh* |
 | V35 | Rika | O-vur |

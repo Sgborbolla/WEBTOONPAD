@@ -406,7 +406,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 | V18 | Rika | Sí |
 | V20 | Ren | Hicimos lo que pudimos |
 | V21 | Rika | Pero nunca es suficiente |
-| V23 | Goro | Sí que fue suficiente para algunos. Para los treinta y cuatro mil de Norikura. Para los niños de la guardería. Para todos los que, gracias a nosotros, tuvieron un día más. Un año más. |
+| V23 | Goro | Sí que fue suficiente para algunos. Para los treinta y cuatro mil de Nagano. |
 | V37 | Yui | Sigue a salvo |
 | V38 | Rika | Sí |
 
