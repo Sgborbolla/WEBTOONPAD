@@ -14,8 +14,6 @@
 
 **PROHIBIDO:** inglés, kana, kanji, hangul, cirílico, HUD, barras, niveles, «LEVEL UP», firmas, marcas de agua, logos. Solo texto en español. NO poner medidas, cuadrículas, números de píxeles ni explicaciones técnicas en las imágenes.
 
-**PORTADA (Imagen 1):** Transformar la portada existente al estilo Solo Leveling. Fondo: atardecer. Detrás de los 4 héroes (Rika, Goro, Ren, Yui), KAIYU de RANGO ROJO (jefe) en silueta, muy al fondo entre edificios, apenas visible (hombros/torso). Protagonistas al frente, ángulo heroico desde abajo. Rika: kimono corto negro, haori corto hueso, sable corto, coleta roja carmesí. Sin texto.
-
 **SEPARADOR S00 (Imagen 2):** Primera pantalla antes de S01. Fondo acorde al capítulo. Solo texto centrado: «CAPÍTULO 86» y «El precio se paga». Sin personajes.
 
 **VIÑETAS (Imágenes 3 en adelante):** Generar en ORDEN EXACTO de viñetas V01, V02... según este guión. Cada viñeta una imagen PNG con nombre: cap86_sXX_vXXX.png. Poner ÚNICAMENTE los diálogos, narraciones y SFX que se indiquen. NO explicar qué va o no va.

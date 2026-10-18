@@ -4,7 +4,7 @@
 
 **ESTILO:** Usar como referencia las imágenes de Solo Leveling (DUBU / Redice Studio). No copiar exactamente, pero sí muy similar en dibujo, trazo, iluminación, colores y tratamiento manhwa coreano.
 
-**FORMATO:** 800×1280 px vertical. Cada imagen PNG independiente. NO generar HTML, web ni código.
+**FORMATO:** 800×1280 px vertical. **GENERAR ÚNICAMENTE ARCHIVOS PNG.** NO GENERAR HTML, .HTML, CSS, JS, web, preview ni ningún tipo de archivo web. NO HTML.
 
 **TIPOS DE GLOBO:**
 - **normal:** óvalo blanco, borde negro, cola al hablante. Conversación tranquila.
