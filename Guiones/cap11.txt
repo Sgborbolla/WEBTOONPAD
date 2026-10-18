@@ -661,7 +661,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 
 ### S23 · T4R · 3 viñetas de 380
 
-**V45.** Plano general. Al fondo de la calle, alineados contra la luz de la mañana, los ven: **tres kaiyu amarillos**, de marcha lenta, la cabeza gacha, en fila.
+**V45.** Plano general. Al fondo de la calle, alineados contra la luz de la mañana, los ven: tres kaiyu amarillos: dos Embestidores (hombro grande, cabeza hundida) y un Blindado (cuadrado, placa frontal), avanzando lentamente.
 - **PLANO:** general
 - **COMPOSICION:** la fila amarilla, la calle larga
 - **ACCION:** no los vieron venir: los vieron estar.
@@ -682,7 +682,7 @@ Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin persona
 
 ### S24 · T2R · 1 viñeta de 1200
 
-**V48.** Plano general. Los tres kaiyu amarillos, en fila por el centro de la calle, con la dirección de las cosas que ya saben dónde van a parar: hacia la verja, hacia la luz puesta, hacia la cuenta que se está terminando. Goro con el escudo delante, Rika con la brasa quieta en los puños, Yui contando los metros en voz baja: once, diez, nueve.
+**V48.** Plano general. Dos Embestidores (hombro grande, cabeza hundida) y un Blindado (cuadrado, placa frontal), en fila hacia la verja. Goro con el escudo delante, Rika con la brasa quieta en los puños, Yui contando los metros en voz baja: once, diez, nueve.
 - **PLANO:** general
 - **COMPOSICION:** la fila amarilla a un lado, los tres y Ren a otro, el patio entre ambos
 - **ACCION:** el encuentro, un instante antes de serlo.
