@@ -16,7 +16,7 @@
 
 **PORTADA (Imagen 1):** Transformar la portada existente al estilo Solo Leveling (DUBU / Redice Studio). 800×1280 vertical.
 
-**Fondo:** Atardecer en Yokohama. Detrás de los 4 héroes, muy al fondo entre edificios rotos, emerge un KAIYU de RANGO ROJO (jefe). Del tamaño de un edificio pequeño. Cuerpo oscuro casi silueta, contorno doble, placas óseas rígidas, extremidades alargadas. Sin rostro humano. Color emisor rojo en costillas, hombros y articulaciones. Humo negro fino. Solo hombros/torso visible tras niebla.
+**Fondo:** Atardecer en Yokohama. Detrás de los 4 héroes, muy al fondo entre edificios rotos, emerge EL PORTERO (Jefe 1, rango rojo). Silueta: una puerta con piernas. Cuadrado arriba, disproporcionado abajo. Cuerpo gris acero #8a8a92, un solo ojo central rojo #ff2d6f brillante. Del tamaño de un edificio de 4-5 pisos. Apenas visible entre niebla y humo.
 
 **Héroes al frente, ángulo heroico desde abajo:** Rika (kimono corto negro, haori hueso, sable corto, coleta roja carmesí), Goro (escudo), Ren (guantes), Yui (rifle con mira telescópica).
 
