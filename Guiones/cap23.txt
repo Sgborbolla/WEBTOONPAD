@@ -14,6 +14,10 @@
 
 **PROHIBIDO:** inglés, kana, kanji, hangul, cirílico, HUD, barras, niveles, «LEVEL UP», firmas, marcas de agua, logos. Solo texto en español. NO poner medidas, cuadrículas, números de píxeles ni explicaciones técnicas en las imágenes.
 
+**PERSONAJES (FIJOS EN TODA LA SERIE):** Cada personaje se dibuja SIEMPRE igual en todas las viñetas de este capítulo y de todos los capítulos: misma cara, misma edad aparente según la fecha del capítulo, mismo cuerpo, misma ropa, mismo pelo y mismas marcas. Fuente única: el bloque ANCLA más abajo y la sección «Elenco y enemigos de este capítulo». No inventes rasgos, no cambies de ropa, de peinado ni de edad entre escenas o capítulos.
+
+**KAIYU (INVARIANTES — JAMÁS CAMBIAN EN TODA LA HISTORIETA):** Respeta siempre las características físicas de cada kaiyu tal como están descritas aquí: misma silueta por arquetipo (Carrilero largo y bajo; Embestidor hombro grande y cabeza hundida; Lanzador vertical de brazos largos; Blindado cuadrado con placa frontal; Resucitado encorvado con grietas cian), misma textura de piel, mismos ojos sin párpados, misma boca sin labios, mismas manos, mismo tamaño y mismo color de rango. No rediseñes, no varíes ni «mejores» un kaiyu entre viñetas ni entre capítulos: el mismo kaiyu es idéntico en toda la serie.
+
 **SEPARADOR S00 (Imagen 2):** Primera pantalla antes de S01. Fondo acorde al capítulo. Solo texto centrado: «CAPÍTULO 23» y «El rojo». Sin personajes.
 
 **VIÑETAS (Imágenes 3 en adelante):** Generar en ORDEN EXACTO de viñetas V01, V02... según este guión. Cada viñeta una imagen PNG con nombre: cap23_sXX_vXXX.png. Poner ÚNICAMENTE los diálogos, narraciones y SFX que se indiquen. NO explicar qué va o no va.
