@@ -14,7 +14,13 @@
 
 **PROHIBIDO:** inglés, kana, kanji, hangul, cirílico, HUD, barras, niveles, «LEVEL UP», firmas, marcas de agua, logos. Solo texto en español. NO poner medidas, cuadrículas, números de píxeles ni explicaciones técnicas en las imágenes.
 
-**PORTADA (Imagen 1):** Transformar la portada existente al estilo Solo Leveling. Fondo: atardecer. Detrás de los 4 héroes (Rika, Goro, Ren, Yui), KAIYU de RANGO ROJO (jefe) en silueta, muy al fondo entre edificios, apenas visible (hombros/torso). Protagonistas al frente, ángulo heroico desde abajo. Rika: kimono corto negro #14130F, haori corto hueso #E8E2D2, sable corto, coleta roja carmesí. Sin texto.
+**PORTADA (Imagen 1):** Transformar la portada existente al estilo Solo Leveling (DUBU / Redice Studio). 800×1280 vertical.
+
+**Fondo:** Atardecer en Yokohama. Detrás de los 4 héroes, muy al fondo entre edificios rotos, emerge un KAIYU de RANGO ROJO (jefe). Del tamaño de un edificio pequeño. Cuerpo oscuro casi silueta, contorno doble, placas óseas rígidas, extremidades alargadas. Sin rostro humano. Color emisor rojo en costillas, hombros y articulaciones. Humo negro fino. Solo hombros/torso visible tras niebla.
+
+**Héroes al frente, ángulo heroico desde abajo:** Rika (kimono corto negro, haori hueso, sable corto, coleta roja carmesí), Goro (escudo), Ren (guantes), Yui (rifle con mira telescópica).
+
+**Estilo:** Full color, cel-shading suave, rim light. Atardecer anaranjado-violáceo. Sin texto, sin logo, sin inglés. SOLO PNG.
 
 **SEPARADOR S00 (Imagen 2):** Primera pantalla antes de S01. Fondo acorde al capítulo. Solo texto centrado: «CAPÍTULO 01» y «El día que no avisaron». Sin personajes.
 
