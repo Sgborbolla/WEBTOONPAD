@@ -24,7 +24,7 @@ armadura moderna. Todos visten lo que se ponian para trabajar.
 cicatriz vieja en la ceja izquierda, de cuando se corto entrenando sola.
 
 ### Ropa
-Yukata gris oscuro. Haori corto color hueso: **es la prenda más clara de la
+Kimono corto negro. Haori corto color hueso: **es la prenda más clara de la
 página**. Pelo rojo largo en coleta alta. Vendas blancas en los antebrazos.
 Sandalias de rejilla.
 
@@ -274,7 +274,7 @@ Es el ancla de Goro. Vive al lado, en el bloque de trabajadores del Ward.
 | Shinozuka Ryo | 29 | Sergeant de comunicaciones. Es el que dice "no se ve nada" |
 | Hayakawa Saya | 31 | Piloto de helicoptero. Vuela tres veces ese día |
 | Tokura Jun | 41 | Jefe de limpieza. El primero que entra, el último que sale |
-| Jūmoji Tsuyoshi | 36 | Enfermero. Le cose a Rika el antebrazo |
+| Jumoji Tsuyoshi | 36 | Enfermero. Le cose a Rika el antebrazo |
 | Kiryu Ryo | 30 | Operador de puerta. Trabaja con Goro |
 | Futaki Saeri | 24 | Auxiliar de archivo. La que escribe |
 | Amano Rei | 22 | Limpieza. Reparte el cafe |

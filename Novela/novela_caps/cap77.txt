@@ -1,0 +1,150 @@
+# CAPÍTULO 77 — Tokio
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+>>> Viernes 25 de agosto de 2017. 6:25 a. m. Helipuerto de la base NSF, costa de Kanto.
+
+El helicóptero despegó con los primeros rayos del sol.
+
+Hayakawa volaba en silencio, con las gafas de vuelo puestas y la mirada fija al frente. No preguntó adónde iban. Ya lo sabía.
+
+Los cuatro iban sentados en fila, con los cinturones abrochados, mirando por las ventanillas. Dejaron atrás la base, el muelle, la línea de la costa. Luego el campo se fue extendiendo bajo ellos, salpicado de pueblos, de arrozales, de autopistas vacías. Y, poco a poco, empezó a aparecer la gran mancha de Tokio.
+
+Tokio se veía distinta.
+
+Desde el aire, se veía entera. Y se veía a medias.
+
+La mitad oriental parecía seguir funcionando, con luces tenues, con tráfico de vehículos militares, con calles que se limpiaban. La mitad occidental, en cambio, era un mosaico de calles vacías, de edificios con las ventanas rotas, de manzanas enteras selladas con alambre de púas y paneles metálicos. Zonas que nadie había vuelto a abrir desde el Silencio, nueve años atrás.
+
+—Sigue sin haberse recuperado del todo —murmuró Yui, mirando por la ventanilla.
+
+—No quiso recuperarse del todo —dijo Rika.
+
+—¿Qué quieres decir? —preguntó Goro.
+
+—El Silencio empezó aquí. Aquí fue donde más puertas se abrieron. Aquí fue donde más gente murió en los catorce minutos. Y, desde entonces, Tokio ha vivido con un pie dentro y otro fuera.
+
+Hayakawa viró hacia el norte de la ciudad, alejándose del distrito gubernamental más céntrico. El helicóptero empezó a descender hacia un complejo rodeado de muros altos, con antenas, generadores y hangares camuflados. No había ningún cartel. Solo una garita con soldados que ni siquiera levantaron la vista cuando aterrizaron.
+
+El **Cuartel General del Estado Mayor**.
+
+>>> Viernes 25 de agosto de 2017. 7:15 a. m. Cuartel General del Estado Mayor, Tokio.
+
+Los recibieron dos oficiales con expresión adusta y los condujeron por pasillos largos, sin ventanas, con linóleo gris y luces fluorescentes frías. El eco de sus pasos retumbaba en las paredes desnudas.
+
+No los llevaron a una sala de reuniones con ventanas. Los llevaron a una sala subterránea, sin más muebles que una larga mesa de madera, seis sillas, un proyector apagado y un armario cerrado. Las paredes eran de hormigón liso, sin adornos. Solo un mapa de Japón clavado con chinchetas, con las mismas zonas tachadas que habían visto en el despacho de Kurose.
+
+Los estaban esperando.
+
+Además de ellos, había tres hombres con uniforme de Estado Mayor. Y, sentado en un extremo, un hombre mayor, delgado, con el pelo canoso cortado al ras y unas gafas de montura metálica. Llevaba las hombreras con tres estrellas doradas.
+
+El **General Tanaka**.
+
+Se levantó apenas cuando entraron, con rigidez militar.
+
+—Siéntense —dijo, con voz seca, sin presentaciones innecesarias.
+
+Los cuatro obedecieron. Los oficiales también se sentaron, con los rostros impasibles.
+
+—Gracias por venir —dijo Tanaka—. Sé que acaban de volver del frente centro.
+
+—No nos han traído aquí para darnos las gracias —dijo Rika, mirándolo directamente a los ojos.
+
+Un ligero tic se movió en la mandíbula de Tanaka. Pero no lo negó.
+
+—No —dijo—. Los he traído aquí porque necesito que entiendan algo.
+
+Apagó la lámpara central con un interruptor y encendió el proyector. En la pared blanca apareció una imagen ampliada de Japón. Las zonas grises del mapa correspondían, casi exactamente, con lo que los cuatro habían visto con sus propios ojos: Tohoku, gran parte de Nagano, extensas zonas de Shizuoka. Todo lo que el frente había ido cediendo en los últimos dos meses.
+
+—Esto es lo que nos queda —dijo Tanaka—. Lo que ven ahí es el territorio bajo control efectivo de la NSF. El resto está perdido.
+
+Goro entrecerró los ojos.
+
+—Perdido para siempre.
+
+—Por ahora, perdido —corrigió Tanaka—. No podemos recuperarlo con lo que nos queda.
+
+—Entonces hay que defender lo que queda —dijo Ren.
+
+—Exacto —dijo Tanaka—. Y para defender lo que queda, necesito que el frente deje de dispersarse. Necesito que los portadores de mayor valor dejen de cubrir huecos imposibles y se concentren en lo esencial.
+
+—¿Lo esencial según quién? —preguntó Rika.
+
+—Según la supervivencia de lo que queda de Japón —respondió Tanaka, sin elevar la voz.
+
+Yui habló por primera vez.
+
+—Según ustedes, lo esencial es mantener el poder. No la gente.
+
+Tanaka la miró fijamente.
+
+—Lo esencial es mantener la estructura que permite que siga habiendo gente viva. Hay una diferencia.
+
+—No la veo —dijo Yui.
+
+Rika apoyó las manos sobre la mesa.
+
+—Ustedes quieren apartarnos del frente para tenernos lejos del Legajo, ¿verdad?
+
+El silencio que se hizo en la sala fue absoluto.
+
+Tanaka no contestó enseguida. Miró a los tres oficiales que tenía a su lado, como sopesando cuánto decir. Finalmente, volvió la vista a Rika.
+
+—Sí —dijo con franqueza—. Quiero que estén lejos de las trece páginas, por ahora.
+
+—¿Por qué?
+
+—Porque esas trece páginas, si se filtran tal como están, van a romper lo poco que queda de la cadena de mando. Y si se rompe la cadena de mando ahora, lo que queda de Japón se deshace en una semana.
+
+Goro se inclinó hacia adelante.
+
+—¿Y qué hay en esas trece páginas que es tan peligroso?
+
+Tanaka apagó el proyector. La sala quedó otra vez en penumbra, iluminada solo por la lámpara de la mesa.
+
+—Hay cosas que todavía no han visto —dijo en voz baja—. Y, por el bien de todos, creo que es mejor que sigan sin verlas. Por ahora.
+
+Rika lo miró con frialdad.
+
+—Nosotros ya hemos visto suficiente para saber que mentir sobre lo que pasó aquella mañana no ha salvado a nadie. Ha costado dieciocho mil vidas en Matsumoto. Y ha costado medio frente centro.
+
+Tanaka cerró los ojos un instante. Cuando los abrió, había algo distinto en su mirada. Cansancio. Un cansancio muy viejo.
+
+—Tiene razón —dijo en voz casi inaudible—. Tiene toda la razón.
+
+Pero luego enderezó la espalda.
+
+—Aun así, les ordeno, como General del Estado Mayor, que se queden aquí, en Tokio, bajo custodia administrativa, hasta nueva orden. No volverán al frente centro.
+
+Los cuatro se miraron entre sí, sin decir nada.
+
+Rika fue la primera en levantarse.
+
+—No vamos a obedecer esa orden —dijo.
+
+Tanaka no pareció sorprendido.
+
+—Lo esperaba.
+
+—Volveremos al frente —continuó Rika—. Donde sigue habiendo huecos que defender. Donde sigue habiendo gente.
+
+—Entonces —dijo Tanaka, con una voz repentinamente muy cansada—, al menos, antes de irse, escuchen una cosa.
+
+Señaló con la cabeza a uno de los oficiales, que sacó una carpeta más fina de un maletín y la puso sobre la mesa, delante de Rika.
+
+—Esto es lo único que puedo darles sin romper mi juramento por completo. Léanlo aquí. Y después decidan.
+
+Rika abrió la carpeta con cuidado.
+
+En su interior había una sola hoja. En la parte superior, con sello rojo descolorido, ponía: **CONFIDENCIAL — NIVEL 3**.
+
+Y, escrita a mano con letra pequeña, una única frase:
+
+> *"El aviso nunca llegó."*
+
+Rika levantó la vista lentamente.
+
+Tanaka sostuvo su mirada.
+
+—Eso es todo lo que les voy a decir por ahora.
+
+Los cuatro salieron de la sala subterránea en silencio, con aquella frase clavada entre las costillas igual que un cuchillo.

@@ -1,4 +1,4 @@
-# CAPÍTULO 4 — "Reagrupados"
+# CAPÍTULO 4 — Día 2, mañana. La respuesta
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,236 +169,625 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
-> **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 17:45 (Día 1, tarde). Presente: 2026 (9 años).
-> **Bloques:** A = Punto de encuentro (S01–S20) · B = Informes (S21–S40) · C = Decisiones (S41–S60)
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro Arashi, treinta y dos, estaba al lado de la ventana, con la armadura puesta y el escudo a la espalda.
+    - *En este capítulo (novela):* Goro, sentado al lado, miró la franja del brazo al pasar la luz por la ventanilla, y dijo, sin girar del todo la cabeza, como quien habla con la ventana:
+
+—A mí me pasó igual.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika tenía quince años, una chaqueta haori clara que le quedaba grande y vendas en los dos antebrazos.
+    - *En este capítulo (novela):* Yui, veintidós, gris azulada, con el mono subido hasta el cuello y un rifle a la espalda que nadie le había pedido llevar, miraba a Rika.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren, dieciséis, vestía una camisa de un amarillo chillón que se veía desde la otra punta del autobús, y no dejaba de moverse: las piernas, los brazos, los dedos, todo se le movía como si la ropa terminara de dos centímetros antes.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui, veintidós, gris azulada, con el mono subido hasta el cuello y un rifle a la espalda que nadie le había pedido llevar, miraba a Rika.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), negro (rango mando).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 69 pantallas de 800×1280 · 140 viñetas · 88320 px de scroll
 
 ## Ficha
+
 | | |
 |---|---|
-| Géneros | Drama, tensión, unidad |
-| Viñetas | 120 |
-| Pantallas | 60 |
-| Globos de diálogo | 90+ |
-| Cajas narración | 15 |
-| SFX | español solo gráfico |
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 4 (6 rótulos de escena). |
+| Fondo | Día 2. 6:40 a. m. Base NSF. |
+| Personajes con nombre | Yui, Rika, Goro, Ren |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 69 |
+| Viñetas | 140 |
+| Globos de diálogo | 43 |
+| Cajas de narración | 6 |
+| SFX | gráfico |
 
-> **Segundo gancho:** S38 ~35% — "No vamos a dejar a nadie atrás".
-> **Cierre (E).**
-> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+---
 
-### BLOQUE A: Punto de encuentro (S01–S20)
+## Reglas de esta adaptación
 
-#### S01 · T1 · 1 viñeta (1280)
-- **V1.** Garaje subterráneo semivacío, punto de encuentro improvisado. Luces de emergencia.
-- **CAJAS:** `[CAJA:NARR] Punto de encuentro B6.`
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
 
-#### S02 · T2R · 2 viñetas (620,620)+gap 40
-- **V2.** Civiles agolpados, asustados. Voluntarios cuentan.
-- **V3.** **Goro:** —Calma. Todos aquí seguros por ahora.
+---
 
-#### S03 · T3R · 2 viñetas (570,570)+gap 40
-- **V4.** **Nomura:** —Vamos anotando nombres.
-- **V5.** **Kosuke:** —Falta gente de bloque tres.
+## SEPARADOR (primera pantalla del capítulo)
 
-#### S04 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V6.** **Kiryu:** —Bloque tres quedó aislado cuando se abrieron las puertas.
-- **V7.** **Goro:** —Cuántos?
-- **V8.** **Kiryu:** —Unos doce, entre ellos dos niños.
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
 
-#### S05 · T2R · 2 viñetas (620,620)+gap 40
-- **V9.** **Kosuke:** —Vamos a por ellos.
-- **V10.** **Goro:** —No corriendo. Planeamos.
+**Fondo:** Amanecer gris sobre la base militar, cielo despejado con bruma.
 
-#### S06 · T3R · 2 viñetas (570,570)+gap 40
-- **V11.** **Nomura:** —Conozco ruta trasera que pasa por almacén.
-- **V12.** **Goro:** —Enséñamela.
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 4` — mayúsculas, tamaño grande.
+- Línea 2: `«Día 2, mañana. La respuesta»` — entre comillas latillas, tamaño mediano.
 
-#### S07 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V13.** Señalan plano mental con gestos.
-- **V14.** **Kiryu:** —Dos accesos posibles, ambos con kaiyu.
-- **V15.** **Kosuke:** —Elegimos el menos expuesto.
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
 
-#### S08 · T2R · 2 viñetas (620,620)+gap 40
-- **V16.** **Goro:** —Equipo de rescate: yo, Kosuke, Nomura. Kiryu queda al mando aquí.
-- **V17.** **Kiryu:** —Goro...
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
 
-#### S09 · T3R · 2 viñetas (570,570)+gap 40
-- **V18.** **Goro:** —Confío en ti para mantenerlos a salvo.
-- **V19.** **Kiryu:** —Vuelve entero.
+---
 
-#### S10 · T1 · 1 viñeta (1280)
-- **V20.** Grupo se prepara con rapidez, tensión contenida.
-### BLOQUE B: Informes (S21–S40)
+## Mapa de pantallas
 
-#### S21 · T2R · 2 viñetas (620,620)+gap 40
-- **V21.** Salen por pasillo trasero con luces tenues.
-- **V22.** **Kosuke:** —Silencio otra vez. Mal presagio.
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T3R | 2 | 570/570 | 40/60/40 |
+| S12 | T6 | 0 | — | rótulo |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S16 | T3R | 2 | 570/570 | 40/60/40 |
+| S17 | T2R | 1 | 1200 | 40/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T3R | 2 | 570/570 | 40/60/40 |
+| S20 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S21 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S22 | T3R | 2 | 570/570 | 40/60/40 |
+| S23 | T5 | 1 | 260 | 0/1020 |
+| S24 | T6 | 0 | — | rótulo |
+| S25 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S26 | T3R | 2 | 570/570 | 40/60/40 |
+| S27 | T2R | 1 | 1200 | 40/40 |
+| S28 | T3R | 2 | 570/570 | 40/60/40 |
+| S29 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S30 | T3R | 2 | 570/570 | 40/60/40 |
+| S31 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S32 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S33 | T3R | 2 | 570/570 | 40/60/40 |
+| S34 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S35 | T2R | 1 | 1200 | 40/40 |
+| S36 | T3R | 2 | 570/570 | 40/60/40 |
+| S37 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S38 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S39 | T5 | 1 | 260 | 0/1020 |
+| S40 | T6 | 0 | — | rótulo |
+| S41 | T3R | 2 | 570/570 | 40/60/40 |
+| S42 | T2R | 1 | 1200 | 40/40 |
+| S43 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S44 | T3R | 2 | 570/570 | 40/60/40 |
+| S45 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S46 | T3R | 2 | 570/570 | 40/60/40 |
+| S47 | T2R | 1 | 1200 | 40/40 |
+| S48 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S49 | T3R | 2 | 570/570 | 40/60/40 |
+| S50 | T3R | 2 | 570/570 | 40/60/40 |
+| S51 | T6 | 0 | — | rótulo |
+| S52 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S53 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S54 | T3R | 2 | 570/570 | 40/60/40 |
+| S55 | T2R | 1 | 1200 | 40/40 |
+| S56 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S57 | T3R | 2 | 570/570 | 40/60/40 |
+| S58 | T2R | 1 | 1200 | 40/40 |
+| S59 | T3R | 2 | 570/570 | 40/60/40 |
+| S60 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S61 | T3R | 2 | 570/570 | 40/60/40 |
+| S62 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S63 | T6 | 0 | — | rótulo |
+| S64 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S65 | T3R | 2 | 570/570 | 40/60/40 |
+| S66 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S67 | T2R | 1 | 1200 | 40/40 |
+| S68 | T3R | 2 | 570/570 | 40/60/40 |
+| S69 | T3R | 2 | 570/570 | 40/60/40 |
 
-#### S22 · T3R · 2 viñetas (570,570)+gap 40
-- **V23.** **Nomura:** —Ojos abiertos.
-- **V24.** **Goro:** —Paso corto.
+---
 
-#### S23 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V25.** Llegan a cruce, se agachan tras esquina.
-- **V26.** Dos kaiyu patrullan pasillo.
-- **V27.** **Kosuke:** —Dos. Podemos pasar por detrás.
+## Las viñetas
 
-#### S24 · T2R · 2 viñetas (620,620)+gap 40
-- **V28.** **Goro:** —Esperamos ciclo.
-- **V29.** **Nomura:** —Contamos.
 
-#### S25 · T3R · 2 viñetas (570,570)+gap 40
-- **V30.** Esperan respirando controlado.
-- **V31.** **Kosuke:** —Ahora.
+### S01 · T6 · rótulo
+> **RÓTULO:** Día 2. 6:40 a. m. Base NSF.
 
-#### S26 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V32.** Cruzan sigilosos entre sombras.
-- **V33.** **Nomura:** —Despacito.
-- **V34.** Logran pasar sin alertarlos.
+### S02 · T4R · 3 viñetas
+**V1.** La sala de reuniones de la base de la costa de Kanto olía a café recalentado y a papel nuevo. Tenía una mesa larga que nadie utilizaba, un mapa de la costa de Kanto en la pared y una bandera arriba que llevaba el mismo polvo que el resto del edificio.
 
-#### S27 · T2R · 2 viñetas (620,620)+gap 40
-- **V35.** Llegan a almacén con puerta entreabierta.
-- **V36.** **Goro:** —Ahí dentro.
+**V2.** No había ventanas grandes. Solo una claraboya sucia que en días buenos dejaba entrar una columna de luz en diagonal, que caía sobre el mapa como un puntero desinteresado.
 
-#### S28 · T3R · 2 viñetas (570,570)+gap 40
-- **V37.** Susurran entre estantes.
-- **V38.** **Kosuke:** —¿Hola? Somos nosotros.
+**V3.** Siete personas estaban de pie alrededor de la mesa. Nadie sentado. Era una de esas reuniones en las que sentarse se sentiría como una declaración de que había tiempo, y nadie allí quería dar esa versión de la mañana.
 
-#### S29 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V39.** Niños se abrazan entre adultos asustados.
-- **V40.** **Nomura:** —Todo bien. Venimos a sacaros.
-- **V41.** Lágrimas contenidas.
+### S03 · T3R · 2 viñetas
+**V4.** Un reloj de pared contaba los segundos con la laboriosidad de los relojes que no tienen nada mejor que hacer.
 
-#### S30 · T1 · 1 viñeta (1280)
-- **V42.** Reencuentro silencioso, cargado de emoción contenida.
+**V5.** Una de las siete personas se llamaba Watanabe Raishiro. Cincuenta y cuatro años, el uniforme impecable y sin una sola insignia que acreditara poder: ninguna cinta, ninguna barra, ninguna de esas cosas que los demás oficiales se cosían en el pecho como quien colecciona sellos.
 
-#### S31 · T2R · 2 viñetas (620,620)+gap 40
-- **V43.** **Goro:** —No hay tiempo. Formad fila, pegados.
-- **V44.** **Adulto:** —Gracias... gracias.
+### S04 · T4R · 3 viñetas
+**V6.** No llevaba arma. En diez años de destino en esa base, nadie lo había visto con una en la mano, y aun así, cuando hablaba, los otros seis se ponían derechos como si acabaran de nacer de un mismo molde.
 
-#### S32 · T3R · 2 viñetas (570,570)+gap 40
-- **V45.** **Kosuke:** —Yo voy último.
-- **V46.** **Nomura:** —Yo cubro medio.
+**V7.** Watanabe habló despacio.
 
-#### S33 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V47.** Inician retirada con grupo numeroso.
-- **V48.** **Goro:** —Silencio absoluto al cruzar.
-- **V49.** Avanzan con extrema cautela.
+**V8.** Plano medio. Alguien habla.
+> **GLOBO:** Balance. En orden.
 
-#### S34 · T2R · 2 viñetas (620,620)+gap 40
-- **V50.** Un kaiyu gira cabeza hacia ruido mínimo.
-- **V51.** **Nomura:** —Quietos.
+### S05 · T2R · 1 viñeta
+**V9.** Uno de los oficiales de intendencia, un hombre joven con el bigote recortado y la carpeta mal sujeta, se aclaró la garganta y leyó en voz alta lo que llevaba horas mordiendo entre los dientes.
 
-#### S35 · T3R · 2 viñetas (570,570)+gap 40
-- **V52.** Congelan grupo completo.
-- **V53.** Kaiyu vuelve a patrullar sin verlos.
+### S06 · T3R · 2 viñetas
+**V10.** Primerísimo primer plano. Alguien habla.
+> **GLOBO:** Cuatro puertas confirmadas en la provincia. Cuarenta y seis kaiyu avistados. Perdidas sin cerrar.
 
-#### S36 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V54.** Respiración contenida colectiva.
-- **V55.** **Kosuke:** —Bien. Seguimos.
-- **V56.** Avanzan metro a metro.
+**V11.** Watanabe no movió ni un músculo de la cara. Sostuvo la mirada un segundo más de lo que hacía falta y dijo:
 
-#### S37 · T2R · 2 viñetas (620,620)+gap 40
-- **V57.** Niño tropieza, adulto lo sujeta al instante.
-- **V58.** **Goro:** —Tranquilo. Sin prisa.
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Alguien habla.
+> **GLOBO:** ¿Cuarenta y seis qué.
 
-#### S38 · T3R · 2 viñetas (570,570)+gap 40
-- **V59.** **Nomura:** —Ya casi estamos.
-- **V60.** **Kosuke:** —No cantéis victoria aún.
+**V13.** El oficial tardó en notar que aquello no era una pregunta sobre números.
 
-#### S39 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V61.** Oyen pasos apresurados detrás.
-- **V62.** **Goro:** —¡Rápido! ¡Al cruce!
-- **V63.** Aceleran sin hacer ruido excesivo.
+**V14.** Primer plano. Repitió, con un hilo de voz menos seguro—. Los bichos.
+> **GLOBO:** Cuarenta y seis
 
-#### S40 · T1 · 1 viñeta (1280)
-- **V64.** Llegan a pasillo seguro, cierran acceso tras ellos.
-### BLOQUE C: Decisiones (S41–S60)
+### S08 · T4R · 3 viñetas
+**V15.** Watanabe asintió, despacio, como quien toma nota de algo que no quiere olvidar, y dijo, con la misma calma con la que había dicho todo lo demás:
 
-#### S41 · T2R · 2 viñetas (620,620)+gap 40
-- **V65.** Rescatados abrazan a conocidos en garaje.
-- **V66.** **Kiryu:** —¡Lo habéis conseguido!
+**V16.** Plano detalle. Alguien habla.
+> **GLOBO:** Escríbalo así, otra vez. Más despacio.
 
-#### S42 · T3R · 2 viñetas (570,570)+gap 40
-- **V67.** **Goro:** —Todos sanos. Sin bajas.
-- **V68.** **Kosuke:** —Por los pelos.
+**V17.** El oficial anotó, muy despacio, los bichos, con una letra pequeña que se le salía del recuadro. Nadie lo corrigió. Nadie le dijo que había dicho algo raro.
 
-#### S43 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V69.** Emoción contenida se desborda en susurros.
-- **V70.** **Nomura:** —Merecían volver.
-- **V71.** **Kiryu:** —Bien hecho, equipo.
+### S09 · T3R · 2 viñetas
+**V18.** En esa sala, lo raro no se señalaba; se escribía otra vez, más despacio, a ver si la forma cambiaba el significado.
 
-#### S44 · T2R · 2 viñetas (620,620)+gap 40
-- **V72.** **Goro:** —Esto no ha hecho más que empezar.
-- **V73.** **Kosuke:** —Lo sabemos.
+**V19.** En el fondo de la sala, sin sentarse, sin un movimiento, estaba el doctor Kurose Ken. Cincuenta y dos años. No tomaba la palabra en esas reuniones. No tomaba la palabra nunca: se plantaba al fondo con su carpeta de cuero apretada contra el pecho, como un hombre que atiende un mercado que le queda lejísimos, y solo miraba.
 
-#### S45 · T3R · 2 viñetas (570,570)+gap 40
-- **V74.** Revisión rápida de heridos leves.
-- **V75.** **Nomura:** —Vendajes mínimos. Podrán aguantar.
+### S10 · T2R · 1 viñeta
+**V20.** El general no lo miraba a él. Kurose llevaba nueve años entrando en esas reuniones sin decir una palabra, y todos los demás habían dejado de preguntarse por qué.
 
-#### S46 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V76.** Discuten siguiente paso en círculo cerrado.
-- **V77.** **Kiryu:** —Hay que asegurar más vías para otros grupos.
-- **V78.** **Goro:** —Sí. No podemos salvar a todos solos.
+### S11 · T3R · 2 viñetas
+**V21.** Un fluorescente del techo hacía un zumbido de abeja dormida. El mapa de la costa, en la pared, tenía siete marcas rojas.
 
-#### S47 · T2R · 2 viñetas (620,620)+gap 40
-- **V79.** **Kosuke:** —Pero tampoco vamos a dejar a nadie atrás.
-- **V80.** **Goro:** —Nunca.
+**V22.** Una estaba en Yokohama. Era la más grande.
 
-#### S48 · T3R · 2 viñetas (570,570)+gap 40
-- **V81.** **Nomura:** —Hay que contactar con otros puntos si es posible.
-- **V82.** **Kiryu:** —Líneas cortadas casi todas.
+### S12 · T6 · rótulo
+> **RÓTULO:** 8:15 a. m. Campo de tiro.
 
-#### S49 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V83.** **Goro:** —Pues nos movemos. No esperamos a que vengan.
-- **V84.** **Kosuke:** —Así nos gusta.
-- **V85.** Asienten con determinación.
+### S13 · T4R · 3 viñetas
+**V23.** El campo de tiro de la base olía a pólvora rancia y a hierba seca. Estaba al borde de la carretera de servicio, abierto, con un muro de hormigón a cuatrocientos metros clavado en la tierra como un diente cuadrado y gris.
 
-#### S50 · T1 · 1 viñeta (1280)
-- **V86.** Mirada colectiva: cansados, pero decididos.
+**V24.** Un camión ladrillo dejaba caer una columna de humo que se quedaba colgando a la altura de las cabezas, inmóvil, sin ganas de irse.
 
-#### S51 · T2R · 2 viñetas (620,620)+gap 40
-- **V87.** Niño pequeño abraza pierna de Goro sin decir nada.
-- **V88.** Goro baja mirada, se agacha suavemente.
+**V25.** Tres tanques estaban alineados en la explanada, con los cañones apuntando al muro. El humo del motor al ralentí del primero salía como si los tres estuvieran respirando al unísono, despacio, esperando que alguien les diera permiso para hacer su trabajo.
 
-#### S52 · T3R · 2 viñetas (570,570)+gap 40
-- **V89.** Le devuelve abrazo con delicadeza.
-- **V90.** **Goro:** —Todo va a ir bien ahora.
+### S14 · T3R · 2 viñetas
+**V26.** El capitán Miura Daigo, treinta y cinco años, estaba junto al primer tanque con los auriculares puestos y la mano levantada. Detrás, los soldados con los cascos, el rifle colgado, los ojos puestos en el muro como si el muro pudiera ofrecerles una disculpa.
 
-#### S53 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V91.** **Kosuke:** —Se te da bien esto, aunque finjas lo contrario.
-- **V92.** **Nomura:** —Tiene corazón blando.
-- **V93.** **Goro:** —Callaos los dos.
+**V27.** Miura bajó la mano.
 
-#### S54 · T2R · 2 viñetas (620,620)+gap 40
-- **V94.** Ríen bajito entre ellos, tensión se alivia un instante.
-- **V95.** **Kiryu:** —Hace falta reír aunque sea un segundo.
+### S15 · T4R · 3 viñetas
+**V28.** Primer plano. Gritó, con la voz del que no necesita megáfono—. Objetivo en el muro. Dos rondas al blanco. ¡Fuego!
+> **GLOBO:** ¡Atención!
 
-#### S55 · T3R · 2 viñetas (570,570)+gap 40
-- **V96.** **Nomura:** —Guardad fuerzas. Vendrán más.
-- **V97.** **Goro:** —Lo sabemos.
+**V29.** Los tres cañones dispararon a la vez.
 
-#### S56 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V98.** Se preparan para salir de nuevo.
-- **V99.** **Kosuke:** —¿Adónde primero?
-- **V100.** **Goro:** —Al bloque dos. Quedan rezagados.
+**V30.** No fue un ruido que se oyera: fue un ruido que se sintió en los pies, en los dientes, en ese sitio del pecho donde el cuerpo guarda las bromas pesadas.
 
-#### S57 · T2R · 2 viñetas (620,620)+gap 40
-- **V101.** Revisan equipo rápidamente.
-- **V102.** **Kiryu:** —Tenéis cuidado.
+### S16 · T3R · 2 viñetas
+**V31.** La tierra dio un golpe hacia arriba. El muro, a cuatrocientos metros, recibió las tres rondas casi al mismo tiempo y reventó en una nube de polvo y esquirlas grises que tardó un buen rato en caer.
 
-#### S58 · T3R · 2 viñetas (570,570)+gap 40
-- **V103.** **Nomura:** —Siempre.
-- **V104.** **Goro:** —Volveremos.
+**V32.** La explosión todavía sonaba en el eco cuando Miura, sin mirar a los soldados, dijo:
 
-#### S59 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V105.** Salen al pasillo oscuro con determinación renovada.
-- **V106.** **Kosuke:** —Equipo.
-- **V107.** **Todos:** —Vamos.
+### S17 · T2R · 1 viñeta
+**V33.** Plano de bocas. Alguien habla.
+> **GLOBO:** Otra vez. Al muro.
 
-#### S60 · T1 · 1 viñeta (1280)
-- **V108.** Se alejan por corredor iluminado con parpadeos, dejando atrás un instante de calma.
-- **CAJAS:** `[CAJA:NARR] No eran héroes. Eran vecinos que decidieron no huir solos.`
-- **Transición:** FUNDIDO A: negro
+### S18 · T4R · 3 viñetas
+**V34.** Los tanques cargaron. Los soldados, de pie en su sitio, no dispararon. No había que disparar: había que llenar el oído y esperar a que el muro aprendiera la lección.
+
+**V35.** Primer plano. Dijo una voz cerca de la caja de radios.
+> **GLOBO:** Capitan
+
+**V36.** Shinozuka Ryo, veintinueve años, sargento de comunicaciones, tenía el auricular medio puesto y la otra mano tapándose un oído. Se había acercado a Miura sin abandonar la caja, con ese paso de los que siempre están a mitad de camino.
+
+### S19 · T3R · 2 viñetas
+**V37.** Plano detalle. Alguien habla.
+> **GLOBO:** Capitan, radio. Uno de los nuestros no aparece.
+
+**V38.** Miura se giró, sin bajarse la mano de la cadera.
+
+### S20 · T4R · 3 viñetas
+**V39.** Plano americano. Alguien habla.
+> **GLOBO:** ¿El de la patrulla de ayer?
+
+**V40.** Plano de bocas. Alguien habla.
+> **GLOBO:** Sí.
+
+**V41.** Contrapicado. Alguien habla.
+> **GLOBO:** Que siga buscando.
+
+### S21 · T4R · 3 viñetas
+**V42.** Primer plano. Alguien habla.
+> **GLOBO:** Está bien.
+
+**V43.** Miura ya se estaba dando la vuelta hacia los tanques, con las manos a punto de levantarse otra vez, cuando se detuvo, un segundo, y miró la caja de radios como si acabara de recordar algo que no era exactamente memoria.
+
+**V44.** Plano detalle. Dijo—. Que vaya.
+> **GLOBO:** Que no espere
+
+### S22 · T3R · 2 viñetas
+**V45.** Shinozuka se puso el auricular del todo, y con una paciencia de años de guardia respondió:
+
+**V46.** Plano americano. Alguien habla.
+> **GLOBO:** A la radio no la espera nadie, capitán.
+
+### S23 · T5 · 1 viñeta
+**V47.** El auricular quedó colgando de la caja, con el ruido de fondo de una línea abierta entrando y saliendo, sin nadie hablando del otro lado. El zumbido de la línea, ese sonido de túnel vacío, se quedó hablando solo un buen rato.
+
+### S24 · T6 · rótulo
+> **RÓTULO:** 9:30 a. m. Los que cruzaron.
+
+### S25 · T4R · 3 viñetas
+**V48.** Un autobús militar estaba parado en el borde de la carretera de servicio, con el motor en marcha y las puertas medio abiertas, como una sombra con ganas de irse.
+
+**V49.** Dentro, cuatro personas estaban sentadas en la última fila, separadas, cada una con su asiento y su ventana y su espacio vacío de por medio, como si el autobús les hubiera tocado en la lotería un examen.
+
+**V50.** Ninguno se conocía.
+
+### S26 · T3R · 2 viñetas
+**V51.** Rika tenía quince años, una chaqueta haori clara que le quedaba grande y vendas en los dos antebrazos. Se sentaba con la espalda recta, mirando al frente, con esa seriedad de los que aprenden pronto que las cosas se ven venir aunque no se quiera.
+
+**V52.** Goro Arashi, treinta y dos, estaba al lado de la ventana, con la armadura puesta y el escudo a la espalda. Se había afeitado la cabeza en algún momento, probablemente la noche anterior, porque el pelo ya no le estorbaba para nada, y el brillo del cráneo le daba un aire de hombre recién estrenado.
+
+### S27 · T2R · 1 viñeta
+**V53.** Llevaba el guante puesto, sin brillo a esa hora de la mañana, tapado contra la rodilla.
+
+### S28 · T3R · 2 viñetas
+**V54.** Ren, dieciséis, vestía una camisa de un amarillo chillón que se veía desde la otra punta del autobús, y no dejaba de moverse: las piernas, los brazos, los dedos, todo se le movía como si la ropa terminara de dos centímetros antes.
+
+**V55.** Hasta que llegó la calma. Hasta que se puso a mirar el suelo.
+
+### S29 · T4R · 3 viñetas
+**V56.** Yui, veintidós, gris azulada, con el mono subido hasta el cuello y un rifle a la espalda que nadie le había pedido llevar, miraba a Rika. No la miraba como se mira a una desconocida: la miraba como se mira un objeto que no cuadra en el inventario.
+
+**V57.** Plano medio. Preguntó Yui.
+> **GLOBO:** ¿Cómo te llamas?
+
+**V58.** Rika levantó la cabeza.
+
+### S30 · T3R · 2 viñetas
+**V59.** Primerísimo primer plano. Rika habla.
+> **GLOBO:** Rika.
+
+**V60.** Plano americano. Rika habla.
+> **GLOBO:** Rika, ¿puedo ver tu brazo?
+
+### S31 · T4R · 3 viñetas
+**V61.** Rika dudó. No era una duda completa: era esa pausa que la gente usa para decidir si la pregunta merece el trabajo de contestarse. Después, despacio, se subió la manga de la chaqueta y extendió el antebrazo.
+
+**V62.** La piel estaba enrojecida en una franja limpia, del codo a la muñeca, como un dibujo hecho con regla. No sangraba. No tenía costra. Era una quemadura, seca, recta, del tipo que no hace ninguna cosa que hagan las quemaduras de verdad.
+
+**V63.** Yui se inclinó un poco, sin tocar.
+
+### S32 · T4R · 3 viñetas
+**V64.** Plano medio. Yui habla.
+> **GLOBO:** Esto no es una quemadura de cocina.
+
+**V65.** Plano detalle. Dijo Rika.
+> **GLOBO:** No
+
+**V66.** El motor del autobús sonaba regular, sin prisa, poniendo el suelo vibrando. Goro, sentado al lado, miró la franja del brazo al pasar la luz por la ventanilla, y dijo, sin girar del todo la cabeza, como quien habla con la ventana:
+
+### S33 · T3R · 2 viñetas
+**V67.** Plano americano. Goro habla.
+> **GLOBO:** A mí me pasó igual.
+
+**V68.** Yui lo miró.
+
+### S34 · T4R · 3 viñetas
+**V69.** Contrapicado. Yui habla.
+> **GLOBO:** ¿A ti?
+
+**V70.** Primer plano. Dijo Goro—. Salimos los dos quemados y el otro salió entero.
+> **GLOBO:** En la puerta
+
+**V71.** Ren, que hasta entonces había estado mordiéndose las uñas contra el vidrio, se bajó las manos. Era la primera vez en el trayecto que sus manos se quedaban quietas en el mismo sitio todo el tiempo de una frase.
+
+### S35 · T2R · 1 viñeta
+**V72.** Plano detalle. Ren habla.
+> **GLOBO:** ¿El otro?
+
+### S36 · T3R · 2 viñetas
+**V73.** Goro se volvió. La luz de la ventana le cruzaba media cara.
+
+**V74.** Plano americano. Goro habla.
+> **GLOBO:** El que entró. El que no volvió.
+
+### S37 · T4R · 3 viñetas
+**V75.** Hubo un silencio del tamaño de la última fila del autobús. Ren abrió y cerró la boca, y las manos le volvieron a llegar a las rodillas, quietas no porque no se movieran sino porque no podían.
+
+**V76.** Contrapicado. Dijo.
+> **GLOBO:** ¿Y yo?
+
+**V77.** Yui lo miró, sin entender.
+
+### S38 · T4R · 3 viñetas
+**V78.** Plano medio. Yui habla.
+> **GLOBO:** ¿Qué?
+
+**V79.** Plano detalle. Dijo Ren—. Nada.
+> **GLOBO:** Nada
+
+**V80.** El autobús siguió rodando por la carretera desierta, con la última fila separada por cuatro asientos vacíos, cuatro ventanas, cuatro maneras distintas de no mirarse. Ninguno miraba a otro.
+
+### S39 · T5 · 1 viñeta
+**V81.** El motor, abajo, con su regularidad de máquina de coser, cosiendo el silencio.
+
+### S40 · T6 · rótulo
+> **RÓTULO:** 9:40 a. m. Vista aérea.
+
+### S41 · T3R · 2 viñetas
+**V82.** El helicóptero apareció por el sur con el fuselaje marcado de la base y el hueco de la hélice llenando el aire por delante de él, y se quedó flotando sobre el helipuerto un instante, sujeto al suelo solo por un presente de forma.
+
+**V83.** La puerta lateral estaba abierta y dentro, enmarcada por el metal, había una mujer con casco y visor.
+
+### S42 · T2R · 1 viñeta
+**V84.** Hayakawa Saya tenía treinta y un años, un apellido de piloto y una reputación de no preguntar dos veces. Tenía el pulgar en el botón de la radio y la voz plana de los que hablan por micrófono desde los once años.
+
+### S43 · T4R · 3 viñetas
+**V85.** Plano medio. Dijo—. Salimos hacia la ruta de inspección.
+> **GLOBO:** Base, aquí Toro cuatro
+
+**V86.** Los controles de la cabina estaban encendidos todos, cada luz con su trabajo, como un pequeño altar de trabajo. Hayakawa se ajustó el visor y repitió, ya en el aire, con el ruido de la hélice doblándole las últimas palabras:
+
+**V87.** Primerísimo primer plano. Yui habla.
+> **GLOBO:** Base, Toro cuatro en el aire. Alguien tiene que mirar las puertas desde arriba.
+
+### S44 · T3R · 2 viñetas
+**V88.** La voz, del otro lado, con esa ecualización de los micrófonos de guerra:
+
+**V89.** Plano de bocas. Yui habla.
+> **GLOBO:** Coordinación.
+
+### S45 · T4R · 3 viñetas
+**V90.** Contrapicado. Dijo Hayakawa—. Solo aéreo.
+> **GLOBO:** Aéreo
+
+**V91.** Dicho lo cual, sin esperar a que le dijeran más, movió los mandos y el helicóptero se despegó del helipuerto en una columna de polvo que se enrolló sobre sí misma.
+
+**V92.** Abajo, la base, con la gente de la mañana mirándolo irse desde el techo de los talleres, como quien se asoma a ver partir un barco sin barco cerca.
+
+### S46 · T3R · 2 viñetas
+**V93.** Desde el aire, la carretera era una costura gris sobre campos quietos. Un pueblo pasó por debajo con sus tejados y su silencio de pueblo que ya no sabe si está abierto.
+
+**V94.** Todo gris, todo quieto, con la mañana metiéndose bajo las puertas como si no le importara. Una columna de humo, a lo lejos, se levantaba del campo como un dedo de ceniza señalando el cielo.
+
+### S47 · T2R · 1 viñeta
+**V95.** 9:40 a. m. Vista aérea.
+
+### S48 · T4R · 3 viñetas
+**V96.** Hayakawa apuntó el helicóptero hacia la zona de la última señal, bajó un poco, y entonces lo vio.
+
+**V97.** En medio de un campo labrado, a la izquierda de un camino de tierra, un hueco abierto: negro, sin marco, sin ningún borde que justificara su forma, del tamaño de un edificio pequeño.
+
+**V98.** Se veía desde arriba como se ve un pozo sin pozo: un rectángulo de oscuridad plana clavado en la tierra, y alrededor, caminando en círculo, cuatro.
+
+### S49 · T3R · 2 viñetas
+**V99.** Cuatro kaiyu.
+
+**V100.** Caminaban en círculo alrededor del hueco con una paciencia de pasos que no llevaba ninguna parte. Desde el aire no se oía nada. El helicóptero pasó por encima, una sola vez, y Hayakawa sintió esa cosa rara que le pasa a los pilotos cuando sobrevuelan un sitio que no debería existir: el cuerpo le pidió permiso para mirar más allá del mapa, y el visor no le dejó.
+
+### S50 · T3R · 2 viñetas
+**V101.** Anotó las coordenadas. Miró un poco más el círculo, que seguía girando abajo, mudo, como un reloj sin horas.
+
+**V102.** Y voló de vuelta.
+
+### S51 · T6 · rótulo
+> **RÓTULO:** 12:20 p. m. Sin retirarla.
+
+### S52 · T4R · 3 viñetas
+**V103.** La sala de reuniones era otra vez la misma, con las mismas siete personas de pie y el mapa con las siete marcas rojas en la pared. El polvo de la claraboya había elegido su sitio y la columna de luz caía en diagonal sobre Yokohama, como si también allí se hubiera tomado una decisión.
+
+**V104.** Watanabe Raishiro habló despacio, con las manos detrás de la espalda y la cabeza muy quieta.
+
+**V105.** Primer plano. Yui habla.
+> **GLOBO:** Dos cosas. Primera: nadie sale de la base sin orden.
+
+### S53 · T4R · 3 viñetas
+**V106.** Señaló el mapa con la barbilla, sin tocar nada.
+
+**V107.** Plano detalle. Yui habla.
+> **GLOBO:** Segunda: la provincia es nuestra. Lo que hay en la provincia es un problema de la provincia.
+
+**V108.** En el fondo, detrás de todos, el doctor Kurose Ken levantó la vista de la carpeta. Sus ojos se movieron, solos, hasta la marca roja de Yokohama, la más grande, y se quedaron allí un segundo.
+
+### S54 · T3R · 2 viñetas
+**V109.** Después, la carpeta se le escapó de las manos y cayó al suelo con un golpe seco que todos los de la sala oyeron, y nadie miró.
+
+**V110.** El general no lo miró. Kurose lo sabía.
+
+### S55 · T2R · 1 viñeta
+**V111.** El oficial de intendencia, con la letra pequeña ya seca en la hoja, levantó la pluma un poco por encima del papel, con el cuidado de quien pisa huecos:
+
+### S56 · T4R · 3 viñetas
+**V112.** Primer plano. Yui habla.
+> **GLOBO:** ¿Orden de no contacto, excelencia?
+
+**V113.** Plano medio. Dijo Watanabe—. Orden de no abrir. Contacto, los que sea necesario.
+> **GLOBO:** No
+
+**V114.** Plano detalle. Yui habla.
+> **GLOBO:** ¿Y si hace falta abrir?
+
+### S57 · T3R · 2 viñetas
+**V115.** Watanabe se tomó su tiempo, no por la pregunta sino por el orden de las palabras, y dijo, con la misma calma que todo lo demás:
+
+**V116.** Plano americano. Yui habla.
+> **GLOBO:** No hace falta.
+
+### S58 · T2R · 1 viñeta
+**V117.** El mapa quedó mirándolos con la marca de Yokohama al centro, la más grande, como un ojo que ya no parpadea.
+
+### S59 · T3R · 2 viñetas
+**V118.** En ese momento entró el sargento Tokura Jun. Cuarenta y un años, jefe de limpieza de la base, arrastrando un carro de limpieza que tenía una rueda más torcida que el resto y que por eso hacía el mismo ruido de trineo que hacen todos los carros con historia.
+
+**V119.** Se quedó en la puerta, con el trapo en la mano, viendo las siete personas de pie alrededor de la mesa como se ven las cosas que no van con él.
+
+### S60 · T4R · 3 viñetas
+**V120.** Plano medio. Dijo—. El pasillo del tres ya no se puede limpiar.
+> **GLOBO:** Perdón
+
+**V121.** Watanabe lo miró con una paciencia a prueba de siglos.
+
+**V122.** Primerísimo primer plano. Yui habla.
+> **GLOBO:** Vaya.
+
+### S61 · T3R · 2 viñetas
+**V123.** Plano americano. Dijo Tokura, buscando una palabra en el fondo del cubo y no encontrándola—. Cosas que no se van con el suelo.
+> **GLOBO:** Es que hay... hay cosas
+
+**V124.** Plano de bocas. Yui habla.
+> **GLOBO:** Ya lo he visto, sargento.
+
+### S62 · T4R · 3 viñetas
+**V125.** Tokura no se movió de la puerta. Le temblaba el trapo, un poco, no de frío. Y dijo lo que nadie en esa sala se había atrevido a decir, con la misma naturalidad con la que se pregunta la hora:
+
+**V126.** Primer plano. Yui habla.
+> **GLOBO:** Entonces, ¿por qué seguimos aquí dentro?
+
+**V127.** Nadie contestó. El carro de ruedas desiguales dio media vuelta y se fue por el pasillo, y la puerta se quedó abierta un poco más de lo que se suele dejar.
+
+### S63 · T6 · rótulo
+> **RÓTULO:** 12:20 p. m. Pasillo de la base.
+
+### S64 · T4R · 3 viñetas
+**V128.** Al mediodía, en el pasillo central de la base, la gente comía de pie en grupos pequeños, con los platos en la mano y la espalda contra la pared.
+
+**V129.** Todos miraban el mapa de la costa que colgaba junto a la puerta de la sala de reuniones, con sus siete marcas rojas, y nadie hablaba de él.
+
+**V130.** Futaki Saeri tenía veinticuatro años, era auxiliar de archivo y llevaba una carpeta grande que le pesaba más que ella. Pasó por el pasillo del mediodía sin que nadie la mirara, como la gente que está acostumbrada a que los archiveros no llamen la atención, y se paró frente al mapa un momento.
+
+### S65 · T3R · 2 viñetas
+**V131.** Después sacó de la carpeta una foto de un papel y la pegó en la pared, al lado del mapa.
+
+**V132.** No era una foto bonita. Era borrosa, sacada de lejos, de un papel oficial con un sello y una fecha que no se alcanzaban a leer. No se podía saber qué decía.
+
+### S66 · T4R · 3 viñetas
+**V133.** Pero estaba allí, pegada con cinta de papel, en el pasillo de todos, al lado del mapa con la marca de Yokohama.
+
+**V134.** La gente del mediodía la miró sin mirarla, y ninguno dijo nada en voz alta.
+
+**V135.** En algún sitio del edificio, un electrodoméstico seguía su vida con su zumbido de costumbre, sin que se viera de dónde salía.
+
+### S67 · T2R · 1 viñeta
+**V136.** Al fondo del pasillo, la gente se había juntado en dos grupos pequeños, y los dos grupos miraban los dos papeles de la pared: el mapa con las siete marcas, y la foto borrosa de la orden.
+
+### S68 · T3R · 2 viñetas
+**V137.** Nadie hablaba entre ellos.
+
+**V138.** Y las luces del pasillo se apagaron un segundo, todas a la vez, y volvieron.
+
+### S69 · T3R · 2 viñetas
+**V139.** Todos se quedaron en silencio un instante, con la mirada en la pared, como si el mismo corazón del edificio hubiera tenido un parpadeo.
+
+**V140.** Y, desde la distancia, la primera estela de un sonido que nadie pudo atribuir a nada: el zumbido, entrando por debajo de la puerta del pasillo del tres, como si hubiera venido por dentro.
+
+---
+
+## Globos de diálogo (43)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V8 | — | Balance. En orden. |
+| V10 | — | Cuatro puertas confirmadas en la provincia. Cuarenta y seis kaiyu avistados. Perdidas sin cerrar. |
+| V12 | — | ¿Cuarenta y seis qué. |
+| V14 | — | Cuarenta y seis |
+| V16 | — | Escríbalo así, otra vez. Más despacio. |
+| V28 | — | ¡Atención! |
+| V33 | — | Otra vez. Al muro. |
+| V35 | — | Capitan |
+| V37 | — | Capitan, radio. Uno de los nuestros no aparece. |
+| V39 | — | ¿El de la patrulla de ayer? |
+| V40 | — | Sí. |
+| V41 | — | Que siga buscando. |
+| V42 | — | Está bien. |
+| V44 | — | Que no espere |
+| V46 | — | A la radio no la espera nadie, capitán. |
+| V57 | Yui | ¿Cómo te llamas? |
+| V59 | Rika | Rika. |
+| V60 | Rika | Rika, ¿puedo ver tu brazo? |
+| V64 | Yui | Esto no es una quemadura de cocina. |
+| V65 | Rika | No |
+| V67 | Goro | A mí me pasó igual. |
+| V69 | Yui | ¿A ti? |
+| V70 | Goro | En la puerta |
+| V72 | Ren | ¿El otro? |
+| V74 | Goro | El que entró. El que no volvió. |
+| V76 | Ren | ¿Y yo? |
+| V78 | Yui | ¿Qué? |
+| V79 | Ren | Nada |
+| V85 | Yui | Base, aquí Toro cuatro |
+| V87 | Yui | Base, Toro cuatro en el aire. Alguien tiene que mirar las puertas desde arriba. |
+| V89 | Yui | Coordinación. |
+| V90 | Yui | Aéreo |
+| V105 | Yui | Dos cosas. Primera: nadie sale de la base sin orden. |
+| V107 | Yui | Segunda: la provincia es nuestra. Lo que hay en la provincia es un problema de la provincia. |
+| V112 | Yui | ¿Orden de no contacto, excelencia? |
+| V113 | Yui | No |
+| V114 | Yui | ¿Y si hace falta abrir? |
+| V116 | Yui | No hace falta. |
+| V120 | Yui | Perdón |
+| V122 | Yui | Vaya. |
+| V123 | Yui | Es que hay... hay cosas |
+| V124 | Yui | Ya lo he visto, sargento. |
+| V126 | Yui | Entonces, ¿por qué seguimos aquí dentro? |
+
+## Cajas de narración (6)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Día 2. 6:40 a. m. Base NSF. |
+| V23 | Rótulo: 8:15 a. m. Campo de tiro. |
+| V48 | Rótulo: 9:30 a. m. Los que cruzaron. |
+| V82 | Rótulo: 9:40 a. m. Vista aérea. |
+| V103 | Rótulo: 12:20 p. m. Sin retirarla. |
+| V128 | Rótulo: 12:20 p. m. Pasillo de la base. |
+

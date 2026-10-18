@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,6 +169,50 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* —Seis de línea —dijo Goro— y uno grande sin clasificar.
+    - *En este capítulo (novela):* Nadie dijo quién iba dónde, y sin embargo cada uno fue a su sitio como si el sitio hubiera estado esperándolo: Goro se plantó en el centro de la explanada, con el escudo delante y el casco de obra echado un palmo sobre los ojos, porque el centro era el sitio del que aguanta, el que la fila necesita para no quebrarse.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Y levantó el papel, lo dobló despacio, con el doblez que ya le conocían todas las órdenes de esos días, lo metió en el bolsillo interior del haori hueso, y salió delante de todos, porque ya nadie tenía que explicarle a Rika Tsukimi que los cuatro eran cuatro.
+    - *En este capítulo (novela):* Rika abrió el abanico cuando el Lanzador alzó los brazos largos desde la nave: una hoja de fuego quieto cruzó la distancia, cortó el aire antes del lanzamiento, y obligó al Lanzador a medir de nuevo, a correr la punta del brazo dos metros a la derecha buscando el hueco que la hoja no cubría.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren se pasó las vendas de las muñecas por la frente, sin mirar a nadie, y dijo, con la voz baja de las preguntas que no quiere hacerse:
+
+—¿Nos toca a los cuatro?
+    - *En este capítulo (novela):* El Carrilero vino en línea recta, largo y bajo, sin frenar, y Ren apareció donde el Carrilero iba a estar antes de que estuviera: entre un momento y el siguiente, con la amarilla chillona abriéndose tras él como un pliegue, y lo dejó pasar, y el Carrilero pasó de largo por donde ya no había nadie, y se llevó consigo el impulso que la formación había gastado en él.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* —dijo Yui, sin moverse, con el rifle gris azulado bajo el brazo y esa manera suya de calcular antes de obedecer.
+    - *En este capítulo (novela):* Yui se quedó donde empezaba la calle, alta, quieta, el rifle abierto sobre la mira, porque la calle era suya desde el lunes: la distancia, la cuenta de los metros, el sitio del que tira sin que nadie le tape la mano.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- **Carrilero** — rango amarillo (línea), del tamaño de un caballo; largo y bajo, corre en línea recta; embiste sin frenar.
+    - *En este capítulo (novela):* El Carrilero vino en línea recta, largo y bajo, sin frenar, y Ren apareció donde el Carrilero iba a estar antes de que estuviera: entre un momento y el siguiente, con la amarilla chillona abriéndose tras él como un pliegue, y lo dejó pasar, y el Carrilero pasó de largo por donde ya no había nadie, y se llevó consigo el impulso que la formación había gastado en él.
+- **Embestidor** — rango amarillo (línea), del tamaño de un caballo; hombro grande, cabeza hundida, cuello casi nulo; embestida con el hombro.
+    - *En este capítulo (novela):* El primero en moverse fue el Embestidor, el de hombros grandes y cabeza hundida, que salió de la formación como salen las balas de una escopeta: sin aviso, sin paso previo, todo el peso de los hombros contra el aire.
+- **Lanzador** — rango amarillo (línea), del tamaño de un caballo; vertical, brazos largos, sin cuello visible; lanza desde lejos.
+    - *En este capítulo (novela):* Rika abrió el abanico cuando el Lanzador alzó los brazos largos desde la nave: una hoja de fuego quieto cruzó la distancia, cortó el aire antes del lanzamiento, y obligó al Lanzador a medir de nuevo, a correr la punta del brazo dos metros a la derecha buscando el hueco que la hoja no cubría.
+- **Blindado** — rango amarillo (línea), del tamaño de un caballo; cuadrado, con placas, sin cuello; no se mueve, hay que rodearlo.
+    - *En este capítulo (novela):* El Blindado, cuadrado, sin cuello, no se movió.
+    - *En este capítulo (novela):* O dos caídos y uno arrodillado y uno entero, según cómo se contara, y el Blindado seguía arrinconado en la punta, sin haberse movido, esperando a que alguien hiciera el trabajo de rodearlo.
+- **Resucitado** — rango amarillo (línea), del tamaño de un caballo; encorvado, con un cuerpo humano debajo; se levanta, vuelve a caerse, se levanta otra vez.
+    - *En este capítulo (novela):* Rika lo rodeó, lo dejó arrinconado donde no estorbaba la fila, en la punta de la vía muerta, quieto como una puerta sin marco, y el Resucitado —encogido, gris, con algo que se movía debajo, con ese tamaño de las cosas caídas que no quieren quedarse caídas— rodó hasta sus pies, se quedó un segundo quieto, y se levantó otra vez.
+    - *En este capítulo (novela):* Rika lo dejó a medias, con el abanico a medio abrir, y a Goro se le quejó el hombro con él, porque el Resucitado no era un enemigo: era dos movimientos seguidos, y el segundo no venía del sitio donde el primero había caído.
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), naranja (rango subjefe).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** sábado **20 de mayo de 2017**, 07:10–22:00 (Día 6; después del cap12; mismo lugar de siempre).
 > **Bloques:** A = El aviso (S01–S08, gutter 40) · B = El reparto (S09–S18, gutter 35) · C = El naranja (S19–S30, gutter 35, T1 + T5) · D = Lo que no se dice (S31–S40, gutter 190) · E = El registro (S41–S54, gutter 40) · F = El registro quedó abierto (S55–S60, gutter 190, cierra en negro)
@@ -185,7 +229,7 @@ ilustración.
 | Personajes con nombre | Rika Tsukimi, Goro Arashi, Ren Hayashi, Yui Nakamura, Futaki Saeri |
 | Viñetas | 120 |
 | Pantallas | 60 |
-| Globos de diálogo | 31 |
+| Globos de diálogo | 29 |
 | Cajas narración | 16 |
 | SFX | español (dibujados); repertorio declarado al final |
 | Transiciones | CORTE A: (sala/estación/andén/comedor/archivo) · FUNDIDO A: negro (cierre) |
@@ -213,7 +257,24 @@ ilustración.
 
 **Total bloque A: 8 pantallas · 16 viñetas · 10.240 px**
 
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Plano general.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 13` — mayúsculas, tamaño grande.
+- Línea 2: `«El registro»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
 ## Las viñetas del bloque A
+
 
 ### S01 · T2R · 1 viñeta de 1200
 
@@ -351,7 +412,7 @@ ilustración.
 | S15 | T2R | 1 | 1200 | 40/40 | general | CORTE A: estación | No se hablaron, y se entendieron. |
 | S16 | T3R | 2 | 570/570 | 40/60/40 | medio/grueso | CORTE A: estación | El Blindado y el Resucitado. |
 | S17 | T3R | 2 | 570/570 | 40/60/40 | primer plano/medio | CORTE A: estación | "Rika. Termina." |
-| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/grueso/primerísimo | CORTE A: estación | La estela que duda. |
+| S18 | T3R | 2 | 570/570 | 40/60/40 | detalle/grueso | CORTE A: estación | La estela que duda. |
 
 **Total bloque B: 10 pantallas · 20 viñetas · 12.800 px**
 
@@ -488,7 +549,7 @@ ilustración.
 - **ACCION:** el segundo movimiento, sin empezar.
 - **GUTTER ABAJO:** 40
 
-### S18 · T4R · 3 viñetas de 380
+### S18 · T3R · 2 viñetas de 570
 
 **V35.** Detalle. La muñeca derecha de Ren: la estela parpadea un latido, un amago de apagón, y se enciende sola.
 - **PLANO:** detalle
@@ -1213,7 +1274,7 @@ ilustración.
 
 ## LOS TEXTOS
 
-### Globos de diálogo (31)
+### Globos de diálogo (29)
 
 | Viñeta | Quién | Texto |
 |---|---|---|

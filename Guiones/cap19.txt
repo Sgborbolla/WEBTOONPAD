@@ -1,4 +1,4 @@
-# CAPÍTULO 19 — "La calle de la guardería"
+# CAPÍTULO 19 — La calle de la guardería
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,8 +168,311 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** estándar. 60×120. Retirada emocional + portal entreabierto, conteo Mio.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
 
-> **Gancho ~35%:** reconoce voz Mio contando "Uno... dos... tres... cuatro..."
-> **Cierre (T):** "Y esta vez, no nos iremos sin ella."
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Detrás iban Goro con el escudo a la espalda, Yui con el rifle colgado con desgana y Ren con las manos metidas en los bolsillos, mirando a su alrededor con desconfianza.
+    - *En este capítulo (novela):* Goro posó una mano con firmeza sobre su hombro.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika iba en cabeza, con el haori hueso ondeando levemente con el viento y la mandíbula apretada.
+    - *En este capítulo (novela):* Pero Rika ya había dado un paso adelante, con los ojos fijos en aquella rendija negra, con todo su cuerpo tirando hacia dentro.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Detrás iban Goro con el escudo a la espalda, Yui con el rifle colgado con desgana y Ren con las manos metidas en los bolsillos, mirando a su alrededor con desconfianza.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Detrás iban Goro con el escudo a la espalda, Yui con el rifle colgado con desgana y Ren con las manos metidas en los bolsillos, mirando a su alrededor con desconfianza.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), negro (rango mando).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 28 pantallas de 800×1280 · 61 viñetas · 35840 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 19 (1 rótulo de escena). |
+| Fondo | Domingo 21 de mayo de 2017. 5:00 p. m. Barrio norte de Yokohama. |
+| Personajes con nombre | Yui, Ren, Rika, Goro |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 28 |
+| Viñetas | 61 |
+| Globos de diálogo | 14 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde dorada sobre el barrio norte, sombras largas.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 19` — mayúsculas, tamaño grande.
+- Línea 2: `«La calle de la guardería»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T2R | 1 | 1200 | 40/40 |
+| S22 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S23 | T3R | 2 | 570/570 | 40/60/40 |
+| S24 | T2R | 1 | 1200 | 40/40 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+| S26 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S27 | T3R | 2 | 570/570 | 40/60/40 |
+| S28 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Domingo 21 de mayo de 2017. 5:00 p. m. Barrio norte de Yokohama.
+
+### S02 · T4R · 3 viñetas
+**V1.** Los cuatro volvían al lugar donde todo había cambiado, aunque ninguno lo había dicho en voz alta.
+
+**V2.** Tras lo ocurrido en la guardería dos días atrás, una fuerza silenciosa los había arrastrado hasta allí. Rika iba en cabeza, con el haori hueso ondeando levemente con el viento y la mandíbula apretada.
+
+**V3.** Detrás iban Goro con el escudo a la espalda, Yui con el rifle colgado con desgana y Ren con las manos metidas en los bolsillos, mirando a su alrededor con desconfianza.
+
+### S03 · T3R · 2 viñetas
+**V4.** El barrio estaba irreconocible y, a la vez, terriblemente familiar.
+
+**V5.** Las casas seguían en pie. Los buzones, las macetas, los farolillos oxidados colgando de algunos balcones... todo estaba tal y como lo recordaba. Pero no había nadie. Ni ruidos de televisión, ni olor a comida, ni niños jugando en la calle.
+
+### S04 · T4R · 3 viñetas
+**V6.** Un silencio absoluto lo cubría todo, como si el barrio entero estuviera conteniendo la respiración.
+
+**V7.** Llegaron a la guardería.
+
+**V8.** Estaba igual que el viernes. La verja de hierro con la pintura descascarillada, el pequeño patio con el suelo de goma desgastado, los dibujos de los niños aún pegados con cinta adhesiva en las ventanas.
+
+### S05 · T2R · 1 viñeta
+**V9.** Las luces seguían encendidas. No se veía un alma.
+
+### S06 · T3R · 2 viñetas
+**V10.** Rika se detuvo frente a la verja y la agarró con ambas manos, apoyando la frente contra los barrotes durante un instante.
+
+**V11.** Allí había estado Mio. Allí había jugado. Allí, nueve años atrás, había sido el último lugar en el que Rika la había visto antes de que desapareciera.
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Murmuró Yui, escaneando el perímetro con la mirada.
+> **GLOBO:** No hay portal abierto
+
+**V13.** Contrapicado. Replicó Ren, con el ceño fruncido—. Lo noto.
+> **GLOBO:** Pero hay algo
+
+**V14.** Tenía razón. El aire era distinto. Más denso. Cargado de una estática que se le metía bajo la piel. Como la presión antes de una tormenta.
+
+### S08 · T4R · 3 viñetas
+**V15.** Goro se acercó a la parte trasera del edificio, siguiendo un instinto que no sabía explicar. Los demás lo siguieron sin preguntar.
+
+**V16.** Dieron la vuelta hasta llegar al patio trasero, mucho más pequeño. Allí, contra la pared de ladrillo, se veía una fina línea vertical de oscuridad. Tan delgada que casi pasaba desapercibida.
+
+**V17.** Un resquicio negro que absorbía la luz a su alrededor, temblando levemente como el aire sobre asfalto caliente.
+
+### S09 · T3R · 2 viñetas
+**V18.** Un portal. Apenas entreabierto.
+
+**V19.** Plano de bocas. Susurró Rika.
+> **GLOBO:** Ahí
+
+### S10 · T2R · 1 viñeta
+**V20.** Se acercaron con cautela. Desde el interior del resquicio les llegaba un sonido débil, casi imperceptible.
+
+### S11 · T4R · 3 viñetas
+**V21.** Un canto.
+
+**V22.** Un murmullo monocorde.
+
+**V23.** Rika aguzó el oído, conteniendo el aliento.
+
+### S12 · T3R · 2 viñetas
+**V24.** Alguien estaba contando.
+
+**V25.** *...cuatro... cincuenta y siete... cincuenta y ocho...*
+
+### S13 · T4R · 3 viñetas
+**V26.** Una vocecita infantil, monótona, repetitiva. Contaba una y otra vez, sin pausa, sin variar el ritmo. Como si llevase horas haciéndolo. Como si llevara años haciéndolo.
+
+**V27.** Rika sintió un escalofrío que le recorrió la espina dorsal.
+
+**V28.** Reconoció aquella voz.
+
+### S14 · T3R · 2 viñetas
+**V29.** Conocía aquel tono.
+
+**V30.** Le temblaron las manos.
+
+### S15 · T2R · 1 viñeta
+**V31.** Primerísimo primer plano. Susurró con un hilo de voz.
+> **GLOBO:** Mio...
+
+### S16 · T4R · 3 viñetas
+**V32.** Ren se tensó a su lado.
+
+**V33.** Plano de bocas. Advirtió Goro en voz baja.
+> **GLOBO:** No entres sola
+
+**V34.** Pero Rika ya había dado un paso adelante, con los ojos fijos en aquella rendija negra, con todo su cuerpo tirando hacia dentro.
+
+### S17 · T3R · 2 viñetas
+**V35.** Primer plano. Dijo, con una convicción absoluta—. Lleva contando desde entonces.
+> **GLOBO:** Está ahí
+
+**V36.** Yui miró el resquicio con el ceño fruncido.
+
+### S18 · T4R · 3 viñetas
+**V37.** Plano detalle. Yui habla.
+> **GLOBO:** Esto no es un portal normal. Está... trabado. Como si no quisiera abrirse del todo.
+
+**V38.** Primerísimo primer plano. Añadió Goro.
+> **GLOBO:** O como si estuviera custodiando algo
+
+**V39.** El conteo seguía, imperturbable.
+
+### S19 · T4R · 3 viñetas
+**V40.** *...cuatro... cincuenta y siete... cincuenta y ocho...*
+
+**V41.** Rika levantó una mano para apartar el borde del portal, con suma delicadeza. El aire que salía del interior estaba helado. Le quemaba la piel como si fuera nieve.
+
+**V42.** En cuanto rozó el borde, el portal tembló con violencia. Una onda de presión los lanzó hacia atrás a todos, obligándolos a retroceder varios pasos.
+
+### S20 · T3R · 2 viñetas
+**V43.** El resquicio se contrajo de golpe, estrechándose hasta casi cerrarse por completo. El canto se volvió más apagado, distante, como si acabara de alejarse kilómetros de golpe.
+
+**V44.** Rika cayó de rodillas en el césped, con las manos apoyadas en el suelo, jadeando.
+
+### S21 · T2R · 1 viñeta
+**V45.** Primerísimo primer plano. Gritó desesperada.
+> **GLOBO:** ¡Mio!
+
+### S22 · T4R · 3 viñetas
+**V46.** Pero solo le respondió el silencio.
+
+**V47.** Poco a poco, el resquicio se fue cerrando del todo, hasta que no quedó ni rastro. Tan solo la pared de ladrillo lisa, como si nunca hubiera estado ahí.
+
+**V48.** Los cuatro se quedaron inmóviles, con el pecho agitado y un peso insoportable en el estómago.
+
+### S23 · T3R · 2 viñetas
+**V49.** Ren fue el primero en romper el silencio.
+
+**V50.** Plano medio. Murmuró—. Atrapada en ese bucle.
+> **GLOBO:** Sigue ahí dentro
+
+### S24 · T2R · 1 viñeta
+**V51.** Rika apretó los puños con tanta fuerza que le temblaron.
+
+### S25 · T3R · 2 viñetas
+**V52.** Primerísimo primer plano. Susurró—. Era ella.
+> **GLOBO:** La oí
+
+**V53.** Goro posó una mano con firmeza sobre su hombro.
+
+### S26 · T4R · 3 viñetas
+**V54.** Plano de bocas. Goro habla.
+> **GLOBO:** Entonces vamos a volver a abrirlo.
+
+**V55.** Yui asintió con determinación.
+
+**V56.** Primer plano. Yui habla.
+> **GLOBO:** Y esta vez, no nos iremos sin ella.
+
+### S27 · T3R · 2 viñetas
+**V57.** Ren miró fijamente la pared vacía y apretó la mandíbula.
+
+**V58.** Plano detalle. Ren habla.
+> **GLOBO:** Sea lo que sea ese omega... lo vamos a cortar.
+
+### S28 · T4R · 3 viñetas
+**V59.** Rika se levantó lentamente, limpiándose con rabia las lágrimas que se le escurrían por las mejillas. Miró la pared con una promesa grabada a fuego en el corazón.
+
+**V60.** Volvería. Costara lo que costara, volvería a aquel patio y sacaría a Mio de allí.
+
+**V61.** Aunque tuviera que enfrentarse a lo que fuera que mantenía ese bucle cerrado.
+
+---
+
+## Globos de diálogo (14)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V12 | Yui | No hay portal abierto |
+| V13 | Ren | Pero hay algo |
+| V19 | Rika | Ahí |
+| V31 | Rika | Mio... |
+| V33 | Goro | No entres sola |
+| V35 | Rika | Está ahí |
+| V37 | Yui | Esto no es un portal normal. Está... trabado. Como si no quisiera abrirse del todo. |
+| V38 | Goro | O como si estuviera custodiando algo |
+| V45 | Rika | ¡Mio! |
+| V50 | Ren | Sigue ahí dentro |
+| V52 | Rika | La oí |
+| V54 | Goro | Entonces vamos a volver a abrirlo. |
+| V56 | Yui | Y esta vez, no nos iremos sin ella. |
+| V58 | Ren | Sea lo que sea ese omega... lo vamos a cortar. |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Domingo 21 de mayo de 2017. 5:00 p. m. Barrio norte de Yokohama. |
+

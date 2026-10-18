@@ -1,4 +1,4 @@
-# CAPÍTULO 3 — "La calle"
+# CAPÍTULO 3 — Día 1, noche. La alarma
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,196 +169,676 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
-> **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 16:30 (Día 1, tarde). Presente: 2026 (9 años).
-> **Bloques:** A = Calle se rompe (S01–S20) · B = Evacuación (S21–S40) · C = Primera defensa (S41–S60)
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro Arashi estaba sentado en el tercer escalón de la escalera de incendios con el guante en la mano.
+    - *En este capítulo (novela):* Solo brillaba un poco, con aquella brasa naranja que vivía cosida a la palma, y Goro lo miraba porque desde hacía horas no sabía qué otra cosa hacer con las manos.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- **Embestidor** — rango amarillo (línea), del tamaño de un caballo; hombro grande, cabeza hundida, cuello casi nulo; embestida con el hombro.
+    - *En este capítulo (novela):* La sangre, debajo del metal, seguía siendo solo un charco oscuro entre los escombros, y el Embestidor ya estaba otra vez en movimiento, otra vez en la carrera, otra vez bajando la cabeza hacia la siguiente calle.
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), naranja (rango subjefe), rojo (rango jefe), negro (rango mando).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 83 pantallas de 800×1280 · 166 viñetas · 106240 px de scroll
 
 ## Ficha
 
 | | |
 |---|---|
-| Géneros | Acción, pánico contenido |
-| Viñetas | 120 |
-| Pantallas | 60 |
-| Globos de diálogo | 90+ |
-| Cajas narración | 25 |
-| SFX | español solo gráfico |
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 3 (7 rótulos de escena). |
+| Fondo | 5:31 p. m. El Sector 6 sigue abierto. |
+| Personajes con nombre | Arashi, Goro, Kiryu |
+| Enemigos visibles | Embestidor (rango amarillo) |
+| Pantallas | 83 |
+| Viñetas | 166 |
+| Globos de diálogo | 31 |
+| Cajas de narración | 7 |
+| SFX | gráfico |
 
-> **Segundo gancho:** S35 ~35% — varias puertas abriéndose a la vez.
-> **Cierre (T).** Coherente con novela cap03.
-> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
+---
 
-cat: /tmp/cap3.txt: No such file or directory
-### BLOQUE B: Evacuación (S21–S40)
+## Reglas de esta adaptación
 
-#### S21 · T2R · 2 viñetas (620,620)+gap 40
-- **V21.** **Goro:** —¡Kosuke, por aquí! ¡Que no vayan al sur!
-- **V22.** **Kosuke:** —¡Seguidme! ¡Por el callejón!
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
 
-#### S22 · T3R · 2 viñetas (570,570)+gap 40
-- **V23.** Grupo familiar duda entre dos calles.
-- **V24.** **Kosuke:** —¡Por aquí, rápido!
+---
 
-#### S23 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V25.** **Goro:** —No os paréis. Seguid las indicaciones.
-- **V26.** **Nomura:** —¡Sin empujar! ¡Hay niños!
-- **V27.** Evacuación empieza a organizarse con gritos entrecortados.
+## SEPARADOR (primera pantalla del capítulo)
 
-#### S24 · T2R · 2 viñetas (620,620)+gap 40
-- **V28.** Dos kaiyu cargan hacia un grupo rezagado.
-- **V29.** **Goro:** —¡Kosuke, cúbrelos!
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
 
-#### S25 · T3R · 2 viñetas (570,570)+gap 40
-- **V30.** **Kosuke:** —¡Yo voy! ¡Id todos por allí!
-- **V31.** Corre a interponerse, escudo improvisado.
+**Fondo:** Cielo de tarde sobre la ciudad industrial, nubes bajas, humo lejano.
 
-#### S26 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V32.** **Goro:** —¡Vamos! ¡Moveos!
-- **V33.** Familias corren hacia callejón seguro.
-- **V34.** **Nomura:** —¡Contadlos! ¡Que no se quede nadie!
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 3` — mayúsculas, tamaño grande.
+- Línea 2: `«Día 1, noche. La alarma»` — entre comillas latillas, tamaño mediano.
 
-#### S27 · T2R · 2 viñetas (620,620)+gap 40
-- **V35.** Goro bloquea embestida con escudo.
-- **V36.** **Goro:** —¡A mí! ¡Venid aquí!
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
 
-#### S28 · T3R · 2 viñetas (570,570)+gap 40
-- **V37.** **Kosuke:** —¡Te cubro la espalda!
-- **V38.** **Kiryu:** —¡Los civiles ya casi están fuera!
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
 
-#### S29 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V39.** Desvían kaiyu lejos de evacuados.
-- **V40.** **Nomura:** —¡Bien! ¡Seguid alejándoos!
-- **V41.** Gritos de alivio mezclados con pánico.
+---
 
-#### S30 · T1 · 1 viñeta (1280)
-- **V42.** Calle principal empieza a vaciarse. Más puertas se abren.
+## Mapa de pantallas
 
-#### S31 · T2R · 2 viñetas (620,620)+gap 40
-- **V43.** **Kosuke:** —Son demasiados.
-- **V44.** **Goro:** —Pero no podemos parar la evacuación.
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T1 | 1 | 1280 | 0/0 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T2R | 1 | 1200 | 40/40 |
+| S17 | T6 | 0 | — | rótulo |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T3R | 2 | 570/570 | 40/60/40 |
+| S20 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S21 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S22 | T3R | 2 | 570/570 | 40/60/40 |
+| S23 | T2R | 1 | 1200 | 40/40 |
+| S24 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+| S26 | T2R | 1 | 1200 | 40/40 |
+| S27 | T3R | 2 | 570/570 | 40/60/40 |
+| S28 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S29 | T2R | 1 | 1200 | 40/40 |
+| S30 | T6 | 0 | — | rótulo |
+| S31 | T3R | 2 | 570/570 | 40/60/40 |
+| S32 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S33 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S34 | T3R | 2 | 570/570 | 40/60/40 |
+| S35 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S36 | T2R | 1 | 1200 | 40/40 |
+| S37 | T3R | 2 | 570/570 | 40/60/40 |
+| S38 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S39 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S40 | T3R | 2 | 570/570 | 40/60/40 |
+| S41 | T2R | 1 | 1200 | 40/40 |
+| S42 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S43 | T3R | 2 | 570/570 | 40/60/40 |
+| S44 | T2R | 1 | 1200 | 40/40 |
+| S45 | T6 | 0 | — | rótulo |
+| S46 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S47 | T3R | 2 | 570/570 | 40/60/40 |
+| S48 | T2R | 1 | 1200 | 40/40 |
+| S49 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S50 | T3R | 2 | 570/570 | 40/60/40 |
+| S51 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S52 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S53 | T3R | 2 | 570/570 | 40/60/40 |
+| S54 | T2R | 1 | 1200 | 40/40 |
+| S55 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S56 | T2R | 1 | 1200 | 40/40 |
+| S57 | T6 | 0 | — | rótulo |
+| S58 | T3R | 2 | 570/570 | 40/60/40 |
+| S59 | T2R | 1 | 1200 | 40/40 |
+| S60 | T3R | 2 | 570/570 | 40/60/40 |
+| S61 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S62 | T3R | 2 | 570/570 | 40/60/40 |
+| S63 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S64 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S65 | T3R | 2 | 570/570 | 40/60/40 |
+| S66 | T3R | 2 | 570/570 | 40/60/40 |
+| S67 | T6 | 0 | — | rótulo |
+| S68 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S69 | T5 | 1 | 260 | 0/1020 |
+| S70 | T3R | 2 | 570/570 | 40/60/40 |
+| S71 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S72 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S73 | T3R | 2 | 570/570 | 40/60/40 |
+| S74 | T2R | 1 | 1200 | 40/40 |
+| S75 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S76 | T3R | 2 | 570/570 | 40/60/40 |
+| S77 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S78 | T6 | 0 | — | rótulo |
+| S79 | T3R | 2 | 570/570 | 40/60/40 |
+| S80 | T2R | 1 | 1200 | 40/40 |
+| S81 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S82 | T3R | 2 | 570/570 | 40/60/40 |
+| S83 | T3R | 2 | 570/570 | 40/60/40 |
 
-#### S32 · T3R · 2 viñetas (570,570)+gap 40
-- **V45.** **Nomura:** —Organizamos retirada escalonada.
-- **V46.** **Kiryu:** —Yo me quedo con Goro un poco más.
+---
 
-#### S33 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V47.** **Goro:** —No. Tú vas con Nomura a cubrir retaguardia.
-- **V48.** **Kiryu:** —Pero...
-- **V49.** **Goro:** —Órdenes. Proteged a los últimos.
+## Las viñetas
 
-#### S34 · T2R · 2 viñetas (620,620)+gap 40
-- **V50.** **Nomura:** —Te seguimos cubriendo desde lejos.
-- **V51.** **Kosuke:** —No hagas locuras, Goro.
 
-#### S35 · T3R · 2 viñetas (570,570)+gap 40
-- **V52.** **Goro:** —Lo justo. Vamos, retroceded por fases.
-- **V53.** Últimos civiles cruzan bocacalle.
+### S01 · T6 · rótulo
+> **RÓTULO:** 5:31 p. m. El Sector 6 sigue abierto.
 
-#### S36 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V54.** **Kiryu:** —¡Últimos cinco cruzando!
-- **V55.** **Nomura:** —¡Cerramos ese paso cuando pasen!
-- **V56.** Tensión máxima.
+### S02 · T4R · 3 viñetas
+**V1.** El bloque de trabajadores olía a detergente barato y a turnos que no terminaban nunca. La luz de emergencia, verde, caía desde el techo como una lluvia mineral sobre el pasillo vacío; hacía que cada puerta pareciera un ahogado flotando en un acuario.
 
-#### S37 · T2R · 2 viñetas (620,620)+gap 40
-- **V57.** Kaiyu se acercan por tres frentes.
-- **V58.** **Goro:** —¡Id ya! ¡Os cubro yo!
+**V2.** La gente estaba esperando el autobús de las seis y media, o cenando lo que fuera, o mirando la televisión de la sala común que solo tenía un canal y la mitad del tiempo se ponía en gris.
 
-#### S38 · T3R · 2 viñetas (570,570)+gap 40
-- **V59.** **Kosuke:** —¡No solo!
-- **V60.** Se queda un segundo con Goro.
+**V3.** Al fondo del pasillo, muy lejos, el hueco negro seguía abierto.
 
-#### S39 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V61.** **Goro:** —¡Kosuke, vete con ellos!
-- **V62.** **Kosuke:** —Dos segundos. Eso es todo.
-- **V63.** Bloquean juntos embestida doble.
+### S03 · T3R · 2 viñetas
+**V4.** El zumbido llegaba desde allá como un insecto dentro del cráneo: constante, sin fuente, sin prisa. Nadie lo oía ya. Nada más nacer, los primeros días, la gente se tapaba los oídos y decía que era el aire acondicionado de la central, que era una lámpara averiada, que era el viento metiéndose bajo una puerta mal cerrada.
 
-#### S40 · T1 · 1 viñeta (1280)
-- **V64.** **Nomura:** —¡Ya están todos! ¡Venid ahora!
-### BLOQUE C: Primera defensa (S41–S60)
+**V5.** Después, cuando el sonido no se fue con la lámpara ni con el viento, dejaron de hablar de él. Era como la humedad en las paredes: estaba, no molestaba, y todo el mundo prefería no pensar en cuándo ni cómo se había metido.
 
-#### S41 · T2R · 2 viñetas (620,620)+gap 40
-- **V65.** Goro y Kosuke retroceden paso a paso hacia bocacalle.
-- **V66.** **Goro:** —Despacio. No corras.
+### S04 · T4R · 3 viñetas
+**V6.** Goro Arashi estaba sentado en el tercer escalón de la escalera de incendios con el guante en la mano. La luz verde le caía de lado, como si lo hubieran pintado del color de las salas de espera.
 
-#### S42 · T3R · 2 viñetas (570,570)+gap 40
-- **V67.** **Kosuke:** —Me siguen tres.
-- **V68.** **Kiryu:** —¡Los tengo! ¡Pasad!
+**V7.** Tenía el casco apoyado en el suelo junto a él, el escudo arrimado contra el pasamanos, y miraba el guante como si el guante pudiera explicarle algo con palabras.
 
-#### S43 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V69.** Cruzan bocacalle justo a tiempo.
-- **V70.** **Nomura:** —¡Cerrad acceso!
-- **V71.** Empujan barrera improvisada.
+**V8.** El guante no explicaba nada. Solo brillaba un poco, con aquella brasa naranja que vivía cosida a la palma, y Goro lo miraba porque desde hacía horas no sabía qué otra cosa hacer con las manos.
 
-#### S44 · T2R · 2 viñetas (620,620)+gap 40
-- **V72.** Kaiyu chocan contra esquina, frenados.
-- **V73.** **Kosuke:** —Eso los retrasa un poco.
+### S05 · T1 · 1 viñeta
+**V9.** Telefoneó. Eso debería haber sido el siguiente paso natural, igual que uno telefonea cuando ve una puerta abierta en el pasillo de un edificio y no sabe si llamar a la policía o cerrar.
 
-#### S45 · T3R · 2 viñetas (570,570)+gap 40
-- **V74.** **Goro:** —Un poco nada más. Tenemos que ganar distancia.
-- **V75.** **Kiryu:** —Los civiles ya están bien lejos.
+### S06 · T3R · 2 viñetas
+**V10.** Pero el teléfono no sonó: sonó el de la pared, dos tonos, uno bajo y otro más bajo todavía, como si la pared tosiera.
 
-#### S46 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V76.** Jadean, apoyados contra muro.
-- **V77.** **Nomura:** —Nadie herido grave. Por ahora.
-- **V78.** **Kosuke:** —Ha sido muy justo.
+**V11.** Goro levantó la cabeza. La pared tosió de nuevo.
 
-#### S47 · T2R · 2 viñetas (620,620)+gap 40
-- **V79.** **Goro:** —Demasiado justo.
-- **V80.** Miran calle desde posición segura.
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Dijo sin levantarse, con el auricular plantado contra la oreja y el cuerpo todavía en el escalón—. Una puerta abierta en mi pasillo.
+> **GLOBO:** Unidad seis, habla Arashi
 
-#### S48 · T3R · 2 viñetas (570,570)+gap 40
-- **V81.** **Kiryu:** —¿Cómo sabían salir todos a la vez?
-- **V82.** **Nomura:** —No lo saben. Nadie lo sabe.
+**V13.** Una pausa. El auricular olía a plástico y a otros veinte años de voces ajenas.
 
-#### S49 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V83.** **Goro:** —Lo importante es que sacamos a casi todos.
-- **V84.** **Kosuke:** —Sí... casi todos.
-- **V85.** Silencio pesado.
+**V14.** Primer plano. Dijo la voz del otro lado. Era una voz de mujer, joven, plana, la de alguien que apuntaba lo que yo le dijera en un formulario—. ¿Abierta o forzada?
+> **GLOBO:** Sector seis, recibido
 
-#### S50 · T1 · 1 viñeta (1280)
-- **V86.** Vuelven la vista hacia manzana que aún retumba con ruido metálico.
+### S08 · T4R · 3 viñetas
+**V15.** Plano medio. Goro habla.
+> **GLOBO:** Abierta.
 
-#### S51 · T2R · 2 viñetas (620,620)+gap 40
-- **V87.** **Nomura:** —Hay que reagruparnos con el resto del sector.
-- **V88.** **Goro:** —Sí.
+**V16.** Plano detalle. Goro habla.
+> **GLOBO:** Un momento.
 
-#### S52 · T3R · 2 viñetas (570,570)+gap 40
-- **V89.** **Kiryu:** —¿Vamos al punto de encuentro?
-- **V90.** **Goro:** —Primero aseguramos este tramo.
+**V17.** Durante ese momento, Goro miró el hueco. Era una puerta sin marco, sin bisagras, sin nada alrededor que la sostuviera: un rectángulo plano de oscuridad incrustado en la pared del pasillo como un huevo sin nido.
 
-#### S53 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V91.** **Kosuke:** —Goro... gracias por cubrirme ahí atrás.
-- **V92.** **Goro:** —Gracias por no haberme obedecido del todo.
-- **V93.** Sonrisa breve, cansada.
+### S09 · T3R · 2 viñetas
+**V18.** No tenía número. Las puertas del bloque tenían todas número, blanco sobre verde, del 1 al 62. Esta no tenía número, y por eso nadie había sabido decirle exactamente qué era.
 
-#### S54 · T2R · 2 viñetas (620,620)+gap 40
-- **V94.** **Nomura:** —Sois un par de cabezotas.
-- **V95.** **Kiryu:** —Pero un buen equipo.
+**V19.** Plano de bocas. Dijo la voz, de vuelta, tan plana como antes—. No tenemos registro de eso.
+> **GLOBO:** Sector seis
 
-#### S55 · T3R · 2 viñetas (570,570)+gap 40
-- **V96.** Escuchan a lo lejos más puertas abriéndose.
-- **V97.** **Goro:** —No hemos terminado.
+### S10 · T2R · 1 viñeta
+**V20.** Contrapicado. Repitió Goro.
+> **GLOBO:** Registro
 
-#### S56 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V98.** **Kosuke:** —Lo sé.
-- **V99.** **Nomura:** —¿Seguimos?
-- **V100.** **Goro:** —Sí.
+### S11 · T4R · 3 viñetas
+**V21.** Primer plano. Arashi habla.
+> **GLOBO:** Un parte, señor Arashi. Si es una puerta sin número, no hay sector. Así que no hay registro. Usted entiende.
 
-#### S57 · T2R · 2 viñetas (620,620)+gap 40
-- **V101.** Comienzan a moverse con cautela por calle lateral.
-- **V102.** **Kiryu:** —Mirad bien los accesos.
+**V22.** Goro entendía. Entendía casi todo desde las cinco y media de la tarde, cuando la puerta se le había colocado delante de los ojos como un agujero en una foto, y entendía también que había una diferencia enorme entre entender una cosa y conseguir que el papel la reconociera.
 
-#### S58 · T3R · 2 viñetas (570,570)+gap 40
-- **V103.** **Nomura:** —Cualquier puerta puede abrirse ahora.
-- **V104.** **Kosuke:** —Ya no confiamos en las puertas.
+**V23.** Plano detalle. Preguntó.
+> **GLOBO:** ¿Y si hay algo adentro?
 
-#### S59 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V105.** Calle vacía, cristales rotos, tiendas abiertas a medias.
-- **V106.** Silencio roto por eco lejano.
-- **V107.** **Goro:** —Paso corto. Ojos abiertos.
+### S12 · T3R · 2 viñetas
+**V24.** Primerísimo primer plano. Goro habla.
+> **GLOBO:** No lo preveo.
 
-#### S60 · T1 · 1 viñeta (1280)
-- **V108.** Grupo avanza en formación compacta hacia siguiente manzana, mirando atrás un instante.
-- **CAJAS:** `[CAJA:NARR] Ese día, dejaron de pensar en el turno. Empezaron a pensar en sobrevivir.`
-- **Transición:** FUNDIDO A: negro
+**V25.** Plano americano. Goro habla.
+> **GLOBO:** ¿Qué?
+
+### S13 · T4R · 3 viñetas
+**V26.** Plano de bocas. Dijo la voz, restregando las palabras como si bailara una gramática incómoda—. No figura. No se ha reportado nada en el bloque seis que tenga que ver con puertas.
+> **GLOBO:** No se prevé nada de este tipo
+
+**V27.** Contrapicado. Dijo Goro.
+> **GLOBO:** Manda a alguien
+
+**V28.** Una pausa larga. Abajo, en la calle, un perro ladró una sola vez, en seco, y se calló como si se hubiera arrepentido.
+
+### S14 · T3R · 2 viñetas
+**V29.** Plano medio. Dijo la voz.
+> **GLOBO:** Cuando pueda, señor Arashi
+
+**V30.** Y colgó.
+
+### S15 · T2R · 1 viñeta
+**V31.** El teléfono se quedó colgado de la pared, oscilando un poco contra el azulejo. La luz verde siguió cayendo sobre el pasillo. El zumbido, abajo, más fuerte que antes, siguió royendo el aire entre una página y otra.
+
+### S16 · T2R · 1 viñeta
+**V32.** Goro se quedó de pie con el guante en la mano, sin ponerlo, mirando el hueco.
+
+### S17 · T6 · rótulo
+> **RÓTULO:** 5:34 p. m. El barrio sigue en pie.
+
+### S18 · T4R · 3 viñetas
+**V33.** La calle del Sector 6 tenía un nombre que nadie usaba y un semáforo que desde hacía semanas parpadeaba en ámbar intermitente, que es el color que los semáforos usan cuando están vivos pero no saben bien qué decir.
+
+**V34.** Las farolas encendidas dibujaban charcos amarillos sobre la acera. Un auto llevaba un buen rato parado con las luces puestas, como esperando permiso. Todo el barrio estaba en su sitio: las persianas bajadas de la tienda de la esquina, la parada del comedor de mediodía que a esa hora solo era una acera, el aire quieto con ese olor de verano enlatado que llega cuando se va el día.
+
+**V35.** Todo normal. A falta de un ruido.
+
+### S19 · T3R · 2 viñetas
+**V36.** Mitamura Setsuko tenía setenta y cuatro años y arrastraba un carro de verduras que tenía una rueda más torcida que el resto, y que por eso caminaba haciendo ruido de trineo sobre el asfalto.
+
+**V37.** Metía la mano de vez en cuando para palpar las cebollas, como quien cuenta ganado. Le habían dicho a las seis en punto el barrio cierra, y ella no dudaba de eso: el Sector 6 cerraba siempre, puntual, como una tienda.
+
+### S20 · T4R · 3 viñetas
+**V38.** Pero eran las cinco y media de la tarde, había luz todavía en el cielo y su carro tenía margen.
+
+**V39.** Se apoyó contra la pared de la panadería, que estaba cerrada, y resopló. Tenía el corazón latiendo a un ritmo propio, un ritmo viejo y testarudo que a veces la obligaba a pararse en mitad de la calle con la mano en el pecho, diciéndole a nadie que estaba bien, que solo era un momento.
+
+**V40.** El teléfono en el bolsillo del delantal vibró. Lo sacó, lo puso contra la oreja, y la voz del hijo le llegó rota, entrando y saliendo como una radio vieja.
+
+### S21 · T4R · 3 viñetas
+**V41.** Contrapicado. Goro habla.
+> **GLOBO:** Setsuko, ¿me escuchas? ¿hola?
+
+**V42.** Primer plano. Dijo ella, subiendo la voz, como si el hijo estuviera al otro lado de una tienda—. Métete más cerca de la ventana.
+> **GLOBO:** No te oigo, hijo
+
+**V43.** Plano medio. Dijo la voz, cortada a pedazos.
+> **GLOBO:** ¿La alarma? ¿Has oído algo?
+
+### S22 · T3R · 2 viñetas
+**V44.** Plano detalle. Goro habla.
+> **GLOBO:** ¿Qué alarma?
+
+**V45.** La voz del hijo siguió hablando pero se le fue borrando, y Setsuko acabó guardando el teléfono sin despedirse, convencida de que el muchacho volvería a llamar cuando le llegara mejor la señal.
+
+### S23 · T2R · 1 viñeta
+**V46.** Un pájaro se levantó de un cable y se fue por encima de los tejados a ningún sitio, y por un momento la calle entera fue un pájaro y un farol y una señora de setenta y cuatro años con un carro de verduras.
+
+### S24 · T4R · 3 viñetas
+**V47.** Entonces Kiryu apareció por la esquina corriendo, con el cuaderno en la mano, los pies sonando como disparos de sal contra la acera.
+
+**V48.** Venía del puesto de guardia, del lado del hospital, con la cara encendida y los ojos como dos monedas. Miró a izquierda y derecha, vio a Setsuko apoyada en la pared, y fue hacia ella con esa prisa que se le notaba en las costuras de la camisa.
+
+**V49.** Primer plano. Kiryu habla.
+> **GLOBO:** Setsuko-san, ¿ha oído la alarma?
+
+### S25 · T3R · 2 viñetas
+**V50.** Setsuko se acomodó el delantal, sin soltar el carro.
+
+**V51.** Plano detalle. Kiryu habla.
+> **GLOBO:** ¿Qué alarma?
+
+### S26 · T2R · 1 viñeta
+**V52.** Primerísimo primer plano. Dijo Kiryu, y se pasó la manga por la frente. Le temblaba la mano, y no porque hubiera corrido—. Va a sonar. Setsuko-san, por favor, llévese el carro y hasta su casa. No salga. No es broma.
+> **GLOBO:** No ha sonado
+
+### S27 · T3R · 2 viñetas
+**V53.** Plano americano. Dijo ella, con la paciencia de las personas que han vivido en un sitio el tiempo suficiente para saber sus horas—. A las seis cierran.
+> **GLOBO:** Esto es el Sector 6
+
+**V54.** Plano de bocas. Kiryu habla.
+> **GLOBO:** Setsuko-san, por favor, vaya a su casa.
+
+### S28 · T4R · 3 viñetas
+**V55.** Contrapicado. Empezó a decir ella, tocando con la punta de los dedos las cebollas, porque el carro era su pan y su pan no se deja en la calle así porque sí.
+> **GLOBO:** Pero si mi carro...
+
+**V56.** Kiryu la miró un segundo, supo que no iba a poder con ese argumento, y corrió calle abajo hacia el hospital con el cuaderno apretado contra el pecho, porque lo que tenía que decir no cabía en una frase y las frases no corren tan rápido como las piernas.
+
+**V57.** Setsuko se quedó en la esquina, mirándolo irse, perpleja.
+
+### S29 · T2R · 1 viñeta
+**V58.** Del otro lado del barrio llegaron las sirenas. Muchas, y todavía sin prisa real: el sonido de las ambulancias que se mueven por protocolo, con la carrera todavía guardada en la caja de cambios.
+
+### S30 · T6 · rótulo
+> **RÓTULO:** 5:36 p. m. Otras dos puertas.
+
+### S31 · T3R · 2 viñetas
+**V59.** Kawano Shinichi tenía treinta y ocho años, veinte años de trabajar en el turno de la noche en la central de comunicaciones y veinte años de decir que al año siguiente iba a pedir la mañana.
+
+**V60.** Salía del metro con un bolso al hombro y la nuca todavía fría del aire subterráneo. Se estiró en la boca de la escalera, se pasó la mano por la cara, y miró arriba al pasar por la esquina.
+
+### S32 · T4R · 3 viñetas
+**V61.** El semáforo parpadeaba en ámbar. Había algo, en la base, que no encajaba: una banda amarilla como las de las obras, enrollada alrededor del poste, con un negro que no leía de noche.
+
+**V62.** Kawano la miró un segundo, apretó el paso, y la dejó atrás. La gente del barrio había aprendido a no pararse a mirar las bandas amarillas. Había tantas últimamente.
+
+**V63.** No lo vio. Nadie lo vio.
+
+### S33 · T4R · 3 viñetas
+**V64.** En el parque de los juegos, al fondo, donde el suelo de goma se paraba en seco contra la hierba y los columpios llevaban una semana quietos, la pared del muro de contención se abrió.
+
+**V65.** No se rompió. No se agrietó. Simplemente, en un lugar donde un segundo antes no había ni sombra, apareció un rectángulo de oscuridad plana, del tamaño de una puerta de garaje, y por dentro un verde que no era de este mundo, como una estación de tren vacía iluminada con luz de hospital.
+
+**V66.** Y por esa puerta salieron tres.
+
+### S34 · T3R · 2 viñetas
+**V67.** Eran tres kaiyu del tamaño aproximado de un caballo, con el cuerpo bajo y los hombros altos, la piel del color de la hierba muerta y un amarillo desvaído en la zona del hombro, como una mancha de sol.
+
+**V68.** No caminaron. Salieron corriendo, a esa velocidad que no corresponde a un animal de ese tamaño, con las rodillas raspando el asfalto en un chirrido seco que se oía desde las esquinas.
+
+### S35 · T4R · 3 viñetas
+**V69.** Otras dos puertas, en otros dos sitios a la vez, se abrieron sin testigos.
+
+**V70.** Uno de ellos, el amarillo, arrancó por la calle principal contra la luz de la farola. El doble contorno de su sombra se le separaba del cuerpo unos dedos, como si llegara el doble a ningún sitio, y las rodillas seguían arrastrando sobre el asfalto con ese chirrido de tiza en pizarra.
+
+**V71.** El Embestidor iba al frente. No era una cosa en particular: la luz de las farolas le pasaba por el cuerpo como por agua, y corría con la cabeza baja, con el mentón pegado al pecho, y cuando llegó a la primera farola de la esquina no la esquivó.
+
+### S36 · T2R · 1 viñeta
+**V72.** No la esquivó porque no la vio, o porque no la necesitaba.
+
+### S37 · T3R · 2 viñetas
+**V73.** Chocó contra el poste de metal, y el poste se dobló a la altura de la cabeza con un golpe seco de campana, y por un momento la luz de la farola se quedó mirándolo desde el suelo, arrodillada en el asfalto.
+
+**V74.** Kawano estaba a diez metros. Se apartó contra un auto, con el bolso apretado contra el pecho, y ni uno de los tres kaiyu lo miró. Pasaron a su lado como pasan los trenes: sin detenerse, sin apartarse, sin notar su presencia.
+
+### S38 · T4R · 3 viñetas
+**V75.** Todos iban a lo mismo. Todos tenían la cabeza baja y corrían hacia la misma esquina, hacia el mismo sonido, hacia lo mismo.
+
+**V76.** No van por él. Va a ser peor.
+
+**V77.** El kaiyu de cabeza baja se detuvo un instante, enorme contra el cielo de la tarde muerta, y emitió un gruñido que no venía de ningún lugar del cuerpo: la boca se movía, sí, pero no había garganta, no había cuerdas, no había pulmones que pudieran empujar ese sonido.
+
+### S39 · T4R · 3 viñetas
+**V78.** Era el sonido de un agujero haciendo pasar aire por un sitio equivocado. No se detuvo a mirar nada. Reanudó la carrera.
+
+**V79.** Entonces sonó la alarma.
+
+**V80.** La sirena del cuartel, que llevaba años sin oírse en ningún boceto, se encendió de golpe, encima, como si la hubieran prendido con un fósforo. Toda la calle se llenó de ese sonido triste y cortante que no admite duda.
+
+### S40 · T3R · 2 viñetas
+**V81.** Una patrulla entró por la esquina con las luces girando y el conductor gritando algo que nadie oyó. Las persianas se abrieron arriba. Las persianas se cerraron abajo.
+
+**V82.** El sol del oeste, poniente, se coló entre los edificios como una brasa sin fuerza.
+
+### S41 · T2R · 1 viñeta
+**V83.** Y la calle se vació.
+
+### S42 · T4R · 3 viñetas
+**V84.** No de todos: abajo, en la parada del autobús que ya no iba a venir, un hombre con una taza de café en la mano levantó la cabeza sin entender.
+
+**V85.** Plano medio. Preguntó el aire, por su boca.
+> **GLOBO:** ¿A dónde se supone que nos vamos?
+
+**V86.** Un soldado le pasó corriendo, con el rifle hacia abajo, la otra mano en el hombro:
+
+### S43 · T3R · 2 viñetas
+**V87.** Primerísimo primer plano. Kiryu habla.
+> **GLOBO:** En el búnker, en la calle de atrás. Vamos, vamos.
+
+**V88.** La calle se llenó de sirenas. Un auto volcado humeaba en la esquina del parque. Humo abajo, sirenas arriba, cinco kaiyu ya en la calle, corriendo a lo mismo, y nadie que pudiera contarlos porque nadie los miraba de frente.
+
+### S44 · T2R · 1 viñeta
+**V89.** Nadie se veía.
+
+### S45 · T6 · rótulo
+> **RÓTULO:** 5:38 p. m. Mitamura Setsuko, 74 años.
+
+### S46 · T4R · 3 viñetas
+**V90.** En el cruce de la panadería, Mitamura Setsuko no recibió el aviso de nadie. No tenía radio, no tenía televisión, no tenía ese oído joven que distingue una sirena de una ambulancia.
+
+**V91.** Tenía su carro de verduras, una rueda torcida, dos bolsas atadas al manubrio y el corazón a su ritmo viejo.
+
+**V92.** Cuando los kaiyu aparecieron por la boca de la calle, Setsuko estaba en medio del cruce, con el carro delante, parada.
+
+### S47 · T3R · 2 viñetas
+**V93.** No corrió.
+
+**V94.** No porque no quisiera: porque a los setenta y cuatro años el cuerpo decide por uno, y el suyo decidió quedarse quieto en el medio de la calle, con las llaves de su casa temblando en el bolsillo del delantal y los ojos puestos en las tres siluetas altas que corrían hacia ella a la velocidad de una cosa que no es un animal.
+
+### S48 · T2R · 1 viñeta
+**V95.** Plano americano. Dijo. No era una frase: era la mano en el pecho, era el aire saliendo—. Dios mío. Dios mío.
+> **GLOBO:** Dios mío
+
+### S49 · T4R · 3 viñetas
+**V96.** El primer kaiyu le pasó por detrás.
+
+**V97.** Le pasó tan cerca que el aire de su carrera le movió las flores del delantal, y no la tocó. No la rozó. Pasó de largo con la cabeza baja, como si ella fuera parte de la acera, y Setsuko giró la cabeza para verlo pasar, y el grito corto que le salió fue del tamaño de un niño que no llora del todo porque todavía no ha entendido.
+
+**V98.** Se quedó mirando el lugar por donde había pasado esa cosa, con los ojos muy abiertos, y la boca se le movió sola, buscando una palabra vieja, la primera palabra que le había enseñado su madre, la que toda mujer de su generación guarda para el fondo del pecho.
+
+### S50 · T3R · 2 viñetas
+**V99.** Plano medio. Kiryu habla.
+> **GLOBO:** Mamá.
+
+**V100.** No era un recuerdo. Era un nombre que se le escapó sin permiso, como si en el fondo de ese momento el cuerpo supiera qué palabras eran las últimas y eligiera la primera.
+
+### S51 · T4R · 3 viñetas
+**V101.** Un soldado apareció por el costado, con el casco puesto y el rifle bajo, corriendo hacia ella con la boca abierta para decirle algo, o para pedirle algo, o para arrastrarla.
+
+**V102.** No llegó a decirlo.
+
+**V103.** Un kaiyu le pasó por detrás.
+
+### S52 · T4R · 3 viñetas
+**V104.** Cuando pasó, el soldado ya no estaba de pie. Había desaparecido hacia el suelo por un camino que no aparecía en ninguna parte, sin sangre, sin estructura, sin ese ruido plástico que uno espera cuando un cuerpo se va.
+
+**V105.** Solo un golpe sordo, como una puerta que se cierra en un edificio vacío, y el casco rodando hasta quedar quieto contra el bordillo.
+
+**V106.** Setsuko miró el casco.
+
+### S53 · T3R · 2 viñetas
+**V107.** El carro se le fue de las manos hacia un lado, con ese ruido de trineo, y las verduras se derramaron sobre la calle como si la calle fuera un mercado al revés.
+
+**V108.** Las cebollas rodaron hasta la cuneta. Los tomates fueron a dar contra la puerta de la panadería cerrada. La caja, abierta, se quedó boca arriba en medio del cruce, con un tomate quieto dentro y una gota de agua —del rocío de la mañana, de la última vez que les pasaron el trapo húmedo— cayendo por la curva roja como una lágrima sin destino.
+
+### S54 · T2R · 1 viñeta
+**V109.** Nadie se quedó al lado del carro.
+
+### S55 · T4R · 3 viñetas
+**V110.** Del otro lado de la calle, una voz trató de abrirse paso:
+
+**V111.** Contrapicado. Kiryu habla.
+> **GLOBO:** Setsuko, mírame. Mírame, mírame, mírame...
+
+**V112.** La voz se quedó sin respuesta.
+
+### S56 · T2R · 1 viñeta
+**V113.** 5:38 p. m. Mitamura Setsuko, 74 años.
+
+### S57 · T6 · rótulo
+> **RÓTULO:** 5:39 p. m. Sector 6.
+
+### S58 · T3R · 2 viñetas
+**V114.** Goro Arashi había oído la alarma desde el bloque de trabajadores, con el teléfono todavía caliente contra la pared y el zumbido del hueco royéndole la oreja. No se puso el casco lento.
+
+**V115.** No se lo puso rápido tampoco: fue un movimiento solo, el casco a la cabeza, el escudo al hombro, el guante en la mano derecha.
+
+### S59 · T2R · 1 viñeta
+**V116.** Y entonces hizo lo que Goro Arashi no hacía desde hacía años.
+
+### S60 · T3R · 2 viñetas
+**V117.** Corrió.
+
+**V118.** Su respiración sonaba dentro del casco con un eco de piel y metal, subiendo y bajando como un fuelle sobrecargado, mientras las botas golpeaban el asfalto en la cadencia de un hombre que no corre seguido y que ya no le tiene confianza a su propio cuerpo.
+
+### S61 · T4R · 3 viñetas
+**V119.** El guante le brillaba en la mano, con la brasa naranja encendida como un farol de emergencia, y la luz le bailaba sobre las persianas de los edificios al pasar.
+
+**V120.** Llegó a la esquina del parque y se detuvo.
+
+**V121.** La calle, de frente: humo espeso mordiendo el aire por la boca del auto volcado, el poste de la farola doblado mirando al suelo, y al fondo, lejos, un kaiyu alejándose con algo en la boca.
+
+### S62 · T3R · 2 viñetas
+**V122.** No se podía saber qué era. La silueta se movía con la cabeza alta y la carga colgando del hocico como un paquete que no se va a entregar.
+
+**V123.** Goro no vio la cara de esa silueta. Tampoco vio la suya.
+
+### S63 · T4R · 3 viñetas
+**V124.** 5:39 p. m. Sector 6.
+
+**V125.** No era el momento de tocar el timbre. No era el momento de pedir registro. Goro Arashi, el que nunca corría, corrió otra vez, bajando por el cruce con el escudo apretado contra el pecho, y la respiración pesada con el casco llenándole los oídos, y el pecho ardiendo.
+
+**V126.** Vio el carro.
+
+### S64 · T4R · 3 viñetas
+**V127.** Lo vio antes que el resto: el carro de verduras torcido contra el bordillo, la rueda mirando al cielo, el cajón abierto con su carga derramada sobre la calle.
+
+**V128.** Las cebollas. Los tomates. La caja boca arriba, con el tomate dentro y la gota de agua todavía colgando del rojo en el aire quieto de la tarde muerta.
+
+**V129.** Goro se arrodilló.
+
+### S65 · T3R · 2 viñetas
+**V130.** No tocó la caja. No tocó el carro. No tocó nada. Se quedó arrodillado en la calle, con el guante brillándole en la mano y el escudo en suelo delante de él, y el casco le cayó hacia delante, y dijo, con una voz que no era suya, tan baja que solo la calle lo oyó:
+
+**V131.** Plano de bocas. Goro habla.
+> **GLOBO:** Setsuko-san.
+
+### S66 · T3R · 2 viñetas
+**V132.** El silencio era el único sonido. El microondas estaba apagado, las sirenas se habían ido detrás del humo hacia otra calle, y hasta el zumbido parecía estar de visita.
+
+**V133.** Nadie le respondió nada.
+
+### S67 · T6 · rótulo
+> **RÓTULO:** 5:40 p. m. Nadie lo saca.
+
+### S68 · T4R · 3 viñetas
+**V134.** Otra calle. Otra esquina. Otra cuadra del mismo barrio, con las mismas persianas y el mismo semáforo en ámbar, y al final, contra un auto estacionado, Kawano Shinichi, 38, con la espalda apoyada en la puerta y las piernas abiertas en la acera.
+
+**V135.** Le sangraba la cara de un corte limpio que no recordaba haberse hecho. El bolso le había quedado a dos metros, abierto, con los papeles esparcidos como si hubieran tenido prisa por salir.
+
+**V136.** De pie sobre él, el Embestidor.
+
+### S69 · T5 · 1 viñeta
+**V137.** No estaba atacando. Se había detenido, con la cabeza baja y el cuerpo quieto contra el cielo que se estaba poniendo oscuro, mirándolo. Lo miraba con esa quietud de los edificios, sin interés y sin prisa, como se mira un objeto caído en la acera.
+
+### S70 · T3R · 2 viñetas
+**V138.** Podría haber seguido de largo, como los otros tres, como todos los que pasaban sin mirar. Se había detenido.
+
+**V139.** Nadie lo saca de ahí.
+
+### S71 · T4R · 3 viñetas
+**V140.** Kawano podía oír su propia sangre latiendo en el oído, y podía oír también el segundo sonido, más débil: pasos. Pasos rápidos, pesados, con metal, bajando por la misma calle, a veinte pasos.
+
+**V141.** 20 pasos.
+
+**V142.** Levantó la vista y vio a Goro Arashi corriendo hacia él, el escudo levantado delante, el guante encendido. Lo vio, porque era lo único que podía ver, y las palabras le llegaron solas, en un susurro que no era para nadie:
+
+### S72 · T4R · 3 viñetas
+**V143.** Primerísimo primer plano. Arashi habla.
+> **GLOBO:** Oye.
+
+**V144.** Plano americano. Goro habla.
+> **GLOBO:** Goro-kun.
+
+**V145.** Goro corrió. Corrió con toda la sangre que le quedaba en las piernas, con el escudo en alto, porque el escudo era la distancia, y la distancia era lo único que había.
+
+### S73 · T3R · 2 viñetas
+**V146.** El Embestidor levantó la pata delantera.
+
+**V147.** No alta. No la colocó. La levantó, simplemente, en el gesto de una cosa que sabe exactamente a qué le va a servir esa pata.
+
+### S74 · T2R · 1 viñeta
+**V148.** A veinte pasos. El escudo, en alto.
+
+### S75 · T4R · 3 viñetas
+**V149.** La pata bajó.
+
+**V150.** El golpe se oyó hasta en el bloque de trabajadores: el metal del auto rompiéndose por la mitad, la puerta hundiéndose contra la pared, el vidrio estallando en cien direcciones a la vez.
+
+**V151.** El auto, la pared, todo lo que había detrás de Kawano, se vino abajo en un ruido de campana y sello.
+
+### S76 · T3R · 2 viñetas
+**V152.** Goro, al fondo, todavía corriendo, a veinte pasos.
+
+**V153.** Se detuvo cuando llegó.
+
+### S77 · T4R · 3 viñetas
+**V154.** No había nada que mover. El auto estaba plegado contra la pared como un papel. La sangre, debajo del metal, seguía siendo solo un charco oscuro entre los escombros, y el Embestidor ya estaba otra vez en movimiento, otra vez en la carrera, otra vez bajando la cabeza hacia la siguiente calle.
+
+**V155.** Goro dobló las rodillas. El ruido se había ido otra vez. Quedaba el humo, el ámbar del semáforo, el bolso abierto, los papeles en la calle, y nadie.
+
+**V156.** Nadie lo había sacado.
+
+### S78 · T6 · rótulo
+> **RÓTULO:** 5:41 p. m.
+
+### S79 · T3R · 2 viñetas
+**V157.** La plaza era un hueco de silencio en el centro del barrio, con la fuente seca mirando al cielo y el aire quieto como el agua de un pozo.
+
+**V158.** Al fondo, en el edificio del otro lado, otra puerta estaba abierta.
+
+### S80 · T2R · 1 viñeta
+**V159.** Rectángulo plano de oscuridad incrustado en la fachada, sin marco, sin número, con la luz del otro lado filtrándose por los bordes como por dentro de una persiana.
+
+### S81 · T4R · 3 viñetas
+**V160.** Verde, al principio; después, más verde. Seis kaiyu más había en la plaza cuando Goro llegó, seis siluetas altas y bajas a la vez, moviéndose con esa calma de las cosas que no tienen hora.
+
+**V161.** Nubes movedizas pasaban por encima del foco. Nadie estaba de pie en la plaza.
+
+**V162.** De todos lados a la vez, al fondo, detrás de las puertas, detrás de las persianas cerradas, detrás de las paredes que seguían en pie como si nada, llegaban los gritos.
+
+### S82 · T3R · 2 viñetas
+**V163.** No eran gritos de una persona. Eran el sonido de muchas bocas al mismo tiempo, cada una pidiendo una cosa distinta a un mundo que ya no estaba escuchando.
+
+**V164.** Y el zumbido, abajo, más fuerte que todos ellos, constante, royendo el aire.
+
+### S83 · T3R · 2 viñetas
+**V165.** 5:41 p. m.
+
+**V166.** Goro Arashi se quedó de pie en medio de la plaza vacía, con el guante apagándose poco a poco en la mano, el escudo pesándole en el hombro, y ningún sitio al que llegar corriendo ya.
+
+---
+
+## Globos de diálogo (31)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V12 | Arashi | Unidad seis, habla Arashi |
+| V14 | Goro | Sector seis, recibido |
+| V15 | Goro | Abierta. |
+| V16 | Goro | Un momento. |
+| V19 | Goro | Sector seis |
+| V20 | Goro | Registro |
+| V21 | Arashi | Un parte, señor Arashi. Si es una puerta sin número, no hay sector. Así que no hay registro. Usted entiende. |
+| V23 | Goro | ¿Y si hay algo adentro? |
+| V24 | Goro | No lo preveo. |
+| V25 | Goro | ¿Qué? |
+| V26 | Goro | No se prevé nada de este tipo |
+| V27 | Goro | Manda a alguien |
+| V29 | Arashi | Cuando pueda, señor Arashi |
+| V41 | Goro | Setsuko, ¿me escuchas? ¿hola? |
+| V42 | Goro | No te oigo, hijo |
+| V43 | Goro | ¿La alarma? ¿Has oído algo? |
+| V44 | Goro | ¿Qué alarma? |
+| V49 | Kiryu | Setsuko-san, ¿ha oído la alarma? |
+| V51 | Kiryu | ¿Qué alarma? |
+| V52 | Kiryu | No ha sonado |
+| V53 | Kiryu | Esto es el Sector 6 |
+| V54 | Kiryu | Setsuko-san, por favor, vaya a su casa. |
+| V55 | Kiryu | Pero si mi carro... |
+| V85 | Kiryu | ¿A dónde se supone que nos vamos? |
+| V87 | Kiryu | En el búnker, en la calle de atrás. Vamos, vamos. |
+| V95 | Kiryu | Dios mío |
+| V99 | Kiryu | Mamá. |
+| V111 | Kiryu | Setsuko, mírame. Mírame, mírame, mírame... |
+| V131 | Goro | Setsuko-san. |
+| V143 | Arashi | Oye. |
+| V144 | Goro | Goro-kun. |
+
+## Cajas de narración (7)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: 5:31 p. m. El Sector 6 sigue abierto. |
+| V33 | Rótulo: 5:34 p. m. El barrio sigue en pie. |
+| V59 | Rótulo: 5:36 p. m. Otras dos puertas. |
+| V90 | Rótulo: 5:38 p. m. Mitamura Setsuko, 74 años. |
+| V114 | Rótulo: 5:39 p. m. Sector 6. |
+| V134 | Rótulo: 5:40 p. m. Nadie lo saca. |
+| V157 | Rótulo: 5:41 p. m. |
+

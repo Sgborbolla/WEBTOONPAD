@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,6 +169,30 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* —Nos sentamos —dijo Goro otra vez, ya en el comedor, con la taza entre las manos grandes—.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** viernes **19 de mayo de 2017**, 13:15–13:45 (Día 5, después del cap11; mismo día). Presente: 2026 (9 años).
 > **Bloques:** A = La mesa (S01–S16, gutter 40) · B = Poder (S17–S20, gutter 190) · C = La misma noche (S21–S27, gutter 40) · D = Lo que no coincide (S28–S35, gutter 40) · E = El cuaderno (S36–S44, gutter 40) · F = Lo que no se cuenta (S45–S60, gutter 190, cierra en blanco)
@@ -221,7 +245,24 @@ ilustración.
 
 **Total bloque A: 16 pantallas · 35 viñetas · 20.480 px**
 
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Plano general.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 12` — mayúsculas, tamaño grande.
+- Línea 2: `«Se cuentan»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
 ## Las viñetas del bloque A
+
 
 ### S01 · T2R · 1 viñeta de 1200
 
@@ -496,9 +537,9 @@ ilustración.
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---:|---|---|---|---|---|
-| S17 | T3R | 2 | 570/570 | 40/190/40 | medio/primer plano | CORTE A: comedor | Goro, la frase que cae. |
-| S18 | T3R | 2 | 570/570 | 40/190/40 | grupo/medio | CORTE A: comedor | La palabra, flotando. |
-| S19 | T3R | 2 | 570/570 | 40/190/40 | grueso/grueso | CORTE A: comedor | Ren no sabe qué hacer; Yui no la llama así. |
+| S17 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: comedor | Goro, la frase que cae. |
+| S18 | T3R | 2 | 570/570 | 40/60/40 | grupo/medio | CORTE A: comedor | La palabra, flotando. |
+| S19 | T3R | 2 | 570/570 | 40/60/40 | grueso/grueso | CORTE A: comedor | Ren no sabe qué hacer; Yui no la llama así. |
 | S20 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: comedor | **Viñeta de silencio T5.** El peso de decirlo. |
 
 **Total bloque B: 4 pantallas · 7 viñetas · 5.120 px**
@@ -973,22 +1014,22 @@ ilustración.
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---:|---|---|---|---|---|
-| S45 | T2R | 1 | 1200 | 190/30 | grueso | CORTE A: pasillo | Rika, sola un instante. |
-| S46 | T3R | 2 | 570/570 | 40/190/40 | primer plano/detalle | CORTE A: pasillo | El cajón, a solas. |
-| S47 | T4R | 3 | 380/380/380 | 90/100/100/90 | medio/detalle/primerísimo | CORTE A: pasillo | El verde del martes. |
-| S48 | T2R | 1 | 1200 | 190/30 | grueso | CORTE A: pasillo | El gusto de ganar. |
-| S49 | T3R | 2 | 570/570 | 40/190/40 | medio/primer plano | CORTE A: pasillo | La puerta, la luz de fuera. |
-| S50 | T4R | 3 | 380/380/380 | 90/100/100/90 | grupo/medio/primerísimo | CORTE A: pasillo | La fila que espera. |
-| S51 | T2R | 1 | 1200 | 190/30 | grueso | CORTE A: pasillo | Rika cruza la puerta. |
-| S52 | T3R | 2 | 570/570 | 40/190/40 | medio/primer plano | CORTE A: pasillo | El patio, la fila intacta. |
-| S53 | T4R | 3 | 380/380/380 | 90/100/100/90 | detalle/detalle/detalle | CORTE A: pasillo | Las marcas (C2). |
-| S54 | T2R | 1 | 1200 | 190/30 | grueso | CORTE A: pasillo | Hacia la verja. |
+| S45 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: pasillo | Rika, sola un instante. |
+| S46 | T3R | 2 | 570/570 | 40/60/40 | primer plano/detalle | CORTE A: pasillo | El cajón, a solas. |
+| S47 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primerísimo | CORTE A: pasillo | El verde del martes. |
+| S48 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: pasillo | El gusto de ganar. |
+| S49 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: pasillo | La puerta, la luz de fuera. |
+| S50 | T4R | 3 | 380/380/380 | 35/35/35/35 | grupo/medio/primerísimo | CORTE A: pasillo | La fila que espera. |
+| S51 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: pasillo | Rika cruza la puerta. |
+| S52 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: pasillo | El patio, la fila intacta. |
+| S53 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/detalle/detalle | CORTE A: pasillo | Las marcas (C2). |
+| S54 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: pasillo | Hacia la verja. |
 | S55 | T5 | 1 | 260 | 0/1020 | silencio | CORTE A: pasillo | **Viñeta de silencio T5.** La fila, la luz de la tarde. |
-| S56 | T3R | 2 | 570/570 | 40/190/40 | general/detalle | CORTE A: pasillo | La verja, el dibujo. |
-| S57 | T4R | 3 | 380/380/380 | 90/100/100/90 | detalle/medio/detalle | CORTE A: pasillo | El comedor, despierto. |
-| S58 | T2R | 1 | 1200 | 190/30 | grueso | CORTE A: pasillo | "Era poco." |
-| S59 | T3R | 2 | 570/570 | 40/190/40 | general/primer plano | CORTE A: pasillo | La verja, la marca. |
-| S60 | T3R | 2 | 570/570 | 40/190/40 | general/general | FUNDIDO A: blanco | Cierre (E). Emilio, la mesa y la luz. |
+| S56 | T3R | 2 | 570/570 | 40/60/40 | general/detalle | CORTE A: pasillo | La verja, el dibujo. |
+| S57 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/medio/detalle | CORTE A: pasillo | El comedor, despierto. |
+| S58 | T2R | 1 | 1200 | 40/40 | grueso | CORTE A: pasillo | "Era poco." |
+| S59 | T3R | 2 | 570/570 | 40/60/40 | general/primer plano | CORTE A: pasillo | La verja, la marca. |
+| S60 | T3R | 2 | 570/570 | 40/60/40 | general/general | FUNDIDO A: blanco | Cierre (E). Emilio, la mesa y la luz. |
 
 **Total bloque F: 16 pantallas · 30 viñetas · 20.480 px**
 

@@ -1,0 +1,410 @@
+# CAPÍTULO 57 — Los que cuentan
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 18 pantallas de 800×1280 · 37 viñetas · 23040 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 57 (1 rótulo de escena). |
+| Fondo | Jueves 20 de julio de 2017. 9:00 a. m. Sala de estadística, Base NSF. |
+| Personajes con nombre | Rika |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 18 |
+| Viñetas | 37 |
+| Globos de diálogo | 18 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Mañana sobre la sala de estadística, cielo gris.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 57` — mayúsculas, tamaño grande.
+- Línea 2: `«Los que cuentan»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T5 | 1 | 260 | 0/1020 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T2R | 1 | 1200 | 40/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Jueves 20 de julio de 2017. 9:00 a. m. Sala de estadística, Base NSF.
+
+### S02 · T4R · 3 viñetas
+**V1.** En la sala de estadística no pelea nadie, y de la sala de estadística depende que se sepa quién ganó.
+
+**V2.** Eran cuatro mesas, cuatro operadores y una pizarra. En la pizarra, todos los días, alguien escribía el número de kaiyu neutralizados la jornada anterior, y el número de bajas propias, y la diferencia.
+
+**V3.** La diferencia era la única cifra que importaba, y la diferencia llevaba seis semanas negativa, y nadie de la sala de estadística había dicho nunca en voz alta lo que significaba una diferencia negativa seis semanas seguidas.
+
+### S03 · T3R · 2 viñetas
+**V4.** Aquella mañana entró Rika a pedir un dato y se quedó mirando la pizarra.
+
+**V5.** Plano de bocas. Preguntó, señalando una lista larga al costado, escrita con letra menuda.
+> **GLOBO:** ¿Y esa columna?
+
+### S04 · T4R · 3 viñetas
+**V6.** Contrapicado. Dijo el operador—. Cada uno lleva su contador.
+> **GLOBO:** Los portadores
+
+**V7.** Primer plano. Rika habla.
+> **GLOBO:** ¿Nuestro contador?
+
+**V8.** Plano medio. Rika habla.
+> **GLOBO:** El de ustedes cuatro y el de los otros equipos. —El operador pasó la hoja—. Llevamos la cuenta individual, por si algún día alguien quiere saber cuántos mató cada uno.
+
+### S05 · T5 · 1 viñeta
+**V9.** Rika leyó su propia columna. Era larga. Era tan larga que tuvo que doblar la hoja para llegar al final, y cuando llegó al final había un número, y el número era grande, y el número no le dijo nada, porque un número así nunca dice nada mientras es un número.
+
+### S06 · T3R · 2 viñetas
+**V10.** Primerísimo primer plano. Preguntó.
+> **GLOBO:** ¿Para qué sirve esto?
+
+**V11.** Plano americano. Dijo el operador—. Para la OIDA. Para que los países sepan cuánto rinde cada uno.
+> **GLOBO:** Para el informe anual
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Rika habla.
+> **GLOBO:** ¿Y a los muertos quién los cuenta?
+
+**V13.** El operador levantó la cabeza.
+
+**V14.** Primer plano. Dijo—. En la otra columna.
+> **GLOBO:** Los muertos también se cuentan
+
+### S08 · T4R · 3 viñetas
+**V15.** Rika miró la otra columna. La de los kaiyu. Era catorce veces más larga que la de los portadores, y estaba llena de números redondos, porque en cuanto un número de kaiyu pasaba de mil, la sala de estadística dejaba de contar de uno en uno y empezaba a estimar.
+
+**V16.** Estimado. Estimado. Estimado, decía la columna, cada tres renglones.
+
+**V17.** Primerísimo primer plano. Dijo Rika.
+> **GLOBO:** ¿Se puede estimar a un muerto?
+
+### S09 · T3R · 2 viñetas
+**V18.** El operador no contestó, porque el operador llevaba seis semanas contando y ya no sabía contestar a eso.
+
+**V19.** Rika salió de la sala de estadística con la hoja doblada en el bolsillo.
+
+### S10 · T2R · 1 viñeta
+**V20.** En el pasillo se encontró con un hombre mayor que barría el suelo con una escoba y una paciencia de nueve años. Se llamaba Tokura Jun, era el jefe de limpieza, y llevaba la cuenta de la base a su manera: no la de los muertos, sino la de los vivos, que es la que nadie lleva.
+
+### S11 · T4R · 3 viñetas
+**V21.** Primer plano. Rika habla.
+> **GLOBO:** ¿Va a la puerta? —le preguntó Tokura, sin dejar de barrer.
+
+**V22.** Plano medio. Rika habla.
+> **GLOBO:** Sí.
+
+**V23.** Plano detalle. Rika habla.
+> **GLOBO:** Entonces llévele esto a los muchachos de la garita. —Le tendió un paquete de onigiri envueltos en un trapo—. Anoche no comieron. Se me olvidó decírselo a nadie importante.
+
+### S12 · T3R · 2 viñetas
+**V24.** Rika tomó el paquete.
+
+**V25.** Plano americano. Rika habla.
+> **GLOBO:** ¿Usted cómo sabe quién no comió?
+
+### S13 · T4R · 3 viñetas
+**V26.** Tokura siguió barriendo.
+
+**V27.** Contrapicado. Dijo—. Cuando entran, cuando salen. Y cuando uno de los de la garita no vuelve, lo sé antes de que lo sepa el parte, porque el parte cuenta lo que pasó y yo cuento lo que falta.
+> **GLOBO:** Porque los cuento
+
+**V28.** Rika se quedó quieta con el paquete en la mano.
+
+### S14 · T3R · 2 viñetas
+**V29.** Plano medio. Rika habla.
+> **GLOBO:** ¿Y cuántos faltan, Tokura?
+
+**V30.** El viejo no dejó de barrer.
+
+### S15 · T2R · 1 viñeta
+**V31.** Primerísimo primer plano. Dijo—. Once de los que salieron por esa puerta. —Señaló con la escoba el portal de la base—. El parte va a decir diez. El parte siempre dice uno menos.
+> **GLOBO:** Desde el lunes, once
+
+### S16 · T4R · 3 viñetas
+**V32.** Plano americano. Rika habla.
+> **GLOBO:** ¿Por qué?
+
+**V33.** Plano de bocas. Dijo Tokura—, y los nombres no caben en la columna.
+> **GLOBO:** Porque el once es un nombre
+
+**V34.** > **SEGUNDO GANCHO (pantalla 23, 31%)**
+
+### S17 · T3R · 2 viñetas
+**V35.** > Aquella tarde, en la pizarra de la sala de estadística, la diferencia volvió a salir negativa. Y debajo de la diferencia, en la columna de los portadores, apareció un renglón nuevo que nadie había escrito y que alguien, desde Tokio, había mandado añadir: el contador de los cuatro.
+
+**V36.** En él, la cifra de Rika Tsukimi llevaba un asterisco. Y el asterisco llevaba una nota al pie: *Sujeta a revisión por conducta (omega).*
+
+### S18 · T2R · 1 viñeta
+**V37.** Rika no la vio. A Yui se la mostraron al día siguiente, y Yui no la comentó con nadie, porque había cosas que, si se dicen, se vuelven verdad.
+
+---
+
+## Globos de diálogo (18)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V5 | Rika | ¿Y esa columna? |
+| V6 | Rika | Los portadores |
+| V7 | Rika | ¿Nuestro contador? |
+| V8 | Rika | El de ustedes cuatro y el de los otros equipos. —El operador pasó la hoja—. Llevamos la cuenta individual, por si algún día alguien quiere saber cuántos mató cada uno. |
+| V10 | Rika | ¿Para qué sirve esto? |
+| V11 | Rika | Para el informe anual |
+| V12 | Rika | ¿Y a los muertos quién los cuenta? |
+| V14 | Rika | Los muertos también se cuentan |
+| V17 | Rika | ¿Se puede estimar a un muerto? |
+| V21 | Rika | ¿Va a la puerta? —le preguntó Tokura, sin dejar de barrer. |
+| V22 | Rika | Sí. |
+| V23 | Rika | Entonces llévele esto a los muchachos de la garita. —Le tendió un paquete de onigiri envueltos en un trapo—. Anoche no comieron. Se me olvidó decírselo a nadie importante. |
+| V25 | Rika | ¿Usted cómo sabe quién no comió? |
+| V27 | Rika | Porque los cuento |
+| V29 | Rika | ¿Y cuántos faltan, Tokura? |
+| V31 | Rika | Desde el lunes, once |
+| V32 | Rika | ¿Por qué? |
+| V33 | Rika | Porque el once es un nombre |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Jueves 20 de julio de 2017. 9:00 a. m. Sala de estadística, Base NSF. |
+

@@ -25,7 +25,7 @@ RE_ROW = re.compile(r"^\s*\|\s*(S\d+[A-Z]?)\s*\|\s*([^\|]+?)\s*\|\s*(\d+)\s*\|\s
 RE_V_HEAD = re.compile(r"^#{3,4}\s+S(\d+)[A-Z]?\s*·", re.M)
 RE_V_NUM = re.compile(r"^\*\*[Vv](\d+)\.\*\*", re.M)
 RE_SCRIPT = re.compile(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uac00-\ud7af\u0400-\u04ff]")
-ENG = set("""the and with this that you your have has what when where they then from all are is not but for
+ENG = set("""the and with this that you your have what when where they then from all are is not but for
 will can could would should there here about into over under after before very just also each other""".split())
 
 
@@ -182,7 +182,7 @@ def main():
     args = sys.argv[1:]
     caps = []
     if args and args[0] == "todo":
-        caps = list(range(1, 31))
+        caps = list(range(1, 101))
         args = []
     elif args and args[0] == "cap":
         caps = [int(args[1])]
@@ -190,7 +190,7 @@ def main():
     else:
         caps = [int(x) for x in args if x.isdigit()]
     if not caps:
-        caps = list(range(1, 31))
+        caps = list(range(1, 101))
     ok = True
     for c in caps:
         p = os.path.join(RAIZ, "Guiones", "cap%02d.txt" % c)

@@ -1,14 +1,14 @@
 # CAPÍTULO 3 — Día 1, noche. La alarma
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
->>> 17:31. El Sector 6 sigue abierto.
+>>> 5:31 p. m. El Sector 6 sigue abierto.
 
 
 El bloque de trabajadores olía a detergente barato y a turnos que no terminaban nunca. La luz de emergencia, verde, caía desde el techo como una lluvia mineral sobre el pasillo vacío; hacía que cada puerta pareciera un ahogado flotando en un acuario. La gente estaba esperando el autobús de las seis y media, o cenando lo que fuera, o mirando la televisión de la sala común que solo tenía un canal y la mitad del tiempo se ponía en gris.
 
 Al fondo del pasillo, muy lejos, el hueco negro seguía abierto.
 
-El zumbido llegaba desde allá como un insecto dentro del cráneo: constante, sin fuente, sin prisa. Nadie lo oía ya. Nada más nacer, los primeros días, la gente se tapaba los oídos y decía que era el aire acondicionado de la central, que era la bombilla averiada, que era el viento metiéndose bajo una puerta mal cerrada. Después, cuando el sonido no se fue con la bombilla ni con el viento, dejaron de hablar de él. Era como la humedad en las paredes: estaba, no molestaba, y todo el mundo prefería no pensar en cuándo ni cómo se había metido.
+El zumbido llegaba desde allá como un insecto dentro del cráneo: constante, sin fuente, sin prisa. Nadie lo oía ya. Nada más nacer, los primeros días, la gente se tapaba los oídos y decía que era el aire acondicionado de la central, que era una lámpara averiada, que era el viento metiéndose bajo una puerta mal cerrada. Después, cuando el sonido no se fue con la lámpara ni con el viento, dejaron de hablar de él. Era como la humedad en las paredes: estaba, no molestaba, y todo el mundo prefería no pensar en cuándo ni cómo se había metido.
 
 Goro Arashi estaba sentado en el tercer escalón de la escalera de incendios con el guante en la mano. La luz verde le caía de lado, como si lo hubieran pintado del color de las salas de espera. Tenía el casco apoyado en el suelo junto a él, el escudo arrimado contra el pasamanos, y miraba el guante como si el guante pudiera explicarle algo con palabras.
 
@@ -20,7 +20,7 @@ Goro levantó la cabeza. La pared tosió de nuevo.
 
 —Unidad seis, habla Arashi —dijo sin levantarse, con el auricular plantado contra la oreja y el cuerpo todavía en el escalón—. Una puerta abierta en mi pasillo.
 
-Una pausa. El auricularolía a plástico y a otros veinte años de voces ajenas.
+Una pausa. El auricular olía a plástico y a otros veinte años de voces ajenas.
 
 —Sector seis, recibido —dijo la voz del otro lado. Era una voz de mujer, joven, plana, la de alguien que apuntaba lo que yo le dijera en un formulario—. ¿Abierta o forzada?
 
@@ -58,9 +58,9 @@ El teléfono se quedó colgado de la pared, oscilando un poco contra el azulejo.
 
 Goro se quedó de pie con el guante en la mano, sin ponerlo, mirando el hueco.
 
->>> 17:34. El barrio sigue en pie.
+>>> 5:34 p. m. El barrio sigue en pie.
 
-La calle del Sector 6 tenía un nombre que nadie usaba y un semáforo que desde hacía semanas parpadeaba en ámbar intermitente, que es el color que los semáforos usan cuando están vivos pero no saben bien qué decir. Las farolas encendidas dibujaban charcos amarillos sobre la acera. Un automóvil llevaba un buen rato parado con las luces puestas, como esperando permiso. Todo el barrio estaba en su sitio: las persianas bajadas de la tienda de la esquina, la parada del comedor de mediodía que a esa hora solo era una acera, el aire quieto con ese olor de verano enlatado que llega cuando se va el día.
+La calle del Sector 6 tenía un nombre que nadie usaba y un semáforo que desde hacía semanas parpadeaba en ámbar intermitente, que es el color que los semáforos usan cuando están vivos pero no saben bien qué decir. Las farolas encendidas dibujaban charcos amarillos sobre la acera. Un auto llevaba un buen rato parado con las luces puestas, como esperando permiso. Todo el barrio estaba en su sitio: las persianas bajadas de la tienda de la esquina, la parada del comedor de mediodía que a esa hora solo era una acera, el aire quieto con ese olor de verano enlatado que llega cuando se va el día.
 
 Todo normal. A falta de un ruido.
 
@@ -104,9 +104,9 @@ Setsuko se quedó en la esquina, mirándolo irse, perpleja.
 
 Del otro lado del barrio llegaron las sirenas. Muchas, y todavía sin prisa real: el sonido de las ambulancias que se mueven por protocolo, con la carrera todavía guardada en la caja de cambios.
 
->>> 17:36. Otras dos puertas.
+>>> 5:36 p. m. Otras dos puertas.
 
-Kawano Shinichi tenía treinta y ocho años, treinta y ocho años de trabajar en el turno de la noche en la central de comunicaciones y treinta y ocho años de decir que al año siguiente iba a pedir la mañana. Salía del metro con un bolso al hombro y la nuca todavía fría del aire subterráneo. Se estiró en la boca de la escalera, se pasó la mano por la cara, y miró arriba al pasar por la esquina.
+Kawano Shinichi tenía treinta y ocho años, veinte años de trabajar en el turno de la noche en la central de comunicaciones y veinte años de decir que al año siguiente iba a pedir la mañana. Salía del metro con un bolso al hombro y la nuca todavía fría del aire subterráneo. Se estiró en la boca de la escalera, se pasó la mano por la cara, y miró arriba al pasar por la esquina.
 
 El semáforo parpadeaba en ámbar. Había algo, en la base, que no encajaba: una banda amarilla como las de las obras, enrollada alrededor del poste, con un negro que no leía de noche. Kawano la miró un segundo, apretó el paso, y la dejó atrás. La gente del barrio había aprendido a no pararse a mirar las bandas amarillas. Había tantas últimamente.
 
@@ -130,15 +130,15 @@ No la esquivó porque no la vio, o porque no la necesitaba.
 
 Chocó contra el poste de metal, y el poste se dobló a la altura de la cabeza con un golpe seco de campana, y por un momento la luz de la farola se quedó mirándolo desde el suelo, arrodillada en el asfalto.
 
-Kawano estaba a diez metros. Se apartó contra un coche, con el bolso apretado contra el pecho, y ni uno de los tres kaiyu lo miró. Pasaron a su lado como pasan los trenes: sin detenerse, sin apartarse, sin notar su presencia. Todos iban a lo mismo. Todos tenían la cabeza baja y corrían hacia la misma esquina, hacia el mismo sonido, hacia lo mismo.
+Kawano estaba a diez metros. Se apartó contra un auto, con el bolso apretado contra el pecho, y ni uno de los tres kaiyu lo miró. Pasaron a su lado como pasan los trenes: sin detenerse, sin apartarse, sin notar su presencia. Todos iban a lo mismo. Todos tenían la cabeza baja y corrían hacia la misma esquina, hacia el mismo sonido, hacia lo mismo.
 
-No van a porél. Va a ser peor.
+No van por él. Va a ser peor.
 
 El kaiyu de cabeza baja se detuvo un instante, enorme contra el cielo de la tarde muerta, y emitió un gruñido que no venía de ningún lugar del cuerpo: la boca se movía, sí, pero no había garganta, no había cuerdas, no había pulmones que pudieran empujar ese sonido. Era el sonido de un agujero haciendo pasar aire por un sitio equivocado. No se detuvo a mirar nada. Reanudó la carrera.
 
 Entonces sonó la alarma.
 
-La sirena del cuartel, que llevaba años sin oírse en ningún boceto, se encendió de golpe, encima, como si la hubieran prendido con una cerilla. Toda la calle se llenó de ese sonido triste y cortante que no admite duda. Un coche de policía entró por la esquina con las luces girando y el conductor gritando algo que nadie oyó. Las persianas se abrieron arriba. Las persianas se cerraron abajo. El sol del oeste, poniente, se coló entre los edificios como una brasa sin fuerza.
+La sirena del cuartel, que llevaba años sin oírse en ningún boceto, se encendió de golpe, encima, como si la hubieran prendido con un fósforo. Toda la calle se llenó de ese sonido triste y cortante que no admite duda. Una patrulla entró por la esquina con las luces girando y el conductor gritando algo que nadie oyó. Las persianas se abrieron arriba. Las persianas se cerraron abajo. El sol del oeste, poniente, se coló entre los edificios como una brasa sin fuerza.
 
 Y la calle se vació.
 
@@ -150,13 +150,13 @@ Un soldado le pasó corriendo, con el rifle hacia abajo, la otra mano en el homb
 
 —En el búnker, en la calle de atrás. Vamos, vamos.
 
-La calle se llenó de sirenas. Un coche volcado humeaba en la esquina del parque. Humo abajo, sirenas arriba, cinco kaiyu ya en la calle, corriendo a lo mismo, y nadie que pudiera contarlos porque nadie los miraba de frente.
+La calle se llenó de sirenas. Un auto volcado humeaba en la esquina del parque. Humo abajo, sirenas arriba, cinco kaiyu ya en la calle, corriendo a lo mismo, y nadie que pudiera contarlos porque nadie los miraba de frente.
 
 Nadie se veía.
 
->>> 17:38. Mitamura Setsuko, 74 años.
+>>> 5:38 p. m. Mitamura Setsuko, 74 años.
 
-En el cruce de la panadería, Mitamura Setsuko no recibió el aviso de nadie. No tenía radio, no tenía televisión, no tenía ese oído joven que distingue una sirena de una ambulancia. Tenía su carro de verduras, una rueda torcida, dos bolsas atadas al manillar y el corazón a su ritmo viejo.
+En el cruce de la panadería, Mitamura Setsuko no recibió el aviso de nadie. No tenía radio, no tenía televisión, no tenía ese oído joven que distingue una sirena de una ambulancia. Tenía su carro de verduras, una rueda torcida, dos bolsas atadas al manubrio y el corazón a su ritmo viejo.
 
 Cuando los kaiyu aparecieron por la boca de la calle, Setsuko estaba en medio del cruce, con el carro delante, parada.
 
@@ -194,11 +194,11 @@ Del otro lado de la calle, una voz trató de abrirse paso:
 
 La voz se quedó sin respuesta.
 
-17:38. Mitamura Setsuko, 74 años.
+5:38 p. m. Mitamura Setsuko, 74 años.
 
->>> 17:39. Sector 6.
+>>> 5:39 p. m. Sector 6.
 
-Goro Arashi había oído la alarma desde el bloque de trabajadores, con el teléfono todavía caliente contra la pared y el zumbido del hueco royéndole la oreja. No se puso el casco lento. No se lo puso rápido tampoco: fue un movimiento solo, el casco a la cabeza, el escudo al hombro, el guante en la mano izquierda.
+Goro Arashi había oído la alarma desde el bloque de trabajadores, con el teléfono todavía caliente contra la pared y el zumbido del hueco royéndole la oreja. No se puso el casco lento. No se lo puso rápido tampoco: fue un movimiento solo, el casco a la cabeza, el escudo al hombro, el guante en la mano derecha.
 
 Y entonces hizo lo que Goro Arashi no hacía desde hacía años.
 
@@ -212,7 +212,7 @@ La calle, de frente: humo espeso mordiendo el aire por la boca del auto volcado,
 
 Goro no vio la cara de esa silueta. Tampoco vio la suya.
 
-17:39. Sector 6.
+5:39 p. m. Sector 6.
 
 No era el momento de tocar el timbre. No era el momento de pedir registro. Goro Arashi, el que nunca corría, corrió otra vez, bajando por el cruce con el escudo apretado contra el pecho, y la respiración pesada con el casco llenándole los oídos, y el pecho ardiendo.
 
@@ -226,13 +226,13 @@ No tocó la caja. No tocó el carro. No tocó nada. Se quedó arrodillado en la 
 
 —Setsuko-san.
 
-El silencio era el único sonido. El señor del microondeo estaba apagado, las sirenas se habían ido detrás del humo hacia otra calle, y hasta el zumbido parecía estar de visita.
+El silencio era el único sonido. El microondas estaba apagado, las sirenas se habían ido detrás del humo hacia otra calle, y hasta el zumbido parecía estar de visita.
 
 Nadie le respondió nada.
 
->>> 17:40. Nadie lo saca.
+>>> 5:40 p. m. Nadie lo saca.
 
-Otra calle. Otra esquina. Otra curda del mismo barrio, con las mismas persianas y el mismo semáforo en ámbar, y al final, contra un coche estacionado, Kawano Shinichi, 38, con la espalda apoyada en la puerta y las piernas abiertas en la acera.
+Otra calle. Otra esquina. Otra cuadra del mismo barrio, con las mismas persianas y el mismo semáforo en ámbar, y al final, contra un auto estacionado, Kawano Shinichi, 38, con la espalda apoyada en la puerta y las piernas abiertas en la acera.
 
 Le sangraba la cara de un corte limpio que no recordaba haberse hecho. El bolso le había quedado a dos metros, abierto, con los papeles esparcidos como si hubieran tenido prisa por salir.
 
@@ -248,7 +248,7 @@ Kawano podía oír su propia sangre latiendo en el oído, y podía oír también
 
 Levantó la vista y vio a Goro Arashi corriendo hacia él, el escudo levantado delante, el guante encendido. Lo vio, porque era lo único que podía ver, y las palabras le llegaron solas, en un susurro que no era para nadie:
 
-—Hey.
+—Oye.
 
 —Goro-kun.
 
@@ -262,19 +262,19 @@ A veinte pasos. El escudo, en alto.
 
 La pata bajó.
 
-El golpe se oyó hasta en el bloque de trabajadores: el metal del coche rompiéndose por la mitad, la puerta hundiéndose contra la pared, el cristal estallando en cien direcciones a la vez. El coche, la pared, todo lo que había detrás de Kawano, se vino abajo en un ruido de campana y sello.
+El golpe se oyó hasta en el bloque de trabajadores: el metal del auto rompiéndose por la mitad, la puerta hundiéndose contra la pared, el vidrio estallando en cien direcciones a la vez. El auto, la pared, todo lo que había detrás de Kawano, se vino abajo en un ruido de campana y sello.
 
 Goro, al fondo, todavía corriendo, a veinte pasos.
 
 Se detuvo cuando llegó.
 
-No había nada que mover. El coche estaba plegado contra la pared como un papel. La sangre, debajo del metal, seguía siendo solo un charco oscuro entre los escombros, y el Embestidor ya estaba otra vez en movimiento, otra vez en la carrera, otra vez bajando la cabeza hacia la siguiente calle.
+No había nada que mover. El auto estaba plegado contra la pared como un papel. La sangre, debajo del metal, seguía siendo solo un charco oscuro entre los escombros, y el Embestidor ya estaba otra vez en movimiento, otra vez en la carrera, otra vez bajando la cabeza hacia la siguiente calle.
 
 Goro dobló las rodillas. El ruido se había ido otra vez. Quedaba el humo, el ámbar del semáforo, el bolso abierto, los papeles en la calle, y nadie.
 
 Nadie lo había sacado.
 
->>> 17:41.
+>>> 5:41 p. m.
 
 La plaza era un hueco de silencio en el centro del barrio, con la fuente seca mirando al cielo y el aire quieto como el agua de un pozo.
 
@@ -288,6 +288,6 @@ De todos lados a la vez, al fondo, detrás de las puertas, detrás de las persia
 
 Y el zumbido, abajo, más fuerte que todos ellos, constante, royendo el aire.
 
-17:41.
+5:41 p. m.
 
 Goro Arashi se quedó de pie en medio de la plaza vacía, con el guante apagándose poco a poco en la mano, el escudo pesándole en el hombro, y ningún sitio al que llegar corriendo ya.

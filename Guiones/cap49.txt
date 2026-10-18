@@ -1,0 +1,509 @@
+# CAPÍTULO 49 — El Legajo
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* —Los que saben lo que cuesta esto son los que barren —dijo Goro, por lo bajo.
+    - *En este capítulo (novela):* Y Kurose abrió la carpeta gris, y en la primera página, arriba, con la letra seca y las palabras contadas que se usan en los formularios, leyó en voz alta lo que Rika, Goro, Ren y Yui iban a recordar el resto de su vida.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Y Kurose abrió la carpeta gris, y en la primera página, arriba, con la letra seca y las palabras contadas que se usan en los formularios, leyó en voz alta lo que Rika, Goro, Ren y Yui iban a recordar el resto de su vida.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Y Kurose abrió la carpeta gris, y en la primera página, arriba, con la letra seca y las palabras contadas que se usan en los formularios, leyó en voz alta lo que Rika, Goro, Ren y Yui iban a recordar el resto de su vida.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Y Kurose abrió la carpeta gris, y en la primera página, arriba, con la letra seca y las palabras contadas que se usan en los formularios, leyó en voz alta lo que Rika, Goro, Ren y Yui iban a recordar el resto de su vida.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 28 pantallas de 800×1280 · 59 viñetas · 35840 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 49 (1 rótulo de escena). |
+| Fondo | Sábado 17 de junio de 2017. 9:00 a. m. Base NSF, Yokohama. |
+| Personajes con nombre | Goro, Rika, Ren, Yui |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 28 |
+| Viñetas | 59 |
+| Globos de diálogo | 32 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Mañana sobre la base, cielo despejado.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 49` — mayúsculas, tamaño grande.
+- Línea 2: `«El Legajo»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T2R | 1 | 1200 | 40/40 |
+| S22 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S23 | T3R | 2 | 570/570 | 40/60/40 |
+| S24 | T2R | 1 | 1200 | 40/40 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+| S26 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S27 | T3R | 2 | 570/570 | 40/60/40 |
+| S28 | T2R | 1 | 1200 | 40/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Sábado 17 de junio de 2017. 9:00 a. m. Base NSF, Yokohama.
+
+### S02 · T4R · 3 viñetas
+**V1.** La base los vio llegar y la base se quedó callada.
+
+**V2.** No hubo alarma. No hubo saludo. La puerta grande se abrió porque la abrió el de la garita, y los cuatro entraron caminando bajo el sol de la mañana con un kaiyu naranja detrás, de pie, con cadenas en las manos y ninguna correa que lo llevara, y la base entera —los de limpieza barriendo el patio a esa hora, los auxiliares de archivo con sus carpetas, los sanitarios fumando en la esquina— dejó de hacer lo que hacía y miró.
+
+**V3.** Amano Rei, que llevaba nueve años barriendo aquel patio y lo sabía todo de todos, miró al prisionero, miró a Rika, y se hizo a un lado sin decir nada.
+
+### S03 · T3R · 2 viñetas
+**V4.** Plano americano. Dijo Goro, por lo bajo.
+> **GLOBO:** Los que saben lo que cuesta esto son los que barren
+
+**V5.** Plano de bocas. Dijo Rika.
+> **GLOBO:** Sí
+
+### S04 · T4R · 3 viñetas
+**V6.** Llevaron al prisionero a la sala de contención y lo dejaron ahí, y por primera vez desde el valle el prisionero no dijo nada al despedirse, solo se sentó en el suelo, apoyó la espalda contra la pared y cerró el ojo bueno.
+
+**V7.** Rika cerró la puerta.
+
+**V8.** Después fueron a ver a Kurose.
+
+### S05 · T2R · 1 viñeta
+**V9.** Lo encontraron en su oficina, de pie, con el informe anual de la NSF abierto en la mesa y las manos apoyadas en la hoja, como si las palabras se pudieran sostener.
+
+### S06 · T3R · 2 viñetas
+**V10.** Detrás de él, en la pared, estaba el general Watanabe, que no tenía poder y por eso seguía ahí, y que cada vez que alguien le preguntaba por qué no evacuaron Yokohama cambiaba de tema.
+
+**V11.** Aquella mañana no hubo tema que cambiar.
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Dijo Kurose.
+> **GLOBO:** Lo han traído
+
+**V13.** Contrapicado. Dijo Rika—. El expediente.
+> **GLOBO:** Tráiganoslo usted a nosotros
+
+**V14.** Primer plano. Rika habla.
+> **GLOBO:** No existe un expediente.
+
+### S08 · T4R · 3 viñetas
+**V15.** Plano medio. Rika habla.
+> **GLOBO:** Kurose, por favor. —Rika se sentó, sin que la invitaran—. Llevamos nueve años. Yo vi a mi hermana entrar en un edificio que no volvió a abrirse y salir de él sin haber envejecido un día. Tú lo sabes desde el día tres. El Estado Mayor lo sabe desde antes. Hay una carpeta. Hay trece páginas. Y las tres personas que hay en esta sala saben que están ahí.
+
+**V16.** Kurose la miró.
+
+**V17.** Primerísimo primer plano. Rika habla.
+> **GLOBO:** Nadie niega que exista una carpeta.
+
+### S09 · T3R · 2 viñetas
+**V18.** Plano americano. Rika habla.
+> **GLOBO:** Entonces enséñela.
+
+**V19.** Plano de bocas. Rika habla.
+> **GLOBO:** No puedo.
+
+### S10 · T2R · 1 viñeta
+**V20.** Contrapicado. Rika habla.
+> **GLOBO:** ¿Por qué?
+
+### S11 · T4R · 3 viñetas
+**V21.** Primer plano. Dijo Kurose, y por primera vez la voz se le quebró un poco— tiene que leer la fecha. Y la firma. Y tú, Rika, tienes veinticuatro años y nunca has leído una orden de no avisar al público. Yo sí. La escribí yo.
+> **GLOBO:** Porque el que la abre
+
+**V22.** La sala se quedó quieta.
+
+**V23.** Plano detalle. Dijo Ren.
+> **GLOBO:** Usted la escribió
+
+### S12 · T3R · 2 viñetas
+**V24.** Primerísimo primer plano. Rika habla.
+> **GLOBO:** Yo la escribí. No me la dictó nadie. No la firmé por otro. La redacté yo, con mis manos, siete años antes de conocerlos a ustedes. —Kurose cerró el informe anual—. Y el Estado Mayor la aprobó, y el general recibió la orden, y la orden decía lo que dicen las órdenes: no avisar. No evacuar. No alarmar. Esperar.
+
+**V25.** Plano americano. Dijo Yui.
+> **GLOBO:** ¿Esperar a qué?
+
+### S13 · T4R · 3 viñetas
+**V26.** Plano de bocas. Rika habla.
+> **GLOBO:** A que se cumpliera el protocolo.
+
+**V27.** Contrapicado. Rika habla.
+> **GLOBO:** ¿Y cuál era el protocolo, Kurose? —Rika se puso de pie—. ¿Esperar a que catorce minutos mataran a un sesenta por ciento del país?
+
+**V28.** Primer plano. Dijo Kurose—. Y sigue siendo mío.
+> **GLOBO:** El protocolo era mío
+
+### S14 · T3R · 2 viñetas
+**V29.** Entonces Rika hizo lo que había ido a hacer.
+
+**V30.** Sacó la libreta.
+
+### S15 · T2R · 1 viñeta
+**V31.** Primerísimo primer plano. Dijo.
+> **GLOBO:** Voy a reportar omega
+
+### S16 · T4R · 3 viñetas
+**V32.** Plano americano. Rika habla.
+> **GLOBO:** Omega no es una clasificación. —Kurose se puso rígido—. Lo sabes.
+
+**V33.** Plano de bocas. Rika habla.
+> **GLOBO:** Lo sé. Por eso lo reporto. —Rika abrió la libreta en la hoja donde la casilla seguía vacía—. Vamos a reportar, los cuatro, que hay un enemigo sin clasificar. Un enemigo que se detiene a mirar. Un enemigo que no se ve como un enemigo porque no lo es. Y vamos a reportar que ese enemigo existe desde el día uno y que el Sistema no tiene una fila para ponerlo. Y cuando el Sistema no tenga la fila, alguien va a tener que abrir las carpetas viejas para buscar cómo se clasificaba, y en las carpetas viejas, Kurose, está el expediente.
+
+**V34.** Contrapicado. Rika habla.
+> **GLOBO:** Estás usando a tu hermana de palanca.
+
+### S17 · T3R · 2 viñetas
+**V35.** Primer plano. Rika habla.
+> **GLOBO:** No. —Rika lo miró sin parpadear—. Estoy usando lo único que el papeleo no puede contestar. El papeleo de la invasión no tiene fila para omega. Y cuando el papeleo no tiene fila, el papeleo se rompe. Y cuando el papeleo se rompe, se abren los cajones.
+
+**V36.** Kurose la miró mucho tiempo.
+
+### S18 · T4R · 3 viñetas
+**V37.** Después miró al general, y el general miró el piso, porque el general había recibido la orden y llevaba nueve años esperando ese momento.
+
+**V38.** Primerísimo primer plano. Dijo Kurose.
+> **GLOBO:** Está bien
+
+**V39.** Al día siguiente llegaron los tres del Estado Mayor.
+
+### S19 · T4R · 3 viñetas
+**V40.** No vinieron en persona: el Estado Mayor no venía en persona a ninguna parte. Vinieron por la pantalla grande de la sala de mando, tres hombres de gris en una sala de Tokio, mirando a través del vidrio como se mira un pez en un pecera, y uno de ellos, el del medio, habló, y su voz sonó a fórmula, exactamente como la voz del Sistema:
+
+**V41.** Contrapicado. Rika habla.
+> **GLOBO:** ¿Es cierta esta clasificación? ¿Un enemigo sin clasificar, sostenido por los cuatro portadores?
+
+**V42.** Primer plano. Dijo Rika.
+> **GLOBO:** Es cierta
+
+### S20 · T3R · 2 viñetas
+**V43.** Plano medio. Rika habla.
+> **GLOBO:** ¿Y sobre qué base?
+
+**V44.** Plano detalle. Rika habla.
+> **GLOBO:** Sobre que existe. —Rika hizo una pausa—. Y sobre que ustedes ya lo sabían.
+
+### S21 · T2R · 1 viñeta
+**V45.** El de la pantalla no contestó.
+
+### S22 · T4R · 3 viñetas
+**V46.** Plano americano. Dijo Kurose, y le temblaba la voz—, abre el Legajo.
+> **GLOBO:** Osuka
+
+**V47.** Y Osuka, el auxiliar de archivo de voz suave, que llevaba toda su carrera esperando la orden y no la había recibido nunca, se levantó, anduvo hasta la pared del fondo de la sala, apartó el mapa de las puertas de Kanto, puso la mano sobre una placa de metal sin costura, y empujó.
+
+**V48.** El armario se abrió con un suspiro.
+
+### S23 · T3R · 2 viñetas
+**V49.** Adentro había una carpeta gris.
+
+**V50.** Solo una.
+
+### S24 · T2R · 1 viñeta
+**V51.** Plano detalle. Dijo Kurose, y lo dijo como el que recita el peso de algo que lleva cargando mucho tiempo—. Escrito antes del Silencio. Con fecha. Con firmas.
+> **GLOBO:** Trece páginas
+
+### S25 · T3R · 2 viñetas
+**V52.** Primerísimo primer plano. Dijo el del Estado Mayor, desde la pantalla.
+> **GLOBO:** Léalas
+
+**V53.** Plano americano. Dijo Kurose—. Cada noche, desde hace nueve años.
+> **GLOBO:** Ya las leí
+
+### S26 · T4R · 3 viñetas
+**V54.** Plano de bocas. Rika habla.
+> **GLOBO:** Ahora léalas en voz alta.
+
+**V55.** Y Kurose abrió la carpeta gris, y en la primera página, arriba, con la letra seca y las palabras contadas que se usan en los formularios, leyó en voz alta lo que Rika, Goro, Ren y Yui iban a recordar el resto de su vida.
+
+**V56.** *ORDEN OPERATIVA. No informar a la población civil. No iniciar evacuación. No desactivar el protocolo de puertas.*
+
+### S27 · T3R · 2 viñetas
+**V57.** Con la fecha.
+
+**V58.** Con las firmas.
+
+### S28 · T2R · 1 viñeta
+**V59.** Y una de las firmas, la de abajo, la de quien la había escrito con sus manos siete años antes de conocerlos, era la de Kurose Ken.
+
+---
+
+## Globos de diálogo (32)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V4 | Goro | Los que saben lo que cuesta esto son los que barren |
+| V5 | Rika | Sí |
+| V12 | Rika | Lo han traído |
+| V13 | Rika | Tráiganoslo usted a nosotros |
+| V14 | Rika | No existe un expediente. |
+| V15 | Rika | Kurose, por favor. —Rika se sentó, sin que la invitaran—. Llevamos nueve años. Yo vi a mi hermana entrar en un edificio que no volvió a abrirse y salir de él sin haber envejecido un día. Tú lo sabes desde el día tres. El Estado Mayor lo sabe desde antes. Hay una carpeta. Hay trece páginas. Y las tres personas que hay en esta sala saben que están ahí. |
+| V17 | Rika | Nadie niega que exista una carpeta. |
+| V18 | Rika | Entonces enséñela. |
+| V19 | Rika | No puedo. |
+| V20 | Rika | ¿Por qué? |
+| V21 | Rika | Porque el que la abre |
+| V23 | Ren | Usted la escribió |
+| V24 | Rika | Yo la escribí. No me la dictó nadie. No la firmé por otro. La redacté yo, con mis manos, siete años antes de conocerlos a ustedes. —Kurose cerró el informe anual—. Y el Estado Mayor la aprobó, y el general recibió la orden, y la orden decía lo que dicen las órdenes: no avisar. No evacuar. No alarmar. Esperar. |
+| V25 | Yui | ¿Esperar a qué? |
+| V26 | Rika | A que se cumpliera el protocolo. |
+| V27 | Rika | ¿Y cuál era el protocolo, Kurose? —Rika se puso de pie—. ¿Esperar a que catorce minutos mataran a un sesenta por ciento del país? |
+| V28 | Rika | El protocolo era mío |
+| V31 | Rika | Voy a reportar omega |
+| V32 | Rika | Omega no es una clasificación. —Kurose se puso rígido—. Lo sabes. |
+| V33 | Rika | Lo sé. Por eso lo reporto. —Rika abrió la libreta en la hoja donde la casilla seguía vacía—. Vamos a reportar, los cuatro, que hay un enemigo sin clasificar. Un enemigo que se detiene a mirar. Un enemigo que no se ve como un enemigo porque no lo es. Y vamos a reportar que ese enemigo existe desde el día uno y que el Sistema no tiene una fila para ponerlo. Y cuando el Sistema no tenga la fila, alguien va a tener que abrir las carpetas viejas para buscar cómo se clasificaba, y en las carpetas viejas, Kurose, está el expediente. |
+| V34 | Rika | Estás usando a tu hermana de palanca. |
+| V35 | Rika | No. —Rika lo miró sin parpadear—. Estoy usando lo único que el papeleo no puede contestar. El papeleo de la invasión no tiene fila para omega. Y cuando el papeleo no tiene fila, el papeleo se rompe. Y cuando el papeleo se rompe, se abren los cajones. |
+| V38 | Rika | Está bien |
+| V41 | Rika | ¿Es cierta esta clasificación? ¿Un enemigo sin clasificar, sostenido por los cuatro portadores? |
+| V42 | Rika | Es cierta |
+| V43 | Rika | ¿Y sobre qué base? |
+| V44 | Rika | Sobre que existe. —Rika hizo una pausa—. Y sobre que ustedes ya lo sabían. |
+| V46 | Rika | Osuka |
+| V51 | Rika | Trece páginas |
+| V52 | Rika | Léalas |
+| V53 | Rika | Ya las leí |
+| V54 | Rika | Ahora léalas en voz alta. |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Sábado 17 de junio de 2017. 9:00 a. m. Base NSF, Yokohama. |
+

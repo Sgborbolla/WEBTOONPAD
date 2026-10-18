@@ -1,0 +1,384 @@
+# CAPÍTULO 42 — El Trono y la Ley
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), negro (rango mando).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 19 pantallas de 800×1280 · 40 viñetas · 24320 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 42 (1 rótulo de escena). |
+| Fondo | Recuerdo · Gar-Máth, años antes. |
+| Personajes con nombre | Los cuatro transformados; vecinos del bloque |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 19 |
+| Viñetas | 40 |
+| Globos de diálogo | 2 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Cielo alienígena sobre Gar-Máth, nubes espirales.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 42` — mayúsculas, tamaño grande.
+- Línea 2: `«El Trono y la Ley»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T5 | 1 | 260 | 0/1020 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T2R | 1 | 1200 | 40/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Recuerdo · Gar-Máth, años antes.
+
+### S02 · T4R · 3 viñetas
+**V1.** A Vrak'thul lo llevaron a la Sima del Trono al año siguiente, dentro de un batallón de trabajo.
+
+**V2.** No lo llevaron por castigo ni por premio. En Gar-Máth los seres no iban a los sitios por lo que querían, sino por lo que faltaba: y en la capital faltaba gente que cargara piedra.
+
+**V3.** Así que cargó piedra, con otros cientos de la línea, llevando bloques de obsidiana desde las canteras hasta el pie de las fortalezas negras, y a cada viaje aprendió una cosa nueva del mundo que hasta entonces solo había visto desde abajo.
+
+### S03 · T3R · 2 viñetas
+**V4.** La Sima del Trono era el hemisferio de arriba. Allí el aire era más frío, el cielo más limpio, y las fortalezas no estaban hechas de chatarra remendada como las torres de su valle, sino de piedra negra y metal pesado, afiladas por arriba como colmillos, ordenadas en anillos concéntricos que subían hacia el centro como sube el agua por un embudo.
+
+**V5.** En el centro del embudo estaba el Trono.
+
+### S04 · T4R · 3 viñetas
+**V6.** Y en el Trono estaba él.
+
+**V7.** Kor-váth.
+
+**V8.** Vrak'thul lo vio una sola vez, desde muy lejos, cuando una fila de trabajo cruzó la plaza alta. No era el más grande de los de su especie, ni el más terrible a la vista.
+
+### S05 · T5 · 1 viñeta
+**V9.** Era más bien quieto. Estaba sentado en una silla de hueso que parecía el esqueleto de una bestia enorme, con la capa caída y la cabeza baja, y en las manos —unas manos con demasiados dedos— sostenía un bloque de piedra fina, de esos en los que se escribe.
+
+### S06 · T3R · 2 viñetas
+**V10.** Leía. El rey tirano leía, en medio de su reino de muerte, como lee un hombre una cuenta.
+
+**V11.** Plano americano. Alguien habla.
+> **GLOBO:** *Kor-váth.* —los pregoneros, a su lado, no paraban—. *Kor-váth rash-kósh, mar-uk!*
+
+### S07 · T4R · 3 viñetas
+**V12.** (Traducción: «El Trono. El Trono reclama, horda!»)
+
+**V13.** Alrededor del Trono, en semicírculo, estaban los seis.
+
+**V14.** Los Escalones Negros.
+
+### S08 · T4R · 3 viñetas
+**V15.** Los llamaban así porque no se sentaban ni se movían ni se inclinaban: eran seis columnas de piedra viva, más altas que cualquier torre, que permanecían de pie en el borde de la plaza mirando siempre hacia el mismo punto, hacia el rey, como si fueran ellas las que sostuvieran el techo del cielo.
+
+**V16.** Cada una tenía un trabajo. Vrak'thul lo supo después, cuando aprendió a leer. Uno llevaba la guerra. Uno, las crías de los Tubos. Uno, las brechas. Uno, el calor de los calderos.
+
+**V17.** Uno, la ley. Y uno —el más quieto de todos, el que nunca miraba al rey sino al suelo— llevaba las cuentas.
+
+### S09 · T3R · 2 viñetas
+**V18.** Ese era el que Vrak'thul reconoció sin haberlo visto nunca: el que recoge papeles. El que anota lo que hacen los demás. El que, en un mundo que se estaba muriendo, llevaba la contabilidad de la muerte como un escribano lleva la de un mercado.
+
+**V19.** La ley de Gar-Máth no tenía cárceles.
+
+### S10 · T2R · 1 viñeta
+**V20.** Vrak'thul lo aprendió en el mismo sitio donde aprendió a leerla. En la plaza había, tallados en la piedra negra del muro alto, los mandatos del Trono, y los mandatos no iban de lo que se debe hacer, sino de lo que se paga.
+
+### S11 · T4R · 3 viñetas
+**V21.** El que falla en la fila no va preso: se le quita el escalón y se le da el más bajo, y el más bajo no tiene retorno.
+
+**V22.** Al más bajo lo llamaban *Zar-uk*: los que caminan solos. Los vagabundos. Los que cruzan las brechas primero, sin órdenes, hasta que los mata la brecha o los mata la línea de atrás.
+
+**V23.** Plano detalle. Alguien habla.
+> **GLOBO:** *Zar-uk kósh.* —le explicó un viejo tallador, señalando los glifos—. *Min-vár kósh. Gar-t-rok kósh.*
+
+### S12 · T3R · 2 viñetas
+**V24.** (Traducción: «El vagabundo calla. La sombra calla. El soldado calla.»)
+
+**V25.** Callar, en Gar-Máth, no era una virtud. Era una ley. El que hablaba delante del Trono bajaba un escalón. El que bajaba un escalón ya no volvía a subir.
+
+### S13 · T4R · 3 viñetas
+**V26.** Por eso el mundo entero, un mundo de miles y miles, hablaba en coro y nunca solo: porque solo se hablaba para decir lo que el Trono quería oír, y lo que el Trono quería oír lo decían ya los pregoneros.
+
+**V27.** Vrak'thul, que era un *Gar-t-rok* de tercera fila, no debería haber aprendido a leer.
+
+**V28.** Pero en las noches frías, cuando el trabajo paraba y los de la línea se echaban en el suelo de metal a esperar la ración de gránulos, él se quedaba mirando los glifos del muro.
+
+### S14 · T3R · 2 viñetas
+**V29.** Trazos rectos. Ángulos afilados. Surcos grabados a garra. Aprendió a leerlos como había aprendido antes a leer los huecos de la formación: sin que nadie se lo enseñara, por pura necesidad de entender lo que estaba delante.
+
+**V30.** Y leyendo, un día, encontró la cosa que el Trono no quería que nadie leyera.
+
+### S15 · T2R · 1 viñeta
+**V31.** Estaba abajo, en una franja del muro que el polvo tapaba, tallada con menos cuidado que el resto, como si quien la escribió tuviera prisa o miedo. Eran pocas palabras.
+
+### S16 · T4R · 3 viñetas
+**V32.** Vrak'thul las juntó de a una, despacio, porque su lectura era todavía de niño, y cuando las tuvo todas se quedó quieto con la mano en la piedra y el corazón, que era de piedra también, golpeándole el pecho.
+
+**V33.** Las palabras decían:
+
+**V34.** *Si las brechas se abren muchas a la vez, las dos orillas caen.*
+
+### S17 · T3R · 2 viñetas
+**V35.** El Trono lo sabía.
+
+**V36.** El Trono sabía que abrir tantas puertas de golpe, como quería abrirlas para mudar a su pueblo entero, no salvaba a nadie: rompía las dos orillas, la de aquí y la de allá, el mundo de los kaiyu y el mundo de los otros.
+
+### S18 · T4R · 3 viñetas
+**V37.** Y aun así lo iba a hacer. Y aun así lo estaba haciendo, porque un rey a punto de perder su trono prefiere caer llevándose el techo.
+
+**V38.** Vrak'thul miró otra vez hacia la plaza, hacia el centro del embudo, hacia el rey que leía su cuenta de piedra con los seis Escalones Negros de pie a su lado.
+
+**V39.** Y aquella noche, al volver a la fila, no cantó el cántico.
+
+### S19 · T2R · 1 viñeta
+**V40.** Fue la primera vez que no lo cantó. Y nadie lo notó, porque un *Gar-t-rok* de tercera fila no es nadie. Que es, exactamente, la razón por la que se puede atrever a no cantar.
+
+---
+
+## Globos de diálogo (2)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V11 | — | *Kor-váth.* —los pregoneros, a su lado, no paraban—. *Kor-váth rash-kósh, mar-uk!* |
+| V23 | — | *Zar-uk kósh.* —le explicó un viejo tallador, señalando los glifos—. *Min-vár kósh. Gar-t-rok kósh.* |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Recuerdo · Gar-Máth, años antes. |
+

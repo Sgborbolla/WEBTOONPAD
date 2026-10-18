@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,6 +169,37 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro estaba detrás, con el escudo atado a la espalda y el casco de obra sin visor, mirando la línea como se mira la cuenta de algo que no se terminó.
+    - *En este capítulo (novela):* Rika estaba quieta, con la mano en el aire, otra vez con la mano en el aire, y Goro puso la suya sobre el hombro de Rika, con una presión de las que no piden permiso.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika estaba quieta, con la mano en el aire, otra vez con la mano en el aire, y Goro puso la suya sobre el hombro de Rika, con una presión de las que no piden permiso.
+    - *En este capítulo (novela):* Los cuatro se apartaron hacia la puerta, respetando el silencio, y desde el borde de la sala, Rika vio a Kurose abrir otro cajón pequeño y sacar una carpeta vacía, y colocarla en el hueco de la estantería, junto al expediente, como quien reserva sitio para algo que no ha llegado todavía.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren tenía las manos quietas a los costados, el amarillo chillón sobre el negro de la mañana, los puños cerrados.
+    - *En este capítulo (novela):* El haori se le movió con el viento, color hueso contra el gris, y los otros tres esperaron, sin decir nada, mirando la calle vacía: Goro vigilando, Ren con las manos en los bolsillos, Yui barriendo.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* —Existe —dijo Yui, cruzando los brazos—.
+    - *En este capítulo (novela):* El haori se le movió con el viento, color hueso contra el gris, y los otros tres esperaron, sin decir nada, mirando la calle vacía: Goro vigilando, Ren con las manos en los bolsillos, Yui barriendo.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), negro (rango mando).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** miércoles **17 de mayo de 2017**, 05:20 (base). Presente: 2026 (9 años).
 > **Bloques:** A = Después de cap06 (S01–S15, gutter cerrado) · B = Interior base NSF (S16–S65, gutter abierto)
@@ -198,6 +229,22 @@ ilustración.
 
 > Tras el cielo cerrado. El silencio pesa. **Gutter cerrado (35-40 px)**: la escena corre urgente.
 
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Cielo oscuro sobre la calle tras el portal, sin estrellas.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 7` — mayúsculas, tamaño grande.
+- Línea 2: `«Lo que quemó»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
 ## Mapa de pantallas del bloque A
 
 | S | Tipo | Viñetas | Alturas de viñeta | Gaps |
@@ -226,6 +273,7 @@ T2R = 1200 + 80 = 1280 · T3R = 570 + 570 + 140 = 1280 · T4R = 380×3 + 35×4 =
 ---
 
 ## Las viñetas del bloque A
+
 
 ### S01 · T6 · RÓTULO
 

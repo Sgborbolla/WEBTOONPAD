@@ -247,7 +247,7 @@ B21. cap14:3 "Sabado 20 de mayo. 09:15. Sector Ocho" vs cap13:161 el
 B22. cap16:9 herida de Rika "el corte le recorria el antebrazo" sin que
     ninguna escena previa (13-15) se la muestre recibiendo el corte.
     Añadir el origen, o quitarla.
-B23. cap16:11 "Jūmoji Tsuyoshi... Treinta y seis anos": dato nuevo no
+B23. cap16:11 "Jumoji Tsuyoshi... Treinta y seis anos": dato nuevo no
     armonizado con el resto de materiales.
 B24. cap17:33-39 "Entre carga y carga, su cuerpo se recargaba solo.
     Apenas un parpadeo" vs cap11:263-265 "—Tienes tres. —Tenía tres."

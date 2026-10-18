@@ -1,4 +1,4 @@
-# CAPÍTULO 27 — "Operaciones mixtas"
+# CAPÍTULO 27 — Operaciones mixtas
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,5 +168,151 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. Primer equipo mixto, confianza.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro se plantó en el centro con el escudo.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui se colocó atrás con el rifle, buscando ángulos.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 8 pantallas de 800×1280 · 17 viñetas · 10240 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 27 (1 rótulo de escena). |
+| Fondo | Viernes 26 de mayo de 2017. 2:00 p. m. Sector Diez, primera operación conjunta. |
+| Personajes con nombre | Los cuatro transformados; vecinos del bloque |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 8 |
+| Viñetas | 17 |
+| Globos de diálogo | 0 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde sobre el Sector Diez, polvo en el aire.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 27` — mayúsculas, tamaño grande.
+- Línea 2: `«Operaciones mixtas»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T5 | 1 | 260 | 0/1020 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Viernes 26 de mayo de 2017. 2:00 p. m. Sector Diez, primera operación conjunta.
+
+### S02 · T4R · 3 viñetas
+**V1.** La OIDA era aún un embrión. Apenas unas horas sobre el papel, sin estructura definida. Pero ya se estaba poniendo a prueba por primera vez.
+
+**V2.** Una formación mixta de kaiyu había sido detectada en el Sector Diez. En lugar de enviar solo a la NSF, por primera vez se formaba un equipo conjunto con agentes recién llegados de Corea y del Reino Unido.
+
+**V3.** Los cuatro formaban parte del equipo, naturalmente.
+
+### S03 · T3R · 2 viñetas
+**V4.** La reunión previa fue tensa. Los recién llegados los miraban con una mezcla de curiosidad y escepticismo. Habían oído rumores de los cuatro que luchaban coordinados, pero verlos en persona era otra cosa.
+
+**V5.** El equipo se dividió con cautela. No había confianza aún. Cada uno tendía a cubrir su propio flanco, a seguir sus propios protocolos.
+
+### S04 · T4R · 3 viñetas
+**V6.** La cosa cambió en cuanto empezó la pelea.
+
+**V7.** Un grupo de seis amarillos y dos naranjas había tomado posiciones entre unos talleres abandonados. Al principio, el equipo mixto funcionaba a trompicones. Se pisaban unos a otros, dejaban huecos, dudaban a la hora de cubrirse entre desconocidos.
+
+**V8.** Hasta que los cuatro, por instinto, retomaron su formación natural.
+
+### S05 · T5 · 1 viñeta
+**V9.** Sin decir una palabra, Rika ocupó el flanco derecho. Goro se plantó en el centro con el escudo. Yui se colocó atrás con el rifle, buscando ángulos. Ren empezó a cubrir huecos entre todos, no solo entre ellos cuatro.
+
+### S06 · T3R · 2 viñetas
+**V10.** Algo hizo clic.
+
+**V11.** Los demás, al ver cómo funcionaba, empezaron a adaptarse. Dejaron de intentar imponerse y empezaron a leer el ritmo. Cubrían cuando veían que otro quedaba expuesto. Dejaban huecos a los que sabían que iban a aparecer por ellos.
+
+### S07 · T4R · 3 viñetas
+**V12.** Para cuando terminó la pelea, ya no era un grupo de gente de distintos países peleando juntos. Era un equipo.
+
+**V13.** Mientras revisaban la zona en silencio, uno de los agentes británicos se acercó a Ren y le tendió un paquete de barritas energéticas sin decir nada. Ren lo miró sorprendido, luego sonrió con su media sonrisa y tomó una.
+
+**V14.** Otro agente coreano comentó algo en su idioma a Yui, y ambos asintieron con comprensión mutua tras intercambiar unas pocas palabras en inglés básico.
+
+### S08 · T4R · 3 viñetas
+**V15.** Rika observaba con una sonrisa pequeña. Goro también.
+
+**V16.** No hacía falta hablar el mismo idioma para saber cuándo alguien te cubre la espalda.
+
+**V17.** Ese día, la OIDA dejó de ser solo un nombre en una hoja de papel. Empezó a existir de verdad.
+
+---
+
+## Globos de diálogo (0)
+
+| V | Personaje | Texto |
+|---|---|---|
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Viernes 26 de mayo de 2017. 2:00 p. m. Sector Diez, primera operación conjunta. |
+

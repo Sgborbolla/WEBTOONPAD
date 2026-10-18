@@ -1,4 +1,4 @@
-# CAPÍTULO 24 — "El Asesor"
+# CAPÍTULO 24 — El Asesor
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,7 +168,284 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. Habla palabra ajena. Señala adentro.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
 
-> **Gancho 30–40%:** primera palabra kaiyu.
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Ren se coló por el hueco y distrajo su atención el tiempo justo para que Goro le clavara el escudo en el costado, desequilibrándolo.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Cuando sus ojos ámbar se posaron en Rika, se detuvo.
+    - *En este capítulo (novela):* —Hay algo ahí abajo —afirmó Rika con convicción—.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren se coló por el hueco y distrajo su atención el tiempo justo para que Goro le clavara el escudo en el costado, desequilibrándolo.
+    - *En este capítulo (novela):* La palabra del Asesor resonaba una y otra vez en la cabeza de Ren, negándose a borrarse.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* —No lo sé —respondió Yui, sin apartar la vista del rojo.
+    - *En este capítulo (novela):* Yui le disparó a una articulación del hombro, obligándolo a bajar el brazo.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), naranja (rango subjefe), rojo (rango jefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 25 pantallas de 800×1280 · 53 viñetas · 32000 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 24 (1 rótulo de escena). |
+| Fondo | Martes 23 de mayo de 2017. 9:00 p. m. Plaza del Distrito Central. |
+| Personajes con nombre | Goro, Rika, Ren, Yui |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 25 |
+| Viñetas | 53 |
+| Globos de diálogo | 11 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Noche sobre la plaza central, farolas encendidas.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 24` — mayúsculas, tamaño grande.
+- Línea 2: `«El Asesor»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T2R | 1 | 1200 | 40/40 |
+| S22 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S23 | T3R | 2 | 570/570 | 40/60/40 |
+| S24 | T2R | 1 | 1200 | 40/40 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Martes 23 de mayo de 2017. 9:00 p. m. Plaza del Distrito Central.
+
+### S02 · T4R · 3 viñetas
+**V1.** La alarma llegó cuando ya anochecía.
+
+**V2.** Tres naranjas y un rojo se habían concentrado en la Plaza del Distrito Central. Y esta vez, el rojo no se alejaba.
+
+**V3.** Los cuatro corrieron hacia allí con el estómago encogido. Tras lo que habían presenciado aquella misma tarde, sabían que enfrentarse a otro rojo iba a ser completamente distinto.
+
+### S03 · T3R · 2 viñetas
+**V4.** Cuando llegaron, la plaza estaba prácticamente vacía. Solo quedaban farolas parpadeando y papeleras volcadas.
+
+**V5.** El rojo les esperaba en el centro, completamente inmóvil. A su alrededor, los tres naranjas formaban un triángulo, cubriéndolo con una disciplina casi militar.
+
+### S04 · T4R · 3 viñetas
+**V6.** Este rojo era ligeramente distinto al de la tarde. Más imponente. Sus crestas eran más largas y sus estrías negras brillaban con un tono violáceo bajo la luz de las farolas.
+
+**V7.** Sus ojos ámbar los observaban con una inteligencia aguda, calculadora.
+
+**V8.** Plano medio. Murmuró Goro, recordando lo poco que habían oído en informes fragmentarios.
+> **GLOBO:** Ese es el Asesor
+
+### S05 · T2R · 1 viñeta
+**V9.** El Asesor inclinó levemente la cabeza hacia un lado, estudiándolos uno por uno. Cuando sus ojos ámbar se posaron en Rika, se detuvo. Se quedó mirándola fijamente durante un instante, con una atención distinta, más blanda, como si en ella reconociera a alguien más pequeño que no estaba allí.
+
+### S06 · T3R · 2 viñetas
+**V10.** Y, para sorpresa absoluta de todos, habló.
+
+**V11.** Plano americano. Dijo el Asesor.
+> **GLOBO:** *K-vár-uk.*
+
+### S07 · T4R · 3 viñetas
+**V12.** Una única palabra. Sólida. Gutural. Con una fonética completamente ajena a cualquier idioma humano que conocieran.
+
+**V13.** *(Traducción: «Aún recuerdo».)*
+
+**V14.** Los cuatro se quedaron paralizados. Ninguno de ellos podía oír la traducción, porque la traducción no había sido dicha: era el eco que el sonido dejaba en el aire, para quien mirara desde fuera.
+
+### S08 · T4R · 3 viñetas
+**V15.** Un kaiyu acababa de hablar.
+
+**V16.** Nunca antes habían oído nada parecido. No era un gruñido. No era un rugido. Era una palabra con intención. Con significado.
+
+**V17.** El Asesor repitió la palabra, esta vez más baja, como si estuviera probando a ver si reaccionaban.
+
+### S09 · T3R · 2 viñetas
+**V18.** Plano americano. Rika habla.
+> **GLOBO:** *K-vár-uk.*
+
+**V19.** Ren frunció el ceño con fuerza, intentando grabar el sonido en su memoria con desesperación.
+
+### S10 · T2R · 1 viñeta
+**V20.** Contrapicado. Susurró.
+> **GLOBO:** ¿Qué ha dicho...?
+
+### S11 · T4R · 3 viñetas
+**V21.** Primer plano. Respondió Yui, sin apartar la vista del rojo.
+> **GLOBO:** No lo sé
+
+**V22.** Los tres naranjas atacaron al unísono, rompiendo el momento de estupor.
+
+**V23.** La pelea estalló con brutal intensidad.
+
+### S12 · T3R · 2 viñetas
+**V24.** Los cuatro lucharon con todo lo que habían aprendido hasta entonces. Coordinaban cada movimiento con una precisión milimétrica, cubriéndose mutuamente, aprovechando huecos, creando aperturas. Usaban la experiencia acumulada desde el primer día: la coordinación del equipo, la visión de huecos de Ren, el alcance de Yui, la solidez de Goro, el filo letal de Rika.
+
+**V25.** El Asesor no se limitaba a atacar. Observaba. Adaptaba. Respondía a sus tácticas con una rapidez aterradora, contrarrestando sus movimientos casi antes de que los ejecutaran.
+
+### S13 · T4R · 3 viñetas
+**V26.** Era, con diferencia, el oponente más inteligente al que se habían enfrentado jamás.
+
+**V27.** Tras una larga y agotadora lucha, lograron abrir una brecha. Yui le disparó a una articulación del hombro, obligándolo a bajar el brazo. Ren se coló por el hueco y distrajo su atención el tiempo justo para que Goro le clavara el escudo en el costado, desequilibrándolo.
+
+**V28.** Rika aprovechó la apertura y, con un corte limpio y certero, le abrió una brecha en el pecho.
+
+### S14 · T3R · 2 viñetas
+**V29.** El Asesor trastabilló hacia atrás, con una mano sobre la herida.
+
+**V30.** Y, una vez más, miró hacia el fondo de la plaza. Hacia un callejón oscuro que se adentraba entre edificios.
+
+### S15 · T2R · 1 viñeta
+**V31.** Señaló hacia allí con un dedo tembloroso.
+
+### S16 · T4R · 3 viñetas
+**V32.** Exactamente igual que había hecho el Portero Encabezado.
+
+**V33.** Luego, con un último vistazo a Rika, se convirtió en polvo y se dispersó con el viento.
+
+**V34.** Los tres naranjas restantes cayeron poco después, con menos resistencia ahora que su líder había caído.
+
+### S17 · T3R · 2 viñetas
+**V35.** La plaza quedó sumida en un silencio pesado.
+
+**V36.** Los cuatro estaban jadeando, con las manos apoyadas en las rodillas, intentando recuperar el aliento.
+
+### S18 · T4R · 3 viñetas
+**V37.** Plano detalle. Dijo Goro entre respiraciones.
+> **GLOBO:** Volvió a señalar hacia dentro
+
+**V38.** Primerísimo primer plano. Rika habla.
+> **GLOBO:** Quiere que miremos ahí —asintió Rika.
+
+**V39.** Con cautela, se adentraron por el callejón que el Asesor había indicado. Tras doblar una esquina, se encontraron con una pequeña entrada que daba a un sótano. La puerta metálica estaba entreabierta.
+
+### S19 · T4R · 3 viñetas
+**V40.** Bajaron por una escalera de hormigón hasta desembocar en una sala similar a la que habían encontrado tras derrotar al Portero Encabezado.
+
+**V41.** Allí, flotando en el centro, había otro portal azul oscuro. Estable. Pulsante con suavidad.
+
+**V42.** Igual que el anterior.
+
+### S20 · T3R · 2 viñetas
+**V43.** Los cuatro se quedaron mirándolo en silencio, con una mezcla de inquietud y determinación.
+
+**V44.** Plano detalle. Murmuró Yui.
+> **GLOBO:** Son dos
+
+### S21 · T2R · 1 viñeta
+**V45.** Primerísimo primer plano. Dijo Ren.
+> **GLOBO:** Y ambos señalan lo mismo
+
+### S22 · T4R · 3 viñetas
+**V46.** Plano americano. Rika habla.
+> **GLOBO:** Hay algo ahí abajo —afirmó Rika con convicción—. Algo relacionado con omega.
+
+**V47.** Goro asintió.
+
+**V48.** Contrapicado. Goro habla.
+> **GLOBO:** Tarde o temprano tendremos que entrar.
+
+### S23 · T3R · 2 viñetas
+**V49.** Pero no esa noche. Estaban demasiado agotados. Además, necesitaban pensar. Necesitaban entender qué estaba ocurriendo.
+
+**V50.** Subieron de nuevo a la plaza y emprendieron el camino de vuelta con paso lento, cada uno sumido en sus propios pensamientos.
+
+### S24 · T2R · 1 viñeta
+**V51.** La palabra del Asesor resonaba una y otra vez en la cabeza de Ren, negándose a borrarse. Quería recordarla con exactitud. Quería saber qué significaba.
+
+### S25 · T3R · 2 viñetas
+**V52.** Porque estaba convencido de que era importante.
+
+**V53.** Muy importante.
+
+---
+
+## Globos de diálogo (11)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V8 | Goro | Ese es el Asesor |
+| V11 | Rika | *K-vár-uk.* |
+| V18 | Rika | *K-vár-uk.* |
+| V20 | Ren | ¿Qué ha dicho...? |
+| V21 | Yui | No lo sé |
+| V37 | Goro | Volvió a señalar hacia dentro |
+| V38 | Rika | Quiere que miremos ahí —asintió Rika. |
+| V44 | Yui | Son dos |
+| V45 | Ren | Y ambos señalan lo mismo |
+| V46 | Rika | Hay algo ahí abajo —afirmó Rika con convicción—. Algo relacionado con omega. |
+| V48 | Goro | Tarde o temprano tendremos que entrar. |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Martes 23 de mayo de 2017. 9:00 p. m. Plaza del Distrito Central. |
+

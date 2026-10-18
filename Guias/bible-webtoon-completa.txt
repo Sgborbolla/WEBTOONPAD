@@ -138,7 +138,7 @@ Descripción **corta, fija y literal** por personaje. Se repite **palabra por pa
 
 | Personaje | Descripción ancla (literal) |
 |---|---|
-| **Rika Tsukimi — La Hoja** | Mujer, 24 años (15 día 1), 158 cm, pelo rojo largo en coleta alta, cicatriz vieja en ceja izquierda, yukata gris oscuro, haori corto color hueso (prenda más clara de la página), vendas blancas en antebrazos, sandalias de rejilla. Marca única: haori ondeando detrás. |
+| **Rika Tsukimi — La Hoja** | Mujer, 24 años (15 día 1), 158 cm, pelo rojo largo en coleta alta, cicatriz vieja en ceja izquierda, kimono corto negro, haori corto color hueso (prenda más clara de la página), vendas blancas en antebrazos, sandalias de rejilla. Marca única: haori ondeando detrás. |
 | **Goro Arashi — El Yunque** | Hombre, 41 años (32 día 1), 195 cm, muy ancho, cabeza hundida entre hombros, mandíbula cuadrada, sin pelo, quemadura vieja en cuello, armadura de guardia reensamblada con placas oxidadas, escudo industrial atado a la espalda, casco de obra sin visor, gris/acero viejo. Marca única: escudo atado a la espalda. |
 | **Ren Hayashi — El Relámpago** | Hombre, 25 cronológico, 19 aparentes (16 día 1), delgado, manos nerviosas, cabeza 25% altura, agujero en manga, cinta blanca, vendas en muñecas, zapatillas de running gastadas, **amarillo chillón sobre negro** (más saturado). Marca única: amarillo chillón + vendas. |
 | **Yui Nakamura — La Distancia** | Mujer, 31 años (22 día 1), 172 cm, erguida, uniforme militar gris azulado con chaleco portaplacas, guantes claros, **pelo en mono alto** (5 px por encima de cabeza), rifle de cerrojo a la espalda. Marca única: mono alto + rifle de cerrojo. |

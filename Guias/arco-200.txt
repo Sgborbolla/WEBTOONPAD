@@ -128,9 +128,9 @@ Formato: `cap | tipo | apertura | beats | gancho 30-40% | cierre (E=emocional, T
 - **Cierre (E):** cuenta los segundos que oyó antes de que pasara. Eran tres. Siempre tres.
 - Kit: Yui (ondas concentricas).
 
-### 16 — "Jūmoji" · Tensión
+### 16 — "Jumoji" · Tensión
 - **Apertura:** el equipo médico. Rika con el antebrazo abierto.
-- **Beats:** Jūmoji le cose el antebrazo sin anestesia; el hospital de la frontera; los que entran y no salen.
+- **Beats:** Jumoji le cose el antebrazo sin anestesia; el hospital de la frontera; los que entran y no salen.
 - **Gancho:** una camilla sin nombre. Nadie pregunta por ella.
 - **Cierre (E):** Yui escribe en el cuaderno un nombre que no se lleva puesto.
 

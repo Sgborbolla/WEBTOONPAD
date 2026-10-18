@@ -1,4 +1,4 @@
-# CAPÍTULO 21 — "El Portero Encabezado"
+# CAPÍTULO 21 — El Portero Encabezado
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,7 +168,250 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. 2 naranjas + jefe. Señala adentro.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
 
-> **Gancho 30–40%:** señala hacia interior antes de caer.
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* —Este es distinto —murmuró Goro, bajando el escudo.
+    - *En este capítulo (novela):* Ren se deslizó entre huecos, obligando al segundo a girar una y otra vez hasta que Goro le cerró el paso con el escudo y lo dejó expuesto para el disparo preciso de Yui.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika aprovechó la apertura para deslizarse bajo el brazo extendido y lanzar una ráfaga de cortes con el abanico, abriendo quemaduras a lo largo de sus costados.
+    - *En este capítulo (novela):* Rika se lanzó hacia delante con todo el impulso de su dash y le asestó un corte transversal limpio al cuello, justo donde las placas se separaban.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren se deslizó entre huecos, obligando al segundo a girar una y otra vez hasta que Goro le cerró el paso con el escudo y lo dejó expuesto para el disparo preciso de Yui.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* —Sabe que estamos aquí —añadió Yui, con el rifle ya preparado.
+    - *En este capítulo (novela):* Ren se deslizó entre huecos, obligando al segundo a girar una y otra vez hasta que Goro le cerró el paso con el escudo y lo dejó expuesto para el disparo preciso de Yui.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), naranja (rango subjefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 20 pantallas de 800×1280 · 44 viñetas · 25600 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 21 (1 rótulo de escena). |
+| Fondo | Lunes 22 de mayo de 2017. 11:00 a. m. Sector Nueve. |
+| Personajes con nombre | Goro, Yui, Ren, Rika |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 20 |
+| Viñetas | 44 |
+| Globos de diálogo | 8 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Mediodía inclemente sobre el Sector Nueve, cielo blanco.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 21` — mayúsculas, tamaño grande.
+- Línea 2: `«El Portero Encabezado»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Lunes 22 de mayo de 2017. 11:00 a. m. Sector Nueve.
+
+### S02 · T4R · 3 viñetas
+**V1.** El golpe de no haber podido sacarla duró toda la mañana.
+
+**V2.** Todavía con la imagen del aula clavada en la cabeza, los cuatro recibieron el aviso con el ceño fruncido: una formación anormal se estaba concentrando en el Sector Nueve.
+
+**V3.** No eran los amarillos de costumbre. Eran naranjas.
+
+### S03 · T3R · 2 viñetas
+**V4.** Dos de ellos.
+
+**V5.** Y con ellos, algo más grande.
+
+### S04 · T4R · 3 viñetas
+**V6.** El Sector Nueve era un complejo de almacenes semiabandonados, con calles estrechas entre hangares de acero y muelles de carga cubiertos. El eco resonaba entre los muros, lo que hacía que cualquier movimiento sonara mucho más grande de lo que era.
+
+**V7.** Cuando llegaron, lo vieron al instante.
+
+**V8.** En el centro del patio de maniobras, entre montones de contenedores apilados, se alzaba el Portero Encabezado. Era uno de los ocho grandes. Mucho más corpulento que un naranja corriente, con placas óseas que le recorrían los hombros y brazos, y un cráneo alargado con dos cuernos cortos hacia atrás.
+
+### S05 · T2R · 1 viñeta
+**V9.** Su piel tenía un tono gris oscuro con vetas negruzcas y sus ojos eran dos ranuras carmesí con un brillo cruelmente inteligente.
+
+### S06 · T3R · 2 viñetas
+**V10.** Lo flanqueaban dos naranjas, más delgados, pero igual de peligrosos. Se mantenían a distancia, cubriéndole los flancos con una disciplina que no solían mostrar los kaiyu.
+
+**V11.** Plano americano. Murmuró Goro, bajando el escudo.
+> **GLOBO:** Este es distinto
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Añadió Yui, con el rifle ya preparado.
+> **GLOBO:** Sabe que estamos aquí
+
+**V13.** El Portero Encabezado los miró con calma, como si estuviera evaluando cada uno de ellos por separado. Luego levantó un brazo enorme y señaló con el índice hacia el fondo del complejo.
+
+**V14.** No hacia ellos. Hacia el interior.
+
+### S08 · T4R · 3 viñetas
+**V15.** Plano medio. Susurró Ren.
+> **GLOBO:** Señala adentro
+
+**V16.** Plano detalle. Dijo Rika, apretando el abanico con fuerza—. O nos está avisando de lo que hay detrás.
+> **GLOBO:** Quiere que vayamos por ahí
+
+**V17.** No había tiempo para especulaciones.
+
+### S09 · T3R · 2 viñetas
+**V18.** Los dos naranjas se lanzaron primero, intentando dividir al grupo. Pero para entonces los cuatro ya se movían como una sola unidad. Rika se encargó del flanco derecho con su abanico de brasa, cortando la trayectoria del primero antes de que pudiera llegar hasta Yui.
+
+**V19.** Ren se deslizó entre huecos, obligando al segundo a girar una y otra vez hasta que Goro le cerró el paso con el escudo y lo dejó expuesto para el disparo preciso de Yui.
+
+### S10 · T2R · 1 viñeta
+**V20.** En cuestión de segundos, los dos flanqueadores yacían convertidos en polvo.
+
+### S11 · T4R · 3 viñetas
+**V21.** Entonces el Portero Encabezado rugió.
+
+**V22.** Fue un sonido grave, gutural, que hizo vibrar los contenedores y reverberar por todo el complejo.
+
+**V23.** Cargó con una fuerza demoledora, blandiendo sus enormes brazos. Goro plantó los pies y recibió el impacto con el escudo, hincando una rodilla en el asfalto por la brutalidad del golpe.
+
+### S12 · T3R · 2 viñetas
+**V24.** Las grietas se extendieron a su alrededor.
+
+**V25.** Rika aprovechó la apertura para deslizarse bajo el brazo extendido y lanzar una ráfaga de cortes con el abanico, abriendo quemaduras a lo largo de sus costados. Ren zigzagueaba a su alrededor, buscando huecos entre las placas óseas para atacar los puntos más vulnerables.
+
+### S13 · T4R · 3 viñetas
+**V26.** Yui se mantenía a distancia, disparando con frialdad a las articulaciones, buscando debilitar sus movimientos.
+
+**V27.** Lucharon con todo lo aprendido en las peleas anteriores. Coordinados. Silenciosos. Cada uno cubriendo al otro sin necesidad de hablar. Era la primera vez que se enfrentaban a un jefe de verdad juntos, y funcionaba.
+
+**V28.** Al final, tras un impacto conjunto perfectamente sincronizado, el Portero Encabezado trastabilló hacia atrás. Rika se lanzó hacia delante con todo el impulso de su dash y le asestó un corte transversal limpio al cuello, justo donde las placas se separaban.
+
+### S14 · T3R · 2 viñetas
+**V29.** El gigante se tambaleó, cayó sobre una rodilla y, con un último resoplido, se deshizo en polvo gris.
+
+**V30.** Un silencio denso se instaló entre los contenedores.
+
+### S15 · T2R · 1 viñeta
+**V31.** Y, tal como había hecho antes de caer, con el último vestigio de consciencia, el Portero Encabezado giró la cabeza hacia el fondo del complejo y volvió a señalar hacia el interior.
+
+### S16 · T4R · 3 viñetas
+**V32.** Plano americano. Murmuró Goro, siguiendo su mirada.
+> **GLOBO:** Ahí hay algo
+
+**V33.** Al otro lado de los hangares se abría un pasillo de servicio que descendía ligeramente, adentrándose bajo los almacenes. Una luz débil, azulada, se filtraba desde el fondo.
+
+**V34.** Contrapicado. Dijo Rika sin dudar.
+> **GLOBO:** Vamos a ver
+
+### S17 · T3R · 2 viñetas
+**V35.** Descendieron con cautela, con las armas preparadas. El pasillo desembocaba en una gran sala subterránea, con pilares de hormigón y un suelo de losas gastadas. En el centro, un portal rectangular de color azulado oscuro flotaba inmóvil, pulsando con una luz tenue.
+
+**V36.** No era como los portales que habían visto hasta ahora. Era estable. Calmo.
+
+### S18 · T4R · 3 viñetas
+**V37.** Plano detalle. Susurró Yui.
+> **GLOBO:** Está abierto
+
+**V38.** Ren dio un paso adelante y frunció el ceño.
+
+**V39.** Plano americano. Ren habla.
+> **GLOBO:** No emite esa presión agresiva. Parece... distinto.
+
+### S19 · T4R · 3 viñetas
+**V40.** Rika se quedó mirándolo fijamente. Algo en su interior le decía que aquel portal tenía relación con lo que habían encontrado en la guardería. Con omega. Con Mio.
+
+**V41.** Pero no era el momento. Todavía no.
+
+**V42.** Retrocedieron con cuidado, dejando el portal tal como lo habían encontrado.
+
+### S20 · T3R · 2 viñetas
+**V43.** Fuera, el complejo volvía a estar silencioso. Solo quedaba polvo gris dispersándose con la brisa.
+
+**V44.** Los cuatro intercambiaron una mirada. Sabían que, tarde o temprano, tendrían que volver allí. Y que cuando lo hicieran, nada volvería a ser igual.
+
+---
+
+## Globos de diálogo (8)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V11 | Goro | Este es distinto |
+| V12 | Yui | Sabe que estamos aquí |
+| V15 | Ren | Señala adentro |
+| V16 | Rika | Quiere que vayamos por ahí |
+| V32 | Goro | Ahí hay algo |
+| V34 | Rika | Vamos a ver |
+| V37 | Yui | Está abierto |
+| V39 | Ren | No emite esa presión agresiva. Parece... distinto. |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Lunes 22 de mayo de 2017. 11:00 a. m. Sector Nueve. |
+

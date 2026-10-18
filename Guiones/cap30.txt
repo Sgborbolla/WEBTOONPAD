@@ -1,4 +1,4 @@
-# CAPÍTULO 30 — "Puente entre mundos"
+# CAPÍTULO 30 — El que se detuvo
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,5 +168,202 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. Posibilidad de puente.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* En ese segundo, Rika comprendió dos cosas a la vez: que el naranja no venía a matarlos, y que acababa de decir, con toda la claridad que su garganta de piedra permitía, algo que solo tenía sentido para los que ya habían oído la otra palabra.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe), rojo (rango jefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 13 pantallas de 800×1280 · 28 viñetas · 16640 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 30 (1 rótulo de escena). |
+| Fondo | Martes 30 de mayo de 2017. 4:00 p. m. Sector Doce, calle en obras. |
+| Personajes con nombre | Rika, Yui, Ren |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 13 |
+| Viñetas | 28 |
+| Globos de diálogo | 10 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde sobre la calle en obras, cielo con nubes.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 30` — mayúsculas, tamaño grande.
+- Línea 2: `«El que se detuvo»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Martes 30 de mayo de 2017. 4:00 p. m. Sector Doce, calle en obras.
+
+### S02 · T4R · 3 viñetas
+**V1.** Rika lo vio primero, y por eso tuvo tiempo de decidir que no lo diría.
+
+**V2.** El naranja llevaba un rato plantado en medio de la calle en obras, entre una excavadora parada y un montón de arena, quieto como una grúa apagada. Del tamaño de un camión, con el lomo lleno de placas y las estrías rojas ya desteñidas a un óxido sucio.
+
+**V3.** No había atacado a nadie. No había huido. Solo estaba ahí, en mitad de la tarde, mirando.
+
+### S03 · T3R · 2 viñetas
+**V4.** A su lado, el británico —el alto, el que no se movía— ya había levantado el puño, marcando el protocolo que todos conocían: contacto confirmado, neutralizar.
+
+**V5.** Plano de bocas. Dijo Rika.
+> **GLOBO:** Espera
+
+### S04 · T4R · 3 viñetas
+**V6.** Contrapicado. Contestó el británico, sin bajar el puño.
+> **GLOBO:** El papel es claro
+
+**V7.** Primer plano. Rika habla.
+> **GLOBO:** El papel lo escribió alguien que no ha estado aquí.
+
+**V8.** El naranja giró la cabeza. Despacio. Como giran las cosas pesadas cuando alguien decide girarlas. Pasó la mirada por Goro, por Ren, por Yui; se detuvo un instante en la excavadora, como si la reconociera; y al final se posó en Rika, y se quedó ahí, quieta, con una atención distinta, más blanda, la misma que Rika había visto en una plaza hacía una semana y que no había sabido nombrar.
+
+### S05 · T2R · 1 viñeta
+**V9.** Y habló.
+
+### S06 · T3R · 2 viñetas
+**V10.** Primerísimo primer plano. Yui habla.
+> **GLOBO:** *K-vár-ro.*
+
+**V11.** (Traducción: «Yo recuerdo».)
+
+### S07 · T4R · 3 viñetas
+**V12.** Los cuatro se quedaron sin aire. El británico no entendió nada, lo cual, para lo que vino después, fue lo mejor que pudo pasarle.
+
+**V13.** Hubo un segundo entero de silencio. En ese segundo, Rika comprendió dos cosas a la vez: que el naranja no venía a matarlos, y que acababa de decir, con toda la claridad que su garganta de piedra permitía, algo que solo tenía sentido para los que ya habían oído la otra palabra.
+
+**V14.** La de la plaza. La del Asesor.
+
+### S08 · T4R · 3 viñetas
+**V15.** `Aún recuerdo` —había dicho el rojo.
+
+**V16.** `Yo recuerdo` —acababa de decir aquel.
+
+**V17.** El naranja volvió a girar la cabeza, esta vez hacia un callejón abierto entre dos edificios a medio levantar. Dio dos pasos. Se detuvo. Sin mirar atrás, como quien deja una puerta abierta y no espera que la crucen, se metió en la sombra del callejón y desapareció sin apurarse.
+
+### S09 · T3R · 2 viñetas
+**V18.** Plano americano. Dijo Ren.
+> **GLOBO:** Se va
+
+**V19.** Plano de bocas. Rika habla.
+> **GLOBO:** Sí.
+
+### S10 · T2R · 1 viñeta
+**V20.** Contrapicado. Rika habla.
+> **GLOBO:** Y no le hemos disparado.
+
+### S11 · T4R · 3 viñetas
+**V21.** Primer plano. Rika habla.
+> **GLOBO:** No.
+
+**V22.** El británico bajó el puño, furioso, y empezó a hablar de informes. Ren se puso delante de él, con la media sonrisa quitada del todo, y le dijo muy despacio, en el inglés malo que le habían dado los aeropuertos, que si quería escribir algo, escribiera que no habían llegado a tiempo.
+
+**V23.** Que el contacto se había retirado antes de que nadie pudiera reaccionar. Que no había nada que registrar.
+
+### S12 · T3R · 2 viñetas
+**V24.** El británico lo pensó. Miró el callejón vacío. Y guardó el puño y el cuaderno, porque, aunque no lo entendía, algo en el modo en que los cuatro se habían quedado mirando aquella esquina le dijo que acababa de perderse una parte de la historia que a él no le tocaba contar.
+
+**V25.** Plano americano. Preguntó Yui cuando estuvieron solos.
+> **GLOBO:** ¿Qué ha sido eso?
+
+### S13 · T4R · 3 viñetas
+**V26.** Rika miró el callejón un rato largo.
+
+**V27.** Contrapicado. Dijo—. Pero no era una bestia.
+> **GLOBO:** No lo sé
+
+**V28.** Nadie firmó el parte de aquella tarde. En la hoja oficial, la calle en obras no tuvo incidente: solo una patrulla que pasó y no encontró nada. Y la palabra, la segunda palabra de aquel idioma que no era de nadie, se quedó entre los cuatro, sin casilla, sin registro, esperando —como Mio, como el papel doblado en la manga de Rika— el día en que alguien decidiera explicarla.
+
+---
+
+## Globos de diálogo (10)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V5 | Rika | Espera |
+| V6 | Rika | El papel es claro |
+| V7 | Rika | El papel lo escribió alguien que no ha estado aquí. |
+| V10 | Yui | *K-vár-ro.* |
+| V18 | Ren | Se va |
+| V19 | Rika | Sí. |
+| V20 | Rika | Y no le hemos disparado. |
+| V21 | Rika | No. |
+| V25 | Yui | ¿Qué ha sido eso? |
+| V27 | Rika | No lo sé |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Martes 30 de mayo de 2017. 4:00 p. m. Sector Doce, calle en obras. |
+

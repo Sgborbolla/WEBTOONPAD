@@ -1,4 +1,4 @@
-# CAPÍTULO 23 — "El rojo"
+# CAPÍTULO 23 — El rojo
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,5 +168,355 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. Rojo protege niña.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro apretó el escudo con fuerza.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* —Y se aseguró de que pudiera escapar —añadió Ren.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe), rojo (rango jefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 33 pantallas de 800×1280 · 72 viñetas · 42240 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 23 (1 rótulo de escena). |
+| Fondo | Martes 23 de mayo de 2017. 5:40 p. m. Base NSF. |
+| Personajes con nombre | Goro, Yui, Saeri, Rika, Ren |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 33 |
+| Viñetas | 72 |
+| Globos de diálogo | 22 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde gris sobre la base, cielo cubierto.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 23` — mayúsculas, tamaño grande.
+- Línea 2: `«El rojo»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T5 | 1 | 260 | 0/1020 |
+| S22 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S23 | T3R | 2 | 570/570 | 40/60/40 |
+| S24 | T2R | 1 | 1200 | 40/40 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+| S26 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S27 | T3R | 2 | 570/570 | 40/60/40 |
+| S28 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S29 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S30 | T3R | 2 | 570/570 | 40/60/40 |
+| S31 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S32 | T2R | 1 | 1200 | 40/40 |
+| S33 | T3R | 2 | 570/570 | 40/60/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Martes 23 de mayo de 2017. 5:40 p. m. Base NSF.
+
+### S02 · T4R · 3 viñetas
+**V1.** Algo había cambiado.
+
+**V2.** Desde la mañana, toda la base estaba en tensión. Los operadores de puerta iban de un lado a otro con cara seria. Los equipos de patrulla habían sido llamados de vuelta con urgencia.
+
+**V3.** Incluso Watanabe Raishiro, el general, había aparecido en el centro de mando a una hora en la que normalmente no se dejaba ver.
+
+### S03 · T3R · 2 viñetas
+**V4.** Los cuatro lo notaron en cuanto bajaron a desayunar.
+
+**V5.** Plano de bocas. Murmuró Goro, mirando a su alrededor.
+> **GLOBO:** Pasa algo gordo
+
+### S04 · T4R · 3 viñetas
+**V6.** Contrapicado. Yui habla.
+> **GLOBO:** Se están preparando para algo —asintió Yui.
+
+**V7.** Futaki Saeri los localizó en el pasillo y se acercó con prisa, hablando en voz baja.
+
+**V8.** Plano medio. Saeri habla.
+> **GLOBO:** Id al centro de mando. Ahora.
+
+### S05 · T2R · 1 viñeta
+**V9.** Sin hacer preguntas, obedecieron.
+
+### S06 · T3R · 2 viñetas
+**V10.** En la sala, medio llena de operadores y responsables, las pantallas mostraban el mapa de Yokohama. Varias zonas estaban marcadas en amarillo. Una, en particular, parpadeaba en un tono anaranjado rojizo que ninguno había visto antes.
+
+**V11.** Plano americano. Dijo el general con voz grave.
+> **GLOBO:** Ha aparecido
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Preguntó Rika.
+> **GLOBO:** ¿Qué ha aparecido?
+
+**V13.** Contrapicado. Saeri habla.
+> **GLOBO:** Un rojo.
+
+**V14.** Un silencio tenso se extendió por la sala.
+
+### S08 · T4R · 3 viñetas
+**V15.** Los cuatro intercambiaron miradas. Hasta ese momento solo habían oído rumores. Los kaiyu rojos aparecían muy raramente. Eran diferentes a todo lo demás.
+
+**V16.** En una de las pantallas se veía una plaza abierta, a varias manzanas del centro. Las cámaras térmicas mostrían una única figura moviéndose con lentitud entre los edificios.
+
+**V17.** Su firma era mucho más grande que la de un naranja. Y distinta.
+
+### S09 · T3R · 2 viñetas
+**V18.** Plano americano. Comentó uno de los operadores.
+> **GLOBO:** Va solo
+
+**V19.** Plano de bocas. Murmuró otro.
+> **GLOBO:** Por ahora
+
+### S10 · T2R · 1 viñeta
+**V20.** Contrapicado. Dijo el general, dirigiéndose directamente a ellos.
+> **GLOBO:** Quiero que vayan ustedes cuatro
+
+### S11 · T4R · 3 viñetas
+**V21.** Goro frunció el ceño.
+
+**V22.** Plano medio. Goro habla.
+> **GLOBO:** ¿Por qué nosotros?
+
+**V23.** Watanabe lo miró con seriedad.
+
+### S12 · T3R · 2 viñetas
+**V24.** Primerísimo primer plano. Goro habla.
+> **GLOBO:** Porque son los únicos que hasta ahora han coordinado bien contra los grandes.
+
+**V25.** Rika asintió sin dudar.
+
+### S13 · T4R · 3 viñetas
+**V26.** Plano de bocas. Rika habla.
+> **GLOBO:** Vamos.
+
+**V27.** Se equiparon con rapidez y salieron hacia la plaza.
+
+**V28.** La ciudad estaba inquietantemente silenciosa. Demasiado silenciosa. Ni un auto, ni una luz en las ventanas. Todo el mundo se había escondido en cuanto corrió la voz.
+
+### S14 · T3R · 2 viñetas
+**V29.** Llegaron a la plaza y se detuvieron en la entrada.
+
+**V30.** Allí estaba él.
+
+### S15 · T2R · 1 viñeta
+**V31.** El kaiyu rojo era alto, esbelto, con una complexión ágil muy distinta a la del Portero Encabezado. Su piel era de un tono rojo oscuro, casi granate, con finas estrías negras que le recorrían todo el cuerpo.
+
+### S16 · T4R · 3 viñetas
+**V32.** Llevaba menos placas óseas, pero sus extremidades eran largas y finas, con garras afiladas. Su cabeza era alargada, con crestas curvas hacia atrás, y sus ojos brillaban con un intenso color ámbar.
+
+**V33.** Se movía con una calma inquietante, paseándose por el centro de la plaza como si estuviera inspeccionando el lugar. No atacaba. No buscaba pelea.
+
+**V34.** Parecía estar buscando algo.
+
+### S17 · T3R · 2 viñetas
+**V35.** Los cuatro se mantuvieron ocultos tras la esquina de un edificio, observándolo con cautela.
+
+**V36.** Plano medio. Susurró Yui—. No tiene esa furia ciega.
+> **GLOBO:** Es distinto
+
+### S18 · T4R · 3 viñetas
+**V37.** Plano detalle. Añadió Ren.
+> **GLOBO:** Observa
+
+**V38.** El rojo se detuvo junto a un banco destrozado y, con una delicadeza sorprendente, enderezó uno de los tablones caídos, dejándolo apoyado contra el respaldo en lugar de pisotearlo.
+
+**V39.** Luego pasó junto a un macetero volcado y lo volvió a poner derecho con cuidado.
+
+### S19 · T4R · 3 viñetas
+**V40.** Los cuatro se miraron, atónitos.
+
+**V41.** Contrapicado. Murmuró Rika, sin dar crédito.
+> **GLOBO:** ¿Está... arreglando cosas?
+
+**V42.** El rojo siguió avanzando, esquivando escombros con cuidado en lugar de romperlos. Actuaba con una precisión casi metódica, como si le molestara el desorden.
+
+### S20 · T3R · 2 viñetas
+**V43.** Goro apretó el escudo con fuerza.
+
+**V44.** Plano detalle. Goro habla.
+> **GLOBO:** Esto no es normal.
+
+### S21 · T5 · 1 viñeta
+**V45.** Primerísimo primer plano. Respondió Yui en voz baja.
+> **GLOBO:** Nada de lo que hacen últimamente lo es
+
+### S22 · T4R · 3 viñetas
+**V46.** De repente, el rojo se quedó completamente inmóvil.
+
+**V47.** Ladeó la cabeza, como si hubiera oído algo.
+
+**V48.** Luego miró hacia un callejón lateral.
+
+### S23 · T3R · 2 viñetas
+**V49.** Los cuatro siguieron su mirada.
+
+**V50.** Allí, escondida tras un contenedor volcado, había una niña pequeña. No tendría más de cinco o seis años, acurrucada con las manos sobre la boca, temblando de miedo.
+
+### S24 · T2R · 1 viñeta
+**V51.** El rojo la vio.
+
+### S25 · T3R · 2 viñetas
+**V52.** Y se quedó petrificado.
+
+**V53.** Toda su actitud cambió en un instante. La tensión agresiva desapareció por completo. Se agachó lentamente, con movimientos deliberadamente lentos para no asustarla, y se quedó a varios metros de distancia, inmóvil.
+
+### S26 · T4R · 3 viñetas
+**V54.** La niña lo miraba con ojos enormes, aterrorizada pero fascinada.
+
+**V55.** El rojo levantó las manos con las palmas abiertas, en un gesto inequívocamente pacífico.
+
+**V56.** Luego, con extrema delicadeza, agarró un trozo de plástico arrugado que había en el suelo y lo apartó a un lado, despejando un pequeño espacio libre entre ellos.
+
+### S27 · T3R · 2 viñetas
+**V57.** La niña dejó de temblar un poco.
+
+**V58.** El rojo permaneció agachado, completamente quieto, esperando.
+
+### S28 · T4R · 3 viñetas
+**V59.** Tras unos segundos eternos, la niña bajó las manos y lo miró con menos miedo.
+
+**V60.** Los cuatro observaban la escena con el aliento contenido, sin atreverse a moverse.
+
+**V61.** Entonces el rojo, con movimientos lentísimos, retrocedió un paso. Otro. Y otro más, alejándose de la niña sin darle la espalda del todo.
+
+### S29 · T4R · 3 viñetas
+**V62.** Cuando estuvo lo bastante lejos, se levantó con suavidad y, con una última mirada hacia ella para asegurarse de que estaba a salvo, dio media vuelta y se alejó por el otro extremo de la plaza, desapareciendo entre los edificios.
+
+**V63.** La niña salió corriendo en dirección contraria, buscando refugio.
+
+**V64.** Los cuatro se quedaron allí, clavados en el sitio, intentando procesar lo que acababan de presenciar.
+
+### S30 · T3R · 2 viñetas
+**V65.** Plano detalle. Susurró Rika con incredulidad.
+> **GLOBO:** Acaba de... protegerla
+
+**V66.** Primerísimo primer plano. Yui habla.
+> **GLOBO:** Evitó atacarla a propósito —asintió Yui.
+
+### S31 · T4R · 3 viñetas
+**V67.** Plano americano. Añadió Ren.
+> **GLOBO:** Y se aseguró de que pudiera escapar
+
+**V68.** Goro frunció el ceño con fuerza.
+
+**V69.** Contrapicado. Goro habla.
+> **GLOBO:** Si un kaiyu rojo es capaz de hacer eso... significa que hay más cosas que no sabemos.
+
+### S32 · T2R · 1 viñeta
+**V70.** Primer plano. Murmuró Rika.
+> **GLOBO:** Mucho más
+
+### S33 · T3R · 2 viñetas
+**V71.** Emprendieron el camino de vuelta en silencio, con la imagen grabada a fuego en sus mentes.
+
+**V72.** Por primera vez desde que había empezado todo, dudaron de que todos los kaiyu fueran simplemente monstruos.
+
+---
+
+## Globos de diálogo (22)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V5 | Goro | Pasa algo gordo |
+| V6 | Yui | Se están preparando para algo —asintió Yui. |
+| V8 | Saeri | Id al centro de mando. Ahora. |
+| V11 | Saeri | Ha aparecido |
+| V12 | Rika | ¿Qué ha aparecido? |
+| V13 | Saeri | Un rojo. |
+| V18 | Saeri | Va solo |
+| V19 | Saeri | Por ahora |
+| V20 | Saeri | Quiero que vayan ustedes cuatro |
+| V22 | Goro | ¿Por qué nosotros? |
+| V24 | Goro | Porque son los únicos que hasta ahora han coordinado bien contra los grandes. |
+| V26 | Rika | Vamos. |
+| V36 | Yui | Es distinto |
+| V37 | Ren | Observa |
+| V41 | Rika | ¿Está... arreglando cosas? |
+| V44 | Goro | Esto no es normal. |
+| V45 | Yui | Nada de lo que hacen últimamente lo es |
+| V65 | Rika | Acaba de... protegerla |
+| V66 | Yui | Evitó atacarla a propósito —asintió Yui. |
+| V67 | Ren | Y se aseguró de que pudiera escapar |
+| V69 | Goro | Si un kaiyu rojo es capaz de hacer eso... significa que hay más cosas que no sabemos. |
+| V70 | Rika | Mucho más |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Martes 23 de mayo de 2017. 5:40 p. m. Base NSF. |
+

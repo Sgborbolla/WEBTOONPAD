@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,10 +169,32 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui se detuvo y ladeó la cabeza.
+    - *En este capítulo (novela):* Yui dio dos pasos hacia atrás, manteniendo el hombro firme, y volvió a apuntar.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** sábado **20 de mayo de 2017**, 14:30 (Día 6). Presente: 2026 (9 años).
 > **Bloques:** A = Sola (S01–S20) · B = Tres segundos (S21–S40) · C = El tiro (S41–S50) · D = Lo que pesa (S51–S60)
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+> **Total:** 60 pantallas de 800×1280 · 130 viñetas · 76.800 px de scroll
 
 ## Ficha
 
@@ -182,7 +204,7 @@ ilustración.
 | Estructura | Yui sola, oye tres segundos, mata un naranja solo, el rifle se le cae |
 | Fondo | Carretera de servicio, asfalto agrietado, muro de contención, terraplén, cielo claro con bruma |
 | Personajes con nombre | Yui Nakamura |
-| Viñetas | 120 |
+| Viñetas | 130 |
 | Pantallas | 60 |
 | Globos de diálogo | 0 |
 | Cajas narración | 12 |
@@ -199,93 +221,110 @@ ilustración.
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---|---|---:|---|---|---|
-| S01 | T1 | 1 | 1280 | 40/40 | general | CORTE A: carretera | Yui Nakamura está sola. |
-| S02 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Mano sobre correas. Mira horizonte. |
+| S01 | T1 | 1 | 1280 | 0/0 | general | CORTE A: carretera | Yui Nakamura está sola. |
+| S02 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Mano sobre correas. Mira horizonte. |
 | S03 | T3R | 2 | 570/570 | 40/60/40 | general/medio | CORTE A: carretera | Avanza. Se detiene. Nota silencio. |
 | S04 | T4R | 3 | 380/380/380 | 35/35/35/35 | primer plano/primer plano/medio | CORTE A: carretera | Cuenta: Uno. Dos. Tres. |
-| S05 | T1 | 1 | 1280 | 40/40 | general | CORTE A: carretera | Ve un naranja solo a lo lejos. |
-| S06 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Desenfunda rifle con calma. Se planta firme. |
+| S05 | T1 | 1 | 1280 | 0/0 | general | CORTE A: carretera | Ve un naranja solo a lo lejos. |
+| S06 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Desenfunda rifle con calma. Se planta firme. |
 | S07 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: carretera | Apunta, mide distancia. Espera. |
 | S08 | T4R | 3 | 380/380/380 | 35/35/35/35 | primerísimo/primer plano/medio | CORTE A: carretera | Respiración se ralentiza. Concentración total. Naranja avanza. |
-| S09 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Primer disparo. Impacto, se desvía. |
-| S10 | T1 | 1 | 1280 | 40/40 | general | CORTE A: carretera | Corrige el tiro. |
+| S09 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Primer disparo. Impacto, se desvía. |
+| S10 | T1 | 1 | 1280 | 0/0 | general | CORTE A: carretera | Corrige el tiro. |
 | S11 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Segundo disparo a articulación. Naranja carga con más fuerza. |
 | S12 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/medio | CORTE A: carretera | Retrocede dos pasos. Vuelve a apuntar. Elige punto preciso. |
-| S13 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Tercer disparo. Naranja trastabilla. |
+| S13 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Tercer disparo. Naranja trastabilla. |
 | S14 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: carretera | Se arrodilla. Cae, se convierte en polvo. |
 | S15 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/primerísimo | CORTE A: carretera | Silencio vuelve. Baja rifle lentamente. Le tiemblan las manos. |
-| S16 | T2R | 2 | 620/620 | 40/40 | medio/primer plano | CORTE A: carretera | Mira arma entre manos. Primera vez sola. |
+| S16 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: carretera | Mira arma entre manos. Primera vez sola. |
 | S17 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: carretera | Rifle se le cae de las manos. Se queda mirándolo en asfalto. |
 | S18 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/medio | CORTE A: carretera | No lo recoge enseguida. Inspira profundo. Se agacha a recogerlo. |
-| S19 | T2R | 2 | 620/620 | 40/40 | detalle/medio | CORTE A: carretera | Lo limpia con palma. Se lo cuelga con delicadeza. |
-| S20 | T1 | 1 | 1280 | 40/40 | general | CORTE A: carretera | Cuenta mental: Tres. Siempre tres.
+| S19 | T3R | 2 | 570/570 | 40/60/40 | detalle/medio | CORTE A: carretera | Lo limpia con palma. Se lo cuelga con delicadeza. |
+| S20 | T1 | 1 | 1280 | 0/0 | general | CORTE A: carretera | Cuenta mental: Tres. Siempre tres.
 
-**Total bloque A: 20 pantallas · 40 viñetas · 25.600 px**
+**Total bloque A: 20 pantallas · 41 viñetas · 25.600 px**
 
 ### BLOQUE B — TRES SEGUNDOS (S21–S40)
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---|---|---:|---|---|---|
-| S21 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Camina de vuelta. Tres segundos, un segundo más de vida. |
+| S21 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Camina de vuelta. Tres segundos, un segundo más de vida. |
 | S22 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Aprieta el paso. Terraplén y muro de contención. |
 | S23 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/detalle/primer plano | CORTE A: carretera | Baja mirada al asfalto. Respira tranquila. Ajusta correas. |
-| S24 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Saca cuaderno del bolsillo interior. Lo abre con cuidado. |
+| S24 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Saca cuaderno del bolsillo interior. Lo abre con cuidado. |
 | S25 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: carretera | Escribe con letra pequeña y precisa. Una sola línea. |
 | S26 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primerísimo/medio | CORTE A: carretera | "Hoy, por primera vez, no fue un «no». Fue un «aún no pasa»." Cierra cuaderno. |
-| S27 | T2R | 2 | 620/620 | 40/40 | medio/general | CORTE A: carretera | Mira hacia base. Tiene ganas de volver con los demás. |
+| S27 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: carretera | Mira hacia base. Tiene ganas de volver con los demás. |
 | S28 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Acelera el paso. El silencio ya no pesa igual. |
 | S29 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/medio | CORTE A: carretera | Cuenta tres en silencio. Siempre tres. El aire quieto. |
-| S30 | T2R | 2 | 620/620 | 40/40 | medio/general | CORTE A: carretera | Asfalto agrietado bajo sus pies. Camino de vuelta. |
+| S30 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: carretera | Asfalto agrietado bajo sus pies. Camino de vuelta. |
 | S31 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Recuerda: por primera vez sola. Protegió sin decir no. |
 | S32 | T4R | 3 | 380/380/380 | 35/35/35/35 | primer plano/medio/detalle | CORTE A: carretera | Mira rifle a la espalda. Ajusta correas con lentitud. |
-| S33 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Inspira hondo. Exhala larga. La tensión baja. |
+| S33 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Inspira hondo. Exhala larga. La tensión baja. |
 | S34 | T3R | 2 | 570/570 | 40/60/40 | general/medio | CORTE A: carretera | El polvo gris ya se disipó con la brisa. Solo queda asfalto. |
 | S35 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/medio | CORTE A: carretera | Se queda quieta un instante. Escucha el silencio. |
-| S36 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Tres segundos. Cada uno, un segundo más de vida. |
+| S36 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Tres segundos. Cada uno, un segundo más de vida. |
 | S37 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: carretera | Continúa andando. La carretera se aleja detrás. |
 | S38 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/primer plano/medio | CORTE A: carretera | Tapa cuaderno con suavidad. Lo guarda en bolsillo. |
-| S39 | T2R | 2 | 620/620 | 40/40 | medio/general | CORTE A: carretera | Mira horizonte hacia base. Paso firme y tranquilo. |
-| S40 | T1 | 1 | 1280 | 40/40 | general | CORTE A: carretera | Sola en carretera, volviendo. Silencio tranquilo.
+| S39 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: carretera | Mira horizonte hacia base. Paso firme y tranquilo. |
+| S40 | T1 | 1 | 1280 | 0/0 | general | CORTE A: carretera | Sola en carretera, volviendo. Silencio tranquilo.
 
-**Total bloque B: 20 pantallas · 40 viñetas · 25.600 px**
+**Total bloque B: 20 pantallas · 45 viñetas · 25.600 px**
 
 ### BLOQUE C — EL TIRO (S41–S50)
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---|---|---|---|---|---|
-| S41 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Recuerda la toma de posición. Pies separados. Firme. |
+| S41 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Recuerda la toma de posición. Pies separados. Firme. |
 | S42 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: carretera | Recuerda el peso del rifle. Respiración lenta. |
 | S43 | T4R | 3 | 380/380/380 | 35/35/35/35 | primerísimo/medio/medio | CORTE A: carretera | Tres segundos antes. Uno. Dos. Tres. |
-| S44 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Recuerda apuntar. Elegir punto preciso. |
+| S44 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Recuerda apuntar. Elegir punto preciso. |
 | S45 | T3R | 2 | 570/570 | 40/60/40 | medio/general | CORTE A: carretera | Primer disparo. El naranja se desvía. |
 | S46 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/medio/primer plano | CORTE A: carretera | Corrige mira. Segundo disparo a articulación. Carga más fuerte. |
-| S47 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Retrocede dos pasos. Mantiene hombro firme. |
+| S47 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Retrocede dos pasos. Mantiene hombro firme. |
 | S48 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | **Segundo gancho:** tercer disparo. Naranja trastabilla. |
 | S49 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/general/medio | CORTE A: carretera | Cae de rodillas. Se convierte en polvo gris. Silencio vuelve. |
-| S50 | T1 | 1 | 1280 | 40/40 | general | CORTE A: carretera | Silencio sobre asfalto agrietado. El tiro hecho.
+| S50 | T1 | 1 | 1280 | 0/0 | general | CORTE A: carretera | Silencio sobre asfalto agrietado. El tiro hecho.
 
-**Total bloque C: 10 pantallas · 20 viñetas · 12.800 px**
+**Total bloque C: 10 pantallas · 22 viñetas · 12.800 px**
 
 ### BLOQUE D — LO QUE PESA (S51–S60)
 
 | S | Tipo | Viñetas | Alturas | Gaps | Plano | Transición | Notas |
 |---|---|---|---|---|---|---|---|
-| S51 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Baja rifle lentamente. Le tiemblan las manos. No por miedo. |
+| S51 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Baja rifle lentamente. Le tiemblan las manos. No por miedo. |
 | S52 | T3R | 2 | 570/570 | 40/60/40 | medio/primer plano | CORTE A: carretera | Primera vez sola. Protegió sin decir no a nadie. |
 | S53 | T4R | 3 | 380/380/380 | 35/35/35/35 | primerísimo/medio/detalle | CORTE A: carretera | Mira el rifle entre sus manos. Arma que significaba negaciones. |
-| S54 | T2R | 2 | 620/620 | 40/40 | medio/detalle | CORTE A: carretera | Ahora significa proteger algo. Sin tener que decir no. |
+| S54 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: carretera | Ahora significa proteger algo. Sin tener que decir no. |
 | S55 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: carretera | El rifle se le cae de las manos. No se resbala. Pesa el doble. |
 | S56 | T4R | 3 | 380/380/380 | 35/35/35/35 | detalle/medio/primer plano | CORTE A: carretera | Se queda mirándolo en el asfalto. Brazos flojos. No lo recoge enseguida. |
-| S57 | T2R | 2 | 620/620 | 40/40 | medio/medio | CORTE A: carretera | Se agacha a levantarlo con delicadeza. Lo limpia con la palma. |
+| S57 | T3R | 2 | 570/570 | 40/60/40 | medio/medio | CORTE A: carretera | Se agacha a levantarlo con delicadeza. Lo limpia con la palma. |
 | S58 | T3R | 2 | 570/570 | 40/60/40 | medio/detalle | CORTE A: carretera | Se lo cuelga a la espalda con cuidado. Ajusta correas con lentitud. |
 | S59 | T4R | 3 | 380/380/380 | 35/35/35/35 | medio/primer plano/general | CORTE A: carretera | Cuenta tres segundos en silencio. Siempre tres. Una semilla plantada. |
-| S60 | T1 | 1 | 1280 | 40/40 | general | FUNDIDO A: negro | Cuaderno guardado. Vuelve con los demás. Cierre (E).
+| S60 | T1 | 1 | 1280 | 0/0 | general | FUNDIDO A: negro | Cuaderno guardado. Vuelve con los demás. Cierre (E).
 
-**Total bloque D: 10 pantallas · 20 viñetas · 12.800 px**
+**Total bloque D: 10 pantallas · 22 viñetas · 12.800 px**
 
-**Total capítulo: 60 pantallas · 120 viñetas · 76.800 px**
+**Total capítulo: 60 pantallas · 130 viñetas · 76.800 px**
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Plano general carretera de servicio, asfalto agrietado, muro de contención, terraplén, cielo claro con bruma.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 15` — mayúsculas, tamaño grande.
+- Línea 2: `«El rifle»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
 
 ## Las viñetas del bloque A
+
 
 ### S01 · T1 · 1 viñeta de 1280
 
@@ -293,11 +332,11 @@ ilustración.
 - **PLANO:** general
 - **COMPOSICION:** carretera de servicio, asfalto agrietado, muro de contención, terraplén, cielo claro con bruma.
 - **ACCION:** Yui Nakamura está sola en la carretera, con el rifle a la espalda, las correas bien ajustadas. **SFX:** *silencio*
-- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
 
 > **Caja:** Yui Nakamura estaba sola.
 
-### S02 · T2R · 2 viñetas de 620
+### S02 · T3R · 2 viñetas de 570
 
 **V2.**
 - **PLANO:** medio
@@ -351,9 +390,9 @@ ilustración.
 - **PLANO:** general
 - **COMPOSICION:** Carretera de servicio en perspectiva. A lo lejos, un único kaiyu naranja avanza hacia Yui.
 - **ACCION:** Lo ve. No corre.
-- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
 
-### S06 · T2R · 2 viñetas de 620
+### S06 · T3R · 2 viñetas de 570
 
 **V10.**
 - **PLANO:** medio
@@ -401,7 +440,7 @@ ilustración.
 - **ACCION:** El naranja avanza a unos setenta metros. **SFX:** *paso*
 - **GUTTER ABAJO:** 35
 
-### S09 · T2R · 2 viñetas de 620
+### S09 · T3R · 2 viñetas de 570
 
 **V17.**
 - **PLANO:** medio
@@ -421,7 +460,7 @@ ilustración.
 - **PLANO:** general
 - **COMPOSICION:** Yui corrige sutilmente la mira, mantiene posición firme.
 - **ACCION:** Corrige el tiro con precisión.
-- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
 
 ### S11 · T3R · 2 viñetas de 570
 
@@ -457,7 +496,7 @@ ilustración.
 - **ACCION:** Elige el punto exacto. Absoluta frialdad.
 - **GUTTER ABAJO:** 35
 
-### S13 · T2R · 2 viñetas de 620
+### S13 · T3R · 2 viñetas de 570
 
 **V25.**
 - **PLANO:** medio
@@ -505,7 +544,7 @@ ilustración.
 - **ACCION:** Le tiemblan las manos. No por miedo, por la certeza.
 - **GUTTER ABAJO:** 35
 
-### S16 · T2R · 2 viñetas de 620
+### S16 · T3R · 2 viñetas de 570
 
 **V32.**
 - **PLANO:** medio
@@ -555,7 +594,7 @@ ilustración.
 - **ACCION:** Se agacha a recogerlo.
 - **GUTTER ABAJO:** 35
 
-### S19 · T2R · 2 viñetas de 620
+### S19 · T3R · 2 viñetas de 570
 
 **V39.**
 - **PLANO:** detalle
@@ -575,11 +614,11 @@ ilustración.
 - **PLANO:** general
 - **COMPOSICION:** Yui sola en la carretera, de pie con el rifle a la espalda.
 - **ACCION:** Cuenta mentalmente: Tres. Siempre tres.
-- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
 
 ## Las viñetas del bloque B
 
-### S21 · T2R · 2 viñetas de 620
+### S21 · T3R · 2 viñetas de 570
 
 **V42.**
 - **PLANO:** medio
@@ -627,7 +666,7 @@ ilustración.
 - **ACCION:** Respira tranquila. El aire está quieto, pero ya no la alerta.
 - **GUTTER ABAJO:** 35
 
-### S24 · T2R · 2 viñetas de 620
+### S24 · T3R · 2 viñetas de 570
 
 **V49.**
 - **PLANO:** medio
@@ -675,7 +714,7 @@ ilustración.
 - **ACCION:** Cierra el cuaderno con suavidad.
 - **GUTTER ABAJO:** 35
 
-### S27 · T2R · 2 viñetas de 620
+### S27 · T3R · 2 viñetas de 570
 
 **V56.**
 - **PLANO:** medio
@@ -723,7 +762,7 @@ ilustración.
 - **ACCION:** Ese ritmo se queda con ella.
 - **GUTTER ABAJO:** 35
 
-### S30 · T2R · 2 viñetas de 620
+### S30 · T3R · 2 viñetas de 570
 
 **V63.**
 - **PLANO:** medio
@@ -771,7 +810,7 @@ ilustración.
 - **ACCION:** Sigue su camino hacia la base.
 - **GUTTER ABAJO:** 35
 
-### S33 · T2R · 2 viñetas de 620
+### S33 · T3R · 2 viñetas de 570
 
 **V70.**
 - **PLANO:** medio
@@ -819,7 +858,7 @@ ilustración.
 - **ACCION:** Reanuda la marcha tranquila.
 - **GUTTER ABAJO:** 35
 
-### S36 · T2R · 2 viñetas de 620
+### S36 · T3R · 2 viñetas de 570
 
 **V77.**
 - **PLANO:** medio
@@ -867,7 +906,7 @@ ilustración.
 - **ACCION:** Cierra y guarda el cuaderno en el bolsillo interior.
 - **GUTTER ABAJO:** 35
 
-### S39 · T2R · 2 viñetas de 620
+### S39 · T3R · 2 viñetas de 570
 
 **V84.**
 - **PLANO:** medio
@@ -887,11 +926,11 @@ ilustración.
 - **PLANO:** general
 - **COMPOSICION:** Yui camina sola por la carretera de servicio hacia la base. Asfalto agrietado, cielo claro con bruma.
 - **ACCION:** Sigue caminando. Silencio tranquilo.
-- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
 
 ## Las viñetas del bloque C
 
-### S41 · T2R · 2 viñetas de 620
+### S41 · T3R · 2 viñetas de 570
 
 **V87.**
 - **PLANO:** medio
@@ -939,7 +978,7 @@ ilustración.
 - **ACCION:** Tres.
 - **GUTTER ABAJO:** 35
 
-### S44 · T2R · 2 viñetas de 620
+### S44 · T3R · 2 viñetas de 570
 
 **V94.**
 - **PLANO:** medio
@@ -987,7 +1026,7 @@ ilustración.
 - **ACCION:** No entra en pánico. Mantiene hombro firme.
 - **GUTTER ABAJO:** 35
 
-### S47 · T2R · 2 viñetas de 620
+### S47 · T3R · 2 viñetas de 570
 
 **V101.**
 - **PLANO:** medio
@@ -1041,4 +1080,232 @@ ilustración.
 - **PLANO:** general
 - **COMPOSICION:** Carretera de servicio vacía. Asfalto agrietado. Silencio total.
 - **ACCION:** El tiro está hecho. Todo en calma.
-- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 40
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
+
+
+## Las viñetas del bloque D
+
+### S51 · T3R · 2 viñetas de 570
+
+**V109.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui de perfil, el rifle bajando hacia el suelo.
+- **ACCION:** Baja el rifle lentamente.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V110.**
+- **PLANO:** primer plano
+- **COMPOSICION:** Las manos de Yui sobre la culata, temblorosas.
+- **ACCION:** Le tiemblan las manos. **SFX:** *silencio*
+- **GUTTER ABAJO:** 40
+
+> **Caja:** Solo entonces se dio cuenta de que le temblaban las manos. No por el miedo. Por la certeza.
+
+### S52 · T3R · 2 viñetas de 570
+
+**V111.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui erguida, sola, en mitad del asfalto.
+- **ACCION:** Se queda quieta un instante, respirando.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V112.**
+- **PLANO:** general
+- **COMPOSICION:** Carretera vacía; el polvo gris ya se disipó con la brisa.
+- **ACCION:** Solo ella, la distancia y su puntería.
+- **GUTTER ABAJO:** 40
+
+> **Caja:** Por primera vez desde que empuñó ese rifle contra los kaiyu, acababa de matar a uno completamente sola.
+
+### S53 · T4R · 3 viñetas de 380
+
+**V113.**
+- **PLANO:** detalle
+- **COMPOSICION:** El rifle entre las dos manos de Yui.
+- **ACCION:** Mira el arma entre sus manos.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V114.**
+- **PLANO:** primer plano
+- **COMPOSICION:** Rostro de Yui, la mirada baja sobre el rifle.
+- **ACCION:** Lo mira como si lo viera por primera vez.
+- **GUTTER ABAJO:** 35
+
+**V115.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui sosteniendo el rifle contra el pecho.
+- **ACCION:** El mismo rifle de la guardia en el hospital de la frontera.
+- **GUTTER ABAJO:** 35
+
+> **Caja:** Era el mismo rifle con el que había hecho guardia en el hospital de la frontera.
+
+### S54 · T3R · 2 viñetas de 570
+
+**V116.**
+- **PLANO:** detalle
+- **COMPOSICION:** La culata, el cerrojo, la correa gastada.
+- **ACCION:** Un arma que, hasta ese día, había significado negaciones.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V117.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui levanta la vista del arma hacia el horizonte.
+- **ACCION:** Ahora significa haber protegido algo sin decir no a nadie.
+- **GUTTER ABAJO:** 40
+
+> **Caja:** Un arma que, hasta ese día, había significado negaciones y, ahora, haber protegido sin tener que decir no.
+
+### S55 · T3R · 2 viñetas de 570
+
+**V118.**
+- **PLANO:** medio
+- **COMPOSICION:** El rifle se escurre de las manos de Yui.
+- **ACCION:** El rifle se le cae de las manos. **SFX:** *clac*
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V119.**
+- **PLANO:** detalle
+- **COMPOSICION:** El rifle en el asfalto; la mano de Yui, abierta.
+- **ACCION:** No se le resbaló. Pesa el doble.
+- **GUTTER ABAJO:** 40
+
+> **Caja:** No se le resbaló. Se le cayó de las manos, como si de repente pesara el doble.
+
+### S56 · T4R · 3 viñetas de 380
+
+**V120.**
+- **PLANO:** detalle
+- **COMPOSICION:** El rifle tumbado en el asfalto agrietado.
+- **ACCION:** Se queda mirándolo en el suelo.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V121.**
+- **PLANO:** primer plano
+- **COMPOSICION:** Yui mirando el rifle, los brazos flojos a los lados.
+- **ACCION:** No lo recoge enseguida.
+- **GUTTER ABAJO:** 35
+
+**V122.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui inmóvil, el rifle a sus pies.
+- **ACCION:** Se queda unos segundos sin moverse.
+- **GUTTER ABAJO:** 35
+
+> **Caja:** Se quedó mirándolo en el asfalto, con los brazos flojos, sin moverse a recogerlo durante unos segundos.
+
+### S57 · T3R · 2 viñetas de 570
+
+**V123.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui se agacha, con delicadeza, hacia el rifle.
+- **ACCION:** Por fin se agacha a levantarlo.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V124.**
+- **PLANO:** detalle
+- **COMPOSICION:** La palma de Yui limpiando el cañón.
+- **ACCION:** Lo limpia con la palma con suavidad.
+- **GUTTER ABAJO:** 40
+
+> **Caja:** Lo limpió con la palma de la mano como si quisiera borrar algo invisible.
+
+### S58 · T3R · 2 viñetas de 570
+
+**V125.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui se cuelga el rifle a la espalda.
+- **ACCION:** Se lo cuelga con cuidado.
+- **GUTTER ARRIBA:** 40 · **GUTTER ABAJO:** 60
+
+**V126.**
+- **PLANO:** detalle
+- **COMPOSICION:** Las correas del rifle, ajustándose.
+- **ACCION:** Ajusta las correas con lentitud.
+- **GUTTER ABAJO:** 40
+
+> **Caja:** Ajustó las correas con más lentitud de la habitual.
+
+### S59 · T4R · 3 viñetas de 380
+
+**V127.**
+- **PLANO:** primer plano
+- **COMPOSICION:** Yui cuenta en silencio, la mirada fija.
+- **ACCION:** Tres. Siempre tres.
+- **GUTTER ARRIBA:** 35 · **GUTTER ABAJO:** 35
+
+**V128.**
+- **PLANO:** medio
+- **COMPOSICION:** Yui reemprende el camino hacia la base.
+- **ACCION:** Cada tres segundos, un segundo más de vida para alguien.
+- **GUTTER ABAJO:** 35
+
+**V129.**
+- **PLANO:** general
+- **COMPOSICION:** La carretera de vuelta; Yui empequeñeciendo.
+- **ACCION:** Aprieta el paso. Tiene ganas de volver con los demás.
+- **GUTTER ABAJO:** 35
+
+> **Caja:** Y cada tres segundos que ganaba, era un segundo más de vida para alguien.
+
+### S60 · T1 · 1 viñeta de 1280
+
+**V130.**
+- **PLANO:** general
+- **COMPOSICION:** Yui camino de la base, el cuaderno cerrado en la mano.
+- **ACCION:** Guarda el cuaderno y aprieta el paso. **SFX:** *silencio*
+- **GUTTER ARRIBA:** 0 · **GUTTER ABAJO:** 0
+
+> **Caja:** Hoy, por primera vez, no fue un «no». Fue un «aún no pasa».
+
+---
+
+## LOS TEXTOS
+
+### Globos de diálogo (0)
+
+*(Capítulo sin diálogo: todo es narración y acción muda.)*
+
+### Cajas de narración (12)
+
+| Viñeta | Texto |
+|---|---|
+| V1 | Yui Nakamura estaba sola. |
+| V33 | Por primera vez desde que había empuñado ese rifle, lo usaba para proteger sin decir no. |
+| V110 | Solo entonces se dio cuenta de que le temblaban las manos. No por el miedo. Por la certeza. |
+| V112 | Por primera vez desde que empuñó ese rifle contra los kaiyu, acababa de matar a uno completamente sola. |
+| V115 | Era el mismo rifle con el que había hecho guardia en el hospital de la frontera. |
+| V117 | Ahora significa haber protegido algo sin tener que decir no a nadie. |
+| V119 | No se le resbaló. Se le cayó de las manos, como si de repente pesara el doble. |
+| V122 | Se quedó mirándolo en el asfalto, con los brazos flojos, sin recogerlo. |
+| V124 | Lo limpió con la palma de la mano como si quisiera borrar algo invisible. |
+| V126 | Ajustó las correas con más lentitud de la habitual. |
+| V129 | Y cada tres segundos que ganaba, era un segundo más de vida para alguien. |
+| V130 | Hoy, por primera vez, no fue un «no». Fue un «aún no pasa». |
+
+### SFX (español, dibujados)
+
+| Viñeta | SFX | Sentido |
+|---|---|---|
+| V17 | *pum* | el primer disparo de Yui |
+| V20 | *pum* | el segundo disparo, a la articulación |
+| V26 | *pum* | el tercer disparo, limpio |
+| V27 | *plaf* | el naranja al desplomarse de rodillas |
+| V110 | *silencio* | las manos que tiemblan después |
+| V118 | *clac* | el rifle al caer al asfalto |
+
+### Sonidos descritos (4)
+
+| Viñeta | Sonido |
+|---|---|
+| V1 | El aire quieto de la carretera de servicio, demasiado quieto. |
+| V8 | Los tres segundos que Yui cuenta antes de que aparezcan. |
+| V46 | El golpe sordo del hombro del naranja al cargar. |
+| V130 | El silencio que vuelve y el paso firme de vuelta a la base. |
+
+---
+
+## Semillas y metas de guion
+
+- **«Tres segundos» (V8, V127):** el método de Yui se nombra aquí; reaparecerá cada vez que ella cubra sola.
+- **El rifle que pesa (V118-V119):** primera vez que el arma se le cae; marca lo que cambia para ella.
+- **Cierre (E):** la línea del cuaderno (V130) abre el arco emocional de Yui para los capítulos siguientes.

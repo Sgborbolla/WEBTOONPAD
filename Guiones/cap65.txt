@@ -1,0 +1,407 @@
+# CAPÍTULO 65 — El que vino a hablar
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui miró los tres glifos, y después miró al negro, y el negro la miró a ella desde donde tenía los ojos, que era en ningún sitio y en todas partes.
+    - *En este capítulo (novela):* Aquella noche, Yui dibujó los tres glifos en su cuaderno, de memoria, uno debajo del otro.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), rojo (rango jefe), negro (rango mando).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 19 pantallas de 800×1280 · 37 viñetas · 24320 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 65 (2 rótulos de escena). |
+| Fondo | Viernes 11 de agosto de 2017. 3:40 p. m. Helipuerto de la base avanzada de Suwa. |
+| Personajes con nombre | Yui, Rika |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 19 |
+| Viñetas | 37 |
+| Globos de diálogo | 13 |
+| Cajas de narración | 2 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde sobre el helipuerto, cielo despejado.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 65` — mayúsculas, tamaño grande.
+- Línea 2: `«El que vino a hablar»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T6 | 0 | — | rótulo |
+| S05 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S06 | T2R | 1 | 1200 | 40/40 |
+| S07 | T3R | 2 | 570/570 | 40/60/40 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S10 | T3R | 2 | 570/570 | 40/60/40 |
+| S11 | T5 | 1 | 260 | 0/1020 |
+| S12 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S13 | T3R | 2 | 570/570 | 40/60/40 |
+| S14 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S15 | T3R | 2 | 570/570 | 40/60/40 |
+| S16 | T2R | 1 | 1200 | 40/40 |
+| S17 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S18 | T3R | 2 | 570/570 | 40/60/40 |
+| S19 | T5 | 1 | 260 | 0/1020 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Viernes 11 de agosto de 2017. 3:40 p. m. Helipuerto de la base avanzada de Suwa.
+
+### S02 · T4R · 3 viñetas
+**V1.** Un negro solo era una cosa que no se veía todos los días, y por eso la OIDA no mandó el aviso por radio: lo mandó por escrito, en mano, con un auxiliar que bajó del helicóptero con un sobre cerrado.
+
+**V2.** Habían salido de la base de Kanto a las dos y cuarto; cincuenta minutos de vuelo, y a las tres y cuarto ya estaban en el helipuerto de la base avanzada de Suwa, junto al lago.
+
+**V3.** Primerísimo primer plano. Dijo el auxiliar, mientras caminaban hacia el todoterreno—. Lleva ahí desde ayer. No se ha movido.
+> **GLOBO:** Se planta y no ataca
+
+### S03 · T3R · 2 viñetas
+**V4.** Plano americano. Alguien habla.
+> **GLOBO:** ¿Y qué quiere?
+
+**V5.** Plano de bocas. Alguien habla.
+> **GLOBO:** No lo dice. —El auxiliar abrió el sobre, lo cerró otra vez—. Trae orden de que suban ustedes. No hay nadie más.
+
+### S04 · T6 · rótulo
+> **RÓTULO:** Viernes 11 de agosto de 2017. 4:50 p. m. Explanada de Suwa, frente centro.
+
+### S05 · T4R · 3 viñetas
+**V6.** Al negro lo vieron primero los radares y después los ojos, porque un negro no se esconde: un negro se planta.
+
+**V7.** Apareció en la explanada de Suwa, al norte, del tamaño de un edificio pequeño, con las placas apagadas y las seis patas hundidas en la tierra, y alrededor, en el aire, se hizo ese doblez que hacía siempre el aire antes de que algo cruzara.
+
+**V8.** Por delante de él no venía oleada. Por detrás de él no venía columna. Venía solo. Y eso era lo que no encajaba: un negro solo, en campo abierto, a la vista de todos, era un mensaje.
+
+### S06 · T2R · 1 viñeta
+**V9.** Plano detalle. Dijo Yui, con los prismáticos—. Está esperando.
+> **GLOBO:** No es un ataque
+
+### S07 · T3R · 2 viñetas
+**V10.** Primerísimo primer plano. Alguien habla.
+> **GLOBO:** ¿Esperando qué?
+
+**V11.** Plano americano. Alguien habla.
+> **GLOBO:** A que lleguemos.
+
+### S08 · T4R · 3 viñetas
+**V12.** Fueron los cuatro, porque no había nadie más, y porque un negro que espera solo es una cosa que no se puede dejar esperando.
+
+**V13.** Cuando estuvieron a cien metros, el negro habló.
+
+**V14.** La voz no salió de una boca, porque no tenía boca. Salió del pecho, del centro del montón de placas, y sacudió la tierra y el agua y los dientes, y llegó a los cuatro como llega un temblor: por el suelo primero, por los oídos después.
+
+### S09 · T4R · 3 viñetas
+**V15.** Y las palabras eran del otro idioma, y a los pocos segundos, por el auricular de la radio, llegó la traducción del Sistema, que llevaba nueve años esperando una frase como aquella y nunca la había tenido.
+
+**V16.** Plano detalle. Dijo el negro.
+> **GLOBO:** *Kor-váth-má rash-kósh.*
+
+**V17.** (Traducción del Sistema: «El Mando reclama la frontera.»)
+
+### S10 · T3R · 2 viñetas
+**V18.** Plano americano. Siguió el negro.
+> **GLOBO:** *Rok-uk k'sh. Var-má k'sh. O-máth k'zarr-k'sh.*
+
+**V19.** (Traducción del Sistema: «Las crías. El hogar. El Núcleo los consume.»)
+
+### S11 · T5 · 1 viñeta
+**V20.** Rika subió un paso por la explanada.
+
+### S12 · T4R · 3 viñetas
+**V21.** Primer plano. Rika habla.
+> **GLOBO:** ¿Qué quieres? —le gritó.
+
+**V22.** El negro bajó la cabeza. Toda la mole se inclinó, como se inclina una torre cuando le quitan los cimientos, y la voz del pecho volvió a salir, más baja, casi suave, y la radio tradujo despacio, palabra por palabra, como traduce un hombre que no cree lo que está escribiendo.
+
+**V23.** Plano detalle. Rika habla.
+> **GLOBO:** *K-vár-uk... Kor'váth-má.*
+
+### S13 · T3R · 2 viñetas
+**V24.** (Traducción del Sistema: «Aún recuerdo. El Trono y la Ley.»)
+
+**V25.** Y entonces el negro hizo una cosa que los cuatro no habían visto nunca en un negro, ni en un rojo, ni en los kaiyu de cuerpo humano que se detienen a mirar.
+
+### S14 · T4R · 3 viñetas
+**V26.** Levantó una pata delantera, despacio, y con la punta, en la tierra de la explanada, dibujó un trazo. Un trazo recto. Y luego un ángulo. Y luego otro.
+
+**V27.** Escribió tres glifos en el suelo, del tamaño de una casa cada uno, y esperó, con la pata todavía en el aire, a que alguien los leyera.
+
+**V28.** Yui los leyó.
+
+### S15 · T3R · 2 viñetas
+**V29.** Plano medio. Dijo, y la voz le tembló por primera vez en toda la guerra—. Es un nombre.
+> **GLOBO:** Eso no es una orden
+
+**V30.** Plano detalle. Yui habla.
+> **GLOBO:** ¿Un nombre de quién?
+
+### S16 · T2R · 1 viñeta
+**V31.** Yui miró los tres glifos, y después miró al negro, y el negro la miró a ella desde donde tenía los ojos, que era en ningún sitio y en todas partes.
+
+### S17 · T4R · 3 viñetas
+**V32.** Plano americano. Dijo—. Pero lo escribió como se escribe un nombre propio. Como se firma.
+> **GLOBO:** No lo sé
+
+**V33.** > **SEGUNDO GANCHO (pantalla 15, 22%)**
+
+**V34.** > El negro borró los tres glifos con la pata, sin prisa, como se borra un renglón que ya no hace falta. Después dio media vuelta, se hundió en el aire por el doblez que había abierto a su espalda, y desapareció.
+
+### S18 · T3R · 2 viñetas
+**V35.** No atacó. No lo atacaron. Y en la explanada de Suwa quedó solo la tierra removida y, en el centro, las huellas de una sola pata.
+
+**V36.** Aquella noche, Yui dibujó los tres glifos en su cuaderno, de memoria, uno debajo del otro. Y al lado, con su letra pequeña, escribió lo único que estaba segura de entender:
+
+### S19 · T5 · 1 viñeta
+**V37.** *Es un nombre en tres partes. Solo reconozco la última: la del silencio.*
+
+---
+
+## Globos de diálogo (13)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V3 | — | Se planta y no ataca |
+| V4 | — | ¿Y qué quiere? |
+| V5 | — | No lo dice. —El auxiliar abrió el sobre, lo cerró otra vez—. Trae orden de que suban ustedes. No hay nadie más. |
+| V9 | Yui | No es un ataque |
+| V10 | — | ¿Esperando qué? |
+| V11 | — | A que lleguemos. |
+| V16 | — | *Kor-váth-má rash-kósh.* |
+| V18 | — | *Rok-uk k'sh. Var-má k'sh. O-máth k'zarr-k'sh.* |
+| V21 | Rika | ¿Qué quieres? —le gritó. |
+| V23 | Rika | *K-vár-uk... Kor'váth-má.* |
+| V29 | Yui | Eso no es una orden |
+| V30 | Yui | ¿Un nombre de quién? |
+| V32 | Yui | No lo sé |
+
+## Cajas de narración (2)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Viernes 11 de agosto de 2017. 3:40 p. m. Helipuerto de la base avanzada de Suwa. |
+| V6 | Rótulo: Viernes 11 de agosto de 2017. 4:50 p. m. Explanada de Suwa, frente centro. |
+

@@ -1,0 +1,410 @@
+# CAPÍTULO 73 — Las líneas que ceden
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui disparaba desde lo alto de una loma, haciendo que la oleada se partiera, girara, perdiera su impulso.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 19 pantallas de 800×1280 · 37 viñetas · 24320 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 73 (2 rótulos de escena). |
+| Fondo | Lunes 28 de agosto de 2017. 6:00 a. m. Puesto de mando de Azumino, frente centro. |
+| Personajes con nombre | Rika, Goro, Ren, Yui |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 19 |
+| Viñetas | 37 |
+| Globos de diálogo | 14 |
+| Cajas de narración | 2 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Amanecer sobre el puesto de mando, cielo rosa.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 73` — mayúsculas, tamaño grande.
+- Línea 2: `«Las líneas que ceden»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T2R | 1 | 1200 | 40/40 |
+| S09 | T6 | 0 | — | rótulo |
+| S10 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S11 | T3R | 2 | 570/570 | 40/60/40 |
+| S12 | T2R | 1 | 1200 | 40/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S16 | T3R | 2 | 570/570 | 40/60/40 |
+| S17 | T2R | 1 | 1200 | 40/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T3R | 2 | 570/570 | 40/60/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Lunes 28 de agosto de 2017. 6:00 a. m. Puesto de mando de Azumino, frente centro.
+
+### S02 · T4R · 3 viñetas
+**V1.** El puesto de mando era poco más que tres tiendas de campaña unidas entre sí, con mapas clavados con chinchetas sobre tablas de madera apoyadas en cajas. Llevaba tres días sin dormir nadie que estuviera dentro.
+
+**V2.** Kurose estaba de pie frente al mapa, con las manos detrás de la espalda, mirando cómo las líneas rojas se habían ido retirando hacia el norte, kilómetro tras kilómetro, desde el sábado.
+
+**V3.** Ahora, tras Matsumoto, la línea del frente centro era una herradura rota que apenas cubría Azumino y los pueblos de la llanura alta.
+
+### S03 · T3R · 2 viñetas
+**V4.** Los cuatro entraron cuando aún no había amanecido del todo. Nadie los hizo esperar.
+
+**V5.** Plano de bocas. Dijo Kurose, sin volverse—. No es culpa de ustedes.
+> **GLOBO:** Han perdido media ciudad
+
+### S04 · T4R · 3 viñetas
+**V6.** Contrapicado. Dijo Rika—. No la detuvimos.
+> **GLOBO:** Es culpa nuestra
+
+**V7.** Kurose giró la cabeza hacia ella. Tenía ojeras muy marcadas y la mandíbula apretada.
+
+**V8.** Plano medio. Dijo—. Nadie.
+> **GLOBO:** Nadie la ha detenido nunca
+
+### S05 · T2R · 1 viñeta
+**V9.** Desplegó otro mapa sobre el anterior. Era más pequeño, de los pueblos al norte de Azumino.
+
+### S06 · T3R · 2 viñetas
+**V10.** Primerísimo primer plano. Alguien habla.
+> **GLOBO:** La mancha del Cenicero mayor se ha detenido. No avanza. Pero mientras ustedes frenaban en Matsumoto, tres brechas más se abrieron al norte del río. Una oleada de doscientos kaiyu viene por Omachi. Otra de ciento cincuenta por Hakuba. Y la tercera viene directa hacia aquí.
+
+**V11.** Plano americano. Murmuró Goro.
+> **GLOBO:** Tres a la vez
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Alguien habla.
+> **GLOBO:** Tres a la vez —asintió Kurose—. Nos están partiendo el frente centro en tres pedazos para que no podamos cubrir ninguno.
+
+**V13.** Ren señaló las chinchetas rojas, que retrocedían una tras otra.
+
+**V14.** Primer plano. Ren habla.
+> **GLOBO:** ¿Cuánta gente queda por evacuar al norte?
+
+### S08 · T2R · 1 viñeta
+**V15.** Plano medio. Ren habla.
+> **GLOBO:** Veintidós mil de Matsumoto, más doce mil de los pueblos entre Azumino y Omachi. Si perdemos Azumino hoy, pierden la única carretera que les queda para subir hacia las montañas.
+
+### S09 · T6 · rótulo
+> **RÓTULO:** Lunes 28 de agosto de 2017. 9:00 a. m. Carretera de Omachi, frente centro.
+
+### S10 · T4R · 3 viñetas
+**V16.** Se dividieron.
+
+**V17.** Rika y Ren tomaron el flanco oeste, hacia Omachi, para frenar la oleada más numerosa y ganar tiempo para que los civiles subieran por la carretera.
+
+**V18.** Goro y Yui tomaron el este, hacia los campos que separaban Azumino de Hakuba, para cortar el camino de la segunda oleada antes de que llegara a la llanura.
+
+### S11 · T3R · 2 viñetas
+**V19.** No hubo helicóptero esta vez. Solo camión hasta donde se podía, y después a pie, corriendo por los campos de arroz todavía verdes, con el rocío todavía en el suelo.
+
+**V20.** Rika miraba hacia el norte mientras corría junto a Ren.
+
+### S12 · T2R · 1 viñeta
+**V21.** Primer plano. Dijo.
+> **GLOBO:** No podemos cubrir las tres
+
+### S13 · T4R · 3 viñetas
+**V22.** Plano medio. Dijo Ren, sin disminuir el paso—. Tenemos que ganar tiempo. Solo tiempo.
+> **GLOBO:** No tenemos que cubrir las tres
+
+**V23.** Plano detalle. Rika habla.
+> **GLOBO:** Tiempo para que salgan —asintió Rika.
+
+**V24.** Y eso fue lo que hicieron.
+
+### S14 · T3R · 2 viñetas
+**V25.** En Omachi, Rika y Ren lucharon durante tres horas contra doscientos kaiyu. No intentaron aniquilarlos. No había manera. Formaron un muro móvil: retrocedían cien metros, se plantaban, frenaban la oleada, volvían a retroceder.
+
+**V26.** Cada vez que plantaban los pies, ganaban diez minutos para que otra columna de civiles subiera por la carretera hacia las montañas.
+
+### S15 · T4R · 3 viñetas
+**V27.** En el este, Goro levantaba muros con lo que encontraba: tractores volcados, postes, trozos de muro de piedra. Yui disparaba desde lo alto de una loma, haciendo que la oleada se partiera, girara, perdiera su impulso.
+
+**V28.** No buscaban matar a todos. Buscaban romper la forma de la carga.
+
+**V29.** A mediodía, las tres oleadas estaban frenadas. A las dos de la tarde, la última columna de civiles había pasado Azumino y subía por la carretera de montaña, fuera del alcance de la mancha.
+
+### S16 · T3R · 2 viñetas
+**V30.** A las tres de la tarde, los cuatro se reunieron de nuevo en la retaguardia de Azumino, jadeando, con las manos ensangrentadas, mirando cómo los pueblos que habían defendido se quedaban vacíos detrás de ellos.
+
+**V31.** Primerísimo primer plano. Dijo Yui, entre respiraciones cortas.
+> **GLOBO:** Los hemos sacado a todos
+
+### S17 · T2R · 1 viñeta
+**V32.** Plano americano. Dijo Rika, mirando hacia el sur.
+> **GLOBO:** Casi todos
+
+### S18 · T4R · 3 viñetas
+**V33.** Porque, una vez más, el precio había sido el terreno. El frente centro había cedido otros quince kilómetros hacia el norte. Azumino estaba perdido. Omachi estaba perdido. Hakuba estaba perdido.
+
+**V34.** Pero veintidós mil personas más no estaban perdidas.
+
+**V35.** Kurose lo dijo por radio, cuando ya estaban subiendo por la carretera de montaña, alejándose de lo que habían tenido que dejar.
+
+### S19 · T3R · 2 viñetas
+**V36.** Plano medio. Dijo—. No lo olviden.
+> **GLOBO:** Hoy han salvado treinta y cuatro mil personas
+
+**V37.** Nadie contestó. Los cuatro miraban hacia abajo, hacia las llanuras grises que se extendían cada vez más al sur, y hacia arriba, hacia las montañas donde, por ahora, la gente aún tenía un hueco para respirar.
+
+---
+
+## Globos de diálogo (14)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V5 | — | Han perdido media ciudad |
+| V6 | Rika | Es culpa nuestra |
+| V8 | — | Nadie la ha detenido nunca |
+| V10 | — | La mancha del Cenicero mayor se ha detenido. No avanza. Pero mientras ustedes frenaban en Matsumoto, tres brechas más se abrieron al norte del río. Una oleada de doscientos kaiyu viene por Omachi. Otra de ciento cincuenta por Hakuba. Y la tercera viene directa hacia aquí. |
+| V11 | Goro | Tres a la vez |
+| V12 | — | Tres a la vez —asintió Kurose—. Nos están partiendo el frente centro en tres pedazos para que no podamos cubrir ninguno. |
+| V14 | Ren | ¿Cuánta gente queda por evacuar al norte? |
+| V15 | Ren | Veintidós mil de Matsumoto, más doce mil de los pueblos entre Azumino y Omachi. Si perdemos Azumino hoy, pierden la única carretera que les queda para subir hacia las montañas. |
+| V21 | Ren | No podemos cubrir las tres |
+| V22 | Ren | No tenemos que cubrir las tres |
+| V23 | Rika | Tiempo para que salgan —asintió Rika. |
+| V31 | Yui | Los hemos sacado a todos |
+| V32 | Rika | Casi todos |
+| V36 | Yui | Hoy han salvado treinta y cuatro mil personas |
+
+## Cajas de narración (2)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Lunes 28 de agosto de 2017. 6:00 a. m. Puesto de mando de Azumino, frente centro. |
+| V16 | Rótulo: Lunes 28 de agosto de 2017. 9:00 a. m. Carretera de Omachi, frente centro. |
+

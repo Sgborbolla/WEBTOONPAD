@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,6 +169,37 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro llegó por la esquina con el escudo en la mano, sin el guante errante que se había dejado la noche anterior, con la cara todavía de la noche anterior.
+    - *En este capítulo (novela):* Fueron una fila de cuatro a lo largo de la acera de la guardería, mirando al hueco como se mira una cuenta larga, sin técnicas todavía, sin ninguna hoja en la mano, con el escudo de Goro apoyado contra la pierna y el rifle de Yui rozando el chaleco.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika Tsukimi llegó corriendo por la esquina, con el haori color hueso, sin aliento, y vio a la chica.
+    - *En este capítulo (novela):* Yui llegó con el rifle gris azulado, baja, despacio, y vio a Rika, y vio a Mio, y entendió lo que entendían todos los que se cruzan con una mujer a la que le sobra la edad.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren llegó detrás con la amarilla, las manos quietas sobre los costados, los ojos en la chica.
+    - *En este capítulo (novela):* —Ren miró el hueco, que ya era pequeño—.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui llegó con el rifle gris azulado, baja, despacio, y vio a Rika, y vio a Mio, y entendió lo que entendían todos los que se cruzan con una mujer a la que le sobra la edad.
+    - *En este capítulo (novela):* Yui se levantó la mano despacio, apuntando al hueco de la guardería, al rectángulo negro que se veía detrás de la chica como se ve el final de todas las puertas.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), rojo (rango jefe), negro (rango mando).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** miércoles **17 de mayo de 2017** (Día 3).
 > **Bloques:** A = La sala de radio (S01–S08, 04:52, gutter 40) · B = El rectángulo (S09–S13, 04:58, gutter 190 abierto) · C = La ciudad costera (S14–S21, 05:01, gutter 40) · D = Catorce (S22–S29, 05:04, gutter 40) · E = La guardería (S30–S45, 05:09–05:12, gutter 40) · F = El cielo se cierra (S46–S60, 05:13, gutter 190 abierto)
@@ -215,7 +246,24 @@ ilustración.
 
 **Total bloque A: 8 pantallas · 14 viñetas · 10.240 px**
 
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Cielo de madrugada sobre la costa, niebla marina, silencio.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 6` — mayúsculas, tamaño grande.
+- Línea 2: `«Los catorce minutos»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
 ## Las viñetas del bloque A
+
 
 ### S01 · T6 · 0 viñetas · rótulo
 

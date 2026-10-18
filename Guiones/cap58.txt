@@ -1,0 +1,434 @@
+# CAPÍTULO 58 — El que mandaba
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro recibió los que lograban pasar con el escudo y los envió al vacío.
+    - *En este capítulo (novela):* Goro se plantó justo en el borde del estrechamiento, con los pies clavados en la tierra, y el escudo de canto.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika lo vio primero, desde lo alto del terraplén: una cosa redonda partida en dos por una grieta, que humeaba por el corte, y que caminaba entre los amarillos como el arado que abre el surco.
+    - *En este capítulo (novela):* Rika abrió un abanico de brasa a lo ancho del bancal y los devolvió cuesta abajo.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* —Naranja, subjefe —dijo Yui, ya con el rifle en el hombro—.
+    - *En este capítulo (novela):* Yui, desde lo alto, apuntó a la juntura que la grieta dejaba descubierta cuando Caldera se echaba hacia atrás, y disparó.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 22 pantallas de 800×1280 · 46 viñetas · 28160 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 58 (1 rótulo de escena). |
+| Fondo | Sábado 22 de julio de 2017. 5:00 p. m. Terraplén de Misawa, frente norte. |
+| Personajes con nombre | Goro, Yui, Ren, Rika |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 22 |
+| Viñetas | 46 |
+| Globos de diálogo | 13 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde sobre el terraplén, cielo abierto.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 58` — mayúsculas, tamaño grande.
+- Línea 2: `«El que mandaba»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T2R | 1 | 1200 | 40/40 |
+| S22 | T2R | 1 | 1200 | 40/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Sábado 22 de julio de 2017. 5:00 p. m. Terraplén de Misawa, frente norte.
+
+### S02 · T4R · 3 viñetas
+**V1.** El kaiyu que mandaba aquella oleada tenía dos mitades.
+
+**V2.** Rika lo vio primero, desde lo alto del terraplén: una cosa redonda partida en dos por una grieta, que humeaba por el corte, y que caminaba entre los amarillos como el arado que abre el surco.
+
+**V3.** No corría. No se apresuraba. Cada paso que daba era un paso para que la fila que iba detrás diera un paso, y la fila eran trescientos amarillos que subían por la pendiente hacia el único sitio donde los cuatro podían pararlos.
+
+### S03 · T3R · 2 viñetas
+**V4.** Plano americano. Dijo Goro, mirando la forma.
+> **GLOBO:** Caldera
+
+**V5.** Plano de bocas. Dijo Yui, ya con el rifle en el hombro—. El sexto de la lista.
+> **GLOBO:** Naranja, subjefe
+
+### S04 · T4R · 3 viñetas
+**V6.** Contrapicado. Dijo Ren.
+> **GLOBO:** El que manda
+
+**V7.** Se plantaron en el borde del terraplén, justo donde la cuesta se estrechaba y la tierra se partía en bancales. Aquella era la única ventaja: no podían subir todos a la vez.
+
+**V8.** Trescientos contra cuatro, y aún así el estrechamiento daba una oportunidad.
+
+### S05 · T2R · 1 viñeta
+**V9.** Empezó a las cinco.
+
+### S06 · T3R · 2 viñetas
+**V10.** Los amarillos subieron primero, en racimos, y los cuatro los cortaron. Rika abrió un abanico de brasa a lo ancho del bancal y los devolvió cuesta abajo. Goro recibió los que lograban pasar con el escudo y los envió al vacío.
+
+**V11.** Ren entraba por los huecos y salía antes de que se cerraran. Yui tumbaba a los que intentaban rodear el terraplén, uno por uno, con la calma de la que ya no contaba.
+
+### S07 · T4R · 3 viñetas
+**V12.** A las cinco y veinte, Caldera subió.
+
+**V13.** No subió a toda prisa. Subió por el centro, con la grieta abierta, echando vapor por ambas mitades, y cada vez que apoyaba las patas en la tierra, la cuesta temblaba.
+
+**V14.** Los amarillos, al verlo, dejaron de avanzar por su cuenta y empezaron a avanzar con él, apretándose unos a otros para subir detrás de su mando.
+
+### S08 · T4R · 3 viñetas
+**V15.** Plano medio. Gritó Rika.
+> **GLOBO:** ¡Que no pase el centro!
+
+**V16.** Goro se plantó justo en el borde del estrechamiento, con los pies clavados en la tierra, y el escudo de canto. Caldera bajó el peso sobre él y el suelo crujió.
+
+**V17.** Goro aguantó. El escudo aguantó. Las dos mitades de Caldera empujaron hacia adelante, y por un instante el terraplén entero se inclinó entre el peso del subjefe y el muro de un solo hombre.
+
+### S09 · T3R · 2 viñetas
+**V18.** Plano americano. Gritó Ren.
+> **GLOBO:** ¡Goro!
+
+**V19.** Plano de bocas. Dijo Goro.
+> **GLOBO:** ¡Sigo!
+
+### S10 · T2R · 1 viñeta
+**V20.** Entonces Rika hizo lo que no había hecho nunca con un subjefe: cortó hacia arriba. El abanico de brasa, en vez de abrirse a lo ancho, lo abrió en una franja estrecha y directa, y le abrió una línea a Caldera justo por el borde de la grieta humeante.
+
+### S11 · T4R · 3 viñetas
+**V21.** Caldera rugió, y el rugido hizo temblar los bancales, y por la grieta salió más vapor.
+
+**V22.** Ren pasó el hueco.
+
+**V23.** No fue un cruce. Fue una entrada limpia: cruzó entre la mitad izquierda y la derecha de Caldera en el momento en que éstas se separaron por el empuje, y descargó las tres cargas en el interior de la grieta, una detrás de otra.
+
+### S12 · T3R · 2 viñetas
+**V24.** El humo blanco se volvió amarillo, y Caldera retrocedió medio paso por primera vez en toda la subida.
+
+**V25.** Plano americano. Dijo Yui.
+> **GLOBO:** ¡Ahora!
+
+### S13 · T4R · 3 viñetas
+**V26.** Yui, desde lo alto, apuntó a la juntura que la grieta dejaba descubierta cuando Caldera se echaba hacia atrás, y disparó. Dos tiros secos, justos en el nudo que mantenía unidas las dos mitades.
+
+**V27.** La tercera mitad, la que no existía, cedió.
+
+**V28.** Caldera se partió.
+
+### S14 · T3R · 2 viñetas
+**V29.** No se rompió. Se partió en dos mitades que cayeron cuesta abajo, rodando por los bancales, y cada mitad, al caer, aplastó a una hilera de amarillos que no habían tenido tiempo de apartarse.
+
+**V30.** Los amarillos, al ver caer a su mando, dudaron. Solo dudaron un segundo. Un segundo fue suficiente.
+
+### S15 · T2R · 1 viñeta
+**V31.** Ren salió de la cuesta. Rika cerró el corte. Goro dio un paso adelante y empujó con el escudo lo que quedaba de la fila, y Yui terminó lo que quedaba con tres tiros precisos.
+
+### S16 · T4R · 3 viñetas
+**V32.** A las cinco y cuarenta y cinco, el terraplén de Misawa estaba limpio.
+
+**V33.** Los cuatro se sentaron en el borde, con los pies colgando hacia la cuesta.
+
+**V34.** Contrapicado. Dijo Goro.
+> **GLOBO:** Ese pesaba
+
+### S17 · T3R · 2 viñetas
+**V35.** Primer plano. Dijo Ren.
+> **GLOBO:** Pesaba mucho
+
+**V36.** Rika miraba la cuesta abajo, donde las dos mitades de Caldera aún humeaban entre los terrones rotos. Yui, junto a ella, guardaba el rifle y miraba lo mismo.
+
+### S18 · T4R · 3 viñetas
+**V37.** > **SEGUNDO GANCHO (pantalla 22, 30%)**
+
+**V38.** > Entre los amarillos muertos, uno no estaba muerto del todo. Se arrastró hasta el borde de un bancal, levantó la cabeza y miró a los cuatro. No atacó.
+
+**V39.** Habló, muy bajo, con la voz rota entre el humo.
+
+### S19 · T4R · 3 viñetas
+**V40.** Plano de bocas. Dijo.
+> **GLOBO:** *Gar-uk rash-kósh... Kor-váth.*
+
+**V41.** (Traducción: «El Mando reclamará la frontera... Kor-váth.»)
+
+**V42.** Primer plano. Dijo Rika.
+> **GLOBO:** Otra vez
+
+### S20 · T3R · 2 viñetas
+**V43.** Plano medio. Dijo Yui—. Lo dicen cuando el mando cae. Como si, al caer, recordaran a quién sirven.
+> **GLOBO:** Siempre lo mismo
+
+**V44.** Plano detalle. Dijo Ren.
+> **GLOBO:** O a quién ya no sirven
+
+### S21 · T2R · 1 viñeta
+**V45.** El kaiyu murió antes de que terminara de decirlo.
+
+### S22 · T2R · 1 viñeta
+**V46.** Allá abajo, en la cuesta, el humo se iba llevando lo que quedaba de Caldera, y arriba, en el terraplén, los cuatro, por primera vez en aquel día, respiraron de una vez.
+
+---
+
+## Globos de diálogo (13)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V4 | Goro | Caldera |
+| V5 | Yui | Naranja, subjefe |
+| V6 | Ren | El que manda |
+| V15 | Rika | ¡Que no pase el centro! |
+| V18 | Ren | ¡Goro! |
+| V19 | Goro | ¡Sigo! |
+| V25 | Yui | ¡Ahora! |
+| V34 | Goro | Ese pesaba |
+| V35 | Ren | Pesaba mucho |
+| V40 | Yui | *Gar-uk rash-kósh... Kor-váth.* |
+| V42 | Rika | Otra vez |
+| V43 | Yui | Siempre lo mismo |
+| V44 | Ren | O a quién ya no sirven |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Sábado 22 de julio de 2017. 5:00 p. m. Terraplén de Misawa, frente norte. |
+

@@ -1,7 +1,7 @@
 # CAPÍTULO 4 — Día 2, mañana. La respuesta
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
->>> Día 2. 06:40. Base NSF.
+>>> Día 2. 6:40 a. m. Base NSF.
 
 La sala de reuniones de la base de la costa de Kanto olía a café recalentado y a papel nuevo. Tenía una mesa larga que nadie utilizaba, un mapa de la costa de Kanto en la pared y una bandera arriba que llevaba el mismo polvo que el resto del edificio. No había ventanas grandes. Solo una claraboya sucia que en días buenos dejaba entrar una columna de luz en diagonal, que caía sobre el mapa como un puntero desinteresado.
 
@@ -9,7 +9,7 @@ Siete personas estaban de pie alrededor de la mesa. Nadie sentado. Era una de es
 
 Un reloj de pared contaba los segundos con la laboriosidad de los relojes que no tienen nada mejor que hacer.
 
-Una de las siete personas se llamaba Watanabe Raishirō. Cincuenta y cuatro años, el uniforme impecable y sin una sola insignia que acreditara poder: ninguna cinta, ninguna barra, ninguna de esas cosas que los demás oficiales se cosían en el pecho como quien colecciona sellos. No llevaba arma. En diez años de destino en esa base, nadie lo había visto con una en la mano, y aun así, cuando hablaba, los otros seis se ponían derechos como si acabaran de nacer de un mismo molde.
+Una de las siete personas se llamaba Watanabe Raishiro. Cincuenta y cuatro años, el uniforme impecable y sin una sola insignia que acreditara poder: ninguna cinta, ninguna barra, ninguna de esas cosas que los demás oficiales se cosían en el pecho como quien colecciona sellos. No llevaba arma. En diez años de destino en esa base, nadie lo había visto con una en la mano, y aun así, cuando hablaba, los otros seis se ponían derechos como si acabaran de nacer de un mismo molde.
 
 Watanabe habló despacio.
 
@@ -33,13 +33,13 @@ Watanabe asintió, despacio, como quien toma nota de algo que no quiere olvidar,
 
 El oficial anotó, muy despacio, los bichos, con una letra pequeña que se le salía del recuadro. Nadie lo corrigió. Nadie le dijo que había dicho algo raro. En esa sala, lo raro no se señalaba; se escribía otra vez, más despacio, a ver si la forma cambiaba el significado.
 
-En el fondo de la sala, sin sentarse, sin un movimiento, estaba el doctor Kurose Ken. Cincuenta y dos años. No tomaba la palabra en esas reuniones. No tomaba la palabra nunca: se plantaba al fondo con su carpeta de cuero apretada contra el pecho, como un hombre que atiende un mercado que le queda lejísimos, y solo miraba. El general no lo miraba a él. Kurose llevaba quince años entrando en esas reuniones sin decir una palabra, y todos los demás habían dejado de preguntarse por qué.
+En el fondo de la sala, sin sentarse, sin un movimiento, estaba el doctor Kurose Ken. Cincuenta y dos años. No tomaba la palabra en esas reuniones. No tomaba la palabra nunca: se plantaba al fondo con su carpeta de cuero apretada contra el pecho, como un hombre que atiende un mercado que le queda lejísimos, y solo miraba. El general no lo miraba a él. Kurose llevaba nueve años entrando en esas reuniones sin decir una palabra, y todos los demás habían dejado de preguntarse por qué.
 
 Un fluorescente del techo hacía un zumbido de abeja dormida. El mapa de la costa, en la pared, tenía siete marcas rojas.
 
 Una estaba en Yokohama. Era la más grande.
 
->>> 08:15. Polígono de tiro.
+>>> 8:15 a. m. Campo de tiro.
 
 El campo de tiro de la base olía a pólvora rancia y a hierba seca. Estaba al borde de la carretera de servicio, abierto, con un muro de hormigón a cuatrocientos metros clavado en la tierra como un diente cuadrado y gris. Un camión ladrillo dejaba caer una columna de humo que se quedaba colgando a la altura de las cabezas, inmóvil, sin ganas de irse.
 
@@ -63,7 +63,7 @@ Los tanques cargaron. Los soldados, de pie en su sitio, no dispararon. No había
 
 —Capitan —dijo una voz cerca de la caja de radios.
 
-Shinozuka Ryō, veintinueve años, sargento de comunicaciones, tenía el auricular medio puesto y la otra mano tapándose un oído. Se había acercado a Miura sin abandonar la caja, con ese paso de los que siempre están a mitad de camino.
+Shinozuka Ryo, veintinueve años, sargento de comunicaciones, tenía el auricular medio puesto y la otra mano tapándose un oído. Se había acercado a Miura sin abandonar la caja, con ese paso de los que siempre están a mitad de camino.
 
 —Capitan, radio. Uno de los nuestros no aparece.
 
@@ -75,7 +75,7 @@ Miura se giró, sin bajarse la mano de la cadera.
 
 —Que siga buscando.
 
-—Vale.
+—Está bien.
 
 Miura ya se estaba dando la vuelta hacia los tanques, con las manos a punto de levantarse otra vez, cuando se detuvo, un segundo, y miró la caja de radios como si acabara de recordar algo que no era exactamente memoria.
 
@@ -87,9 +87,9 @@ Shinozuka se puso el auricular del todo, y con una paciencia de años de guardia
 
 El auricular quedó colgando de la caja, con el ruido de fondo de una línea abierta entrando y saliendo, sin nadie hablando del otro lado. El zumbido de la línea, ese sonido de túnel vacío, se quedó hablando solo un buen rato.
 
->>> 09:30. Los que cruzaron.
+>>> 9:30 a. m. Los que cruzaron.
 
-Un autobús militar estaba parado en el arcén de la carretera de servicio, con el motor en marcha y las puertas medio abiertas, como una sombra con ganas de irse. Dentro, cuatro personas estaban sentadas en la última fila, separadas, cada una con su asiento y su ventana y su espacio vacío de por medio, como si el autobús les hubiera tocado en la lotería un examen.
+Un autobús militar estaba parado en el borde de la carretera de servicio, con el motor en marcha y las puertas medio abiertas, como una sombra con ganas de irse. Dentro, cuatro personas estaban sentadas en la última fila, separadas, cada una con su asiento y su ventana y su espacio vacío de por medio, como si el autobús les hubiera tocado en la lotería un examen.
 
 Ninguno se conocía.
 
@@ -129,7 +129,7 @@ Yui lo miró.
 
 —En la puerta —dijo Goro—. Salimos los dos quemados y el otro salió entero.
 
-Ren, que hasta entonces había estado mordiéndose las uñas contra el cristal, se bajó las manos. Era la primera vez en el trayecto que sus manos se quedaban quietas en el mismo sitio todo el tiempo de una frase.
+Ren, que hasta entonces había estado mordiéndose las uñas contra el vidrio, se bajó las manos. Era la primera vez en el trayecto que sus manos se quedaban quietas en el mismo sitio todo el tiempo de una frase.
 
 —¿El otro?
 
@@ -149,7 +149,7 @@ Yui lo miró, sin entender.
 
 El autobús siguió rodando por la carretera desierta, con la última fila separada por cuatro asientos vacíos, cuatro ventanas, cuatro maneras distintas de no mirarse. Ninguno miraba a otro. El motor, abajo, con su regularidad de máquina de coser, cosiendo el silencio.
 
->>> 09:40. Vista aérea.
+>>> 9:40 a. m. Vista aérea.
 
 El helicóptero apareció por el sur con el fuselaje marcado de la base y el hueco de la hélice llenando el aire por delante de él, y se quedó flotando sobre el helipuerto un instante, sujeto al suelo solo por un presente de forma. La puerta lateral estaba abierta y dentro, enmarcada por el metal, había una mujer con casco y visor.
 
@@ -157,7 +157,7 @@ Hayakawa Saya tenía treinta y un años, un apellido de piloto y una reputación
 
 —Base, aquí Toro cuatro —dijo—. Salimos hacia la ruta de inspección.
 
-Los controles de la cabina estaban encendidos todos, cada luz con su curro, como un pequeño altar de trabajo. Hayakawa se ajustó el visor y repitió, ya en el aire, con el ruido de la hélice doblándole las últimas palabras:
+Los controles de la cabina estaban encendidos todos, cada luz con su trabajo, como un pequeño altar de trabajo. Hayakawa se ajustó el visor y repitió, ya en el aire, con el ruido de la hélice doblándole las últimas palabras:
 
 —Base, Toro cuatro en el aire. Alguien tiene que mirar las puertas desde arriba.
 
@@ -171,7 +171,7 @@ Dicho lo cual, sin esperar a que le dijeran más, movió los mandos y el helicó
 
 Desde el aire, la carretera era una costura gris sobre campos quietos. Un pueblo pasó por debajo con sus tejados y su silencio de pueblo que ya no sabe si está abierto. Todo gris, todo quieto, con la mañana metiéndose bajo las puertas como si no le importara. Una columna de humo, a lo lejos, se levantaba del campo como un dedo de ceniza señalando el cielo.
 
-09:40. Vista aérea.
+9:40 a. m. Vista aérea.
 
 Hayakawa apuntó el helicóptero hacia la zona de la última señal, bajó un poco, y entonces lo vio.
 
@@ -185,11 +185,11 @@ Anotó las coordenadas. Miró un poco más el círculo, que seguía girando abaj
 
 Y voló de vuelta.
 
->>> 12:20. Sin retirarla.
+>>> 12:20 p. m. Sin retirarla.
 
 La sala de reuniones era otra vez la misma, con las mismas siete personas de pie y el mapa con las siete marcas rojas en la pared. El polvo de la claraboya había elegido su sitio y la columna de luz caía en diagonal sobre Yokohama, como si también allí se hubiera tomado una decisión.
 
-Watanabe Raishirō habló despacio, con las manos detrás de la espalda y la cabeza muy quieta.
+Watanabe Raishiro habló despacio, con las manos detrás de la espalda y la cabeza muy quieta.
 
 —Dos cosas. Primera: nadie sale de la base sin orden.
 
@@ -197,13 +197,13 @@ Señaló el mapa con la barbilla, sin tocar nada.
 
 —Segunda: la provincia es nuestra. Lo que hay en la provincia es un problema de la provincia.
 
-En el fondo, detrás de todos, el doctor Kurose Ken levantó la vista de la carpeta. Sus ojos se movieron, solos, hasta la marca roja de Yokohama, la más grande, y se quedaron allí un segundo. Después, la carpeta se le escapó de las manos y cayó al suelo con un golpe seco que todos los de la sala oídos, y nadie miró.
+En el fondo, detrás de todos, el doctor Kurose Ken levantó la vista de la carpeta. Sus ojos se movieron, solos, hasta la marca roja de Yokohama, la más grande, y se quedaron allí un segundo. Después, la carpeta se le escapó de las manos y cayó al suelo con un golpe seco que todos los de la sala oyeron, y nadie miró.
 
 El general no lo miró. Kurose lo sabía.
 
 El oficial de intendencia, con la letra pequeña ya seca en la hoja, levantó la pluma un poco por encima del papel, con el cuidado de quien pisa huecos:
 
-—¿Orden de no contacto, excelente?
+—¿Orden de no contacto, excelencia?
 
 —No —dijo Watanabe—. Orden de no abrir. Contacto, los que sea necesario.
 
@@ -233,7 +233,7 @@ Tokura no se movió de la puerta. Le temblaba el trapo, un poco, no de frío. Y 
 
 Nadie contestó. El carro de ruedas desiguales dio media vuelta y se fue por el pasillo, y la puerta se quedó abierta un poco más de lo que se suele dejar.
 
->>> 12:20. Pasillo de la base.
+>>> 12:20 p. m. Pasillo de la base.
 
 Al mediodía, en el pasillo central de la base, la gente comía de pie en grupos pequeños, con los platos en la mano y la espalda contra la pared. Todos miraban el mapa de la costa que colgaba junto a la puerta de la sala de reuniones, con sus siete marcas rojas, y nadie hablaba de él.
 

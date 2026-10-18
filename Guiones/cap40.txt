@@ -1,0 +1,493 @@
+# CAPÍTULO 40 — El que no era bestia
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
+```
+HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
+ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
+(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
+y fina, semi-realista, luminoso, lectura de webtoon vertical.
+
+ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
+Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
+CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
+y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
+glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
+en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
+rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
+Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
+cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+
+FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
+por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
+La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
+nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
+el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
+cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
+una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
+(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
+proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
+un corte diagonal o por una viñeta a sangre que rompe el marco.
+
+MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
+elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
+lista de dibujos:
+
+FORMAS DE VIÑETA (por contorno):
+- Regular: rectangular o cuadrada, el caballo de batalla.
+- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
+  energía; va en escenas dinámicas, persecuciones y golpes.
+- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
+  y dirige la mirada al panel siguiente.
+- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
+- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
+- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
+  línea interna. Contraste o simultaneidad.
+- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
+  pausados o paisajes.
+- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
+- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
+- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+
+PATRONES DE REPARTO (por secuencia):
+- Columna apilada: la base; una viñeta debajo de otra.
+- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
+  viñeta a todo ancho (reveal).
+- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
+- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
+- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
+- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
+  fino entre ellos; solo si la escena lo pide.
+
+RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
+(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
+gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
+abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
+altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
+máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
+(≈1600 px) de distancia.
+
+EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
+control de velocidad de la lectura. Hay tres valores y solo tres:
+- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
+  disparos, metralletas, golpes.
+- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
+- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
+  una cara que se lee, una revelación, el silencio después del daño.
+En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
+blanco ES el montaje.
+
+VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
+ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
+reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
+ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
+video y no como una lista de dibujos.
+
+MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
+OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
+que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
+explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+
+COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
+o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
+las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
+cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
+cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
+una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
+nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
+Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
+luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
+cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
+casi vacía, un solo detalle, mucho espacio negativo.
+
+EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
+Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
+verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
+edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
+personas visten como visten las personas de verdad aquí: abrigos, paraguas,
+uniformes y mochilas.
+
+LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
+umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
+cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+
+RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
+ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
+la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
+rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
+ondea y es lo primero que se ve cuando se mueve.
+
+GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
+cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
+del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
+industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
+acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
+solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
+píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
+cálido de la página en un mundo de grises.
+
+REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
+quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
+en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
+gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
+página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
+nervioso. Silueta delgada y nerviosa. Marca
+única: las vendas y el amarillo.
+
+YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
+pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
+los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
+guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
+la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
+un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
+
+LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
+silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
+nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
+contraste con una figura.
+
+LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
+persona. Cada uno tiene una silueta propia y un color de peligro en una parte
+del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
+humanas.
+
+COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
+débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
+es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
+
+LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
+números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
+paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
+firmas. Sin caras de otros idiomas.
+LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
+narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
+"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
+dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
+limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
+SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
+ilustración.
+```
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Estaba de pie en mitad de la sala vacía, solo, sin un solo kaiyu a su alrededor que lo mandara ni al que mandar, y lo primero que pensó Rika, antes de reconocer nada, fue que aquel ser estaba de pie como está de pie un hombre: erguido, quieto, con el peso repartido, con los brazos —el que le quedaba y el muñón del otro— caídos a los lados, sin la inclinación de embestida que tenían todos los demás.
+    - *En este capítulo (novela):* Rika miró al naranja.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), naranja (rango subjefe), rojo (rango jefe), negro (rango mando).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 30 pantallas de 800×1280 · 62 viñetas · 38400 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 40 (2 rótulos de escena). |
+| Fondo | Sábado 10 de junio de 2017. 2:20 p. m. Fábrica abandonada, Sector Cuatro. |
+| Personajes con nombre | Goro, Ren, Yui, Rika |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 30 |
+| Viñetas | 62 |
+| Globos de diálogo | 19 |
+| Cajas de narración | 2 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Mediodía sobre la fábrica abandonada, cielo blanco.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 40` — mayúsculas, tamaño grande.
+- Línea 2: `«El que no era bestia»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T2R | 1 | 1200 | 40/40 |
+| S22 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S23 | T3R | 2 | 570/570 | 40/60/40 |
+| S24 | T2R | 1 | 1200 | 40/40 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+| S26 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S27 | T3R | 2 | 570/570 | 40/60/40 |
+| S28 | T3R | 2 | 570/570 | 40/60/40 |
+| S29 | T6 | 0 | — | rótulo |
+| S30 | T3R | 2 | 570/570 | 40/60/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Sábado 10 de junio de 2017. 2:20 p. m. Fábrica abandonada, Sector Cuatro.
+
+### S02 · T4R · 3 viñetas
+**V1.** La orden llegó a las dos y cuarto, y decía lo de siempre: incursión, neutralizar, cerrar.
+
+**V2.** La fábrica abandonada del Sector Cuatro llevaba tres días echando un humo que no era humo, y cuando se abre una puerta y por la puerta sale un humo que no es humo, una sabe que detrás hay algo que la OIDA no quiere que salga.
+
+**V3.** Entraron los cuatro, con dos equipos de apoyo detrás, y limpiaron la nave, y limpiaron los pasillos, y limpiaron la sala de calderas, y en cada sitio encontraron lo mismo de siempre: verdes, amarillos, algún azul, y el silencio de las cosas que ya no están.
+
+### S03 · T3R · 2 viñetas
+**V4.** Y al final, en el fondo, en una sala sin ventanas, encontraron a lo que llevaban dos semanas buscando sin saberlo.
+
+**V5.** Era naranja.
+
+### S04 · T4R · 3 viñetas
+**V6.** Pero no era como los otros.
+
+**V7.** Estaba de pie en mitad de la sala vacía, solo, sin un solo kaiyu a su alrededor que lo mandara ni al que mandar, y lo primero que pensó Rika, antes de reconocer nada, fue que aquel ser estaba de pie como está de pie un hombre: erguido, quieto, con el peso repartido, con los brazos —el que le quedaba y el muñón del otro— caídos a los lados, sin la inclinación de embestida que tenían todos los demás.
+
+**V8.** No era alto como los rojos. No era ancho como los naranjas que habían visto. Era delgado, gastado, con la capa llena de rotos y de polvo, y llevaba grabados en la piel —en la poca piel que le quedaba— unos signos que les recordaron, sin que supieran por qué, a las hojas que recogía el negro del muelle.
+
+### S05 · T2R · 1 viñeta
+**V9.** Y tenía los ojos dorados, como todos.
+
+### S06 · T3R · 2 viñetas
+**V10.** Pero no miraba como miraban los otros.
+
+**V11.** Los otros miraban con odio, o con hambre, o con nada. Aquel miraba como mira un hombre cansado que ha andado mucho y ha llegado por fin a un sitio, y el sitio no es el que quería.
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Dijo Goro, con el puño ya cerrado.
+> **GLOBO:** Ese no se mueve
+
+**V13.** Contrapicado. Dijo Ren.
+> **GLOBO:** Ese no ataca
+
+**V14.** Primer plano. Dijo Yui.
+> **GLOBO:** Ese está esperando
+
+### S08 · T4R · 3 viñetas
+**V15.** Rika dio un paso.
+
+**V16.** Y el naranja hizo lo único que a ninguno de los cuatro se le había pasado por la cabeza que pudiera hacer un naranja.
+
+**V17.** Soltó lo que llevaba.
+
+### S09 · T3R · 2 viñetas
+**V18.** No tenía arma; tenía una cosa larga que podía haber sido un bastón o una herramienta o un colmillo arrancado a algo, y la dejó caer al suelo, y el ruido de la cosa larga al tocar el hormigón sonó en la sala vacía como una puerta que se abre.
+
+**V19.** Luego el naranja dobló las rodillas.
+
+### S10 · T2R · 1 viñeta
+**V20.** Y se arrodilló.
+
+### S11 · T4R · 3 viñetas
+**V21.** Delante de cuatro personas. Despacio. Sin bajar los ojos. Se arrodilló como se arrodilla el que sabe arrodillarse, con la espalda recta y la mirada puesta en el que tiene delante, y una vez de rodillas se quedó quieto y esperó.
+
+**V22.** Plano medio. Empezó Ren, y no acabó.
+> **GLOBO:** Está...
+
+**V23.** Plano detalle. Dijo Goro.
+> **GLOBO:** Se está rindiendo
+
+### S12 · T3R · 2 viñetas
+**V24.** La radio de Rika crujió con la voz de Kurose, que estaba en el exterior con los equipos de apoyo.
+
+**V25.** Plano americano. Dijo Kurose—. Su señal se ha parado. ¿Están bien?
+> **GLOBO:** ¿Qué pasa ahí dentro?
+
+### S13 · T4R · 3 viñetas
+**V26.** Plano de bocas. Dijo Rika—. Kurose, hay un naranja.
+> **GLOBO:** Estamos bien
+
+**V27.** Contrapicado. Rika habla.
+> **GLOBO:** Mátalo.
+
+**V28.** Primer plano. Rika habla.
+> **GLOBO:** Kurose, se ha arrodillado.
+
+### S14 · T3R · 2 viñetas
+**V29.** Hubo un silencio al otro lado.
+
+**V30.** Plano detalle. Rika habla.
+> **GLOBO:** Repite eso.
+
+### S15 · T2R · 1 viñeta
+**V31.** Primerísimo primer plano. Dijo Rika—. No pelea. Ha soltado lo que llevaba y se ha puesto de rodillas, y ahora mismo está quieto, mirándonos.
+> **GLOBO:** Se ha arrodillado
+
+### S16 · T4R · 3 viñetas
+**V32.** Otro silencio, más largo.
+
+**V33.** Plano de bocas. Dijo al fin Kurose, y la voz le salió distinta de como le salía siempre—. Neutralizar. Es un naranja. Los naranjas mandan. Si un naranja se rinde, es una trampa. No hay otra lectura.
+> **GLOBO:** La orden sigue siendo la orden
+
+**V34.** Rika miró al naranja. El naranja la miró a ella. Y la sala, la fábrica, el humo que no era humo, todo se quedó esperando.
+
+### S17 · T3R · 2 viñetas
+**V35.** Primer plano. Dijo Rika.
+> **GLOBO:** No lo voy a matar
+
+**V36.** Plano medio. Rika habla.
+> **GLOBO:** Rika...
+
+### S18 · T4R · 3 viñetas
+**V37.** Plano detalle. Rika habla.
+> **GLOBO:** No lo voy a matar mientras esté de rodillas, Kurose. —Bajó el arma un poco—. Que se levante. Si se levanta, hablamos.
+
+**V38.** El naranja la entendió.
+
+**V39.** No podía entender las palabras, pero la entendió igual, porque hay cosas que no se dicen: se hacen. Y el naranja, sin levantarse, sin dejar de mirarla, abrió la boca despacio —una boca que tenía, en efecto, menos dientes y más cicatrices que la de cualquier bestia— y habló.
+
+### S19 · T4R · 3 viñetas
+**V40.** No fue un gruñido.
+
+**V41.** Fue un idioma.
+
+**V42.** Un idioma que Rika no conocía y a la vez reconocía, un idioma con piedras dentro, con sílabas que se arrastraban y que se cerraban de golpe, y las piedras formaron palabras, y las palabras formaron frases, y las frases, en la sala vacía, sonaron como suena un rezo.
+
+### S20 · T3R · 2 viñetas
+**V43.** Plano medio. Dijo el que estaba de rodillas—. *...Rika O-m-rok... Zuk-ro k-zarr... Thar-nok O-vur...*
+> **GLOBO:** *O-rok-má var-kor-váth...*
+
+**V44.** Rika se quedó de piedra.
+
+### S21 · T2R · 1 viñeta
+**V45.** No por el idioma. Por lo que había oído dentro del idioma, en medio de las piedras, clarísimo, imposible:
+
+### S22 · T4R · 3 viñetas
+**V46.** Su nombre.
+
+**V47.** No su nombre de persona. Su nombre de otro modo. El modo en que sonaba cuando ella no era nadie todavía y alguien, en un sitio que no conocía, ya la llamaba así.
+
+**V48.** «Rika O-m-rok.»
+
+### S23 · T3R · 2 viñetas
+**V49.** La Hoja.
+
+**V50.** Plano medio. Susurró Ren, que también lo había oído.
+> **GLOBO:** Lo ha dicho
+
+### S24 · T2R · 1 viñeta
+**V51.** Plano detalle. Dijo Yui.
+> **GLOBO:** Ha dicho su nombre
+
+### S25 · T3R · 2 viñetas
+**V52.** Y entonces el naranja siguió hablando, y lo que dijo a continuación ya no fue una frase: fue una historia. Fue un relato, contado despacio por una voz rota en un idioma roto, y sin embargo, sin que ninguno de los cuatro supiera por qué, empezaron a entenderlo.
+
+**V53.** No las palabras. Las cosas detrás de las palabras.
+
+### S26 · T4R · 3 viñetas
+**V54.** Como si el naranja de rodillas hubiera abierto una puerta y los hubiera dejado mirar por dentro.
+
+**V55.** La sala se fue apagando.
+
+**V56.** El humo que no era humo se fue quedando quieto, y las paredes de la fábrica del Sector Cuatro se fueron volviendo borrosas, y el hormigón se fue volviendo otra cosa, otra piedra, otra luz, y detrás de los ojos dorados del que estaba de rodillas apareció un mundo que no era este.
+
+### S27 · T3R · 2 viñetas
+**V57.** Un mundo con un cielo roto.
+
+**V58.** Un mundo con un núcleo partido, colgando en medio de la noche como un corazón al que le hubieran dado un golpe.
+
+### S28 · T3R · 2 viñetas
+**V59.** Un mundo en guerra.
+
+**V60.** Y una voz, la del que se había arrodillado delante de Rika, que empezó su historia por el principio, por muy al principio, por el día en que aquel mundo todavía era de los suyos y nadie sabía aún que iba a dejar de serlo.
+
+### S29 · T6 · rótulo
+> **RÓTULO:** Recuerdo · Gar-Máth, años antes.
+
+### S30 · T3R · 2 viñetas
+**V61.** «Antes de que llegara el que se corona, nosotros ya vivíamos en el Núcleo Roto...»
+
+**V62.** Contrapicado. Rika habla.
+> **GLOBO:** y la fábrica del Sector Cuatro ya no existía, ni la OIDA, ni el verano, ni la guerra de la superficie, y solo quedaba la voz del que no era una bestia contando lo que nadie, de este lado, había sabido nunca.
+
+---
+
+## Globos de diálogo (19)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V12 | Goro | Ese no se mueve |
+| V13 | Ren | Ese no ataca |
+| V14 | Yui | Ese está esperando |
+| V22 | Ren | Está... |
+| V23 | Goro | Se está rindiendo |
+| V25 | Rika | ¿Qué pasa ahí dentro? |
+| V26 | Rika | Estamos bien |
+| V27 | Rika | Mátalo. |
+| V28 | Rika | Kurose, se ha arrodillado. |
+| V30 | Rika | Repite eso. |
+| V31 | Rika | Se ha arrodillado |
+| V33 | Rika | La orden sigue siendo la orden |
+| V35 | Rika | No lo voy a matar |
+| V36 | Rika | Rika... |
+| V37 | Rika | No lo voy a matar mientras esté de rodillas, Kurose. —Bajó el arma un poco—. Que se levante. Si se levanta, hablamos. |
+| V43 | Rika | *O-rok-má var-kor-váth...* |
+| V50 | Ren | Lo ha dicho |
+| V51 | Yui | Ha dicho su nombre |
+| V62 | Rika | y la fábrica del Sector Cuatro ya no existía, ni la OIDA, ni el verano, ni la guerra de la superficie, y solo quedaba la voz del que no era una bestia contando lo que nadie, de este lado, había sabido nunca. |
+
+## Cajas de narración (2)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Sábado 10 de junio de 2017. 2:20 p. m. Fábrica abandonada, Sector Cuatro. |
+| V61 | Rótulo: Recuerdo · Gar-Máth, años antes. |
+

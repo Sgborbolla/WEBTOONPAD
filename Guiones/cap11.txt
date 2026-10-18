@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,10 +169,45 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Pero sobre esa misma mañana, debajo de la misma rutina, corría una corriente nueva, invisible, que nadie quería nombrar: la gente bajaba las escaleras con el celular en la mano, y en los celulares estaba Goro Arashi, de noche, con el brazo encendido, de pie en medio de una calle rota, sin prisa, rodeado de cinco kaiyu caídos.
+    - *En este capítulo (novela):* Goro comía sin levantar la vista, con el casco de obra junto al plato.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika siguió mojando pan en el caldo, despacio, y dijo, sin levantar la cabeza:
+
+—La gente no se va a olvidar de esto.
+    - *En este capítulo (novela):* Rika levantó la cabeza.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* —dijo Ren, con la voz baja, los auriculares colgados del cuello—.
+    - *En este capítulo (novela):* —Te están grabando —dijo Ren, bajito, sin volver la cabeza.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* Yui bebió el café de un golpe, puso la taza abajo y dijo, sin mirar a nadie:
+
+—Está por todas partes.
+    - *En este capítulo (novela):* —Yui se pasó la mano por el pelo, con un gesto que no era suyo, de quien no sabe qué hacer con las manos cuando las manos no sirven para apuntar—.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), azul (rango mínimo), naranja (rango subjefe), negro (rango mando).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** viernes **19 de mayo de 2017**, 07:15–12:00 (Día 5, el día después del video). Presente: 2026 (9 años).
 > **Bloques:** A = El video (S01–S10, gutter 40) · B = La calle que mira (S11–S18, gutter 35) · C = Los niños del patio (S19–S24, gutter 40) · D = La descarga (S25–S32, gutter 35) · E = Proteger (S33–S44, gutter 40) · F = La verja (S45–S52, gutter 40) · G = El patio de la base (S53–S60, gutter 40) · H = El dibujo (S61–S70, cierra en negro)
-> **Total:** 70 pantallas de 800×1280 · 137 viñetas · 89.600 px de scroll
+> **Total:** 70 pantallas de 800×1280 · 139 viñetas · 89.600 px de scroll
 
 ## Ficha
 
@@ -185,10 +220,10 @@ ilustración.
 | Fondo de los bloques D-G | Gris oscuro `#2a2a2e` (el porche del portal) |
 | Fondo del bloque H | Blanco → negro (cierre) |
 | Personajes con nombre | Ren Hayashi (protagonista), Rika Tsukimi, Goro Arashi, Yui Nakamura, Futaki Saeri |
-| Viñetas | 137 |
+| Viñetas | 139 |
 | Pantallas | 70 |
-| Globos de diálogo | 25 |
-| Cajas narración | 12 |
+| Globos de diálogo | 31 |
+| Cajas narración | 7 |
 | SFX | español, dibujados |
 | Transiciones | CORTE A: (base) · CORTE A: (calle) · CORTE A: (portal) · FUNDIDO A: negro (cierre) |
 
@@ -217,7 +252,24 @@ ilustración.
 
 **Total bloque A: 10 pantallas · 19 viñetas · 12.800 px**
 
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Plano general.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 11` — mayúsculas, tamaño grande.
+- Línea 2: `«El portal»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
 ## Las viñetas del bloque A
+
 
 ### S01 · T2R · 1 viñeta de 1200
 
@@ -1388,7 +1440,7 @@ Pantalla negra, **FUNDIDO A: negro.** Una línea blanca centrada:
 
 ## LOS TEXTOS
 
-### Globos de diálogo (25)
+### Globos de diálogo (31)
 
 | Viñeta | Quién | Texto |
 |---|---|---|
@@ -1424,7 +1476,7 @@ Pantalla negra, **FUNDIDO A: negro.** Una línea blanca centrada:
 | V129 | Rika Tsukimi | No es un sol. |
 | V130 | Ren Hayashi | Lo sé. |
 
-### Cajas de narración (12)
+### Cajas de narración (7)
 
 | Viñeta | Texto |
 |---|---|

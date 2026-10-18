@@ -1,4 +1,4 @@
-# CAPÍTULO 28 — "El primer prisionero"
+# CAPÍTULO 28 — Los que vinieron
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,5 +168,207 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. Capturan Tharn.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro miraba el escudo que llevaba a la espalda y luego los escudos de los demás, como quien compara dos listas de la compra.
+    - *En este capítulo (novela):* En la barandilla, Goro seguía mirando los escudos.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* —Son coreanos —dijo Ren en voz baja, siguiendo con la mirada a un oficial delgado que corría la pista con una economía de movimientos que a él le resultaba sospechosamente familiar.
+    - *En este capítulo (novela):* Ren se encogió de hombros, pero no con las manos: con la voz.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* —Y aquellos son del Reino Unido —añadió Yui, señalando con la barbilla a otros dos, altos y quietos, que hablaban entre sí sin mover apenas las manos.
+    - *En este capítulo (novela):* Yui se había fijado en que el británico más alto no se había movido en toda la mañana; y sin embargo, en el instante en que Park endureció el aire, el británico había cerrado los ojos un segundo, muy breve, como quien no quiere ver algo que ya conoce de sobra.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 13 pantallas de 800×1280 · 28 viñetas · 16640 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 28 (1 rótulo de escena). |
+| Fondo | Sábado 27 de mayo de 2017. 11:00 a. m. Patio de instrucción, Base NSF. |
+| Personajes con nombre | Ren, Yui, Rika, Goro |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 13 |
+| Viñetas | 28 |
+| Globos de diálogo | 10 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Mediodía sobre el patio de instrucción, sol duro.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 28` — mayúsculas, tamaño grande.
+- Línea 2: `«Los que vinieron»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T1 | 1 | 1280 | 0/0 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Sábado 27 de mayo de 2017. 11:00 a. m. Patio de instrucción, Base NSF.
+
+### S02 · T4R · 3 viñetas
+**V1.** El patio olía a asfalto recalentado y a café de máquina. En una esquina, media docena de hombres y mujeres con uniformes que no eran de aquí se estiraban con la calma de quien ha viajado mucho y ha dormido poco.
+
+**V2.** Los cuatro los miraban desde el borde de la pista, apoyados en la barandilla de hierro, sin saber muy bien adónde mirar. La OIDA tenía apenas un día de vida.
+
+**V3.** Era un nombre, una sala y un montón de carpetas sin firmar. Y, aun así, ya había arrastrado a gente de tres mil kilómetros de distancia a pisar el mismo cemento que ellos pisaban cada mañana.
+
+### S03 · T3R · 2 viñetas
+**V4.** Plano americano. Dijo Ren en voz baja, siguiendo con la mirada a un oficial delgado que corría la pista con una economía de movimientos que a él le resultaba sospechosamente familiar.
+> **GLOBO:** Son coreanos
+
+**V5.** Plano de bocas. Añadió Yui, señalando con la barbilla a otros dos, altos y quietos, que hablaban entre sí sin mover apenas las manos.
+> **GLOBO:** Y aquellos son del Reino Unido
+
+### S04 · T4R · 3 viñetas
+**V6.** Goro no dijo nada. Goro miraba el escudo que llevaba a la espalda y luego los escudos de los demás, como quien compara dos listas de la compra.
+
+**V7.** Fue Rika la que se dio cuenta primero.
+
+**V8.** El coreano delgado —Park, decían— se detuvo en el centro de la pista. Se quedó quieto un segundo. Y luego, sin aspaviento, sin brillo, sin nada que se pareciera a un gesto de teatro, el aire a su alrededor se puso cuadrado.
+
+### S05 · T1 · 1 viñeta
+**V9.** No fue fuego ni luz: fue como si una porción del patio, del tamaño de una puerta, dejara de moverse con el viento y se quedara sostenida, tiesa, endurecida, sin dejar pasar ni una hoja.
+
+### S06 · T3R · 2 viñetas
+**V10.** Un pedazo de realidad, puesto en su sitio a la fuerza.
+
+**V11.** Rika sintió que se le cerraba la garganta.
+
+### S07 · T4R · 3 viñetas
+**V12.** Plano de bocas. Murmuró.
+> **GLOBO:** No somos los únicos
+
+**V13.** Nadie contestó. Porque nadie necesitaba contestar. Llevaban trece días creyendo que eran una anomalía, un accidente, cuatro personas a las que se les había caído encima un poder que no entendían y del que nadie tenía manual.
+
+**V14.** Y acababan de ver, al otro lado del mundo, a un desconocido haciendo lo mismo con la punta del dedo, como quien mueve un mueble.
+
+### S08 · T4R · 3 viñetas
+**V15.** Ren fue el primero en reaccionar, y reaccionó como reaccionaba él: yéndose.
+
+**V16.** Plano detalle. Goro habla.
+> **GLOBO:** ¿Adónde vas? —le preguntó Goro.
+
+**V17.** Primerísimo primer plano. Ren habla.
+> **GLOBO:** A preguntarle cómo lo hace.
+
+### S09 · T3R · 2 viñetas
+**V18.** Plano americano. Ren habla.
+> **GLOBO:** Espera —
+
+**V19.** Pero Ren ya estaba al otro lado de la pista, con la media sonrisa puesta y las manos donde se ven.
+
+### S10 · T2R · 1 viñeta
+**V20.** El coreano lo miró llegar sin sorpresa, como si llevara rato esperando a alguien que preguntara. Hablaron. Poco. En inglés de aeropuerto y en gestos. Ren señalaba el aire cuadrado; Park señalaba a Ren; y en algún momento los dos rieron, una risa corta, cansada, de dos hombres que llevan muchos días sin reírse.
+
+### S11 · T4R · 3 viñetas
+**V21.** Cuando Ren volvió, traía en la cara una cosa que los otros tres no le conocían.
+
+**V22.** Plano medio. Dijo Yui.
+> **GLOBO:** ¿Qué?
+
+**V23.** Plano detalle. Contestó Ren—. Dice que un día se despertó y ya estaba. Y que su país tardó más que el nuestro en admitir que existía.
+> **GLOBO:** Dice que a él también le pasó de golpe
+
+### S12 · T3R · 2 viñetas
+**V24.** Primerísimo primer plano. Preguntó Rika.
+> **GLOBO:** ¿Y eso qué significa?
+
+**V25.** Ren se encogió de hombros, pero no con las manos: con la voz.
+
+### S13 · T4R · 3 viñetas
+**V26.** Plano de bocas. Ren habla.
+> **GLOBO:** Que no éramos un monstruo. Éramos un síntoma.
+
+**V27.** En la barandilla, Goro seguía mirando los escudos. Yui se había fijado en que el británico más alto no se había movido en toda la mañana; y sin embargo, en el instante en que Park endureció el aire, el británico había cerrado los ojos un segundo, muy breve, como quien no quiere ver algo que ya conoce de sobra.
+
+**V28.** Esa noche los cuatro cenaron cerca de los recién llegados. No hablaron mucho. No hacía falta. Por primera vez desde el lunes, la palabra *nosotros* empezaba a tener sitio para más de cuatro personas.
+
+---
+
+## Globos de diálogo (10)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V4 | Ren | Son coreanos |
+| V5 | Yui | Y aquellos son del Reino Unido |
+| V12 | Rika | No somos los únicos |
+| V16 | Goro | ¿Adónde vas? —le preguntó Goro. |
+| V17 | Ren | A preguntarle cómo lo hace. |
+| V18 | Ren | Espera — |
+| V22 | Yui | ¿Qué? |
+| V23 | Ren | Dice que a él también le pasó de golpe |
+| V24 | Rika | ¿Y eso qué significa? |
+| V26 | Ren | Que no éramos un monstruo. Éramos un síntoma. |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Sábado 27 de mayo de 2017. 11:00 a. m. Patio de instrucción, Base NSF. |
+

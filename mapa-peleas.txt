@@ -99,7 +99,7 @@ Formato: `cap | tipo | enemigos | que tiene que lograr`
 | 13 | 5 | 6 amarillos, 1 naranja | **Primera pelea de equipo.** Kiroku, el cap 13, es el primero que coordinan |
 | 14 | 4 | 0 | Retirada. Caminan 4 kilómetros con 6 kaiyu detrás. No se vuelve a mirar |
 | 15 | 1 | 1 naranja | Yui sola. Su primera vez matando. Se le cae el rifle después |
-| 16 | Tensión | — | El equipo medico. Jūmoji le cose el antebrazo a Rika |
+| 16 | Tensión | — | El equipo medico. Jumoji le cose el antebrazo a Rika |
 | 17 | 2 | 9 amarillos | Ren solo, sin parar. Las tres cargas. Se queda sin aire |
 | 18 | Hablar | — | Kurose y el número de omega. El archivo, por primera vez |
 
@@ -121,8 +121,9 @@ Formato: `cap | tipo | enemigos | que tiene que lograr`
 |---|---|---|
 | 26-32 | 2, 5 | La OIDA se forma. Los bomberos de Corea, EE. UU. y Reino Unido llegan. Primer contacto con gente que tambien tiene poderes |
 | 33-38 | 5 | Operaciones mixtas. La NSF y la OIDA no se coordinan bien. Peleas de equipo, pero con desconocidos |
-| 39-44 | 6 | Primer **negro** visto desde lejos. No pelean con el: miran |
-| 45-48 | 4 | Retirada larga. 40 kaiyu en un valle. Pierden 14 días de suministros |
+| 39-40 | 2 | Primer **negro** visto desde lejos (el Archivista). No pelean: miran. En el 40 se captura al kaiyu que **no es bestia: es persona** (Vrak'thul) |
+| 41-46 | 6 | **Mundo kaiyu** (memoria de Vrak'thul): Ghar-Mʌth, el Trono y la Ley, la Sombra del Núcleo, los calderos, el Silencio, el puente. Kaikoru + traducción |
+| 47-48 | 2 | Retirada larga con el prisionero; cuenta el resto de su guerra civil durante la marcha |
 | 49-50 | Hablar | **Se abre el Legajo.** El archivo de 13 páginas. El Estado Mayor entero |
 
 ### T3 (51-75) — la guerra

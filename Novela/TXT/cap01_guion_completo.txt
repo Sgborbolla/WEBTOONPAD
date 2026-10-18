@@ -113,7 +113,7 @@ De arriba abajo:
    color:
 
    - **Rika Tsukimi, La Hoja.** Katana en la mano derecha, punta hacia abajo. Coleta
-     roja alta, yukata gris oscuro, haori color hueso. Es la mÃ¡s pequeÃ±a y la Ãºnica
+     roja alta, kimono corto negro, haori color hueso. Es la mÃ¡s pequeÃ±a y la Ãºnica
      con el pelo reconocible de un vistazo.
    - **Goro Arashi, El Yunque.** Brazos cruzados, un guantelete en cada puÃ±o, el
      mÃ¡s ancho de los cuatro. Sin pelo en la cabeza, mandÃ­bula cuadrada.
@@ -663,8 +663,8 @@ detrÃ¡s.
 **V84.** Plano entero. Los cuatro niÃ±os en la puerta, mirando, uno con una mano alzada.
 > **Globo:** un niÃ±o, arriba-izquierda, cola abajo-derecha: *Â¡Mine!*
 
-**V85.** Detalle. La mano de Rika sujetando la correa de la mochila. El nudo del yukata,
-gris oscuro, y el borde del haori color hueso. La mano se queda ahÃ­ un segundo.
+**V85.** Detalle. La mano de Rika sujetando la correa de la mochila. El nudo del kimono,
+negro, y el borde del haori color hueso. La mano se queda ahÃ­ un segundo.
 
 ### S51 Â· T4 Â· 3 viÃ±etas de 300
 
@@ -840,7 +840,7 @@ hierro, el final de la calle con trÃ¡fico lejano. La puerta queda fuera de cua
 **V123.** Plano medio. Rika, de perfil, en la acera de su calle, esperando el semÃ¡foro.
 El haori por encima del hombro. Mira hacia el sur, hacia el monte.
 
-**V124.** Detalle. Sus vendajes en los antebrazos, desde abajo, con la manga del yukata
+**V124.** Detalle. Sus vendajes en los antebrazos, desde abajo, con la manga del kimono
 caÃ­da. La luz de la maÃ±ana los vuelve casi blancos: son lo mÃ¡s claro de la imagen
 despuÃ©s del haori.
 

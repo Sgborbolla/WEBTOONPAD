@@ -1,4 +1,4 @@
-# CAPÍTULO 18 — "Omega"
+# CAPÍTULO 18 — Omega
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,9 +169,253 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
-> **Retícula:** `medidas-referencia.txt` §5. 800×1280. 60 pantallas · 120 viñetas
-> **Fecha:** domingo 21 mayo 2017 09:15
-> **Bloques:** A–D–E
-> **Estructura:** Rika entra archivo, lee expediente Mio: omega, 04:58, mismo segundo → decide sacarla
-> **Gancho 30–40%:** "permanece en el mismo espacio-tiempo"
-> **Cierre (E):** promesa "Voy a sacarla."
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Miró a Rika a los ojos y pareció tomar una decisión.
+    - *En este capítulo (novela):* Rika levantó la cabeza y miró a Futaki con una determinación férrea que la sorprendió incluso a ella misma.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 22 pantallas de 800×1280 · 46 viñetas · 28160 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 18 (1 rótulo de escena). |
+| Fondo | Domingo 21 de mayo de 2017. 9:15 a. m. Archivo, Base NSF. |
+| Personajes con nombre | Futaki, Rika |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 22 |
+| Viñetas | 46 |
+| Globos de diálogo | 10 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Cielo de mañana sobre el archivo, nubes altas y blancas.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 18` — mayúsculas, tamaño grande.
+- Línea 2: `«Omega»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T2R | 1 | 1200 | 40/40 |
+| S22 | T2R | 1 | 1200 | 40/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Domingo 21 de mayo de 2017. 9:15 a. m. Archivo, Base NSF.
+
+### S02 · T4R · 3 viñetas
+**V1.** Rika Tsukimi nunca había entrado en el archivo sin que la llamaran.
+
+**V2.** Aquella mañana, sin embargo, había seguido a Futaki Saeri hasta allí sin decir una palabra. Futaki la miró con curiosidad, pero no le preguntó nada. Simplemente abrió la puerta con su llave y la dejó pasar.
+
+**V3.** El archivo era el único lugar de toda la base que parecía no haber sido invadido por el caos de los últimos días. Estanterías metálicas llenas de carpetas, archivadores polvorientos, un par de mesas con lámparas de mesa y aquel silencio característico de los papeles viejos.
+
+### S03 · T3R · 2 viñetas
+**V4.** Olía a papel, a tinta y a polvo.
+
+**V5.** Plano de bocas. Preguntó Futaki en voz baja, cerrando la puerta tras ellas.
+> **GLOBO:** ¿Buscas algo en concreto?
+
+### S04 · T4R · 3 viñetas
+**V6.** Contrapicado. Respondió Rika sin dudar.
+> **GLOBO:** Mio Tsukimi
+
+**V7.** Futaki se quedó quieta un instante. Luego asintió con seriedad.
+
+**V8.** Plano medio. Futaki habla.
+> **GLOBO:** Te acompaño.
+
+### S05 · T2R · 1 viñeta
+**V9.** Recorrieron un pasillo entre estanterías hasta llegar a una sección con carpetas mucho más nuevas que el resto. Futaki sacó un cajón con cuidado y rebuscó entre los expedientes hasta dar con uno delgado, con una etiqueta escrita a mano: TSUKIMI, MIO.
+
+### S06 · T3R · 2 viñetas
+**V10.** Lo dejó sobre la mesa y lo abrió con delicadeza, como si temiera romper algo.
+
+**V11.** Rika se quedó mirando la carátula.
+
+### S07 · T4R · 3 viñetas
+**V12.** *EXPEDIENTE DE DESAPARICIÓN — NIVEL RESTRINGIDO*
+
+**V13.** Su corazón empezó a latir con fuerza.
+
+**V14.** Dentro había pocas hojas. Demasiado pocas para nueve años.
+
+### S08 · T4R · 3 viñetas
+**V15.** La primera página era un formulario de ingreso. Fecha: 15 de mayo de 2008. Hora: 4:58 a. m. Lugar: Guardería municipal, distrito norte de Yokohama. Motivo: Desaparición durante el suceso no clasificado.
+
+**V16.** Rika pasó el dedo por la fecha con suavidad. Exactamente nueve años atrás. El mismo día y casi la misma hora en la que todo había vuelto a empezar el lunes pasado.
+
+**V17.** Siguió leyendo con el aliento contenido.
+
+### S09 · T3R · 2 viñetas
+**V18.** *Estado actual: SIN CLASIFICAR*
+
+**V19.** *Observaciones: Sujeto permanece en el mismo espacio-tiempo desde el momento de la desaparición. No ha envejecido. No ha salido. No responde a estímulos externos.*
+
+### S10 · T2R · 1 viñeta
+**V20.** Rika levantó la mirada bruscamente.
+
+### S11 · T4R · 3 viñetas
+**V21.** Primer plano. Rika habla.
+> **GLOBO:** ¿Qué significa «permanece en el mismo espacio-tiempo»?
+
+**V22.** Futaki vaciló. Miró a Rika a los ojos y pareció tomar una decisión.
+
+**V23.** Plano detalle. Futaki habla.
+> **GLOBO:** Significa que, según lo poco que sabemos, Mio no ha seguido avanzando con el tiempo. Sigue allí. En el mismo segundo en el que entró.
+
+### S12 · T3R · 2 viñetas
+**V24.** Rika sintió que le faltaba el aire.
+
+**V25.** Plano americano. Rika habla.
+> **GLOBO:** ¿Allí dónde?
+
+### S13 · T4R · 3 viñetas
+**V26.** Futaki señaló con la barbilla la última anotación, escrita con letra más apresurada:
+
+**V27.** *Localización teórica: interior de una anomalía tipo omega. Acceso restringido.*
+
+**V28.** Primer plano. Repitió Rika en un susurro.
+> **GLOBO:** Omega
+
+### S14 · T3R · 2 viñetas
+**V29.** Plano medio. Explicó Futaki, eligiendo las palabras con cuidado—. Hay muy pocos. Y todos comparten lo mismo: la persona entró en una puerta y nunca salió. El bucle se cerró a su alrededor.
+> **GLOBO:** Es la designación que le dimos a los casos... especiales
+
+**V30.** Rika volvió a mirar el expediente con las manos apretadas sobre los bordes de la mesa.
+
+### S15 · T2R · 1 viñeta
+**V31.** *Sin clasificar.*
+
+### S16 · T4R · 3 viñetas
+**V32.** Alguien había dejado deliberadamente ese apartado sin completar. Había huecos por todas partes. Preguntas sin respuesta.
+
+**V33.** Y sin embargo, ahí estaba la hora.
+
+**V34.** 4:58 a. m.
+
+### S17 · T3R · 2 viñetas
+**V35.** La misma hora que el Silencio.
+
+**V36.** Rika cerró el expediente con mucho cuidado, como si tuviera miedo de hacer ruido. Se quedó con las manos sobre la cubierta, respirando con dificultad para mantener la calma.
+
+### S18 · T4R · 3 viñetas
+**V37.** Nueve años entrenando. Nueve años buscándola sin saber exactamente qué buscaba. Nueve años con la esperanza irracional de que, en algún lugar, Mio siguiera viva.
+
+**V38.** Y ahora sabía que no solo seguía viva. Seguía allí, atrapada en el mismo segundo, esperando.
+
+**V39.** Rika levantó la cabeza y miró a Futaki con una determinación férrea que la sorprendió incluso a ella misma.
+
+### S19 · T4R · 3 viñetas
+**V40.** Plano de bocas. Futaki habla.
+> **GLOBO:** Voy a sacarla.
+
+**V41.** Futaki no dijo «es imposible». No dijo «no lo intentes». Se limitó a mirarla con una mezcla de compasión y respeto.
+
+**V42.** Primer plano. Susurró.
+> **GLOBO:** Ya lo sé
+
+### S20 · T3R · 2 viñetas
+**V43.** Rika guardó aquel dato en lo más profundo de sí misma, clavado como una promesa. Un corte más limpio que cualquiera que hubiera hecho con su abanico.
+
+**V44.** Iba a encontrar ese omega.
+
+### S21 · T2R · 1 viñeta
+**V45.** Iba a cortar ese bucle.
+
+### S22 · T2R · 1 viñeta
+**V46.** Iba a sacar a Mio de allí, aunque tuviera que cortar lo que fuera para hacerlo.
+
+---
+
+## Globos de diálogo (10)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V5 | Futaki | ¿Buscas algo en concreto? |
+| V6 | Rika | Mio Tsukimi |
+| V8 | Futaki | Te acompaño. |
+| V21 | Rika | ¿Qué significa «permanece en el mismo espacio-tiempo»? |
+| V23 | Futaki | Significa que, según lo poco que sabemos, Mio no ha seguido avanzando con el tiempo. Sigue allí. En el mismo segundo en el que entró. |
+| V25 | Rika | ¿Allí dónde? |
+| V28 | Rika | Omega |
+| V29 | Futaki | Es la designación que le dimos a los casos... especiales |
+| V40 | Futaki | Voy a sacarla. |
+| V42 | Futaki | Ya lo sé |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Domingo 21 de mayo de 2017. 9:15 a. m. Archivo, Base NSF. |
+

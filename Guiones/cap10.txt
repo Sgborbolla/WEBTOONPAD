@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -169,6 +169,33 @@ SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de
 ilustración.
 ```
 
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro se quitó el escudo de la espalda y se lo puso delante, con un gesto lento, sin prisa, el gesto de quien ha hecho esto muchas veces y piensa hacerlo una vez más.
+    - *En este capítulo (novela):* El escudo cantó con ese golpe sordo, contenido, que sabía el cuerpo de Goro palabra por palabra, y el kaiyu rebotó y el segundo ya venía, y Goro bloqueó, y el tercero, y Goro bloqueó, y el cuarto, y el quinto, y la calle entera iba jadeando con él, que es una manera de decir que jadeaba él, porque la ciudad seguía fingiendo dormir.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika llegó primero, con el haori volando y la brasa encendida en los puños, y se detuvo al ver la calle, al ver los cinco kaiyu caídos, al ver a Goro de pie en medio de la calle rota, con el escudo a media altura y el brazo derecho humeando despacio.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+    - *En este capítulo (novela):* Ren se tumbó los auriculares del cuello y los guardó en el bolsillo, despacio, como quien ya no los necesita.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe), negro (rango mando).
+
+---
+
 > **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
 > **Fecha en la ficción:** jueves **18 de mayo de 2017**, 21:45–22:15 (noche, mismo día que cap09). Presente: 2026 (9 años).
 > **Bloques:** A = El turno (S01–S10, gutter 40) · B = La jauría (S11–S20, gutter 35) · C = El guante (S21–S30, gutter 35) · D = Dividir (S31–S40, gutter 40) · E = Rematar (S41–S50, gutter 40) · F = El video (S51–S60, gutter 40) · G = El temblor (S61–S70, cierra en negro)
@@ -216,7 +243,24 @@ ilustración.
 
 **Total bloque A: 10 pantallas · 19 viñetas · 12.800 px**
 
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Plano general.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 10` — mayúsculas, tamaño grande.
+- Línea 2: `«La jauría»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
 ## Las viñetas del bloque A
+
 
 ### S01 · T2R · 1 viñeta de 1200
 

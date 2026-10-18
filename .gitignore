@@ -3,3 +3,12 @@ __pycache__/
 img/cap*/screens/
 img/cap*/s*_p*.png
 img/cap*/pag_s*.png
+*.bak
+*.bak-*
+*.docx
+*.rtf
+*.pdf
+Novela/portada.png
+Novela/fondo-calido.png
+Guiones/cap01.txt.bak
+Guiones/cap02_stub_old.txt

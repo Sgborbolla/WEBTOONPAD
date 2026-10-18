@@ -1,4 +1,4 @@
-# CAPÍTULO 22 — "Yui cuenta"
+# CAPÍTULO 22 — Yui cuenta
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
 ## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
@@ -113,7 +113,7 @@ cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
 
 RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
 ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
+largo en coleta alta. Kimono corto negro con un haori corto color hueso, que es
 la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
 rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
 ondea y es lo primero que se ve cuando se mueve.
@@ -168,5 +168,251 @@ limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narraci�
 SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
 ilustración.
 ```
-> **Retícula:** 60×120. Momento íntimo, café, amanecer silencioso.
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
+
+## Elenco y enemigos de este capítulo (según la novela)
+
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
+
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
+
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro negó con la cabeza.
+- **Rika Tsukimi** — 15 años, 158 cm, menuda; pelo rojo en coleta alta, cicatriz en la ceja izquierda; kimono corto negro con haori corto color hueso (marca única), vendas blancas en los antebrazos, sandalias de rejilla; velocidad.
+    - *En este capítulo (novela):* Rika levantó la cabeza.
+- **Ren Hayashi** — 16 años aparentes, delgado y nervioso; amarillo chillón sobre negro, agujero en una manga, vendas en las muñecas, zapatillas de running; marca única: las vendas y el amarillo; velocidad.
+- **Yui Nakamura** — 22 años, 172 cm, muy erguida; uniforme militar gris azulado con chaleco portaplacas, guantes claros, moño alto; arma: rifle de cerrojo (marca única).
+    - *En este capítulo (novela):* # CAPÍTULO 22 — Yui cuenta
+> **Autor:** Sergio Grabiel Borbolla Verdecia
+
+>>> Lunes 22 de mayo de 2017.
+
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
+
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
+
+- Ninguno con nombre en este capítulo (amenaza de fondo).
+
+**Otras alertas de peligro presentes:** verde (rango exploración).
+
+---
+
+> **Retícula:** `Guias/medidas-referencia.txt` §5. Pantallas de 800×1280.
+> **Total:** 19 pantallas de 800×1280 · 41 viñetas · 24320 px de scroll
+
+## Ficha
+
+| | |
+|---|---|
+| Géneros | Ciencia ficción, terror de ciudad, catástrofe |
+| Estructura | Adaptación fiel de la novela, capítulo 22 (1 rótulo de escena). |
+| Fondo | Lunes 22 de mayo de 2017. 3:30 p. m. Guardería, barrio norte. |
+| Personajes con nombre | Yui, Rika, Ren, Goro |
+| Enemigos visibles | Ninguno con nombre; amenaza de fondo |
+| Pantallas | 19 |
+| Viñetas | 41 |
+| Globos de diálogo | 13 |
+| Cajas de narración | 1 |
+| SFX | gráfico |
+
+---
+
+## Reglas de esta adaptación
+
+- **Mostrar, no contar.** La emoción se vuelve acción, pausa, objeto o encuadre.
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Globos, cajas y SFX se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Tarde de verano sobre la guardería, nubes suaves.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 22` — mayúsculas, tamaño grande.
+- Línea 2: `«Yui cuenta»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T6 | 0 | — | rótulo |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T3R | 2 | 570/570 | 40/60/40 |
+| S04 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S05 | T2R | 1 | 1200 | 40/40 |
+| S06 | T3R | 2 | 570/570 | 40/60/40 |
+| S07 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S08 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S09 | T3R | 2 | 570/570 | 40/60/40 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S12 | T3R | 2 | 570/570 | 40/60/40 |
+| S13 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S14 | T3R | 2 | 570/570 | 40/60/40 |
+| S15 | T2R | 1 | 1200 | 40/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T3R | 2 | 570/570 | 40/60/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T3R | 2 | 570/570 | 40/60/40 |
+
+---
+
+## Las viñetas
+
+
+### S01 · T6 · rótulo
+> **RÓTULO:** Lunes 22 de mayo de 2017. 3:30 p. m. Guardería, barrio norte.
+
+### S02 · T4R · 3 viñetas
+**V1.** Tras el ajetreo del Sector Nueve, los cuatro necesitaban un respiro.
+
+**V2.** Volvieron a la guardería reconvertida en refugio temporal. Allí, con la puerta cerrada y el patio en silencio, reinaba una calma que ninguno daba por sentada.
+
+**V3.** Tsukimi Shino, la madre, ocupaba una de las mesitas pequeñas del fondo. No dibujaba, no hablaba. Solo esperaba, con las manos cruzadas en el regazo y la mirada fija en la puerta, como llevaba esperando nueve años.
+
+### S03 · T3R · 2 viñetas
+**V4.** En una mesa más grande, junto a una ventana, los cuatro descansaban con tazas de café humeante. Yui había sacado su cuaderno gastado del bolsillo y lo tenía abierto sobre la mesa, con las manos posadas sobre él, pensativa.
+
+**V5.** Ren miraba por la ventana, con una taza entre las manos, balanceando ligeramente las piernas. Goro sorbía en silencio, con la mirada perdida en algún punto entre las tazas.
+
+### S04 · T4R · 3 viñetas
+**V6.** Rika tenía las manos alrededor de la suya sin beber, y miraba hacia la pared como si al otro lado siguiera abierto el pasillo de la guardería.
+
+**V7.** Fue Yui quien rompió el silencio. Dejó la taza sobre la mesa y abrió el cuaderno gastado.
+
+**V8.** Plano medio. Dijo, sin levantar la vista—. Y he vuelto a fallar por un segundo.
+> **GLOBO:** Hoy he contado hasta tres
+
+### S05 · T2R · 1 viñeta
+**V9.** Rika levantó la cabeza.
+
+### S06 · T3R · 2 viñetas
+**V10.** Primerísimo primer plano. Rika habla.
+> **GLOBO:** ¿Tres?
+
+**V11.** Plano americano. Rika habla.
+> **GLOBO:** Antes de que aparezcan... siempre hay tres segundos de silencio. Los he aprendido a oír. Si disparo dentro de esos tres, los alcanzo. Si dudo aunque sea un instante, es tarde.
+
+### S07 · T4R · 3 viñetas
+**V12.** Ren la miraba fijamente, con una expresión rara en él. Pensativo.
+
+**V13.** Contrapicado. Murmuró—. Pero no son segundos. Son instantes.
+> **GLOBO:** Yo también... noto los huecos
+
+**V14.** Yui lo miró con interés.
+
+### S08 · T4R · 3 viñetas
+**V15.** Plano medio. Yui habla.
+> **GLOBO:** ¿Instantes entre golpes?
+
+**V16.** Ren asintió, bajando la mirada a su taza.
+
+**V17.** Primerísimo primer plano. Ren habla.
+> **GLOBO:** Entre lo que va a pasar y lo que pasa... hay un hueco muy pequeño. Ahí es por donde paso.
+
+### S09 · T3R · 2 viñetas
+**V18.** Se hizo un silencio cómodo. Nadie tenía ganas de romperlo.
+
+**V19.** Rika miró a Yui con una sonrisa pequeña y sincera.
+
+### S10 · T2R · 1 viñeta
+**V20.** Contrapicado. Yui habla.
+> **GLOBO:** Gracias.
+
+### S11 · T4R · 3 viñetas
+**V21.** Yui frunció levemente el ceño.
+
+**V22.** Plano medio. Yui habla.
+> **GLOBO:** ¿Por qué?
+
+**V23.** Plano detalle. Dijo Rika con voz queda—. Aunque tú no grites, siempre estás ahí.
+> **GLOBO:** Por cubrirnos. Siempre
+
+### S12 · T3R · 2 viñetas
+**V24.** Yui bajó la mirada hacia su cuaderno, con las mejillas ligeramente sonrojadas. Pasó los dedos por el lomo gastado con suavidad.
+
+**V25.** Plano americano. Murmuró, casi para sí misma—. Nombres de gente a la que no pude dejar pasar. Gente a la que tuve que decir «no».
+> **GLOBO:** Llevo muchos años escribiendo en esto
+
+### S13 · T4R · 3 viñetas
+**V26.** Los demás la escuchaban en silencio, sin interrumpir.
+
+**V27.** Contrapicado. Añadió, levantando la mirada—. Eso es gracias a ustedes.
+> **GLOBO:** Hoy... por primera vez, en lugar de un «no» pude hacer un «aún no pasa
+
+**V28.** Goro negó con la cabeza.
+
+### S14 · T3R · 2 viñetas
+**V29.** Plano medio. Goro habla.
+> **GLOBO:** Eso es gracias a ti.
+
+**V30.** Ren asintió con énfasis.
+
+### S15 · T2R · 1 viñeta
+**V31.** Primerísimo primer plano. Yui habla.
+> **GLOBO:** Tú nos mantienes con vida, Yui.
+
+### S16 · T4R · 3 viñetas
+**V32.** Yui sonrió con timidez, una sonrisa pequeña y genuina que rara vez dejaba ver. Cerró el cuaderno con suavidad.
+
+**V33.** En ese momento, Amano Rei entró en la sala con una bandeja de tazas limpias y una jarra de café recién hecho. Iba con su uniforme de limpieza, como siempre, con ese andar silencioso y servicial.
+
+**V34.** Al cruzar la mirada con Yui, ambas se detuvieron un segundo.
+
+### S17 · T3R · 2 viñetas
+**V35.** Rei esbozó una sonrisa pequeña, reservada.
+
+**V36.** Yui le devolvió una sonrisa igual de pequeña.
+
+### S18 · T4R · 3 viñetas
+**V37.** Fue tan breve como un parpadeo. Pero ninguno de los demás pasó por alto ese momento.
+
+**V38.** Ren arqueó una ceja, mirando de una a otra con una sonrisita cómplice. Goro disimuló una risita carraspeando. Rika simplemente sonrió con dulzura, disfrutando del momento en silencio.
+
+**V39.** Shino, desde su mesita del fondo, levantó la vista por primera vez y los miró a los cuatro, uno por uno. No dijo nada. Pero asintió, muy despacio, como si por un momento hubiera dejado de ser una madre esperando y hubiera vuelto a ser, aunque fuera un rato, alguien que confiaba.
+
+### S19 · T3R · 2 viñetas
+**V40.** Y todos sonrieron un poco más.
+
+**V41.** Allí, entre tazas de café y dibujos de colores, por primera vez en mucho tiempo, podían permitirse el lujo de simplemente estar juntos.
+
+---
+
+## Globos de diálogo (13)
+
+| V | Personaje | Texto |
+|---|---|---|
+| V8 | Yui | Hoy he contado hasta tres |
+| V10 | Rika | ¿Tres? |
+| V11 | Rika | Antes de que aparezcan... siempre hay tres segundos de silencio. Los he aprendido a oír. Si disparo dentro de esos tres, los alcanzo. Si dudo aunque sea un instante, es tarde. |
+| V13 | Ren | Yo también... noto los huecos |
+| V15 | Yui | ¿Instantes entre golpes? |
+| V17 | Ren | Entre lo que va a pasar y lo que pasa... hay un hueco muy pequeño. Ahí es por donde paso. |
+| V20 | Yui | Gracias. |
+| V22 | Yui | ¿Por qué? |
+| V23 | Rika | Por cubrirnos. Siempre |
+| V25 | Yui | Llevo muchos años escribiendo en esto |
+| V27 | Yui | Hoy... por primera vez, en lugar de un «no» pude hacer un «aún no pasa |
+| V29 | Goro | Eso es gracias a ti. |
+| V31 | Yui | Tú nos mantienes con vida, Yui. |
+
+## Cajas de narración (1)
+
+| V | Texto |
+|---|---|
+| V1 | Rótulo: Lunes 22 de mayo de 2017. 3:30 p. m. Guardería, barrio norte. |
+

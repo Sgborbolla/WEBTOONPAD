@@ -1,462 +1,744 @@
-# CAPÍTULO 2 — "La primera puerta"
+# CAPÍTULO 2 — «La primera puerta»
 > **Autor:** Sergio Grabiel Borbolla Verdecia
 
-## BLOQUE DE ANCLA STITCH — pegar tal cual al inicio
-```
-HISTORIETA: "NPAD". Historieta de ciencia ficción y horror de ciudad,
-ambientada en Japón contemporáneo, hoy. Estilo manhwa coreano tipo "Solo Leveling"
-(DUBU / Redice Studio): full color, cel-shading suave con gradientes, línea limpia
-y fina, semi-realista, luminoso, lectura de webtoon vertical.
+## ANCLA (respetar tal cual · fuente: Guias/ANCLA-MAESTRA-NPAD.txt)
 
-ESTILO GENERAL. Manhwa/webtoon coreano moderno, tipo Solo Leveling de DUBU.
-Render digital en TRES PASADAS: base plana, sombra cel FRÍA (azul-gris) y overlay
-CÁLIDO (ámbar/coral) para separar figura de fondo. Cel-shading SUAVE con gradientes
-y bordes difuminados, nunca plano duro. Rim light luminoso en pelo y contornos, y
-glow en los efectos de poder. Línea de tinta limpia, fina y constante, coloreada
-en los bordes: nunca negra gruesa ni rugosa. Proporción semi-realista de 8 cabezas,
-rasgos afilados, mandíbula marcada, cuerpos esbeltos y atléticos. Nada caricaturesco.
-Temperatura por escena: diálogo y tensión en frío y desaturado; acción y clímax en
-cálido y saturado, con motion blur y aberración cromática SOLO en los golpes.
+**INSTRUCCIÓN A LA IA:** mantén EXACTAMENTE el físico, la ropa, el arma, el color y
+las proporciones descritos. No inventes rasgos, no cambies de ropa, de arma, de
+peinado, de cicatrices ni de paleta entre viñetas. El mismo personaje es idéntico en
+TODAS las viñetas y TODOS los capítulos. Estilo manhwa coreano tipo Solo Leveling
+(DUBU / Redice Studio). **NO pedir portada: ya existe.**
 
-FORMATO DE PANTALLA. Webtoon vertical, una pantalla por imagen, 800 píxeles de ancho
-por 1280 de alto. La pantalla se lee de arriba abajo y de izquierda a derecha.
-La separación entre viñetas es SIEMPRE un borde blanco limpio (el blanco del fondo):
-nada de marcos negros, de filetes de tinta, de sombras ni de degradados en la junta;
-el blanco es la única retícula. Nunca más de DOS viñetas por pantalla, y solo una
-cuando la escena sea un golpe o una revelación. No todas las viñetas van rectangulares
-una debajo de otra: algunas pueden ir en DIAGONAL o inclinadas, cortadas en ángulo
-(plano tumbado, viñeta sesgada, corte oblicuo), como en el webtoon coreano. La
-proporción por pantalla sigue siendo 800×1280, pero el interior puede partirse por
-un corte diagonal o por una viñeta a sangre que rompe el marco.
+ESTILO. Full color. Cel-shading SUAVE con gradientes (nunca plano duro): base, sombra
+cel FRÍA (azul-gris/violeta) y overlay CÁLIDO (ámbar/coral). Línea fina, limpia,
+coloreada en los bordes. Rim light fuerte y glow en poderes. 8 cabezas, semi-realista.
+Formato 800×1280. Máx. 2 viñetas grandes por pantalla. Prohibido: HUD, barras, niveles,
+«LEVEL UP», texto en inglés, kana, firmas, marcas de agua. El texto va FUERA del arte.
 
-MENÚ DE REPARTO DE VIÑETAS. No todas las viñetas van iguales ni rectangulares. Se
-elige la forma y el patrón por escena, y se varían, para que la pantalla no sea una
-lista de dibujos:
+GORO ARASHI (32 años en 2017 · 41 en el presente). 195 cm, el más grande. Enorme, ancho
+de espalda, pecho grueso, brazos como troncos, manos grandes, cuello corto, cabeza
+pequeña hundida entre los hombros. Piel curtida #A9784F. CALVO, sombra de barba gris,
+ceño permanente, un párpado más caído. QUEMADURA vieja y ancha en medio del cuello.
+Coraza de planchas OXIDADAS #8A3D1E con metal #6B4A34 (peto y hombreras asimétricas
+remachadas), camiseta negra #1A1A19 debajo, guantes gruesos de cuero negro, pantalón
+cargo oscuro, botas militares pesadas. CASCO de obra gris, sin visor. ESCUDO redondo
+oxidado atado a la espalda (marca única: la mancha que nadie más tiene). BRASA del
+guante derecho #FF6A2A (único punto cálido y emisivo). Maza/martillo industrial pesado.
 
-FORMAS DE VIÑETA (por contorno):
-- Regular: rectangular o cuadrada, el caballo de batalla.
-- Diagonal / irregular: uno o varios lados inclinados. Transmite inestabilidad y
-  energía; va en escenas dinámicas, persecuciones y golpes.
-- Sesgada / cuña: una viñeta entra en ángulo entre otras dos rectas. Corta la lectura
-  y dirige la mirada al panel siguiente.
-- Superpuesta: un panel se solapa con otro. Da profundidad y rompe el ritmo plano.
-- A sangre (bleed): sin marco, toca el borde de la pantalla. Inmersión e impacto.
-- Partida / fragmentada: dos escenas dentro de un mismo cuadro, separadas por una
-  línea interna. Contraste o simultaneidad.
-- Panorama continuo: el arte fluye de una viñeta a otra sin corte; para momentos
-  pausados o paisajes.
-- Rompe-marco: el personaje o el efecto sale del borde. Fuerza y reacción.
-- Inserto de reacción: micro-viñeta cómica o de choque, pequeña, para un respiro.
-- T1 impacto: una sola viñeta a pantalla completa, rompe el marco.
+GENTE DE ESTE CAPÍTULO (sin poderes, sin glow): TSUMITA KOSUKE (63, vecino y cocinero
+de Goro, delantal manchado de harina, pelo blanco); NOMURA TATSUO (49, barrendero del
+bloque, ropa de trabajo, escoba); KIRYU RYO (30, joven, mono de trabajo, cinta métrica
+colgando del bolsillo que le golpea la rodilla, cuaderno del tamaño de una palma, pluma
+de punta fina). Vecinos del bloque de fondo, sin rasgos fijos.
 
-PATRONES DE REPARTO (por secuencia):
-- Columna apilada: la base; una viñeta debajo de otra.
-- Franja básica: establishing ancho → gutter → diálogo → reacción → gutter grande →
-  viñeta a todo ancho (reveal).
-- Corte diagonal / plano tumbado: el lienzo se parte en diagonal en una o dos viñetas.
-- Montaje: varias tiras estrechas repetidas (pasos, reloj, pánico, tiempo que corre).
-- Zona conectada: una viñeta y su globo cruzan el gutter y unen dos paneles.
-- Pantalla dividida: dos o tres recuadros en una sola pantalla, con el blanco muy
-  fino entre ellos; solo si la escena lo pide.
+KAIYU (regla base). Feos, grandes, visibles; nadie se disfraza de persona. Cuerpo
+oscuro casi silueta con color de peligro EMISIVO, humo y contorno doble. No producen
+sonido propio. En este capítulo: el **EMBESTIDOR**, amarillo, del tamaño de un caballo
+(línea, glow **#D9B02A**, nunca chillón), hombro enorme, cabeza hundida, cuello casi
+nulo, bípedo que avanza sin moverse. Sin cara, sin ojos. Su brazo es largo, de dedos
+finos, amarillo pálido en el codo, la piel arrugada como una hoja doblada muchas veces.
+El amarillo de Ren NO aparece aquí.
 
-RITMO (altura y gutter). La altura es "tiempo en pantalla": corta 200–400 px
-(acción), media 400–800 px (normal), alta 800–1600 px o más (revelación/emoción). El
-gutter es ese mismo blanco: cerrado 20–60 px (rápido), estándar 180–220 px (normal),
-abierto 320–1020 px (se detiene el tiempo). No todas las viñetas llevan la misma
-altura ni el mismo gutter: la variación ES el montaje. Regla de oro: dos viñetas como
-máximo por pantalla, y lo que deba leerse junto, a menos de cuatro secciones
-(≈1600 px) de distancia.
+---
 
-EL BLANCO ES EL RITMO. El espacio en blanco entre viñetas NO es decoración: es el
-control de velocidad de la lectura. Hay tres valores y solo tres:
-- BLANCO CERRADO, 40 a 60 píxeles: la escena corre rápido. Peleas, persecuciones,
-  disparos, metralletas, golpes.
-- BLANCO MEDIO, 180 a 220 píxeles: velocidad normal. Diálogo, caminar, narración.
-- BLANCO ABIERTO, 320 a 400 píxeles: la escena se detiene. Un golpe que ya ocurrió,
-  una cara que se lee, una revelación, el silencio después del daño.
-En combate se cierra a 40 y se abre a 340 en el mismo capítulo. Ese contraste de
-blanco ES el montaje.
 
-VIÑETAS ALTAS Y BAJAS. La mayoría de las viñetas son verticales altas, de 800 de
-ancho por 900 a 1090 de alto. Las viñetas bajas, de 200 a 300 de alto, son de
-reacción, de respiro y de golpe corto. Se mezclan: 55 por ciento altas, 27 por
-ciento bajas. Ese salto de tamaño es lo que hace que una pelea se sienta como
-video y no como una lista de dibujos.
+## Elenco y enemigos de este capítulo (según la novela)
 
-MARCO DE PASADO. Un bloque que ocurre en el pasado se dibuja sobre fondo GRIS
-OSCURO #2a2a2e, no blanco. Un cambio de tiempo o de plano se marca con una viñeta
-que se apaga o con un blanco mucho más abierto, nunca con una caja de texto que lo
-explique. Un fondo NEGRO puro #000000 es el corte final de un capítulo.
+**Regla:** el bloque ANCLA manda para que cada personaje salga idéntico en
+todos los capítulos; si la novela de ESTE capítulo describe algo distinto, se
+respeta lo que dice la novela de este capítulo.
 
-COMPOSICIÓN DE LA VIÑETA. Encuadres declarados por plano. Plano general: ciudad
-o edificio entero. Plano entero: cuerpo completo de pie. Plano americano: de
-las rodillas para arriba. Plano medio: de la cintura para arriba. Primer plano:
-cabeza y hombros, cara legible. Primerísimo primer plano: la cara llena el
-cuadro. Plano de bocas: solo la boca hablando, sin ojos. Plano detalle: un ojo,
-una mano, un arma, un pie, un sello, una placa. Plano de espaldas: espalda y
-nuca, mirando lejos del lector. Contrapicado: desde abajo, la figura enorme.
-Plano picado: desde arriba, la figura pequeña. Silueta: figura negra contra una
-luz. Plano de grupo: varias personas juntas. Viñeta partida: dos escenas en un
-cuadro. Viñeta a sangre: sin marco, ocupa la página entera. Viñeta de silencio:
-casi vacía, un solo detalle, mucho espacio negativo.
+**Protagonistas presentes** (ropa y armas fijas; ver ANCLA):
 
-EL MUNDO. Japón de verdad, con sus señales, sus automóviles y sus carteles.
-Las calles tienen cableado overhead, cojineras en las curvas, aleros y carteles
-verticales en las fachadas, cestas apiladas en la entrada de las tiendas. Los
-edificios son de hormigón con ventanas de vidrio y protección de seguridad en ventanas. Las
-personas visten como visten las personas de verdad aquí: abrigos, paraguas,
-uniformes y mochilas.
+- **Goro Arashi** — 195 cm, muy alto y ancho, calvo, quemadura vieja en el cuello; coraza de placas oxidadas, casco de obra sin visor, escudo industrial atado a la espalda (marca única), guantes de cuero con brasa naranja en el derecho; arma: maza/martillo industrial.
+    - *En este capítulo (novela):* Goro no movió la cabeza.
+    - *En este capítulo (novela):* Goro se quedó en silencio contando el intervalo en su cabeza.
 
-LOS TRANSFORMADOS. Cuatro personas que adquirieron un poder al quemarse en el
-umbral de una puerta dimensional. No son heroes de diseño: son gente normal con
-cicatrices y ropa de trabajo. Ninguno viste armadura moderna.
+**Enemigos de este capítulo** (arquetipo y rango según su nombre; más lo que diga la novela):
 
-RIKA TSUKIMI. Mujer, 15 años en el día 1. Baja, 158 cm, hombros estrechos,
-ojos hundidos y muy abiertos. Cicatriz vieja en la ceja izquierda. Pelo rojo
-largo en coleta alta. Yukata gris oscuro con un haori corto color hueso, que es
-la prenda más clara de la página. Vendas blancas en los antebrazos. Sandalias de
-rejilla. Silueta larga y estrecha, como una vela. Marca única: el haori, que
-ondea y es lo primero que se ve cuando se mueve.
+*El color es el RANGO de peligro que les asignan los humanos, no el color de su piel.*
 
-GORO ARASHI. Hombre, 32 años. Muy alto, 195 cm, espalda ancha, manos grandes,
-cabeza hundida entre los hombros. Mandibula cuadrada, quemadura vieja en medio
-del cuello. Armadura de guardia reensamblada con placas oxidadas, escudo
-industrial atado a la espalda, casco de obra sin visor. Color tierra, gris y
-acero viejo. Es el único que no lleva pelo. Silueta ancha y baja, la única masa
-solida de la página. Marca única: el escudo atado a la espalda, una mancha de 20
-píxeles detrás de el que nadie más tiene. La brasa del guante derecho es lo único
-cálido de la página en un mundo de grises.
+- **Embestidor** — rango amarillo (línea), del tamaño de un caballo; hombro grande, cabeza hundida, cuello casi nulo; embestida con el hombro.
+    - *En este capítulo (novela):* La brasa cruzó el aire como una costura, golpeó el hombro grande del kaiyu, y el kaiyu, el Embestidor, la masa del tamaño de un caballo, se detuvo contra la pared del fondo con el polvo del techo cayendo en goteo, quieto, con la cabeza hundida y la brasa apagándose en su piel.
 
-REN HAYASHI. Hombre, 16 años aparentes. Delgado, nervioso, manos que no paran
-quietas. Ojos muy grandes, expresión de sorpresa permanente. Agujero de escuela
-en una manga, cinta blanca, vendas atadas en las munecas, zapatillas de running
-gastadas. Amarillo chillón sobre negro. Es el personaje más saturado de la
-página y se le ve desde lejos. Proporción semi-realista de 8 cabezas, delgado y
-nervioso. Silueta delgada y nerviosa. Marca
-única: las vendas y el amarillo.
+**Otras alertas de peligro presentes:** verde (rango exploración), naranja (rango subjefe), rojo (rango jefe), negro (rango mando).
 
-YUI NAKAMURA. Mujer, 22 años. 172 cm, hombros rectos de quien carga equipo
-pesado, se mantiene muy erguida, casi rigida. Pelo en mono alto, el más alto de
-los cuatro. Uniforme militar de guardia gris azulado con chaleco portaplacas,
-guantes claros. Cara de menos apagada de todas: es su color, gris azul, lo dice
-la página. Marca única: el mono alto, cinco píxeles por encima de la cabeza, y
-un rifle de cerrojo de 34 píxeles de largo que siempre lleva.
-
-LECTURA DE PERSONAJES. Los cuatro tienen una sola marca de ropa reconocible. En
-silueta negra, sin color, tienen que seguir siendo distinguibles. Un personaje
-nunca se confunde con un enemigo ni con el fondo. El fondo nunca compite en
-contraste con una figura.
-
-LOS ENEMIGOS. Monstruos feos, grandes y visibles. Nadie puede disfrazarse de
-persona. Cada uno tiene una silueta propia y un color de peligro en una parte
-del cuerpo. Los grandes tienen contorno doble para separarlos de las siluetas
-humanas.
-
-COLORES DE PELIGRO. Solo los enemigos y los peligros los usan. Verde es lo más
-débil. Azul es el mínimo. Amarillo es un arquetipo. Naranja es un subjefe. Rojo
-es un jefe. Negro es la administracion. Nunca usan amarillo chillón.
-
-LO QUE NO SE DIBUJA. Sin ventanas de sistema, sin barras, sin niveles, sin
-números de poder, sin menus, sin HUD, sin pantallas de logistica. Sin
-paneles de texto en inglés. Sin múltiples, sin "LEVEL UP". Sin marcas de agua. Sin
-firmas. Sin caras de otros idiomas.
-LOS TEXTOS-GUÍA NO VAN DENTRO DE LA IMAGEN. Las anotaciones del guion —cajas de
-narración, globos, SFX, y las etiquetas de margen tipo "SFX", "cuadro rápido",
-"IMPACTO", "viñeta de silencio", el tipo de plano y cualquier nota de escena— NO se
-dibujan en el arte: son guías para el equipo, no elementos del dibujo. El arte sale
-limpio, sin un solo texto ni etiqueta pintados encima. Globos, cajas de narración y
-SFX se montan DESPUÉS como capa superpuesta (rotulación/HTML), nunca dentro de la
-ilustración.
-```
-
-> **Retícula:** `medidas-referencia.txt` §5. Pantallas de 800×1280.
-> **Fecha en la ficción:** lunes **15 de mayo de 2017**, 16:20 (Día 1, tarde). Presente: 2026 (9 años).
-> **Bloques:** A = Turno de tarde (S01–S20) · B = Se abre la puerta (S21–S40) · C = El primer kaiyu (S41–S60)
-> **Total:** 60 pantallas de 800×1280 · 120 viñetas · 76.800 px de scroll
-
+---
 ## Ficha
 
 | | |
 |---|---|
-| Géneros | Acción, tensión, realismo crudo |
-| Estructura | Tensión creciente hasta primer encuentro |
-| Fondo | Ward Sector 6, calle de bloque de trabajadores, asfalto, cemento, tuberías |
-| Personajes con nombre | Goro, Kosuke, Nomura, Kiryu |
-| Viñetas | 120 |
-| Pantallas | 60 |
-| Globos de diálogo | 80+ |
-| Cajas narración | 20 |
-| SFX | español solo gráfico |
-| Transiciones | CORTE A: / FUNDIDO A: negro (cierre) |
-
-> **Segundo gancho:** pantalla S36 (viñeta V71, ~33%) — la puerta metálica se abre del todo.
-> **Nombres oficiales.** Cero inglés/kana/ideogramas. Cero HUD.
-> **Cierre:** trama (T) — nadie sabe aún qué es un kaiyu.
-
-
-## 2. DESARROLLO POR PANTALLAS
-
-### BLOQUE A: Turno de tarde (S01–S20)
-
-#### S01 · T1 · 1 viñeta (1280)
-- **V1.** Plano general. Ward Sector 6, bloque de trabajadores. Sol de tarde bajo.
-- **CAJAS:** `[CAJA:NARR] Sector 6. Turno de tarde.`
-
-#### S02 · T2R · 2 viñetas (620,620)+gap 40
-- **V2.** Goro apoya espalda contra marco puerta servicio, brazos cruzados.
-- **V3.** **Goro:** —Cuatro y veinte... Cuatro y media abre el otro.
-
-#### S03 · T3R · 2 viñetas (570,570)+gap 40
-- **V4.** **Goro:** —Seis y ahí se van todos. Menudo turno.
-- **V5.** Kosuke fuma en escalerilla, mira calle.
-
-
-#### S04 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V6.** **Kosuke:** —Otra vez contando los minutos, Goro.
-- **V7.** **Goro:** —Y tú otra vez fumando donde no toca.
-- **V8.** Nomura sale por puerta, bufanda anudada, mira ambos con gesto cansado.
-
-#### S05 · T2R · 2 viñetas (620,620)+gap 40
-- **V9.** **Nomura:** —Dejadlo ya, los dos. No llevamos ni media hora.
-- **V10.** **Kiryu:** —Hoy hay menos camiones. Se nota el corte de suministros.
-
-#### S06 · T3R · 2 viñetas (570,570)+gap 40
-- **V11.** **Kosuke:** —Llevamos tres días con ruidos raros por los conductos.
-- **V12.** **Goro:** —Ya. Lo he oído.
-
-#### S07 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V13.** Miran calle vacía. Silencio tenso.
-- **V14.** **Nomura:** —Demasiado silencioso hoy.
-- **V15.** **Kiryu:** —Demasiado.
-
-#### S08 · T2R · 2 viñetas (620,620)+gap 40
-- **V16.** Goro endereza espalda, mira hacia puerta metálica de servicio.
-- **V17.** **Goro:** —Voy a echar un vistazo al cierre.
-
-#### S09 · T3R · 2 viñetas (570,570)+gap 40
-- **V18.** **Kosuke:** —Ten cuidado.
-- **V19.** **Goro:** —Siempre.
-
-#### S10 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V20.** Se acerca a puerta. Iluminación de tubo parpadea.
-- **V21.** Mano en manivela/cerrojo.
-- **V22.** Se queda quieto un segundo.
-
-#### S11 · T2R · 2 viñetas (620,620)+gap 40
-- **V23.** **Nomura:** —Goro.
-- **V24.** **Goro:** —Shhh. Escuchad.
-
-#### S12 · T3R · 2 viñetas (570,570)+gap 40
-- **V25.** Silencio absoluto.
-- **V26.** **Kiryu:** —No se oye ni una mosca.
-
-#### S13 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V27.** **Kosuke:** —Eso no me gusta nada.
-- **V28.** **Nomura:** —A mí tampoco.
-- **V29.** Todos miran hacia el interior oscuro del pasillo.
-
-#### S14 · T2R · 2 viñetas (620,620)+gap 40
-- **V30.** Goro gira cabeza hacia ellos.
-- **V31.** **Goro:** —Quedaos aquí.
-
-#### S15 · T3R · 2 viñetas (570,570)+gap 40
-- **V32.** **Kosuke:** —Ni hablar. Vamos contigo.
-- **V33.** **Nomura:** —Equipo.
-
-#### S16 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V34.** **Goro:** —Tres. No nos separemos.
-- **V35.** **Kiryu:** —Entendido.
-- **V36.** Se agrupan, tensión sube.
-
-#### S17 · T2R · 2 viñetas (620,620)+gap 40
-- **V37.** Pasillo de servicio con luces parpadeando.
-- **V38.** Sombras se mueven entre tuberías.
-
-#### S18 · T3R · 2 viñetas (570,570)+gap 40
-- **V39.** **Kosuke:** —Esto huele a quemado.
-- **V40.** **Nomura:** —Huele a... otra cosa.
-
-#### S19 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V41.** Goro levanta mano, ordena parar.
-- **V42.** Todos se congelan.
-- **V43.** Silencio total.
-
-#### S20 · T1 · 1 viñeta (1280)
-- **V44.** Plano largo pasillo. Algo se mueve muy al fondo, detrás de una puerta metálica cerrada.
-- **CAJAS:** `[CAJA:NARR] Demasiado silencio.`
-
-### BLOQUE B: Se abre la puerta (S21–S40)
-
-#### S21 · T2R · 2 viñetas (620,620)+gap 40
-- **V45.** **Goro:** —Atrás. Lentamente.
-- **V46.** **Kiryu:** —Goro... esa puerta no estaba entreabierta hace cinco minutos.
-
-#### S22 · T3R · 2 viñetas (570,570)+gap 40
-- **V47.** **Kosuke:** —Se está abriendo sola.
-- **V48.** **Nomura:** —Retroceded. Ahora.
-
-#### S23 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V49.** Puerta metálica se desliza con chirrido lento.
-- **V50.** Luz mortecina desde otro sector inunda pasillo.
-- **V51.** **Goro:** —Formad triángulo. No os quedéis solos.
-
-#### S24 · T2R · 2 viñetas (620,620)+gap 40
-- **V52.** **Kosuke:** —Qué demonios es eso...
-- **V53.** Primera silueta distorsionada aparece en hueco.
-
-#### S25 · T3R · 2 viñetas (570,570)+gap 40
-- **V54.** **Nomura:** —No os mováis.
-- **V55.** Goro saca escudo, se coloca delante.
-
-#### S26 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V56.** Aire cambia. Presión baja.
-- **V57.** **Kiryu:** —Se me eriza la piel.
-- **V58.** **Goro:** —Calma. Respirad.
-
-#### S27 · T2R · 2 viñetas (620,620)+gap 40
-- **V59.** Silueta avanza un paso.
-- **V60.** **Kosuke:** —¿Eso... era humano antes?
-
-#### S28 · T3R · 2 viñetas (570,570)+gap 40
-- **V61.** **Nomura:** —No lo mires a los ojos.
-- **V62.** Goro aprieta mandíbula, escudo preparado.
-
-#### S29 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V63.** Primer kaiyu sale completamente al pasillo.
-- **V64.** Estructura ósea distorsionada, extremidades alargadas, piel gris tensa.
-- **V65.** **Goro:** —¡Alto!
-
-#### S30 · T1 · 1 viñeta (1280)
-- **V66.** Kaiyu se detiene un instante. Mira al grupo con atención antinatural.
-- **SFX (gráfico, solo si indicado):** [silencio absoluto]
-
-#### S31 · T2R · 2 viñetas (620,620)+gap 40
-- **V67.** **Kiryu:** —No responde.
-- **V68.** **Nomura:** —Nunca hemos visto esto.
-
-#### S32 · T3R · 2 viñetas (570,570)+gap 40
-- **V69.** **Kosuke:** —¿Qué hacemos, Goro?
-- **V70.** **Goro:** —Mantener posición.
-
-#### S33 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V71.** Kaiyu inclina cabeza, extrañado.
-- **V72.** **Nomura:** —Nos está midiendo.
-- **V73.** **Kiryu:** —No quiere hablar.
-
-#### S34 · T2R · 2 viñetas (620,620)+gap 40
-- **V74.** Musculatura se tensa de golpe.
-- **V75.** **Goro:** —¡Preparados!
-
-#### S35 · T3R · 2 viñetas (570,570)+gap 40
-- **V76.** **Kosuke:** —¡Va a cargar!
-- **V77.** Todos retroceden medio paso.
-
-#### S36 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V78.** Kaiyu embiste hacia delante con fuerza brutal.
-- **V79.** Goro planta escudo para recibir impacto.
-- **V80.** **Goro:** —¡Agarrad firme!
-
-#### S37 · T2R · 2 viñetas (620,620)+gap 40
-- **V81.** Impacto sordo contra escudo.
-- **V82.** **Kiryu:** —¡Fuerte!
-
-#### S38 · T3R · 2 viñetas (570,570)+gap 40
-- **V83.** **Nomura:** —¡Retrocede, Goro!
-- **V84.** Goro resiste, dientes apretados.
-
-#### S39 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V85.** Aprovecha ángulo para desviar empuje.
-- **V86.** **Kosuke:** —¡Ahora!
-- **V87.** Kaiyu pierde equilibrio un instante.
-
-#### S40 · T1 · 1 viñeta (1280)
-- **V88.** Grupo se separa, rodeando ligeramente al kaiyu en pasillo estrecho.
-- **CAJAS:** `[CAJA:NARR] Primer kaiyu. Nadie sabía cómo detenerlo.`
-
-### BLOQUE C: El primer kaiyu (S41–S60)
-
-#### S41 · T2R · 2 viñetas (620,620)+gap 40
-- **V89.** **Goro:** —No lo dejéis ir al patio. Si sale a calle, hay civiles.
-- **V90.** **Nomura:** —Entendido.
-
-#### S42 · T3R · 2 viñetas (570,570)+gap 40
-- **V91.** **Kosuke:** —Nunca he luchado contra esto.
-- **V92.** **Kiryu:** —Aprendes ahora.
-
-#### S43 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V93.** Kaiyu ruge sin palabras, vuelve a cargar.
-- **V94.** Goro bloquea, retrocede dos pasos.
-- **V95.** **Goro:** —¡Cerrad flanco izquierdo!
-
-#### S44 · T2R · 2 viñetas (620,620)+gap 40
-- **V96.** **Nomura:** —¡Te cubro!
-- **V97.** Intercepta lateral, obliga giro.
-
-#### S45 · T3R · 2 viñetas (570,570)+gap 40
-- **V98.** **Kosuke:** —¡Goro, ahora!
-- **V99.** Goro golpea armazón con borde escudo, busca desequilibrio.
-
-#### S46 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V100.** Kaiyu trastabilla contra pared de cemento.
-- **V101.** **Kiryu:** —¡Bien!
-- **V102.** **Nomura:** —¡No le deis tiempo!
-
-#### S47 · T2R · 2 viñetas (620,620)+gap 40
-- **V103.** **Kosuke:** —¿Se puede matar?
-- **V104.** **Goro:** —No lo sé. Pero podemos detenerlo.
-
-#### S48 · T3R · 2 viñetas (570,570)+gap 40
-- **V105.** Kaiyu se recupera rápido, mucho más de lo esperado.
-- **V106.** **Kiryu:** —¡Cuidado, vuelve!
-
-#### S49 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V107.** Zarpazo rasga aire cerca de brazo de Nomura.
-- **V108.** **Nomura:** —¡Cerquita!
-- **V109.** **Goro:** —¡Juntos!
-
-#### S50 · T1 · 1 viñeta (1280)
-- **V110.** Grupo coordina movimiento por primera vez. Aprenden a leerlo entre ellos.
-
-#### S51 · T2R · 2 viñetas (620,620)+gap 40
-- **V111.** **Kosuke:** —¡Por el costado!
-- **V112.** **Goro:** —¡Yo lo tengo de frente!
-
-#### S52 · T3R · 2 viñetas (570,570)+gap 40
-- **V113.** Coordinación improvisada funciona.
-- **V114.** **Nomura:** —¡Funciona!
-
-#### S53 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V115.** Goro aprovecha apertura, golpea base de cuello con escudo.
-- **V116.** Kaiyu se tambalea.
-- **V117.** **Kiryu:** —¡Ahora! ¡Derribadlo!
-
-#### S54 · T2R · 2 viñetas (620,620)+gap 40
-- **V118.** Tres se lanzan a desequilibrarlo.
-- **V119.** **Goro:** —¡Con fuerza!
-
-#### S55 · T3R · 2 viñetas (570,570)+gap 40
-- **V120.** Logran tumbarlo contra suelo de cemento.
-- **V121.** **Nomura:** —¡Sujétalo!
-
-#### S56 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V122.** Goro inmoviliza con escudo, busca forma de contenerlo.
-- **V123.** Kaiyu patalea, agita brazos con violencia.
-- **V124.** **Kosuke:** —¡Pesa una barbaridad!
-
-#### S57 · T2R · 2 viñetas (620,620)+gap 40
-- **V125.** De pronto, cuerpo de kaiyu empieza a desintegrarse en polvo gris.
-- **V126.** **Kiryu:** —¿Qué...?
-
-#### S58 · T3R · 2 viñetas (570,570)+gap 40
-- **V127.** **Nomura:** —Se está... deshaciendo.
-- **V128.** Todos se apartan con rapidez.
-
-#### S59 · T4R · 3 viñetas (380,380,380)+gaps 35,35
-- **V129.** En segundos queda solo polvo gris sobre cemento.
-- **V130.** Silencio vuelve al pasillo.
-- **V131.** **Goro:** —Quietos. No toquéis el polvo.
-
-#### S60 · T1 · 1 viñeta (1280)
-- **V132.** Cuatro miran pasillo vacío, respirando entrecortados, sudorados.
-- **CAJAS:** `[CAJA:NARR] Nadie dijo «kaiyu». Aún no sabían la palabra.`
-- **Transición:** FUNDIDO A: negro
+| Géneros | Terror de ciudad, ciencia ficción, catástrofe |
+| Estructura | Turno de tarde → el vecino → el hueco → Kosuke vuelve → nada no es nada |
+| Fondo del bloque A | Ocre sucio, sol bajo de tarde |
+| Fondo del bloque B | Gris de tubo fluorescente (interior del bloque) |
+| Fondo del bloque C | Negro (el hueco y la noche) |
+| Personajes | Goro Arashi (32); Kosuke (63), Nomura (49), Kiryu (30) |
+| Enemigos visibles | El Embestidor (kaiyu amarillo, #D9B02A) |
+| Pantallas | 65 |
+| Viñetas | 129 |
+| Globos de diálogo | 52 |
+| Cajas de narración | 12 |
+| SFX | 6 |
+
+---
+
+## Reglas de esta adaptación
+
+- **No es la novela copiada en viñetas.** Es una traducción: se eligió qué **cortar**,
+  qué **conservar** y qué **visualizar**.
+- **Mostrar, no contar.** El monólogo y los sentimientos no se ven: se vuelven acción,
+  pausa, objeto o encuadre (la franja negra que crece, el guante tibio, el plato sin
+  comer).
+- **Una acción visible por viñeta.** Nada de pensamientos que no se puedan dibujar.
+- **Diálogo recortado** a lo esencial: cada globo cabe en hasta 3 líneas.
+- **El gutter es tiempo:** los cierres y las dudas van tras un silencio (T5).
+- **El impacto ocupa el panel más grande** (T1, a sangre).
+- **Texto fuera del arte.** Cada globo, caja y SFX lleva su posición: se montan encima.
+
+---
+
+## SEPARADOR (primera pantalla del capítulo)
+
+Pantalla de transición **antes de S01**. Misma retícula 800×1280. Sin personajes.
+
+**Fondo:** Plano general. El Sector 6: un bloque de concreto de cuatro pisos, las ventanas cubiertas de malla, un pasillo exterior largo.
+
+**Texto centrado** (dos líneas, misma posición en los 100 capítulos):
+- Línea 1: `CAPÍTULO 2` — mayúsculas, tamaño grande.
+- Línea 2: `«La primera puerta»` — entre comillas latillas, tamaño mediano.
+
+**Color del texto:** blanco con sombra negra si el fondo es oscuro; negro con sombra blanca si el fondo es claro. Legibilidad siempre.
+
+**Estilo:** mismo cel-shading, rim light y paleta del capítulo. Sin adornos adicionales: solo texto limpio centrado sobre la imagen.
+
+---
+
+## Mapa de pantallas
+
+| S | Tipo | Viñetas | Alturas | Gaps |
+|---|---|---:|---|---|
+| S01 | T2R | 1 | 1200 | 40/40 |
+| S02 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S03 | T2R | 1 | 1200 | 40/40 |
+| S04 | T3R | 2 | 570/570 | 40/60/40 |
+| S05 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S06 | T5 | 1 | 260 | 0/1020 |
+| S07 | T2R | 1 | 1200 | 40/40 |
+| S08 | T3R | 2 | 570/570 | 40/60/40 |
+| S09 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S10 | T2R | 1 | 1200 | 40/40 |
+| S11 | T3R | 2 | 570/570 | 40/60/40 |
+| S12 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S13 | T3R | 2 | 570/570 | 40/60/40 |
+| S14 | T2R | 1 | 1200 | 40/40 |
+| S15 | T3R | 2 | 570/570 | 40/60/40 |
+| S16 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S17 | T2R | 1 | 1200 | 40/40 |
+| S18 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S19 | T5 | 1 | 260 | 0/1020 |
+| S20 | T3R | 2 | 570/570 | 40/60/40 |
+| S21 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S22 | T3R | 2 | 570/570 | 40/60/40 |
+| S23 | T2R | 1 | 1200 | 40/40 |
+| S24 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S25 | T3R | 2 | 570/570 | 40/60/40 |
+| S26 | T2R | 1 | 1200 | 40/40 |
+| S27 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S28 | T3R | 2 | 570/570 | 40/60/40 |
+| S29 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S30 | T3R | 2 | 570/570 | 40/60/40 |
+| S31 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S32 | T3R | 2 | 570/570 | 40/60/40 |
+| S33 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S34 | T3R | 2 | 570/570 | 40/60/40 |
+| S35 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S36 | T3R | 2 | 570/570 | 40/60/40 |
+| S37 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S38 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S39 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S40 | T1 | 1 | 1280 | 0/0 |
+| S41 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S42 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S43 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S44 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S45 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S46 | T3R | 2 | 570/570 | 40/60/40 |
+| S47 | T2R | 1 | 1200 | 40/40 |
+| S48 | T3R | 2 | 570/570 | 40/60/40 |
+| S49 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S50 | T2R | 1 | 1200 | 40/40 |
+| S51 | T3R | 2 | 570/570 | 40/60/40 |
+| S52 | T4R | 3 | 380/380/380 | 35/35/35/35 |
+| S53 | T2R | 1 | 1200 | 40/40 |
+| S54 | T3R | 2 | 570/570 | 40/60/40 |
+| S55 | T2R | 1 | 1200 | 40/40 |
+| S56 | T5 | 1 | 260 | 0/1020 |
+| S57 | T2R | 1 | 1200 | 40/40 |
+| S58 | T2R | 1 | 1200 | 40/40 |
+| S59 | T3R | 2 | 570/570 | 40/60/40 |
+| S60 | T6 | 0 | — | — |
+| S61 | T2R | 1 | 1200 | 40/40 |
+| S62 | T3R | 2 | 570/570 | 40/60/40 |
+| S63 | T2R | 1 | 1200 | 40/40 |
+| S64 | T2R | 1 | 1200 | 40/40 |
+| S65 | T5 | 1 | 260 | 0/1020 |
+
+**Total:** 65 pantallas · 129 viñetas · 83200 px de scroll
+
+**Retícula:** 800×1280. T2R=1200+40/40 · T3R=570/570+40/60/40 · T4R=380×3+35×4 · T5=260+0/1020 · T1=1280 a sangre · T6=rótulo.
+
+---
+
+## Las viñetas
+
+
+### S01 · T2R · 1 viñeta de 1200
+
+**V01.** Plano general. El Sector 6: un bloque de concreto de cuatro pisos, las ventanas cubiertas de malla, un pasillo exterior largo. El sol de la tarde entra bajo y sucio.
+  - CAJA (arriba-izquierda, hora): 15 de mayo de 2017 · 4:20 p. m. · Sector 6
+
+### S02 · T4R · 3 viñetas de 380/380/380
+
+**V02.** El pasillo exterior, largo y vacío. Puertas cerradas a ambos lados.
+
+**V03.** Detalle. La malla de una ventana; el óxido comido alrededor de los tornillos.
+
+**V04.** Detalle. Una franja de sol sucio avanza despacio por el cemento del suelo.
+
+### S03 · T2R · 1 viñeta de 1200
+
+**V05.** Goro Arashi entra en cuadro por el fondo del pasillo. 195 cm, la armadura reensamblada a mano, calvo, el casco de obra sin visor, el escudo atado a la espalda.
+
+### S04 · T3R · 2 viñetas de 570/570
+
+**V06.** Goro se apoya contra el marco de la puerta de servicio y se cruza de brazos.
+
+**V07.** Detalle. El metal del guante muerde la armadura y suena, corto, siempre igual.
+  - SFX: TAC (seco), en el guante
+
+### S05 · T4R · 3 viñetas de 380/380/380
+
+**V08.** Goro mira las rejas.
+
+**V09.** Primer plano. Lo dice en voz baja, para nadie.
+  - GLOBO (Goro, abajo-izquierda): «Cuatro y veinte. Cuatro y media abre el otro. Seis y ahí se van todos.»
+
+**V10.** Goro, quieto, con la mirada puesta en el pasillo.
+  - GLOBO (Goro, abajo-izquierda): «Menudo turno.»
+
+### S06 · T5 · 1 viñeta de 260
+
+**V11.** Silencio. Las rejas, la franja de sol, el pasillo sin nadie.
+
+### S07 · T2R · 1 viñeta de 1200
+
+**V12.** Al otro lado de la puerta, una escoba arrastra el suelo: barrido lento, cansino. Nomura, de espaldas.
+  - SFX: SHHH (suave), tras la puerta
+
+### S08 · T3R · 2 viñetas de 570/570
+
+**V13.** Goro, sin despegar la espalda del marco.
+  - GLOBO (Goro, arriba-izquierda): «Oye. ¿Está el de arriba?»
+
+**V14.** La voz llega del otro lado de la puerta.
+  - GLOBO (Nomura, arriba-derecha): «Todavía no, Arashi-san.»
+
+### S09 · T4R · 3 viñetas de 380/380/380
+
+**V15.** Goro, hablándole a la pared.
+  - GLOBO (Goro, abajo-izquierda): «Nombre.»
+
+**V16.** Primer plano. Goro no pregunta: se dice los nombres como quien pasa lista.
+
+**V17.** Detalle de sus ojos. Los cuenta en silencio, uno detrás de otro.
+
+### S10 · T2R · 1 viñeta de 1200
+
+**V18.** Kiryu llega por el pasillo. 30 años, mono de trabajo, una cinta métrica golpeándole la rodilla al andar, un cuaderno del tamaño de una palma.
+  - CAJA (arriba-izquierda, hora): 4:22 p. m.
+
+### S11 · T3R · 2 viñetas de 570/570
+
+**V19.** Kiryu, con el aire de quien corrió sin correr.
+  - GLOBO (Kiryu, arriba-derecha): «Arashi-san. La puerta del cuatro hace un ruido raro.»
+
+**V20.** Goro no mueve la cabeza. Mira la puerta del cuatro, al fondo del pasillo.
+
+### S12 · T4R · 3 viñetas de 380/380/380
+
+**V21.** Goro.
+  - GLOBO (Goro, arriba-izquierda): «Raro cómo.»
+
+**V22.** Kiryu busca la palabra con las manos.
+  - GLOBO (Kiryu, abajo-derecha): «Como un… soplido. Cada cierto minutos.»
+
+**V23.** Goro.
+  - GLOBO (Goro, arriba-izquierda): «Cada cuanto.»
+
+### S13 · T3R · 2 viñetas de 570/570
+
+**V24.** Kiryu.
+  - GLOBO (Kiryu, abajo-derecha): «No sé. Dos, tres minutos.»
+
+**V25.** Goro en silencio: cuenta el intervalo en la cabeza.
+
+### S14 · T2R · 1 viñeta de 1200
+
+**V26.** La mancha de sol se mueve despacio por el suelo. El tubo fluorescente zumba bajo.
+  - SFX: ZZZ (línea baja), sobre el tubo
+
+### S15 · T3R · 2 viñetas de 570/570
+
+**V27.** Kosuke baja por la escalera con el delantal puesto, aunque ya no le toca el turno de cocina.
+
+**V28.** Detalle. Las manos manchadas de harina.
+
+### S16 · T4R · 3 viñetas de 380/380/380
+
+**V29.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Llegas tarde.»
+
+**V30.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «Llego a mi hora.»
+
+**V31.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Todos llegan a su hora.»
+
+### S17 · T2R · 1 viñeta de 1200
+
+**V32.** Goro.
+  - GLOBO (Goro, centro): «¿Eso es un elogio?»
+
+### S18 · T4R · 3 viñetas de 380/380/380
+
+**V33.** Kosuke deja la bolsa de basura en el umbral.
+
+**V34.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Bajar eso al contenedor.»
+
+**V35.** Goro mira la bolsa.
+  - GLOBO (Goro, abajo-izquierda): «Está pesado.»
+
+### S19 · T5 · 1 viñeta de 260
+
+**V36.** Kosuke se limpia una mancha imaginaria del delantal.
+  - GLOBO (Kosuke, arriba-derecha): «Por eso lo bajamos.»
+
+### S20 · T3R · 2 viñetas de 570/570
+
+**V37.** Kosuke, en el tono de quien informa de algo feo.
+  - GLOBO (Kosuke, arriba-derecha): «Aparte, hay un bicho raro en el dos.»
+
+**V38.** Goro parpadea una vez. Es su manera de preguntar.
+
+### S21 · T4R · 3 viñetas de 380/380/380
+
+**V39.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «¿Un bicho?»
+
+**V40.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Grande. Amarillo. No es perro.»
+
+**V41.** Goro mira la puerta del dos, al fondo del pasillo, cerrada como siempre.
+
+### S22 · T3R · 2 viñetas de 570/570
+
+**V42.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «¿En el pasillo? ¿O no estaba?»
+
+**V43.** Kosuke, con la calma de treinta años.
+  - GLOBO (Kosuke, arriba-derecha): «En el pasillo. O no estaba. Esa es la cosa, Goro. Estaba y no estaba.»
+
+### S23 · T2R · 1 viñeta de 1200
+
+**V44.** Goro.
+  - GLOBO (Goro, centro): «No me lies, viejo.»
+
+### S24 · T4R · 3 viñetas de 380/380/380
+
+**V45.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Te estoy avisando, no te estoy liando.»
+
+**V46.** Goro se agacha y agarra la bolsa. La pesa con el brazo, como todo lo que sostiene.
+
+**V47.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «Subo yo.»
+
+### S25 · T3R · 2 viñetas de 570/570
+
+**V48.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Y yo hago de comer. Guiso bien hoy.»
+
+**V49.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «Guisas bien todos los días.»
+
+### S26 · T2R · 1 viñeta de 1200
+
+**V50.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «Y nunca te lo comes. Una persona que guisa necesita que se lo coman.»
+
+### S27 · T4R · 3 viñetas de 380/380/380
+
+**V51.** Vestíbulo. El cuadro de guardias, los nombres a marcador, las horas tapadas a medias.
+  - CAJA (arriba-izquierda, hora): 5:20 p. m.
+
+**V52.** La puerta del Sector 6, a su hora: cerrada, con el sello, una franja de luz negra por debajo.
+
+**V53.** Goro la ve desde el primer momento.
+
+### S28 · T3R · 2 viñetas de 570/570
+
+**V54.** Goro no se acerca. Se queda a un metro de la franja.
+
+**V55.** Mira la puerta como se mira un fuego que aún no está encendido.
+  - GLOBO (Goro, abajo-izquierda): «Uno.»
+
+### S29 · T4R · 3 viñetas de 380/380/380
+
+**V56.** Kiryu aparece a su espalda con el cuaderno abierto en la mano.
+
+**V57.** Kiryu, mirando la puerta.
+  - GLOBO (Kiryu, arriba-derecha): «Yo no veo nada.»
+
+**V58.** Goro, sin girarse.
+  - GLOBO (Goro, abajo-izquierda): «Espera.»
+
+### S30 · T3R · 2 viñetas de 570/570
+
+**V59.** Kiryu.
+  - GLOBO (Kiryu, arriba-derecha): «Arashi-san, no se ve nada.»
+
+**V60.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «Espera.»
+
+### S31 · T4R · 3 viñetas de 380/380/380
+
+**V61.** Esperan. La franja negra no se mueve.
+
+**V62.** La base de la puerta: un hueco del ancho de una mano que no estaba antes. De dentro sale un aire frío.
+  - SFX: FIUU (fino), bajo la puerta
+
+**V63.** Goro lo siente en el casco abierto, en la piel del cuello, en la parte de atrás de las manos.
+
+### S32 · T3R · 2 viñetas de 570/570
+
+**V64.** Kiryu no lo siente. Mira la puerta y no ve nada.
+
+**V65.** Kiryu retrocede un paso, con el cuaderno apretado contra el pecho.
+  - GLOBO (Kiryu, arriba-derecha): «Bueno. Yo… voy a avisar.»
+
+### S33 · T4R · 3 viñetas de 380/380/380
+
+**V66.** Goro no gira la cabeza. No le quita los ojos a la franja.
+  - GLOBO (Goro, abajo-izquierda): «Corre.»
+
+**V67.** Kiryu corre por el pasillo.
+  - SFX: TAP TAP TAP (recto, repetido), sobre el pasillo
+
+**V68.** La puerta de la escalera se cierra de golpe.
+
+### S34 · T3R · 2 viñetas de 570/570
+
+**V69.** Goro, solo, de espaldas a todo, con la puerta del Sector 6 al fondo.
+
+**V70.** La franja negra crece despacio por el suelo, como una mancha que se seca al revés.
+  - GLOBO (Goro, abajo-izquierda): «No me llamen.»
+
+### S35 · T4R · 3 viñetas de 380/380/380
+
+**V71.** La franja negra toca el pie de su bota.
+
+**V72.** Goro no se mueve.
+
+**V73.** La puerta deja de ser una puerta.
+
+### S36 · T3R · 2 viñetas de 570/570
+
+**V74.** El hueco: un rectángulo de negro plano, sin marco, sin bisagras, tan limpio que parece pintado en la pared.
+
+**V75.** La luz del pasillo se refleja en los bordes y se apaga en el centro.
+
+### S37 · T4R · 3 viñetas de 380/380/380
+
+**V76.** Goro, con la voz plana de las comprobaciones.
+  - GLOBO (Goro, abajo-izquierda): «Una puerta no se abre así. Se coloca.»
+
+**V77.** Da un paso atrás.
+
+**V78.** Lo mira desde dos puntos distintos. El hueco sigue ahí, plano, enorme.
+  - GLOBO (Goro, abajo-izquierda): «Cosas raras.»
+
+### S38 · T4R · 3 viñetas de 380/380/380
+
+**V79.** Del hueco sale un brazo.
+
+**V80.** El brazo: largo, de dedos finos, amarillo pálido en el codo, la piel arrugada como una hoja doblada muchas veces.
+
+**V81.** Detrás, sin prisa, sale el resto.
+
+### S39 · T4R · 3 viñetas de 380/380/380
+
+**V82.** El Embestidor: amarillo, del tamaño de un caballo, hombro grande, cabeza hundida entre las patas delanteras, sin cara ni ojos. Avanza sin moverse; el suelo tiembla un dedo.
+
+**V83.** Goro no mira al kaiyu: mira la mano, lo más humano que tiene, y por eso le habla.
+  - GLOBO (Goro, abajo-izquierda): «Oye. ¿Estás bien?»
+
+**V84.** El Embestidor se coloca, como se coloca el tiro de una piedra. El hombro se levanta; el pasillo entero parece doblarse hacia delante.
+  - GLOBO (Goro, abajo-izquierda): «No vengas. Te digo que no vengas.»
+
+### S40 · T1 · 1 viñeta de 1280
+
+**V85.** IMPACTO. Los pies de Goro se mueven antes que su cuerpo. El guante se enciende solo, con una brasa naranja que le sube por los nudillos. La brasa cruza el aire como una costura y golpea el hombro grande. El Embestidor se detiene contra la pared del fondo, el polvo del techo cayendo en goteo.
+  - SFX: PUM (estrella), sobre el hombro del Embestidor
+
+### S41 · T4R · 3 viñetas de 380/380/380
+
+**V86.** Tres segundos. Goro no se movió.
+
+**V87.** Goro mira su guante: la brasa se apaga; del cuero sube un hilo de humo fino.
+
+**V88.** El Embestidor no se levanta. El pasillo vuelve a estar silencioso; arriba, todavía suena una radio de cocina.
+
+### S42 · T4R · 3 viñetas de 380/380/380
+
+**V89.** Detrás de Goro, una puerta de cocina se abre.
+
+**V90.** Kosuke, con el tenedor en la mano y la camisa a medio abotonar.
+  - GLOBO (Kosuke, arriba-derecha): «Arashi. ¿Comes ahora o…»
+
+**V91.** Kosuke mira el pasillo: el polvo, y la base de la puerta partida en dos.
+
+### S43 · T4R · 3 viñetas de 380/380/380
+
+**V92.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «¿Qué pasó ahí.»
+
+**V93.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «Nada.»
+
+**V94.** Kosuke arruga el entrecejo: ve el guante, el humo, el kaiyu amarillo contra la pared.
+
+### S44 · T4R · 3 viñetas de 380/380/380
+
+**V95.** Kosuke no grita. No es un hombre de gritos: es un hombre de sesenta y tres años que vio crecer a Goro.
+
+**V96.** Kosuke.
+  - GLOBO (Kosuke, arriba-derecha): «¿Nada. Nada de qué.»
+
+**V97.** Goro.
+  - GLOBO (Goro, abajo-izquierda): «Nada que me coma nada.»
+
+### S45 · T4R · 3 viñetas de 380/380/380
+
+**V98.** Goro gira sobre los talones y se pone de espaldas al hueco. La franja se ha partido en dos como una costura que cedió.
+
+**V99.** La radio de la cocina sigue sonando, bajito, con la canción de siempre.
+
+**V100.** Goro, con la mirada en el suelo.
+  - GLOBO (Goro, abajo-izquierda): «Pon la cena dentro.»
+
+### S46 · T3R · 2 viñetas de 570/570
+
+**V101.** Kosuke, en el marco de la puerta.
+  - GLOBO (Kosuke, arriba-derecha): «¿En el pasillo no puede?»
+  - GLOBO (Goro, abajo-izquierda): «No. Dentro.»
+
+**V102.** Kosuke da la vuelta y cierra la puerta de la cocina.
+  - GLOBO (Kosuke, arriba-derecha): «Cuando puedas, Goro. La comida no espera a nadie.»
+
+### S47 · T2R · 1 viñeta de 1200
+
+**V103.** Goro, solo en el pasillo, de espaldas al hueco negro, el guante todavía tibio y la brasa apagada subiendo en un hilo de humo por delante del casco.
+  - CAJA (abajo-centro, narrador): Nadie gritó.
+
+### S48 · T3R · 2 viñetas de 570/570
+
+**V104.** Esa noche, nadie en el bloque gritó.
+
+**V105.** En el vestíbulo, los turnos se cambian de manos sin mirarse.
+  - CAJA (abajo-centro, narrador): Los turnos se cambiaron de manos sin mirarse.
+
+### S49 · T4R · 3 viñetas de 380/380/380
+
+**V106.** El cuadro de guardias, con una cinta nueva sobre la puerta de servicio.
+
+**V107.** Vecinos que suben las escaleras y pasan por delante del hueco sin mirarlo, porque mirarlo era darle una forma.
+
+**V108.** Arriba, Nomura barre el pasillo de verdad, sacando el polvo de debajo de las puertas.
+
+### S50 · T2R · 1 viñeta de 1200
+
+**V109.** Nomura se agacha ante el hueco, la cabeza ladeada, el tiempo de una respiración.
+  - GLOBO (Nomura, arriba-derecha): «El de abajo tiene razón. Las puertas no se abren así.»
+
+### S51 · T3R · 2 viñetas de 570/570
+
+**V110.** Nomura vuelve a barrer. Barrer es lo único que le queda de no preguntar.
+
+**V111.** En la cocina, Goro sentado ante el plato que Kosuke le dejó, sin comer. Mira su guante.
+
+### S52 · T4R · 3 viñetas de 380/380/380
+
+**V112.** Detalle del guante. En la palma hay una marca. No es una quemadura.
+
+**V113.** Goro la mira mucho tiempo.
+  - GLOBO (Goro, abajo-izquierda): «Que no te lo pidan.»
+
+**V114.** Goro, en la oscuridad, tarda mucho en dormirse.
+
+### S53 · T2R · 1 viñeta de 1200
+
+**V115.** Sueño. El hueco: un rectángulo plano sin marco, la luz del pasillo reflejada en los bordes, un silencio dentro.
+  - CAJA (abajo-centro, narrador): Soñó con el hueco.
+
+### S54 · T3R · 2 viñetas de 570/570
+
+**V116.** En el sueño, el hueco no tenía fondo.
+
+**V117.** En el sueño, él no tenía escudo.
+
+### S55 · T2R · 1 viñeta de 1200
+
+**V118.** A las cinco de la mañana, el sol empieza a entrar de lleno por la ventana de la cocina.
+
+### S56 · T5 · 1 viñeta de 260
+
+**V119.** Silencio. En otro bloque, a tres calles del Sector 6, se oye el primer grito de la mañana.
+  - CAJA (arriba-izquierda, hora): 5:00 a. m. · otro bloque, tres calles más allá
+
+### S57 · T2R · 1 viñeta de 1200
+
+**V120.** Nadie en ese bloque sabe todavía que la matanza empieza por esa calle.
+
+### S58 · T2R · 1 viñeta de 1200
+
+**V121.** Placa negra, texto centrado.
+  - CAJA (centro, hora): 5:24 p. m. · 15 de mayo de 2017
+
+### S59 · T3R · 2 viñetas de 570/570
+
+**V122.** El Sector 6, a las 5:24: la puerta de servicio, cerrada como siempre.
+  - CAJA (abajo-centro, narrador): El Sector 6 tuvo su primera puerta.
+
+**V123.** La puerta, sola.
+  - CAJA (abajo-centro, narrador): La puerta no se abrió. Se colocó.
+
+### S60 · T6 · rótulo de transición
+
+**Rótulo.** Nada no es nada.. Texto sobre fondo negro, mayúsculas, centrado. Se monta como capa de texto.
+
+
+### S61 · T2R · 1 viñeta de 1200
+
+**V124.** Esa noche, en el cuartel de guardia, ya nadie cuenta las puertas.
+  - CAJA (abajo-centro, narrador): Los contaban los huecos.
+
+### S62 · T3R · 2 viñetas de 570/570
+
+**V125.** Goro con el guante encima de la mesa, la brasa apagada.
+
+**V126.** Goro, con la pregunta que ya no le va a soltar.
+  - GLOBO (Goro, centro): «¿De dónde salió el brazo?»
+
+### S63 · T2R · 1 viñeta de 1200
+
+**V127.** Nadie le contesta.
+
+### S64 · T2R · 1 viñeta de 1200
+
+**V128.** El hueco del Sector 6, cerrado otra vez como si nunca hubiera estado abierto, la mancha oscura de su base recortada contra el suelo gris, como una boca que se acuerda.
+
+### S65 · T5 · 1 viñeta de 260
+
+**V129.** Silencio. En el pasillo, el polvo vuelve a formarse, muy despacio, debajo de la puerta del cuatro.
+  - CAJA (abajo-centro, narrador): El polvo volvía a formarse bajo la puerta del cuatro.
+
+---
+
+## Globos de diálogo (52)
+
+| Viñeta | Quién | Texto |
+|---|---|---|
+| V09 | Goro | «Cuatro y veinte. Cuatro y media abre el otro. Seis y ahí se van todos.» |
+| V10 | Goro | «Menudo turno.» |
+| V13 | Goro | «Oye. ¿Está el de arriba?» |
+| V14 | Nomura | «Todavía no, Arashi-san.» |
+| V15 | Goro | «Nombre.» |
+| V19 | Kiryu | «Arashi-san. La puerta del cuatro hace un ruido raro.» |
+| V21 | Goro | «Raro cómo.» |
+| V22 | Kiryu | «Como un… soplido. Cada cierto minutos.» |
+| V23 | Goro | «Cada cuanto.» |
+| V24 | Kiryu | «No sé. Dos, tres minutos.» |
+| V29 | Kosuke | «Llegas tarde.» |
+| V30 | Goro | «Llego a mi hora.» |
+| V31 | Kosuke | «Todos llegan a su hora.» |
+| V32 | Goro | «¿Eso es un elogio?» |
+| V34 | Kosuke | «Bajar eso al contenedor.» |
+| V35 | Goro | «Está pesado.» |
+| V36 | Kosuke | «Por eso lo bajamos.» |
+| V37 | Kosuke | «Aparte, hay un bicho raro en el dos.» |
+| V39 | Goro | «¿Un bicho?» |
+| V40 | Kosuke | «Grande. Amarillo. No es perro.» |
+| V42 | Goro | «¿En el pasillo? ¿O no estaba?» |
+| V43 | Kosuke | «En el pasillo. O no estaba. Esa es la cosa, Goro. Estaba y no estaba.» |
+| V44 | Goro | «No me lies, viejo.» |
+| V45 | Kosuke | «Te estoy avisando, no te estoy liando.» |
+| V47 | Goro | «Subo yo.» |
+| V48 | Kosuke | «Y yo hago de comer. Guiso bien hoy.» |
+| V49 | Goro | «Guisas bien todos los días.» |
+| V50 | Kosuke | «Y nunca te lo comes. Una persona que guisa necesita que se lo coman.» |
+| V55 | Goro | «Uno.» |
+| V57 | Kiryu | «Yo no veo nada.» |
+| V58 | Goro | «Espera.» |
+| V59 | Kiryu | «Arashi-san, no se ve nada.» |
+| V60 | Goro | «Espera.» |
+| V65 | Kiryu | «Bueno. Yo… voy a avisar.» |
+| V66 | Goro | «Corre.» |
+| V70 | Goro | «No me llamen.» |
+| V76 | Goro | «Una puerta no se abre así. Se coloca.» |
+| V78 | Goro | «Cosas raras.» |
+| V83 | Goro | «Oye. ¿Estás bien?» |
+| V84 | Goro | «No vengas. Te digo que no vengas.» |
+| V90 | Kosuke | «Arashi. ¿Comes ahora o…» |
+| V92 | Kosuke | «¿Qué pasó ahí.» |
+| V93 | Goro | «Nada.» |
+| V96 | Kosuke | «¿Nada. Nada de qué.» |
+| V97 | Goro | «Nada que me coma nada.» |
+| V100 | Goro | «Pon la cena dentro.» |
+| V101 | Kosuke | «¿En el pasillo no puede?» |
+| V101 | Goro | «No. Dentro.» |
+| V102 | Kosuke | «Cuando puedas, Goro. La comida no espera a nadie.» |
+| V109 | Nomura | «El de abajo tiene razón. Las puertas no se abren así.» |
+| V113 | Goro | «Que no te lo pidan.» |
+| V126 | Goro | «¿De dónde salió el brazo?» |
+
+## Cajas de narración (12)
+
+| Viñeta | Tipo | Texto |
+|---|---|---|
+| V01 | hora | 15 de mayo de 2017 · 4:20 p. m. · Sector 6 |
+| V18 | hora | 4:22 p. m. |
+| V51 | hora | 5:20 p. m. |
+| V103 | narrador | Nadie gritó. |
+| V105 | narrador | Los turnos se cambiaron de manos sin mirarse. |
+| V115 | narrador | Soñó con el hueco. |
+| V119 | hora | 5:00 a. m. · otro bloque, tres calles más allá |
+| V121 | hora | 5:24 p. m. · 15 de mayo de 2017 |
+| V122 | narrador | El Sector 6 tuvo su primera puerta. |
+| V123 | narrador | La puerta no se abrió. Se colocó. |
+| V124 | narrador | Los contaban los huecos. |
+| V129 | narrador | El polvo volvía a formarse bajo la puerta del cuatro. |
+
+## SFX (6)
+
+| Viñeta | Palabra | Forma |
+|---|---|---|
+| V07 | TAC | seco |
+| V12 | SHHH | suave |
+| V26 | ZZZ | línea baja |
+| V62 | FIUU | fino |
+| V67 | TAP TAP TAP | recto, repetido |
+| V85 | PUM | estrella |
+
+---
